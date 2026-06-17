@@ -1,0 +1,216 @@
+# Mundus Vetus personal deities
+### astika ###
+astika_vishnu = {
+	ae_impact = -0.05
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 1
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+astika_shiva = {
+	land_morale = 0.1
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 2
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+astika_devi = {
+	manpower_recovery_speed = 0.1
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 3
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+astika_ganesha = {
+	build_cost = -0.1
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 4
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+astika_surya = {
+	prestige = 0.5
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 5
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+astika_brahma = {
+	technology_cost = -0.05
+	potential = { religion = hinduism }
+	trigger = {}
+	sprite = 6
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+
+
+### sabian ###
+sabian_shamash = {
+	prestige = 0.5
+	potential = { religion = sabian }
+	trigger = {}
+	sprite = 1
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+sabian_sin = {
+	manpower_recovery_speed = 0.1
+	potential = { religion = sabian }
+	trigger = {}
+	sprite = 2
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+sabian_kronos = {
+	technology_cost = -0.05
+	potential = { religion = sabian }
+	trigger = {}
+	sprite = 3
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+sabian_ishtar = {
+	improve_relation_modifier = 0.15
+	potential = { religion = sabian }
+	trigger = {}
+	sprite = 4
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+sabian_nabu = {
+	advisor_cost = -0.1
+	potential = { religion = sabian }
+	trigger = {}
+	sprite = 5
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+sabian_nergal = {
+	land_morale = 0.1
+	potential = { religion = sabian }
+	trigger = {}
+	sprite = 6
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+
+### yazidi ###
+yazidi_tawuse_melek = {
+	tolerance_own = 1
+	potential = { religion = yazidi }
+	trigger = {}
+	sprite = 1
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+yazidi_sheikh_adi = {
+	global_unrest = -1
+	potential = { religion = yazidi }
+	trigger = {}
+	sprite = 2
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+yazidi_ezid = {
+	garrison_size = 0.2
+	potential = { religion = yazidi }
+	trigger = {}
+	sprite = 3
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+yazidi_shams = {
+	prestige = 0.5
+	potential = { religion = yazidi }
+	trigger = {}
+	sprite = 4
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+yazidi_xudan = {
+	development_cost_in_primary_culture = -0.1
+	potential = { religion = yazidi }
+	trigger = {}
+	sprite = 5
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+
+### uatsdin ###
+uatsdin_xucau = {
+	tolerance_own = 1
+	potential = { religion = uatsdin }
+	trigger = {}
+	sprite = 1
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+uatsdin_uastyrdzhi = {
+	cavalry_power = 0.1
+	potential = { religion = uatsdin }
+	trigger = {}
+	sprite = 2
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+uatsdin_uacilla = {
+	production_efficiency = 0.1
+	potential = { religion = uatsdin }
+	trigger = {}
+	sprite = 3
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+uatsdin_safa = {
+	land_morale = 0.1
+	potential = { religion = uatsdin }
+	trigger = {}
+	sprite = 4
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+uatsdin_tutyr = {
+	manpower_recovery_speed = 0.1
+	potential = { religion = uatsdin }
+	trigger = {}
+	sprite = 5
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}
+uatsdin_falvara = {
+	development_cost = -0.05
+	potential = { religion = uatsdin }
+	trigger = {}
+	sprite = 6
+	effect = {}
+	removed_effect = {}
+	ai_will_do = { factor = 1 }
+}

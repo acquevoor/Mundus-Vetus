@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = hausa
+religion = sunni
+technology_group = muslim
+capital = 2279 # Daura
+
+1444.11.11 = {
+	monarch = {
+		name = "Basima I"
+		dynasty = "Diore"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

@@ -1,0 +1,31 @@
+# Manichaei aspects (uses_anglican_power) - dualist teachings, simplified (no event gating)
+mani_teaching_light = {
+	cost = 100
+	modifier = { global_missionary_strength = 0.02 }
+	ai_will_do = { factor = 10 }
+}
+mani_teaching_abstinence = {
+	cost = 100
+	modifier = { discipline = 0.025 }
+	ai_will_do = { factor = 10 }
+}
+mani_teaching_compassion = {
+	cost = 100
+	modifier = { ae_impact = -0.1 }
+	ai_will_do = { factor = 10 }
+}
+mani_teaching_wisdom = {
+	cost = 100
+	modifier = { technology_cost = -0.05 }
+	ai_will_do = { factor = 10 }
+}
+mani_teaching_elect = {
+	cost = 100
+	modifier = { tolerance_own = 2 }
+	ai_will_do = { factor = 10 }
+}
+mani_teaching_hearers = {
+	cost = 100
+	modifier = { tolerance_heathen = 2 }
+	ai_will_do = { factor = 10 }
+}

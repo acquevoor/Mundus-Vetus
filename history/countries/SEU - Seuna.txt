@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = marathi
+religion = hinduism
+technology_group = indian
+capital = 545 # Seuna
+
+1444.11.11 = {
+	monarch = {
+		name = "Maya I"
+		dynasty = "Bhat"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

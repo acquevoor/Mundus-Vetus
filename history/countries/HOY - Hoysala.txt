@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = kannada
+religion = hinduism
+technology_group = indian
+capital = 4421 # Hoysala
+
+1444.11.11 = {
+	monarch = {
+		name = "Akkadevi I"
+		dynasty = "Wodeyar"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

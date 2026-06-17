@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = tibetan
+religion = buddhism
+technology_group = chinese
+capital = 565
+religious_school = nastika_madhyamaka

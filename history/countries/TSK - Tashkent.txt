@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = uzbehk
+religion = al_batiniyya
+technology_group = chinese
+capital = 457 # Tashkent
+
+1444.11.11 = {
+	monarch = {
+		name = "Töregene I"
+		dynasty = "Shaybanid"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

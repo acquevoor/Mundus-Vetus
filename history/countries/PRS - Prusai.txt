@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = pruthenian
+religion = baltic_pagan
+technology_group = western
+capital = 42 # Prusai
+religious_school = romuva_peckols
+
+1444.11.11 = {
+	monarch = {
+		name = "Alexander I"
+		dynasty = "Szécsi"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

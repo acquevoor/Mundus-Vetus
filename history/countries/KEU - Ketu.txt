@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = fon
+religion = shamanism
+technology_group = east_african
+capital = 2291 # Ketu
+
+1444.11.11 = {
+	monarch = {
+		name = "Agaja I"
+		dynasty = "Ahosu"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

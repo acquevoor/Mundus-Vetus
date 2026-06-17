@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = al_iraqiya_arabic
+religion = mandaiuta
+technology_group = muslim
+capital = 412
+religious_school = mandaiuta_school

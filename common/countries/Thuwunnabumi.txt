@@ -1,0 +1,32 @@
+graphical_culture = southeastasiangfx
+
+color = { 241 180 47 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Mya I" = 100
+}
+
+leader_names = {
+	Dagon
+}
+
+ship_names = {
+	Thuwunnabumi
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}

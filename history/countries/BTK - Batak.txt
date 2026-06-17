@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = sumatran
+religion = animism
+technology_group = chinese
+capital = 619 # Batak
+
+1444.11.11 = {
+	monarch = {
+		name = "Husayn 'Alî Ri'âyat I"
+		dynasty = "Pagarruyung"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

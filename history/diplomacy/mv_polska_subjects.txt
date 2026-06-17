@@ -1,0 +1,7 @@
+# Mundus Vetus - Polska adoption subject relationships
+vassal = {
+	first = MVA		# Moravia
+	second = Z01		# Plzen (ex-Prague)
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}

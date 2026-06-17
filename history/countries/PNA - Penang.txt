@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = malayan
+religion = vajrayana
+technology_group = chinese
+capital = 4813 # Penang
+
+1444.11.11 = {
+	monarch = {
+		name = "Vaimiti I"
+		dynasty = "Pattani"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

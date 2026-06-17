@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = zhongyuan
+religion = mojia
+technology_group = chinese
+capital = 688
+religious_school = mojia_school

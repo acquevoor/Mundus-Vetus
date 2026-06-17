@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = hungarian
+religion = uatsdin
+technology_group = western
+capital = 162 # Zemplen (relocated; Bihar ceded to Al-Majar)
+
+1444.11.11 = {
+	monarch = {
+		name = "Alajos I"
+		dynasty = "Dessewffy"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

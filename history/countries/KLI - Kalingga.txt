@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = javanese
+religion = hinduism
+technology_group = chinese
+capital = 629 # Kalingga
+
+1444.11.11 = {
+	monarch = {
+		name = "Raden Sumirat I"
+		dynasty = "Demak"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

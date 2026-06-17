@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = sumatran
+religion = vajrayana
+technology_group = chinese
+capital = 4818 # New Indrapura
+
+1444.11.11 = {
+	monarch = {
+		name = "Husayn 'Alî Ri'âyat I"
+		dynasty = "Palembang"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

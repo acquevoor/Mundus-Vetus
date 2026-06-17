@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = oriya
+religion = hinduism
+technology_group = indian
+capital = 2043 # Utkala
+
+1444.11.11 = {
+	monarch = {
+		name = "Hamvira I"
+		dynasty = "Chindaka-Naga"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

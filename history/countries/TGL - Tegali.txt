@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = nubian
+religion = coptic
+technology_group = muslim
+capital = 1216 # Tegali
+
+1444.11.11 = {
+	monarch = {
+		name = "Kollouthos I"
+		dynasty = "Beni-Amer"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

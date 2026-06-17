@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = english
+religion = catholic
+technology_group = western
+capital = 236 # London
+
+1066.1.1 = {
+	monarch = {
+		name = "Harold II"
+		dynasty = "Godwineson"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+religious_school = catholic_benedictine

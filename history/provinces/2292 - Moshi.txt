@@ -1,0 +1,28 @@
+# No previous file for Moshi
+add_core = NIK
+
+owner = NIK
+controller = NIK
+add_core = OYO
+is_city = yes
+culture = nupe 
+religion = sunni #Fetishism
+capital = "Bajibo"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+base_manpower = 1
+discovered_by = sub_saharan
+
+
+1444.11.11 = {
+	owner = NIK
+	controller = NIK
+	add_core = NIK
+	culture = nupe
+	religion = sunni
+}

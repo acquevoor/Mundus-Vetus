@@ -1,0 +1,26 @@
+# Bektashi aspects (uses_anglican_power)
+bektashi_four_gates = {
+	cost = 100
+	modifier = { idea_cost = -0.05 }
+	ai_will_do = { factor = 10 }
+}
+bektashi_dervish = {
+	cost = 100
+	modifier = { land_morale = 0.1 }
+	ai_will_do = { factor = 10 }
+}
+bektashi_haji_bektash = {
+	cost = 100
+	modifier = { prestige = 0.5 }
+	ai_will_do = { factor = 10 }
+}
+bektashi_syncretism = {
+	cost = 100
+	modifier = { tolerance_heathen = 2 }
+	ai_will_do = { factor = 10 }
+}
+bektashi_janissary = {
+	cost = 100
+	modifier = { infantry_power = 0.1 }
+	ai_will_do = { factor = 10 }
+}

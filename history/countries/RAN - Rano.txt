@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = hausa
+religion = shamanism
+technology_group = muslim
+capital = 2281 # Rano
+
+1444.11.11 = {
+	monarch = {
+		name = "Ikram I"
+		dynasty = "Dadi"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

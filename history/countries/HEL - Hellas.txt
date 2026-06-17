@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = greek
+religion = sunni
+technology_group = western
+capital = 4309 # Hellas
+
+1444.11.11 = {
+	monarch = {
+		name = "Canan I"
+		dynasty = "Saruhanoglu"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

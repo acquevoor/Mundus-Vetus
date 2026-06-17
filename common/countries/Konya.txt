@@ -1,0 +1,5 @@
+graphical_culture = muslimgfx
+color = { 151 239 113 }
+historical_idea_groups = {
+	# generic ideas
+}

@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = chimin
+religion = sunni
+technology_group = chinese
+capital = 666 # Hainan
+
+1444.11.11 = {
+	monarch = {
+		name = "Po Hasan"
+		dynasty = "Utsul"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

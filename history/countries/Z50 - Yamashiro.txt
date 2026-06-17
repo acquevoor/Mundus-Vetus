@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = japanese
+religion = buddhism
+technology_group = chinese
+capital = 1020
+religious_school = nastika_zen

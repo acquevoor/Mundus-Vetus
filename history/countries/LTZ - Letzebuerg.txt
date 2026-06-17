@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = wallonian
+religion = catholic
+religious_school = catholic_benedictine
+technology_group = western
+capital = 94 # Luxemburg
+
+1444.11.11 = {
+	monarch = {
+		name = "Heinrich VII"
+		dynasty = "Luxemburg"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}

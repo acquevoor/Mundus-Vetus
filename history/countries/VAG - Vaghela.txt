@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = gujarati
+religion = jain
+technology_group = indian
+capital = 4457 # Vaghela
+
+1444.11.11 = {
+	monarch = {
+		name = "Baliraja I"
+		dynasty = "Muzaffarid"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

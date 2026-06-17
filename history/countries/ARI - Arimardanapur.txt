@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = burmese
+religion = buddhism
+technology_group = chinese
+capital = 2399 # Arimardanapur
+
+1444.11.11 = {
+	monarch = {
+		name = "Sane I"
+		dynasty = "Pinya"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

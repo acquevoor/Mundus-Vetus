@@ -1,0 +1,40 @@
+graphical_culture = southeastasiangfx
+
+color = { 60 160 150 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	trade_ideas
+	naval_ideas
+	maritime_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+
+monarch_names = {
+	"Hasan #0" = 100
+	"Husin #0" = 80
+	"Ali #0" = 60
+	"Ibrahim #0" = 40
+	"Yusuf #0" = 40
+	"Suleiman #0" = 20
+	"Po #0" = 10
+	"Fatimah #0" = -10
+	"Aisyah #0" = -10
+}
+
+leader_names = {
+	Utsul Tsat Phanrang Champa Hainan Sanya Yanglan
+}
+
+ship_names = {
+	Tsat Sanya Yanglan Huixin Yangran Lingshui Sanad
+}
+
+army_names = {
+	"Bala of $PROVINCE$"
+}

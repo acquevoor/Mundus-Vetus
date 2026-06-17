@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = castillian
+religion = catholic
+technology_group = western
+capital = 219 # Toledo
+
+1444.11.11 = {
+	monarch = {
+		name = "Esteban I"
+		dynasty = "de Ávalos"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

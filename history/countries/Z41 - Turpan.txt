@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = uyghur
+religion = manichaei
+technology_group = muslim
+capital = 4207
+religious_school = manichaei_school

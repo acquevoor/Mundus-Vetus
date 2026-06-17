@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = korean
+religion = musok
+technology_group = chinese
+capital = 735
+religious_school = musok_school

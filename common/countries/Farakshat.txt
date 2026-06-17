@@ -1,0 +1,40 @@
+graphical_culture = westerngfx
+
+color = { 230 180 40 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	economic_ideas
+	naval_ideas
+	defensive_ideas
+	diplomatic_ideas
+	administrative_ideas
+	quality_ideas
+}
+
+monarch_names = {
+	"Farak #0" = 100
+	"Rashid #0" = 80
+	"Aziz #0" = 60
+	"Hamid #0" = 40
+	"Yusuf #0" = 40
+	"Karim #0" = 20
+	"Nadir #0" = 10
+	"Layla #0" = -10
+	"Samira #0" = -10
+}
+
+leader_names = {
+	Farakid Rashidi Azizi Hamidi Yusufi Karimi Nadiri
+}
+
+ship_names = {
+	Farak Rashid Aziz Hamid Yusuf Karim Nadir Layla Samira
+}
+
+army_names = {
+	"Host of $PROVINCE$"
+}

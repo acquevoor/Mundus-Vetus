@@ -1,0 +1,33 @@
+#2681 - Pagarruyung
+
+owner = NEG
+controller = NEG
+add_core = NEG
+culture = sumatran
+religion = vajrayana
+capital = "Pagarruyung"
+trade_goods = gold
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = PGR
+
+
+
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+1405.1.1 = { discovered_by = MNG }
+1509.1.1 = { discovered_by = POR }
+
+1444.11.11 = {
+	owner = NEG
+	controller = NEG
+	add_core = NEG
+	culture = sumatran
+	religion = vajrayana
+}

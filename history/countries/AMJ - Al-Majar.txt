@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = hungarian
+religion = catholic
+religious_school = catholic_benedictine
+technology_group = eastern
+capital = 157 # Bihar (Oradea) - relocated one-province minor
+
+1000.1.1 = {
+	monarch = {
+		name = "Almos"
+		dynasty = "Arpad"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}

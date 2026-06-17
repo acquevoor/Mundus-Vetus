@@ -1,0 +1,75 @@
+namespace = mv_schools
+
+country_event = {
+	id = mv_schools.1
+	title = mv_schools.1.t
+	desc = mv_schools.1.d
+	picture = ST_PETERS_CHURCH_eventPicture
+	is_triggered_only = yes
+
+	option = {
+		name = mv_schools.1.a
+		set_religious_school = { group = christian school = catholic_oratorian }
+		add_adm_power = -100
+	}
+	option = {
+		name = mv_schools.1.b
+		set_religious_school = { group = christian school = catholic_vincentian }
+		add_adm_power = -100
+	}
+	option = {
+		name = mv_schools.1.c
+		set_religious_school = { group = christian school = catholic_piarist }
+		add_adm_power = -100
+	}
+	option = {
+		name = mv_schools.1.x
+		ai_chance = { factor = 0 }
+	}
+}
+
+country_event = {
+	id = mv_schools.2
+	title = mv_schools.2.t
+	desc = mv_schools.2.d
+	picture = RELIGION_eventPicture
+	is_triggered_only = yes
+
+	option = {
+		name = mv_schools.2.a
+		set_religious_school = { group = christian school = protestant_philippist }
+		add_adm_power = -100
+	}
+	option = {
+		name = mv_schools.2.b
+		set_religious_school = { group = christian school = protestant_flacian }
+		add_adm_power = -100
+	}
+	option = {
+		name = mv_schools.2.x
+		ai_chance = { factor = 0 }
+	}
+}
+
+country_event = {
+	id = mv_schools.3
+	title = mv_schools.3.t
+	desc = mv_schools.3.d
+	picture = RELIGION_eventPicture
+	is_triggered_only = yes
+
+	option = {
+		name = mv_schools.3.a
+		set_religious_school = { group = christian school = reformed_arminian }
+		add_adm_power = -100
+	}
+	option = {
+		name = mv_schools.3.b
+		set_religious_school = { group = christian school = reformed_gomarist }
+		add_adm_power = -100
+	}
+	option = {
+		name = mv_schools.3.x
+		ai_chance = { factor = 0 }
+	}
+}

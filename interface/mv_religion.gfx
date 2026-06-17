@@ -1,0 +1,331 @@
+spriteTypes = {
+	### Religion icon strip (expanded from reference)
+	spriteType = {
+		name = "GFX_icon_religion"
+		texturefile = "gfx/interface/icon_religion.dds"
+		noOfFrames = 102
+	}
+	spriteType = {
+		name = "GFX_country_icon_religion"
+		texturefile = "gfx/interface/country_icon_religion.dds"
+		noOfFrames = 102
+	}
+	spriteType = {
+		name = "GFX_icon_religion_small"
+		texturefile = "gfx/interface/icon_religion_small.dds"
+		noOfFrames = 102
+	}
+	### School icons
+	spriteType = {
+		name = "GFX_antinomiani_amalrician"
+		texturefile = "gfx/interface/icon_christian_rite_lyonese.dds"
+	}
+	spriteType = {
+		name = "GFX_antinomiani_adamite"
+		texturefile = "gfx/interface/icon_christian_rite_aurora.dds"
+	}
+	spriteType = {
+		name = "GFX_antinomiani_spiritus"
+		texturefile = "gfx/interface/icon_christian_rite_continental.dds"
+	}
+	spriteType = {
+		name = "GFX_apostolici_pasagian"
+		texturefile = "gfx/interface/icon_christian_rite_ambrosian.dds"
+	}
+	spriteType = {
+		name = "GFX_apostolici_wycliffe"
+		texturefile = "gfx/interface/icon_christian_school_lollard.dds"
+	}
+	spriteType = {
+		name = "GFX_assyrica_syriac"
+		texturefile = "gfx/interface/icon_christian_rite_chaldean.dds"
+	}
+	spriteType = {
+		name = "GFX_assyrica_indian"
+		texturefile = "gfx/interface/icon_christian_rite_antiochian.dds"
+	}
+	spriteType = {
+		name = "GFX_marcionismus_school"
+		texturefile = "gfx/interface/icon_christian_rite_byzantine.dds"
+	}
+	spriteType = {
+		name = "GFX_miaphysita_alexandrian"
+		texturefile = "gfx/interface/icon_christian_rite_alexandrian.dds"
+	}
+	spriteType = {
+		name = "GFX_miaphysita_syriac"
+		texturefile = "gfx/interface/icon_christian_rite_westorthodox.dds"
+	}
+	spriteType = {
+		name = "GFX_miaphysita_armenian"
+		texturefile = "gfx/interface/icon_christian_rite_armenian.dds"
+	}
+	spriteType = {
+		name = "GFX_miaphysita_ethiopian"
+		texturefile = "gfx/interface/icon_christian_rite_mozarbic.dds"
+	}
+	spriteType = {
+		name = "GFX_ghulat_nusayri"
+		texturefile = "gfx/interface/icon_muslim_school_jafari.dds"
+	}
+	spriteType = {
+		name = "GFX_ghulat_numayriyya"
+		texturefile = "gfx/interface/icon_muslim_school_ismaili.dds"
+	}
+	spriteType = {
+		name = "GFX_ghulat_khurramdiniyya"
+		texturefile = "gfx/interface/icon_muslim_school_zaidi.dds"
+	}
+	spriteType = {
+		name = "GFX_batiniyya_qadiriyya"
+		texturefile = "gfx/interface/icon_muslim_school_hanafi.dds"
+	}
+	spriteType = {
+		name = "GFX_batiniyya_naqshbandiyya"
+		texturefile = "gfx/interface/icon_muslim_school_hanbali.dds"
+	}
+	spriteType = {
+		name = "GFX_batiniyya_chishtiyya"
+		texturefile = "gfx/interface/icon_muslim_school_maliki.dds"
+	}
+	spriteType = {
+		name = "GFX_batiniyya_shadhiliyya"
+		texturefile = "gfx/interface/icon_muslim_school_shafii.dds"
+	}
+	spriteType = {
+		name = "GFX_batiniyya_suhrawardiyya"
+		texturefile = "gfx/interface/icon_muslim_school_zahiri.dds"
+	}
+	spriteType = {
+		name = "GFX_batiniyya_kubrawiyya"
+		texturefile = "gfx/interface/icon_muslim_school_jafari.dds"
+	}
+	spriteType = {
+		name = "GFX_batiniyya_mevleviyya"
+		texturefile = "gfx/interface/icon_muslim_school_ismaili.dds"
+	}
+	spriteType = {
+		name = "GFX_ahlehaqq_school"
+		texturefile = "gfx/interface/icon_muslim_school_jafari.dds"
+	}
+	spriteType = {
+		name = "GFX_hurufiyya_school"
+		texturefile = "gfx/interface/icon_muslim_school_zahiri.dds"
+	}
+	spriteType = {
+		name = "GFX_bektashi_school"
+		texturefile = "gfx/interface/icon_muslim_school_hanafi.dds"
+	}
+	spriteType = {
+		name = "GFX_shendao_school"
+		texturefile = "gfx/interface/icon_mazu_school.dds"
+	}
+	spriteType = {
+		name = "GFX_musok_school"
+		texturefile = "gfx/interface/icon_none_school.dds"
+	}
+	spriteType = {
+		name = "GFX_chos_nyingma"
+		texturefile = "gfx/interface/icon_mr_nyingma_school.dds"
+	}
+	spriteType = {
+		name = "GFX_chos_bon"
+		texturefile = "gfx/interface/icon_white_lotus_school.dds"
+	}
+	spriteType = {
+		name = "GFX_chos_kadam"
+		texturefile = "gfx/interface/icon_mr_gelug_school.dds"
+	}
+	spriteType = {
+		name = "GFX_chos_sakya"
+		texturefile = "gfx/interface/icon_mr_sakya_school.dds"
+	}
+	spriteType = {
+		name = "GFX_chos_bodong"
+		texturefile = "gfx/interface/icon_mr_jonang_school.dds"
+	}
+	spriteType = {
+		name = "GFX_chos_kagyu"
+		texturefile = "gfx/interface/icon_mr_karma_kagyu_school.dds"
+	}
+	spriteType = {
+		name = "GFX_chos_jonang"
+		texturefile = "gfx/interface/icon_mr_jonang_school.dds"
+	}
+	spriteType = {
+		name = "GFX_chos_gelug"
+		texturefile = "gfx/interface/icon_mr_gelug_school.dds"
+	}
+	spriteType = {
+		name = "GFX_mojia_school"
+		texturefile = "gfx/interface/icon_huayan_school.dds"
+	}
+	spriteType = {
+		name = "GFX_mandaiuta_school"
+		texturefile = "gfx/interface/icon_weizza_school.dds"
+	}
+	spriteType = {
+		name = "GFX_sabian_school"
+		texturefile = "gfx/interface/icon_none_school.dds"
+	}
+	spriteType = {
+		name = "GFX_yazidi_school"
+		texturefile = "gfx/interface/icon_muslim_school_zahiri.dds"
+	}
+	spriteType = {
+		name = "GFX_uatsdin_school"
+		texturefile = "gfx/interface/icon_none_school.dds"
+	}
+	spriteType = {
+		name = "GFX_manichaei_school"
+		texturefile = "gfx/interface/icon_weizza_school.dds"
+	}
+	spriteType = {
+		name = "GFX_satsanaphi_school"
+		texturefile = "gfx/interface/icon_mazu_school.dds"
+	}
+	spriteType = {
+		name = "GFX_astika_nyaya"
+		texturefile = "gfx/interface/icon_brahmin_school.dds"
+	}
+	spriteType = {
+		name = "GFX_astika_samkhya"
+		texturefile = "gfx/interface/icon_yogavacara_school.dds"
+	}
+	spriteType = {
+		name = "GFX_astika_mimamsa"
+		texturefile = "gfx/interface/icon_mahavihara_school.dds"
+	}
+	spriteType = {
+		name = "GFX_nastika_theravada"
+		texturefile = "gfx/interface/icon_mahavihara_school.dds"
+	}
+	spriteType = {
+		name = "GFX_nastika_amitabha"
+		texturefile = "gfx/interface/icon_shin_school.dds"
+	}
+	spriteType = {
+		name = "GFX_nastika_zen"
+		texturefile = "gfx/interface/icon_zen_school.dds"
+	}
+	spriteType = {
+		name = "GFX_nastika_yogachara"
+		texturefile = "gfx/interface/icon_yogavacara_school.dds"
+	}
+	spriteType = {
+		name = "GFX_nastika_madhyamaka"
+		texturefile = "gfx/interface/icon_bodhisattvayana_school.dds"
+	}
+	spriteType = {
+		name = "GFX_nastika_tiantai"
+		texturefile = "gfx/interface/icon_tendai_school.dds"
+	}
+	spriteType = {
+		name = "GFX_adivasi_naga"
+		texturefile = "gfx/interface/icon_none_school.dds"
+	}
+	spriteType = {
+		name = "GFX_adivasi_sarna"
+		texturefile = "gfx/interface/icon_white_lotus_school.dds"
+	}
+	spriteType = {
+		name = "GFX_adivasi_gond"
+		texturefile = "gfx/interface/icon_mazu_school.dds"
+	}
+	spriteType = {
+		name = "GFX_adivasi_kirati"
+		texturefile = "gfx/interface/icon_none_school.dds"
+	}
+	spriteType = {
+		name = "GFX_adivasi_tani"
+		texturefile = "gfx/interface/icon_weizza_school.dds"
+	}
+	spriteType = {
+		name = "GFX_apostolici_waldensian"
+		texturefile = "gfx/interface/icon_christian_school_waldensian.dds"
+	}
+	spriteType = {
+		name = "GFX_catholic_dominican"
+		texturefile = "gfx/interface/icon_christian_rite_cologne.dds"
+	}
+	spriteType = {
+		name = "GFX_catholic_franciscan"
+		texturefile = "gfx/interface/icon_christian_rite_aqueilian.dds"
+	}
+	spriteType = {
+		name = "GFX_catholic_jesuit"
+		texturefile = "gfx/interface/icon_christian_rite_latin.dds"
+	}
+	spriteType = {
+		name = "GFX_catholic_benedictine"
+		texturefile = "gfx/interface/icon_christian_rite_lyonese.dds"
+	}
+	spriteType = {
+		name = "GFX_catholic_augustinian"
+		texturefile = "gfx/interface/icon_christian_rite_antiochian.dds"
+	}
+	spriteType = {
+		name = "GFX_catholic_oratorian"
+		texturefile = "gfx/interface/icon_christian_rite_continental.dds"
+	}
+	spriteType = {
+		name = "GFX_catholic_vincentian"
+		texturefile = "gfx/interface/icon_christian_rite_metz.dds"
+	}
+	spriteType = {
+		name = "GFX_catholic_piarist"
+		texturefile = "gfx/interface/icon_christian_rite_sarum.dds"
+	}
+	spriteType = {
+		name = "GFX_protestant_philippist"
+		texturefile = "gfx/interface/icon_christian_school_lutheran.dds"
+	}
+	spriteType = {
+		name = "GFX_protestant_flacian"
+		texturefile = "gfx/interface/icon_christian_school_hussite.dds"
+	}
+	spriteType = {
+		name = "GFX_reformed_arminian"
+		texturefile = "gfx/interface/icon_christian_rite_presbyterian.dds"
+	}
+	spriteType = {
+		name = "GFX_reformed_gomarist"
+		texturefile = "gfx/interface/icon_christian_school_calvinist.dds"
+	}
+	spriteType = {
+		name = "GFX_rodnovery_bog"
+		texturefile = "gfx/interface/icon_white_lotus_school.dds"
+	}
+	spriteType = {
+		name = "GFX_rodnovery_rod"
+		texturefile = "gfx/interface/icon_mazu_school.dds"
+	}
+	spriteType = {
+		name = "GFX_romuva_dievas"
+		texturefile = "gfx/interface/icon_none_school.dds"
+	}
+	spriteType = {
+		name = "GFX_romuva_laima"
+		texturefile = "gfx/interface/icon_weizza_school.dds"
+	}
+	spriteType = {
+		name = "GFX_romuva_peckols"
+		texturefile = "gfx/interface/icon_huayan_school.dds"
+	}
+	spriteType = {
+		name = "GFX_zahiri_school"
+		texturefile = "gfx/interface/icon_muslim_school_zahiri.dds"
+	}
+	spriteType = {
+		name = "GFX_mutazila_school"
+		texturefile = "gfx/interface/icon_muslim_school_hanbali.dds"
+	}
+	spriteType = {
+		name = "GFX_jain_digambara"
+		texturefile = "gfx/interface/icon_tamrashatiya_school.dds"
+	}
+	spriteType = {
+		name = "GFX_jain_svetambara"
+		texturefile = "gfx/interface/icon_brahmin_school.dds"
+	}
+}

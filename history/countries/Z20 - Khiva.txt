@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = uzbehk
+religion = al_batiniyya
+technology_group = muslim
+capital = 441
+religious_school = batiniyya_kubrawiyya

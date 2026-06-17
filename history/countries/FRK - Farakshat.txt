@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = ligurian
+religion = sunni
+technology_group = western
+religious_school = zahiri_school
+capital = 201 # Acchisi (relocated; Nice/102 ceded to Savoy)
+
+1444.11.11 = {
+	monarch = {
+		name = "Farak I"
+		dynasty = "Farakid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

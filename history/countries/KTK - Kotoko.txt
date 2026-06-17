@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = kanuri
+religion = sunni
+technology_group = muslim
+capital = 2287 # Kotoko
+
+1444.11.11 = {
+	monarch = {
+		name = "Abu Bakr I"
+		dynasty = "Ardoum"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

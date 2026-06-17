@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = marathi
+religion = jain
+technology_group = indian
+capital = 4431
+religious_school = jain_digambara

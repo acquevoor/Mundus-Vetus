@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = hungarian
+religion = orthodox
+technology_group = western
+capital = 4127 # Turda
+
+1444.11.11 = {
+	monarch = {
+		name = "Orbán I"
+		dynasty = "Eszterházy"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

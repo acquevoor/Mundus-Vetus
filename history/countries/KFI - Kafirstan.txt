@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = afghani
+religion = vajrayana
+technology_group = nomad_group
+capital = 2226 # Kafirstan
+
+1444.11.11 = {
+	monarch = {
+		name = "Farhang I"
+		dynasty = "Ordubadi"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

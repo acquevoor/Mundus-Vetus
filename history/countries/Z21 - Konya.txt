@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = turkish
+religion = al_batiniyya
+technology_group = anatolian
+capital = 323
+religious_school = batiniyya_mevleviyya

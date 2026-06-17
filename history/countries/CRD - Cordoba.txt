@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = andalucian
+religion = sunni
+technology_group = western
+capital = 225 # Córdoba
+
+1444.11.11 = {
+	monarch = {
+		name = "Mubashir I"
+		dynasty = "Nasrid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

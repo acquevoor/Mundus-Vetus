@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = bilala
+religion = sunni
+technology_group = muslim
+capital = 1159 # Bagirmi
+
+1444.11.11 = {
+	monarch = {
+		name = "Ariso I"
+		dynasty = "Dalmawa"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

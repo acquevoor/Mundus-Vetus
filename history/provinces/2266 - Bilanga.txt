@@ -1,0 +1,25 @@
+# No previous file for Bilanga
+add_core = ZND
+
+owner = ZND
+controller = ZND
+add_core = WGD
+is_city = yes
+culture = mossi 
+religion = shamanism #Fetishism
+capital = "Bilanga"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+discovered_by = sub_saharan
+
+
+1444.11.11 = {
+	owner = ZND
+	controller = ZND
+	add_core = ZND
+	culture = mossi
+	religion = shamanism
+}

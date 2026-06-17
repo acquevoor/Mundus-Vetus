@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = azerbaijani
+religion = hurufiyya
+technology_group = anatolian
+capital = 424
+religious_school = hurufiyya_school

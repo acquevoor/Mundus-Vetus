@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = senegambian
+religion = animism
+technology_group = east_african
+capital = 2239 # Serer
+
+1444.11.11 = {
+	monarch = {
+		name = "Mbanyi I"
+		dynasty = "Bakar"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

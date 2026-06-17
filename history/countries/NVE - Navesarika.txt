@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = gujarati
+religion = hinduism
+technology_group = indian
+capital = 517 # Navesarika
+
+1444.11.11 = {
+	monarch = {
+		name = "Tihunaka I"
+		dynasty = "Calukya"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

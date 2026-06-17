@@ -1,0 +1,35 @@
+# No previous file for Rano
+add_core = RAN
+
+owner = RAN
+controller = RAN
+add_core = KAN
+culture = hausa 
+religion = shamanism
+capital = "Rano"
+trade_goods = dyes
+hre = no
+base_tax = 2 
+base_production = 2
+is_city = yes
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+
+
+1806.1.1 = {	
+	owner = SOK
+	controller = SOK
+	add_core = SOK
+} # The Fulani Empire
+
+
+1444.11.11 = {
+	owner = RAN
+	controller = RAN
+	add_core = RAN
+	culture = hausa
+	religion = shamanism
+}

@@ -1,0 +1,32 @@
+graphical_culture = africangfx
+
+color = { 232 206 0 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Kollouthos I" = 100
+}
+
+leader_names = {
+	Beni-Amer
+}
+
+ship_names = {
+	Tegali
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}

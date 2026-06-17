@@ -1,0 +1,36 @@
+# No previous file for Kotoko
+add_core = KTK
+
+owner = KTK
+controller = KTK
+add_core = YAO
+add_core = KBO
+culture = kanuri 
+religion = sunni
+capital = "Kotoko"
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 3
+is_city = yes
+base_manpower = 1
+
+
+
+discovered_by = sub_saharan
+
+
+1505.1.1 = {
+	owner = KBO 
+	controller = KBO
+	add_core = KBO 
+} #Idris Katakarmabe retakes Kanem
+
+
+1444.11.11 = {
+	owner = KTK
+	controller = KTK
+	add_core = KTK
+	culture = kanuri
+	religion = sunni
+}

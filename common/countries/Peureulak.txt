@@ -1,0 +1,32 @@
+graphical_culture = southeastasiangfx
+
+color = { 27 42 52 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"'Alî Mugâyat II" = 100
+}
+
+leader_names = {
+	Jambi
+}
+
+ship_names = {
+	Peureulak
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}

@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = avadhi
+religion = hinduism
+technology_group = indian
+capital = 4497 # Kannauj
+
+1444.11.11 = {
+	monarch = {
+		name = "Nagdeo I"
+		dynasty = "Bundela"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

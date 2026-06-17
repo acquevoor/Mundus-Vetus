@@ -1,0 +1,40 @@
+graphical_culture = westerngfx
+
+color = { 70 130 200 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	diplomatic_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	administrative_ideas
+	aristocracy_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+monarch_names = {
+	"Heinrich #7" = 100
+	"Johann #1" = 80
+	"Wenzel #2" = 60
+	"Siegfried #1" = 40
+	"Konrad #2" = 40
+	"Ermesinde #0" = -10
+	"Wilhelm #0" = 20
+	"Adolf #0" = 10
+	"Maria #0" = -10
+}
+
+leader_names = {
+	Luxemburg Ardennes Siegfried Ermesinde Wenzel Bock Clausen
+}
+
+ship_names = {
+	Alzette Sauer Moselle Our Sure Eisch Attert
+}
+
+army_names = {
+	"Garde of $PROVINCE$"
+}

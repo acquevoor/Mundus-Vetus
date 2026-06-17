@@ -1,0 +1,40 @@
+graphical_culture = westerngfx
+
+color = { 200 30 30 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	quality_ideas
+	trade_ideas
+	economic_ideas
+	maritime_ideas
+	naval_ideas
+	administrative_ideas
+}
+
+monarch_names = {
+	"AElfred #0" = 100
+	"AEthelstan #0" = 80
+	"Eadweard #0" = 60
+	"Eadmund #0" = 40
+	"Harold #0" = 40
+	"Godwine #0" = 20
+	"Cynric #0" = 10
+	"Aelfgifu #0" = -10
+	"Eadgyth #0" = -10
+}
+
+leader_names = {
+	Godwineson Wessex Mercia Wuffing Ironside Aetheling Cerdicing
+}
+
+ship_names = {
+	Hengest Horsa Wyrm Draca Sciphere Brytenwalda Witan Bretwalda
+}
+
+army_names = {
+	"Fyrd of $PROVINCE$"
+}

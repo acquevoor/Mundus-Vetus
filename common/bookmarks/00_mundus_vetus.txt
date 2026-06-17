@@ -1,0 +1,21 @@
+bookmark =
+{
+	name = "MV_GRAND_CAMPAIGN_NAME"
+	desc = "MV_GRAND_CAMPAIGN_DESC"
+	date = 1444.11.11
+
+	center = 94
+	default = yes
+
+	country = ENL
+	country = AMJ
+	country = FRK
+	country = GOR
+	country = LTZ
+	country = TAM
+	country = UTL
+
+	easy_country = ENL
+	easy_country = LTZ
+	easy_country = GOR
+}

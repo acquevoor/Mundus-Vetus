@@ -1,0 +1,40 @@
+graphical_culture = westerngfx
+
+color = { 110 70 160 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	aristocracy_ideas
+	administrative_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	innovativeness_ideas
+	trade_ideas
+}
+
+monarch_names = {
+	"Meinhard #4" = 100
+	"Albert #4" = 80
+	"Heinrich #6" = 60
+	"Leonhard #0" = 40
+	"Johann #2" = 40
+	"Engelbert #3" = 20
+	"Ulrich #2" = 10
+	"Katharina #0" = -10
+	"Elisabeth #0" = -10
+}
+
+leader_names = {
+	Goricia Meinhard Lurngau Pusterthal Lienz Goriziano
+}
+
+ship_names = {
+	Soca Isonzo Vipava Savinja Drava Sava Celje
+}
+
+army_names = {
+	"Vojska of $PROVINCE$"
+}

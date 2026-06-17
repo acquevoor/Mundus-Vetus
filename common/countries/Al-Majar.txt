@@ -1,0 +1,40 @@
+graphical_culture = easterngfx
+
+color = { 90 140 60 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	quality_ideas
+	quantity_ideas
+	aristocracy_ideas
+	administrative_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Almos #0" = 100
+	"Arpad #0" = 80
+	"Lehel #0" = 60
+	"Bulcsu #0" = 40
+	"Taksony #0" = 40
+	"Geza #0" = 20
+	"Zsolt #0" = 10
+	"Sarolt #0" = -10
+	"Emese #0" = -10
+}
+
+leader_names = {
+	Arpad Megyer Tarjan Jeno Kabar Kurszan Bulcsu Lehel
+}
+
+ship_names = {
+	Turul Csodaszarvas Emese Hunor Magor Etelkoz Levedia
+}
+
+army_names = {
+	"Sereg of $PROVINCE$"
+}

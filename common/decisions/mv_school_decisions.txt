@@ -1,0 +1,47 @@
+country_decisions = {
+	mv_choose_catholic_order = {
+		potential = {
+			religion = catholic
+			has_institution = renaissance
+			current_age = age_of_reformation
+		}
+		allow = {
+			is_at_war = no
+			stability = 1
+		}
+		effect = {
+			country_event = { id = mv_schools.1 }
+		}
+		ai_will_do = { factor = 0 }
+	}
+	mv_choose_protestant_order = {
+		potential = {
+			religion = protestant
+			has_institution = renaissance
+			current_age = age_of_reformation
+		}
+		allow = {
+			is_at_war = no
+			stability = 1
+		}
+		effect = {
+			country_event = { id = mv_schools.2 }
+		}
+		ai_will_do = { factor = 0 }
+	}
+	mv_choose_reformed_order = {
+		potential = {
+			religion = reformed
+			has_institution = renaissance
+			current_age = age_of_reformation
+		}
+		allow = {
+			is_at_war = no
+			stability = 1
+		}
+		effect = {
+			country_event = { id = mv_schools.3 }
+		}
+		ai_will_do = { factor = 0 }
+	}
+}

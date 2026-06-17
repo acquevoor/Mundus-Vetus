@@ -1,0 +1,26 @@
+# Hurufiyya aspects (uses_anglican_power)
+hurufi_letters = {
+	cost = 100
+	modifier = { technology_cost = -0.05 }
+	ai_will_do = { factor = 10 }
+}
+hurufi_numerology = {
+	cost = 100
+	modifier = { advisor_cost = -0.1 }
+	ai_will_do = { factor = 10 }
+}
+hurufi_face = {
+	cost = 100
+	modifier = { prestige = 0.5 }
+	ai_will_do = { factor = 10 }
+}
+hurufi_inner = {
+	cost = 100
+	modifier = { tolerance_own = 1 }
+	ai_will_do = { factor = 10 }
+}
+hurufi_unity = {
+	cost = 100
+	modifier = { religious_unity = 0.25 }
+	ai_will_do = { factor = 10 }
+}

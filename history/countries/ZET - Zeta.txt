@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = serbian
+religion = orthodox
+technology_group = western
+capital = 138 # Zeta
+
+1444.11.11 = {
+	monarch = {
+		name = "Marko I"
+		dynasty = "Lazarevic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

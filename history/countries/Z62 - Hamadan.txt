@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = luri
+religion = al_mutazila
+technology_group = muslim
+capital = 414
+religious_school = mutazila_school

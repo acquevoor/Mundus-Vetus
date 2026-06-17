@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = yorumba
+religion = shamanism
+technology_group = east_african
+capital = 1146 # Ife
+
+1444.11.11 = {
+	monarch = {
+		name = "Orompoto I"
+		dynasty = "Umaru"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

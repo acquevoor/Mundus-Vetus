@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = bengali
+religion = hinduism
+technology_group = indian
+capital = 4476 # Sena
+
+1444.11.11 = {
+	monarch = {
+		name = "Bishwas I"
+		dynasty = "Hussein Shahi"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

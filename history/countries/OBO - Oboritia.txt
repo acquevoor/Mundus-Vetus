@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = polabian
+religion = catholic
+technology_group = western
+capital = 2996 # Oboritia
+religious_school = catholic_benedictine
+
+1444.11.11 = {
+	monarch = {
+		name = "Agnes I"
+		dynasty = "Lobkowicz"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

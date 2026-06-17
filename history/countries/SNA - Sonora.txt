@@ -1,0 +1,6 @@
+government = republic
+technology_group = western
+primary_culture = american
+religion = catholic
+religious_school = catholic_franciscan
+capital = 4650

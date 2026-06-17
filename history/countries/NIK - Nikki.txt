@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = nupe
+religion = sunni
+technology_group = east_african
+capital = 2292 # Nikki
+
+1444.11.11 = {
+	monarch = {
+		name = "Maliki I"
+		dynasty = "Etsu"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

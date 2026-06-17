@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = al_misr_arabic
+religion = coptic
+technology_group = muslim
+capital = 358
+religious_school = miaphysita_alexandrian

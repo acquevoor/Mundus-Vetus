@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = kurdish
+religion = ecclesia_assyrica
+technology_group = muslim
+capital = 411
+religious_school = assyrica_syriac
