@@ -1,7 +1,8 @@
 #358 - Alexandria
+add_core = SLY
 
-owner = Z08
-controller = Z08
+owner = SLY
+controller = SLY
 add_core = Z08
 culture = al_misr_arabic
 religion = sunni
@@ -43,4 +44,13 @@ center_of_trade = 1
 	owner = Z08
 	controller = Z08
 	add_core = Z08
+}
+
+
+1444.11.11 = {
+	owner = SLY
+	controller = SLY
+	add_core = SLY
+	culture = al_misr_arabic
+	religion = sunni
 }

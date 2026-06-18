@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = khazar
+religion = tengri_pagan_reformed
+technology_group = western
+capital = 464 # Maniacs
+
+1444.11.11 = {
+	monarch = {
+		name = "Bihar I"
+		dynasty = "Bulanid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

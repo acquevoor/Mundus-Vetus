@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = persian
+religion = al_mutazila
+technology_group = indian
+capital = 4326 # Qutlughid
+
+1444.11.11 = {
+	monarch = {
+		name = "Adam II"
+		dynasty = "Rurikovich"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

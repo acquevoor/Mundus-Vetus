@@ -1,14 +1,15 @@
 #460 - Uzkend
+add_core = KSG
 
 latent_trade_goods = {
 	coal #Isfara
 }
 
-owner = KAS
-controller = KAS
+owner = KSG
+controller = KSG
 add_core = KAS
 culture = kirgiz
-religion = sunni
+religion = ecclesia_assyrica
 capital = "Uzkend"
 trade_goods = wool
 hre = no
@@ -39,4 +40,13 @@ discovered_by = KAS
 	owner = KAS
 	controller = KAS
 	add_core = KAS
+}
+
+
+1444.11.11 = {
+	owner = KSG
+	controller = KSG
+	add_core = KSG
+	culture = kirgiz
+	religion = ecclesia_assyrica
 }

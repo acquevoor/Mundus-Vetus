@@ -1,7 +1,8 @@
 #361 - Cairo
+add_core = SLY
 
-owner = Z18
-controller = Z18
+owner = SLY
+controller = SLY
 add_core = Z18
 culture = al_misr_arabic
 religion = sunni
@@ -57,4 +58,13 @@ center_of_trade = 2
 	owner = Z18
 	controller = Z18
 	add_core = Z18
+}
+
+
+1444.11.11 = {
+	owner = SLY
+	controller = SLY
+	add_core = SLY
+	culture = al_misr_arabic
+	religion = sunni
 }

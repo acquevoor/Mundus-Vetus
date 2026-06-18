@@ -1,10 +1,11 @@
 #739 - Kashgar
+add_core = KSG
 
-owner = KAS
-controller = KAS
+owner = KSG
+controller = KSG
 add_core = KAS
 culture = uyghur
-religion = sunni
+religion = ecclesia_assyrica
 capital = "Kashgar"
 trade_goods = wool
 hre = no
@@ -38,4 +39,13 @@ center_of_trade = 2
 	owner = KAS
 	controller = KAS
 	add_core = KAS
+}
+
+
+1444.11.11 = {
+	owner = KSG
+	controller = KSG
+	add_core = KSG
+	culture = uyghur
+	religion = ecclesia_assyrica
 }

@@ -1,8 +1,9 @@
 #1853 - Kastoria
+add_core = DRM
 add_core = SKP
 
-owner = SKP
-controller = SKP
+owner = DRM
+controller = DRM
 culture = greek
 religion = orthodox
 capital = "Kastoria"
@@ -49,6 +50,15 @@ discovered_by = nomad_group
 	owner = SKP
 	controller = SKP
 	add_core = SKP
+	culture = greek
+	religion = orthodox
+}
+
+
+1444.11.11 = {
+	owner = DRM
+	controller = DRM
+	add_core = DRM
 	culture = greek
 	religion = orthodox
 }

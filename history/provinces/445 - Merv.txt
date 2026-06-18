@@ -1,7 +1,8 @@
 #445 - Marv
+add_core = QTL
 
-owner = MRV
-controller = MRV
+owner = QTL
+controller = QTL
 add_core = MRV
 culture = uzbehk
 religion = al_batiniyya
@@ -49,4 +50,13 @@ center_of_trade = 1
 	culture = uzbehk
 	religion = al_batiniyya
 	trade_goods = fur
+}
+
+
+1444.11.11 = {
+	owner = QTL
+	controller = QTL
+	add_core = QTL
+	culture = uzbehk
+	religion = al_batiniyya
 }

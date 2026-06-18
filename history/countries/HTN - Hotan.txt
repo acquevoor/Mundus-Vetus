@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = turco_iranian
+religion = vajrayana
+technology_group = chinese
+capital = 710 # Hotan
+
+1444.11.11 = {
+	monarch = {
+		name = "Tenzin Dalai I"
+		dynasty = "Mnyammed"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

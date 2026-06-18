@@ -1,7 +1,8 @@
 #684 - Hangzhou (can't change file name)
+add_core = DIN
 
-owner = Z47
-controller = Z47
+owner = DIN
+controller = DIN
 add_core = Z47
 add_core = MNG
 culture = wu
@@ -32,4 +33,13 @@ center_of_trade = 2
 	owner = Z47
 	controller = Z47
 	add_core = Z47
+}
+
+
+1444.11.11 = {
+	owner = DIN
+	controller = DIN
+	add_core = DIN
+	culture = wu
+	religion = confucianism
 }

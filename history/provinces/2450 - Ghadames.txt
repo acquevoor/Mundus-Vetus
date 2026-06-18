@@ -1,0 +1,38 @@
+# - Ghadames
+add_core = TGT
+
+owner = TGT
+controller = TGT 
+culture = catalan
+religion = catholic
+capital = "Ghadames"
+trade_goods = spices #Dates
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = GHD
+
+
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+
+1830.1.1 = {
+	owner = TUN
+	controller = TUN
+	add_core = TUN
+}
+
+
+1444.11.11 = {
+	owner = TGT
+	controller = TGT
+	add_core = TGT
+	culture = catalan
+	religion = catholic
+}

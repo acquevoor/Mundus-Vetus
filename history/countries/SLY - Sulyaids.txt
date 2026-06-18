@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = al_misr_arabic
+religion = sunni
+technology_group = muslim
+capital = 361 # Sulyaids
+
+1444.11.11 = {
+	monarch = {
+		name = "Ahmad I"
+		dynasty = "Yakubid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

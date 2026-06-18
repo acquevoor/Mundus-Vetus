@@ -1,9 +1,10 @@
 # - Syracusa
+add_core = IFQ
 
-owner = SIC
-controller = SIC
+owner = IFQ
+controller = IFQ
 culture = sicilian 
-religion = catholic 
+religion = sunni 
 hre = no 
 base_tax = 3
 base_production = 3
@@ -53,3 +54,12 @@ discovered_by = ottoman
 	owner = NAP
 	controller = NAP
 } # The Kingdom is restored to Ferdinand
+
+
+1444.11.11 = {
+	owner = IFQ
+	controller = IFQ
+	add_core = IFQ
+	culture = sicilian
+	religion = sunni
+}

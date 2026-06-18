@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = sicilian
+religion = sunni
+technology_group = east_african
+capital = 341 # Ifriqiya
+
+1444.11.11 = {
+	monarch = {
+		name = "Matilda I"
+		dynasty = "Farnese"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

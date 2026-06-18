@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = maltese
+religion = catholic
+technology_group = east_african
+capital = 354 # New Tripoli
+
+1444.11.11 = {
+	monarch = {
+		name = "Pagano I"
+		dynasty = "L'Isle-Adam"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

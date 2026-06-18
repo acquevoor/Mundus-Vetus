@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = zhongyuan
+religion = shendao
+technology_group = chinese
+capital = 688 # Tian
+
+1444.11.11 = {
+	monarch = {
+		name = "Gongming I"
+		dynasty = "nodynasty"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

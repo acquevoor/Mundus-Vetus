@@ -1,7 +1,8 @@
 #441 - Khiva
+add_core = QQP
 
-owner = MRV
-controller = MRV
+owner = QQP
+controller = QQP
 add_core = MRV
 culture = uzbehk
 religion = al_batiniyya
@@ -45,4 +46,13 @@ center_of_trade = 1
 	culture = uzbehk
 	religion = al_batiniyya
 	trade_goods = wool
+}
+
+
+1444.11.11 = {
+	owner = QQP
+	controller = QQP
+	add_core = QQP
+	culture = uzbehk
+	religion = al_batiniyya
 }

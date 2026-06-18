@@ -1,7 +1,8 @@
 #442 - Bukhara
+add_core = QQP
 
-owner = TSK
-controller = TSK
+owner = QQP
+controller = QQP
 add_core = TSK
 culture = uzbehk
 religion = al_batiniyya
@@ -43,4 +44,13 @@ discovered_by = indian
 	culture = uzbehk
 	religion = al_batiniyya
 	trade_goods = salt
+}
+
+
+1444.11.11 = {
+	owner = QQP
+	controller = QQP
+	add_core = QQP
+	culture = uzbehk
+	religion = al_batiniyya
 }
