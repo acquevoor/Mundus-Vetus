@@ -2,8 +2,8 @@
 
 owner = TRP
 controller = TRP
-culture = maltese
-religion = catholic
+culture = tunisian
+religion = sunni
 capital = "Thubaqt"
 trade_goods = cloth
 hre = no
@@ -28,11 +28,8 @@ discovered_by = eastern
 	add_core = TRP
 } #Turgut Reis conquers Thubaqt
 
-
 1444.11.11 = {
 	owner = TRP
 	controller = TRP
 	add_core = TRP
-	culture = maltese
-	religion = catholic
 }

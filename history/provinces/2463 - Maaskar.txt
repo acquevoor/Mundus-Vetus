@@ -3,8 +3,8 @@ add_core = MZB
 
 owner = MZB
 controller = MZB
-culture = catalan
-religion = catholic
+culture = berber
+religion = sunni
 capital = "Kasdir"
 trade_goods = livestock
 hre = no
@@ -29,11 +29,8 @@ discovered_by = western
 	add_core = ALG
 }
 
-
 1444.11.11 = {
 	owner = MZB
 	controller = MZB
 	add_core = MZB
-	culture = catalan
-	religion = catholic
 }

@@ -2,8 +2,8 @@
 
 owner = TRP
 controller = TRP 
-culture = maltese
-religion = catholic
+culture = tunisian
+religion = sunni
 capital = "Sfax"
 trade_goods = sugar
 hre = no
@@ -37,11 +37,8 @@ discovered_by = ottoman
 	remove_core = TRP
 } #Tunisian Pashalik created
 
-
 1444.11.11 = {
 	owner = TRP
 	controller = TRP
 	add_core = TRP
-	culture = maltese
-	religion = catholic
 }

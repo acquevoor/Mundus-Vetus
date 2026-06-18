@@ -2,8 +2,8 @@
 
 owner = TRP
 controller = TRP
-culture = maltese
-religion = catholic
+culture = tunisian
+religion = sunni
 capital = "Tripoli" #Tripoli in the West.
 trade_goods = cloth
 hre = no
@@ -41,11 +41,8 @@ center_of_trade = 2
 1711.1.1 = { unrest = 6 } # The Ottoman governor is killed by Ahmad Karmanli
 1712.1.1 = { unrest = 0 } # Fortifications are restored
 
-
 1444.11.11 = {
 	owner = TRP
 	controller = TRP
 	add_core = TRP
-	culture = maltese
-	religion = catholic
 }

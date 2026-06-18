@@ -3,8 +3,8 @@ add_core = TGT
 
 owner = TGT
 controller = TGT 
-culture = catalan
-religion = catholic
+culture = tunisian
+religion = sunni
 capital = "Ghadames"
 trade_goods = spices #Dates
 hre = no
@@ -28,11 +28,8 @@ discovered_by = ottoman
 	add_core = TUN
 }
 
-
 1444.11.11 = {
 	owner = TGT
 	controller = TGT
 	add_core = TGT
-	culture = catalan
-	religion = catholic
 }

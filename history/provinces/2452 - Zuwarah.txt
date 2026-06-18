@@ -2,8 +2,8 @@
 
 owner = TRP
 controller = TRP 
-culture = maltese
-religion = catholic
+culture = tunisian
+religion = ibadi
 capital = "Zuwarah"
 trade_goods = fish
 hre = no
@@ -27,11 +27,8 @@ discovered_by = ottoman
 	controller = TRP
 } #Turgut Reis conquers Gharayan
 
-
 1444.11.11 = {
 	owner = TRP
 	controller = TRP
 	add_core = TRP
-	culture = maltese
-	religion = catholic
 }

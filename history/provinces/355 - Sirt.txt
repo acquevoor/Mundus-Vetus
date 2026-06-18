@@ -2,8 +2,8 @@
 
 owner = TRP
 controller = TRP
-culture = maltese
-religion = catholic
+culture = tunisian
+religion = sunni
 capital = "Ben Jawad"
 trade_goods = fish
 hre = no
@@ -28,11 +28,8 @@ discovered_by = eastern
 	controller = TRP
 } #Turgut Reis conquers Sirte
 
-
 1444.11.11 = {
 	owner = TRP
 	controller = TRP
 	add_core = TRP
-	culture = maltese
-	religion = catholic
 }

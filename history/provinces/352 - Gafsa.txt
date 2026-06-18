@@ -3,8 +3,8 @@ add_core = TGT
 
 owner = TGT
 controller = TGT 
-culture = catalan
-religion = catholic
+culture = tunisian
+religion = sunni
 capital = "Gafsa"
 trade_goods = salt
 hre = no
@@ -41,11 +41,8 @@ discovered_by = TUR
 1735.1.1 = { unrest = 6 } # Coup with Algerian support
 1756.1.1 = { unrest = 0 } # The Husaynid Dynasty is restored 
 
-
 1444.11.11 = {
 	owner = TGT
 	controller = TGT
 	add_core = TGT
-	culture = catalan
-	religion = catholic
 }
