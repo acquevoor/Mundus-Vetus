@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = kurdish
+religion = ahl_e_haqq
+technology_group = muslim
+capital = 2306 # Mush
+
+1444.11.11 = {
+	monarch = {
+		name = "Shayan I"
+		dynasty = "Bukhti"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

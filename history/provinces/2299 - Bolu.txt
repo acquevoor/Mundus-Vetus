@@ -1,10 +1,9 @@
 #2299 - Bolu
-add_core = ANK
 
-owner = ANK
-controller = ANK
-add_core = HEL
-culture = greek
+owner = CIS
+controller = CIS
+add_core = CIS
+culture = oghuz_turk
 religion = sunni
 capital = "Bolu"
 trade_goods = fish
@@ -40,18 +39,9 @@ base_production = 4 } # Lale Devri (the tulip age), not appreciated by everyone
 1808.6.29 = { revolt = {} controller = TUR } # Mahmud II takes the throne
 
 1444.11.11 = {
-	owner = HEL
-	controller = HEL
-	add_core = HEL
-	culture = greek
-	religion = sunni
-}
-
-
-1444.11.11 = {
-	owner = ANK
-	controller = ANK
-	add_core = ANK
-	culture = greek
+	owner = CIS
+	controller = CIS
+	add_core = CIS
+	culture = oghuz_turk
 	religion = sunni
 }

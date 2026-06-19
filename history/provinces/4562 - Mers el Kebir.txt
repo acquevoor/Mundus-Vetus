@@ -52,7 +52,6 @@ discovered_by = eastern
 	remove_core = SPA
 } # The Spanish surrender Oran to Algiers
 
-
 1444.11.11 = {
 	owner = TLC
 	controller = TLC

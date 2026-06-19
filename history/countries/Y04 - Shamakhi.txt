@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = azerbaijani
+religion = hurufiyya
+technology_group = muslim
+capital = 4299 # Shamakhi
+
+1444.11.11 = {
+	monarch = {
+		name = "Aamira I"
+		dynasty = "Safavid"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

@@ -1,0 +1,32 @@
+graphical_culture = africangfx
+
+color = { 237 41 57 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Iskander I" = 100
+}
+
+leader_names = {
+	Mengesha
+}
+
+ship_names = {
+	Agew
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}

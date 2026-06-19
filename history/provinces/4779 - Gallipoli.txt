@@ -1,6 +1,6 @@
-owner = TRK
-controller = TRK
-add_core = TRK
+owner = WAL
+controller = WAL
+add_core = WAL
 culture = greek
 religion = orthodox
 capital = "Gallipoli"
@@ -32,9 +32,9 @@ base_production = 8 } #The Decentralizing Effect of the Provincial System
 1750.1.1 = { add_core = GRE }
 
 1444.11.11 = {
-	owner = TRK
-	controller = TRK
-	add_core = TRK
+	owner = WAL
+	controller = WAL
+	add_core = WAL
 	culture = greek
 	religion = orthodox
 }

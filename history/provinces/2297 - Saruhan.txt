@@ -1,10 +1,9 @@
 #2297 - Saruhan
-add_core = ANK
 
-owner = ANK
-controller = ANK
-add_core = HEL
-culture = greek
+owner = CIS
+controller = CIS
+add_core = CIS
+culture = oghuz_turk
 religion = sunni
 capital = "Manisa"
 trade_goods = cotton
@@ -41,18 +40,9 @@ base_production = 2 } # The Decentralizing Effect of the Provincial System
 1625.1.1 = { revolt = {} controller = TUR } # Murad tries to quell the corruption
 
 1444.11.11 = {
-	owner = HEL
-	controller = HEL
-	add_core = HEL
-	culture = greek
-	religion = sunni
-}
-
-
-1444.11.11 = {
-	owner = ANK
-	controller = ANK
-	add_core = ANK
-	culture = greek
+	owner = CIS
+	controller = CIS
+	add_core = CIS
+	culture = oghuz_turk
 	religion = sunni
 }

@@ -36,7 +36,6 @@ discovered_by = eastern
 	controller = MOR
 }
 
-
 1444.11.11 = {
 	owner = TLC
 	controller = TLC

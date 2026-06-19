@@ -1,10 +1,10 @@
 #2309 - Sinjar
-add_core = ERB
 
-owner = ERB
-controller = ERB
+owner = AFS
+controller = AFS
+add_core = AFS
 culture = kurdish
-religion = ecclesia_assyrica
+religion = shiite
 capital = "Sindjar"
 trade_goods = sugar
 hre = no
@@ -45,11 +45,10 @@ add_local_autonomy = 20
 1624.1.1 = { controller = PER }
 1638.12.24 = { controller = TUR }
 
-
 1444.11.11 = {
-	owner = ERB
-	controller = ERB
-	add_core = ERB
+	owner = AFS
+	controller = AFS
+	add_core = AFS
 	culture = kurdish
-	religion = ecclesia_assyrica
+	religion = shiite
 }

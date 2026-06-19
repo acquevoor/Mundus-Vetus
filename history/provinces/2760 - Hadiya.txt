@@ -1,0 +1,40 @@
+#2760 - Hadiya
+
+owner = NWS
+controller = NWS
+add_core = NWS
+add_core = HDY
+culture = amhara 
+religion = coptic
+capital = "Angacha"
+is_city = yes
+base_manpower = 2
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+
+1534.1.1 = {
+	discovered_by = ADA
+	owner = ADA
+	controller = ADA
+	add_core = ADA
+} # Ahmad Gran takes over region
+1544.1.1 = {
+	owner = ETH
+	controller = ETH
+	add_core = ETH
+	remove_core = ADA
+}
+
+1444.11.11 = {
+	owner = NWS
+	controller = NWS
+	add_core = NWS
+	culture = amhara
+	religion = coptic
+}

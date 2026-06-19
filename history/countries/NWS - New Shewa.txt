@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = amhara
+religion = coptic
+technology_group = east_african
+capital = 1213 # New Shewa
+
+1444.11.11 = {
+	monarch = {
+		name = "Yonas I"
+		dynasty = "Desta"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

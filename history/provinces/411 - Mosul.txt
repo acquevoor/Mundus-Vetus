@@ -1,11 +1,10 @@
 #411 - Mosul
-add_core = ERB
 
-owner = ERB
-controller = ERB
-add_core = Z05
+owner = AFS
+controller = AFS
+add_core = AFS
 culture = kurdish
-religion = ecclesia_assyrica
+religion = shiite
 capital = "Al Mawsil"
 trade_goods = cloth
 hre = no
@@ -49,16 +48,9 @@ add_local_autonomy = 20
 1638.12.24 = { controller = TUR }
 
 1444.11.11 = {
-	owner = Z05
-	controller = Z05
-	add_core = Z05
-}
-
-
-1444.11.11 = {
-	owner = ERB
-	controller = ERB
-	add_core = ERB
+	owner = AFS
+	controller = AFS
+	add_core = AFS
 	culture = kurdish
-	religion = ecclesia_assyrica
+	religion = shiite
 }

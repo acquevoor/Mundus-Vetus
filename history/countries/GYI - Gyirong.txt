@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = bihari
+religion = hinduism
+technology_group = indian
+capital = 4515 # Gyirong
+
+1444.11.11 = {
+	monarch = {
+		name = "Rambhadra Singh I"
+		dynasty = "Suri"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

@@ -1,10 +1,10 @@
 #4392 - Mardin
-add_core = ERB
 
-owner = ERB
-controller = ERB
+owner = AFS
+controller = AFS
+add_core = AFS
 culture = kurdish
-religion = ecclesia_assyrica
+religion = shiite
 capital = "Mardin"
 trade_goods = wool
 hre = no
@@ -41,11 +41,10 @@ discovered_by = nomad_group
 1722.1.1 = { unrest = 5 } # Rebellion against the Ottomans
 1730.1.1 = { unrest = 0 }
 
-
 1444.11.11 = {
-	owner = ERB
-	controller = ERB
-	add_core = ERB
+	owner = AFS
+	controller = AFS
+	add_core = AFS
 	culture = kurdish
-	religion = ecclesia_assyrica
+	religion = shiite
 }

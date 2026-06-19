@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = circassian
+religion = uatsdin
+technology_group = eastern
+capital = 4301 # Kartli
+
+1444.11.11 = {
+	monarch = {
+		name = "Tornik I"
+		dynasty = "Guaye"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

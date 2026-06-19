@@ -1,8 +1,8 @@
 #2225 - Bamyan
-add_core = GZN
 
 owner = GZN
 controller = GZN
+add_core = GZN
 culture = afghani
 religion = sunni
 capital = "Bamyan"
@@ -61,7 +61,6 @@ discovered_by = nomad_group
 	controller = AFG
 	remove_core = PER
 } # Ahmad Shah established the Durrani empire
-
 
 1444.11.11 = {
 	owner = GZN

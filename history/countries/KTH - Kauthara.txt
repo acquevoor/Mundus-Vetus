@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = cham
+religion = hinduism
+technology_group = chinese
+capital = 2374 # Kauthara
+
+1444.11.11 = {
+	monarch = {
+		name = "Keo Ban On I"
+		dynasty = "Phnom Penh"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

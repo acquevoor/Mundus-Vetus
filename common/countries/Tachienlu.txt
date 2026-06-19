@@ -1,0 +1,32 @@
+graphical_culture = asiangfx
+
+color = { 220 178 155 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Galdan I" = 100
+}
+
+leader_names = {
+	Mong
+}
+
+ship_names = {
+	Tachienlu
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}

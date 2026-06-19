@@ -1,8 +1,8 @@
 #2227 - Kunduz
-add_core = GZN
 
 owner = GZN
 controller = GZN
+add_core = GZN
 culture = afghani
 religion = sunni
 capital = "Kunduz"
@@ -63,7 +63,6 @@ add_local_autonomy = 25 #governed by Muhammad Juki
 	owner = AFG
 	controller = AFG
 } # Added to Afghan Empire
-
 
 1444.11.11 = {
 	owner = GZN

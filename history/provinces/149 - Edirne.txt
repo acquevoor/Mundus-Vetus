@@ -1,8 +1,8 @@
 #149 - Edirne
 
-owner = TRK
-controller = TRK
-add_core = TRK
+owner = WAL
+controller = WAL
+add_core = WAL
 culture = greek
 religion = orthodox
 capital = "Edirne"
@@ -43,9 +43,9 @@ base_production = 6 } # Lale Devri (the tulip age), not appreciated by everyone
 1795.1.1 = { unrest = 6 } # Reforms by Sultan Selim III, tried to replace th Janissary corps
 
 1444.11.11 = {
-	owner = TRK
-	controller = TRK
-	add_core = TRK
+	owner = WAL
+	controller = WAL
+	add_core = WAL
 	culture = greek
 	religion = orthodox
 }

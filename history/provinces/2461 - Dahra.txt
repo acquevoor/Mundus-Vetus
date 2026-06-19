@@ -24,7 +24,6 @@ discovered_by = eastern
 	controller = ALG
 }
 
-
 1444.11.11 = {
 	owner = TLC
 	controller = TLC

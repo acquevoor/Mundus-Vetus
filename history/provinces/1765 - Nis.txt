@@ -1,8 +1,8 @@
 #1765 - Sofia
 
-owner = TRK
-controller = TRK
-add_core = TRK
+owner = WAL
+controller = WAL
+add_core = WAL
 culture = greek
 religion = orthodox
 capital = "Sofia"
@@ -36,9 +36,9 @@ discovered_by = nomad_group
 1798.1.1 = { unrest = 0 }
 
 1444.11.11 = {
-	owner = TRK
-	controller = TRK
-	add_core = TRK
+	owner = WAL
+	controller = WAL
+	add_core = WAL
 	culture = greek
 	religion = orthodox
 }

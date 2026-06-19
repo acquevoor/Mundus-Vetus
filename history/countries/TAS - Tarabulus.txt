@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = al_suryah_arabic
+religion = al_ghulat
+technology_group = muslim
+capital = 378 # Tarabulus
+
+1444.11.11 = {
+	monarch = {
+		name = "Amr I"
+		dynasty = "Maanid"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

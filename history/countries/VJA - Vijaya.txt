@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = cham
+religion = hinduism
+technology_group = chinese
+capital = 607 # Vijaya
+
+1444.11.11 = {
+	monarch = {
+		name = "Srei Soriyopear I"
+		dynasty = "Stung Treng"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

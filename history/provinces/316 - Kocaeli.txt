@@ -1,8 +1,8 @@
 #316 - Izmit
 
-owner = BYZ
-controller = BYZ
-add_core = BYZ
+owner = CIS
+controller = CIS
+add_core = CIS
 culture = turkish
 religion = sunni
 capital = "Izmit"
@@ -42,7 +42,9 @@ base_production = 7 } # Lale Devri (the tulip age), not appreciated by everyone
 1808.6.29 = { revolt = {} controller = TUR } # Mahmud II takes the throne
 
 1444.11.11 = {
-	owner = BYZ
-	controller = BYZ
-	add_core = BYZ
+	owner = CIS
+	controller = CIS
+	add_core = CIS
+	culture = turkish
+	religion = sunni
 }

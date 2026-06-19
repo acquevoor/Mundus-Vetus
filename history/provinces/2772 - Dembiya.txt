@@ -1,12 +1,12 @@
 #2772 - Dembiya
 
-owner = Z11
-controller = Z11
-add_core = Z11
+owner = AGE
+controller = AGE
+add_core = AGE
 add_core = ETH
 add_core = BTI
 culture = amhara 
-religion = jewish
+religion = coptic
 capital = "Gorgora"
 is_city = yes
 base_manpower = 2
@@ -60,7 +60,9 @@ discovered_by = indian
 1771.1.1 = { unrest = 0 } #Ras Mikael deposed
 
 1444.11.11 = {
-	owner = Z11
-	controller = Z11
-	add_core = Z11
+	owner = AGE
+	controller = AGE
+	add_core = AGE
+	culture = amhara
+	religion = coptic
 }

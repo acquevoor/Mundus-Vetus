@@ -1,0 +1,32 @@
+graphical_culture = muslimgfx
+
+color = { 109 123 82 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Aamira I" = 100
+}
+
+leader_names = {
+	Safavid
+}
+
+ship_names = {
+	Shamakhi
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}

@@ -1,10 +1,9 @@
 #318 - Sugla
-add_core = ANK
 
-owner = ANK
-controller = ANK
-add_core = HEL
-culture = greek #Should not be Greek or Orthodox in 1444. Its status as a majority Greek city dates to at least after the 17th Century
+owner = CIS
+controller = CIS
+add_core = CIS
+culture = oghuz_turk #Should not be Greek or Orthodox in 1444. Its status as a majority Greek city dates to at least after the 17th Century
 religion = sunni
 capital = "Izmirni"
 trade_goods = cotton #Major producer and exporter of Cotton
@@ -39,18 +38,9 @@ base_production = 2 } # The Decentralizing Effect of the Provincial System
 }
 
 1444.11.11 = {
-	owner = HEL
-	controller = HEL
-	add_core = HEL
-	culture = greek
-	religion = sunni
-}
-
-
-1444.11.11 = {
-	owner = ANK
-	controller = ANK
-	add_core = ANK
-	culture = greek
+	owner = CIS
+	controller = CIS
+	add_core = CIS
+	culture = oghuz_turk
 	religion = sunni
 }

@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = afar
+religion = sunni
+technology_group = east_african
+capital = 2775 # Merca
+
+1444.11.11 = {
+	monarch = {
+		name = "Abadir I"
+		dynasty = "Mirifle"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

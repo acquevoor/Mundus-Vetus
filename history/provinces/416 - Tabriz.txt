@@ -1,10 +1,10 @@
 #416 - Azerbaijan
 
-owner = Z14
-controller = Z14
-add_core = Z14
+owner = NAN
+controller = NAN
+add_core = NAN
 culture = azerbaijani
-religion = shiite
+religion = al_ghulat
 capital = "Tabriz"
 trade_goods = silk
 hre = no
@@ -58,7 +58,9 @@ center_of_trade = 2
 }
 
 1444.11.11 = {
-	owner = Z14
-	controller = Z14
-	add_core = Z14
+	owner = NAN
+	controller = NAN
+	add_core = NAN
+	culture = azerbaijani
+	religion = al_ghulat
 }

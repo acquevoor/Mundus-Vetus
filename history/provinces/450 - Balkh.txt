@@ -1,8 +1,8 @@
 #450 - Balkh
-add_core = GZN
 
 owner = GZN
 controller = GZN
+add_core = GZN
 culture = afghani
 religion = sunni
 capital = "Balkh"
@@ -60,7 +60,6 @@ add_local_autonomy = 25 #governed by Muhammad Juki
 1737.1.1 = { owner = PER controller = PER } #Conquered by Nadir Shah
 1748.1.1 = { owner = BUK controller = BUK }
 1751.1.1 = { owner = AFG controller = AFG } # Added to Afghan Empire
-
 
 1444.11.11 = {
 	owner = GZN

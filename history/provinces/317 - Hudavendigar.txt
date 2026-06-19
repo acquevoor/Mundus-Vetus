@@ -1,9 +1,8 @@
 #317 - Bursa
-add_core = ANK
 
-owner = ANK
-controller = ANK
-add_core = BYZ
+owner = CIS
+controller = CIS
+add_core = CIS
 culture = turkish
 religion = sunni
 capital = "Bursa"
@@ -36,16 +35,9 @@ center_of_trade = 2
 1795.1.1 = { unrest = 6 } # Reforms by Sultan Selim III, tried to replace the Janissary corps
 
 1444.11.11 = {
-	owner = BYZ
-	controller = BYZ
-	add_core = BYZ
-}
-
-
-1444.11.11 = {
-	owner = ANK
-	controller = ANK
-	add_core = ANK
+	owner = CIS
+	controller = CIS
+	add_core = CIS
 	culture = turkish
 	religion = sunni
 }

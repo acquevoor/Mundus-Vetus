@@ -1,10 +1,9 @@
 #325 - Kastamonu
-add_core = ANK
 
-owner = ANK
-controller = ANK
-add_core = HEL
-culture = greek
+owner = CIS
+controller = CIS
+add_core = CIS
+culture = oghuz_turk
 religion = sunni
 capital = "Kastamonu"
 trade_goods = copper
@@ -32,18 +31,9 @@ discovered_by = nomad_group
 1740.1.1 = { base_tax = 5 base_production = 5 } # The decentralizing effect of the provincial system
 
 1444.11.11 = {
-	owner = HEL
-	controller = HEL
-	add_core = HEL
-	culture = greek
-	religion = sunni
-}
-
-
-1444.11.11 = {
-	owner = ANK
-	controller = ANK
-	add_core = ANK
-	culture = greek
+	owner = CIS
+	controller = CIS
+	add_core = CIS
+	culture = oghuz_turk
 	religion = sunni
 }

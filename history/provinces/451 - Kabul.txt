@@ -1,8 +1,8 @@
 #451 - Kabulistan
-add_core = GZN
 
 owner = GZN
 controller = GZN
+add_core = GZN
 culture = afghani
 religion = sunni
 capital = "Kabul"
@@ -63,7 +63,6 @@ center_of_trade = 2
 	remove_core = PER
 } # Ahmad Shah established the Durrani empire
 1772.1.1 = { capital = "Kabal" }
-
 
 1444.11.11 = {
 	owner = GZN

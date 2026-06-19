@@ -1,10 +1,10 @@
 #410 - Iraq-i-Arab
 
-owner = Z13
-controller = Z13
-add_core = Z13
+owner = AFS
+controller = AFS
+add_core = AFS
 culture = al_iraqiya_arabic
-religion = sunni
+religion = shiite
 capital = "Baghdad"
 trade_goods = cloth
 hre = no
@@ -51,7 +51,9 @@ add_local_autonomy = 20
 1638.12.24 = { controller = TUR }
 
 1444.11.11 = {
-	owner = Z13
-	controller = Z13
-	add_core = Z13
+	owner = AFS
+	controller = AFS
+	add_core = AFS
+	culture = al_iraqiya_arabic
+	religion = shiite
 }
