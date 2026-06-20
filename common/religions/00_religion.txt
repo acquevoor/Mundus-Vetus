@@ -2612,7 +2612,7 @@ muslim = {
 	}
 	
 	sunni = {
-		color = { 0 153 0 }
+		color = { 255 255 255 }
 		icon = 5
 		allowed_center_conversion = {
 			ibadi
@@ -2636,7 +2636,7 @@ muslim = {
 	}
 
 	shiite = {
-		color = { 0 204 0 }
+		color = { 100 204 100 }
 		icon = 6	
 		allowed_center_conversion = {
 			sunni
@@ -2660,7 +2660,7 @@ muslim = {
 	}
 	
 	ibadi = {
-		color = { 0 102 0 }
+		color = { 204 50 50 }
 		icon = 16	
 		allowed_center_conversion = {
 			sunni
@@ -3190,7 +3190,7 @@ eastern = {
 	flag_emblem_index_range = { 58 80 }
 
 	buddhism = { #Theravada
-		color = { 204 76 0 }
+		color = { 255 255 0 }
 		icon = 24
 		allowed_conversion = {
 			vajrayana
@@ -3221,7 +3221,7 @@ eastern = {
 	}
 	
 	vajrayana = {
-		color = { 204 76 76 }
+		color = { 150 10 10 }
 		icon = 25
 		allowed_conversion = {
 			mahayana
@@ -3252,7 +3252,7 @@ eastern = {
 	}
 	
 	mahayana = {
-		color = { 204 76 127 }
+		color = { 255 204 229 }
 		icon = 23
 		allowed_conversion = {
 			vajrayana
@@ -3283,7 +3283,7 @@ eastern = {
 	}
 
 	confucianism = {
-		color = { 214 229 140 }
+		color = { 200 0 0 }
 		icon = 9
 		country = {
 			tolerance_heretic = 2
@@ -3298,7 +3298,7 @@ eastern = {
 	}
 
 	shinto = {
-		color = { 204 0 0 }
+		color = { 239 134 176 }
 		icon = 10
 		country = {
 			land_morale = 0.1
@@ -3641,7 +3641,7 @@ dharmic = {
 	flag_emblem_index_range = { 61 82 } #Many shared with Eastern
 
 	hinduism = {
-		color = { 0 204 204 }
+		color = { 214 86 10 }
 		icon = 8
 		allowed_conversion = {
 			sikhism
@@ -4557,7 +4557,7 @@ pagan = {
 	flag_emblem_index_range = { 83 96 }
 
 	animism = {
-		color = { 127 0 0 }
+		color = { 75 25 25 }
 		icon = 11
 		country = {
 			tolerance_own = 1
@@ -4609,7 +4609,7 @@ pagan = {
 	}
 	
 	inti = {
-		color = { 64 115 115 }
+		color = { 100 100 0 }
 		icon = 18
 		country = {
 			tolerance_own = 2
@@ -4634,7 +4634,7 @@ pagan = {
 	}
 	
 	nahuatl = {
-		color = { 64 115 64 }
+		color = { 0 255 0 }
 		icon = 17
 		country = {
 			land_morale = 0.1
