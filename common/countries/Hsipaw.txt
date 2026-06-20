@@ -1,6 +1,6 @@
 graphical_culture = southeastasiangfx
 
-color = { 255 215 0 }
+color = { 186  147  251 }
 
 revolutionary_colors = { 1 1 1 }
 

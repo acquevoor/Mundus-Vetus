@@ -1,5 +1,5 @@
 graphical_culture = indiangfx
-color = { 134 166 202 }
+color = { 233  88  88 }
 historical_idea_groups = {
 	# generic ideas
 }
