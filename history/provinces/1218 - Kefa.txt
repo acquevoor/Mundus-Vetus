@@ -1,11 +1,10 @@
 #1218 - Sidamo
 
-owner = NWS
-controller = NWS
-add_core = NWS
+owner = WLY
+controller = WLY
 add_core = WLY
-culture = amhara 
-religion = coptic
+culture = sidamo 
+religion = shamanism
 capital = "Irgalem"
 is_city = yes
 base_manpower = 2
@@ -35,9 +34,7 @@ discovered_by = indian
 1698.1.1 = { unrest = 0 }
 
 1444.11.11 = {
-	owner = NWS
-	controller = NWS
-	add_core = NWS
-	culture = amhara
-	religion = coptic
+	owner = SOA
+	controller = SOA
+	add_core = SOA
 }

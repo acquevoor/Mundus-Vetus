@@ -1,10 +1,9 @@
 #463 - Circassia
 
-owner = NWC
-controller = NWC
-add_core = NWC
+owner = CIR
+controller = CIR
 culture = circassian
-religion = uatsdin
+religion = orthodox
 capital = "Adyche"
 trade_goods = livestock
 hre = no
@@ -28,9 +27,7 @@ discovered_by = nomad_group
 } # Annexed by Russia
 
 1444.11.11 = {
-	owner = NWC
-	controller = NWC
-	add_core = NWC
-	culture = circassian
-	religion = uatsdin
+	owner = CIR
+	controller = CIR
+	add_core = CIR
 }

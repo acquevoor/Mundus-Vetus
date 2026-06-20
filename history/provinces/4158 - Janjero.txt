@@ -1,11 +1,10 @@
 #4158 - Janjero
 
-owner = NWS
-controller = NWS
-add_core = NWS
+owner = JJI
+controller = JJI
 add_core = JJI
-culture = amhara
-religion = coptic
+culture = sidamo
+religion = shamanism
 capital = "Fofa"
 is_city = yes
 base_manpower = 1
@@ -19,11 +18,8 @@ discovered_by = muslim
 
 
 
-
 1444.11.11 = {
-	owner = NWS
-	controller = NWS
-	add_core = NWS
-	culture = amhara
-	religion = coptic
+	owner = SOA
+	controller = SOA
+	add_core = SOA
 }

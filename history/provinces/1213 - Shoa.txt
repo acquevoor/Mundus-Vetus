@@ -1,11 +1,10 @@
 #1213 - Shoa
 
-owner = NWS
-controller = NWS
-add_core = NWS
+owner = ETH
+controller = ETH
 add_core = ETH
 culture = amhara 
-religion = coptic
+religion = sunni
 capital = "Badeqe"
 is_city = yes
 base_manpower = 3
@@ -55,9 +54,7 @@ discovered_by = indian
 1772.1.1 = { unrest = 0 }
 
 1444.11.11 = {
-	owner = NWS
-	controller = NWS
-	add_core = NWS
-	culture = amhara
-	religion = coptic
+	owner = SOA
+	controller = SOA
+	add_core = SOA
 }

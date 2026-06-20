@@ -1,11 +1,10 @@
 #1227 - Tigre
 
-owner = NWA
-controller = NWA
-add_core = NWA
+owner = ETH
+controller = ETH
 add_core = ETH
 add_core = BTI
-culture = amhara 
+culture = tigray 
 religion = coptic #But also significant Jewish minority
 capital = "Debarwa"
 is_city = yes
@@ -50,9 +49,7 @@ discovered_by = indian
 1772.1.1 = { unrest = 0 }
 
 1444.11.11 = {
-	owner = NWA
-	controller = NWA
-	add_core = NWA
-	culture = amhara
-	religion = coptic
+	owner = AKS
+	controller = AKS
+	add_core = AKS
 }

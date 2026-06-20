@@ -1,8 +1,7 @@
 #2762 - Damot
 
-owner = NWS
-controller = NWS
-add_core = NWS
+owner = DAM
+controller = DAM
 add_core = DAM
 culture = amhara 
 religion = coptic
@@ -25,11 +24,8 @@ discovered_by = indian
 	controller = ETH
 	add_core = ETH
 }
-
 1444.11.11 = {
-	owner = NWS
-	controller = NWS
-	add_core = NWS
-	culture = amhara
-	religion = coptic
+	owner = SOA
+	controller = SOA
+	add_core = SOA
 }

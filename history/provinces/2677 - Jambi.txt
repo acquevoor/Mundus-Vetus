@@ -1,10 +1,9 @@
 #2677 - Jambi
 
-owner = NEW
-controller = NEW
-add_core = NEW
+owner = JMB
+controller = JMB
 culture = sumatran
-religion = vajrayana
+religion = sunni
 capital = "Jambi"
 trade_goods = incense
 hre = no
@@ -21,10 +20,9 @@ discovered_by = ottoman
 1405.1.1 = { discovered_by = MNG }
 1509.1.1 = { discovered_by = POR }
 
+
 1444.11.11 = {
-	owner = NEW
-	controller = NEW
-	add_core = NEW
-	culture = sumatran
-	religion = vajrayana
+	owner = JMB
+	controller = JMB
+	add_core = JMB
 }

@@ -1,10 +1,9 @@
 #2681 - Pagarruyung
 
-owner = NEG
-controller = NEG
-add_core = NEG
+owner = PGR
+controller = PGR
 culture = sumatran
-religion = vajrayana
+religion = buddhism
 capital = "Pagarruyung"
 trade_goods = gold
 hre = no
@@ -24,10 +23,9 @@ discovered_by = ottoman
 1405.1.1 = { discovered_by = MNG }
 1509.1.1 = { discovered_by = POR }
 
+
 1444.11.11 = {
-	owner = NEG
-	controller = NEG
-	add_core = NEG
-	culture = sumatran
-	religion = vajrayana
+	owner = PGR
+	controller = PGR
+	add_core = PGR
 }

@@ -1,10 +1,9 @@
 #424 - Ardabil
 
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = ARL
+controller = ARL
 culture = azerbaijani
-religion = al_ghulat
+religion = shiite
 capital = "Ardabil"
 trade_goods = dyes
 hre = no
@@ -47,11 +46,8 @@ discovered_by = nomad_group
 	owner = PER
 	controller = PER
 }
-
 1444.11.11 = {
-	owner = NAN
-	controller = NAN
-	add_core = NAN
-	culture = azerbaijani
-	religion = al_ghulat
+	owner = SRV
+	controller = SRV
+	add_core = SRV
 }

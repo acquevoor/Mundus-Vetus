@@ -1,11 +1,10 @@
 #2768 - Ashenge
 
-owner = NWA
-controller = NWA
-add_core = NWA
+owner = ETH
+controller = ETH
 add_core = ETH
-culture = amhara
-religion = coptic
+culture = afar
+religion = sunni
 capital = "Manadeley"
 is_city = yes
 base_manpower = 1
@@ -40,9 +39,7 @@ discovered_by = indian
 1648.1.1 = { unrest = 0 }
 
 1444.11.11 = {
-	owner = NWA
-	controller = NWA
-	add_core = NWA
-	culture = amhara
-	religion = coptic
+	owner = AKS
+	controller = AKS
+	add_core = AKS
 }

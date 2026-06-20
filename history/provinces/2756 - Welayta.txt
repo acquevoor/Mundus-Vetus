@@ -1,11 +1,10 @@
 #2756 - Welayta
 
-owner = NWS
-controller = NWS
-add_core = NWS
+owner = WLY
+controller = WLY
 add_core = WLY
-culture = amhara 
-religion = coptic
+culture = sidamo 
+religion = shamanism
 capital = "Bonga"
 is_city = yes
 base_manpower = 2
@@ -17,11 +16,8 @@ add_local_autonomy = 25
 discovered_by = east_african
 discovered_by = muslim
 
-
 1444.11.11 = {
-	owner = NWS
-	controller = NWS
-	add_core = NWS
-	culture = amhara
-	religion = coptic
+	owner = SOA
+	controller = SOA
+	add_core = SOA
 }

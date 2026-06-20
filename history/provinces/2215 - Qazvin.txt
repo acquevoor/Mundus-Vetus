@@ -1,10 +1,9 @@
 #2215 - Qazvin
 
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = TIM
+controller = TIM
 culture = azerbaijani
-religion = al_ghulat
+religion = sunni
 capital = "Qazvin"
 trade_goods = silk
 hre = no
@@ -61,9 +60,7 @@ discovered_by = indian
 1779.1.1 = { unrest = 0 } # With the Qajar dynasty the situation stabilized
 
 1444.11.11 = {
-	owner = NAN
-	controller = NAN
-	add_core = NAN
-	culture = azerbaijani
-	religion = al_ghulat
+	owner = SRV
+	controller = SRV
+	add_core = SRV
 }

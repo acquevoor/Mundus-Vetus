@@ -4,11 +4,10 @@ latent_trade_goods = {
 	coal
 }
 
-owner = NTI
-controller = NTI
-add_core = NTI
-culture = circassian
-religion = uatsdin
+owner = GEO
+controller = GEO
+culture = georgian
+religion = orthodox
 capital = "Kutaisi"
 trade_goods = cloth
 hre = no
@@ -41,9 +40,7 @@ add_local_autonomy = 50
 } # Annexed by Russia
 
 1444.11.11 = {
-	owner = NTI
-	controller = NTI
-	add_core = NTI
-	culture = circassian
-	religion = uatsdin
+	owner = IME
+	controller = IME
+	add_core = IME
 }

@@ -1,10 +1,9 @@
 #4340 - Astara
 
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = BPI
+controller = BPI
 culture = azerbaijani
-religion = al_ghulat
+religion = shiite
 capital = "Astara"
 trade_goods = fish
 hre = no
@@ -54,11 +53,8 @@ discovered_by = nomad_group
 	owner = PER
 	controller = PER
 }
-
 1444.11.11 = {
-	owner = NAN
-	controller = NAN
-	add_core = NAN
-	culture = azerbaijani
-	religion = al_ghulat
+	owner = SRV
+	controller = SRV
+	add_core = SRV
 }

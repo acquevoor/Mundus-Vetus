@@ -1,10 +1,7 @@
 #622 - Palembang
-owner = NWP
-controller = NWP
-add_core = NWP
 
 culture = sumatran
-religion = vajrayana
+religion = hinduism
 capital = "Palembang"
 trade_goods = unknown
 hre = no
@@ -20,7 +17,6 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 8
 center_of_trade = 1
-is_city = yes
 
 1444.1.1 = {
 	owner = PLB
@@ -34,9 +30,7 @@ is_city = yes
 1509.1.1 = { discovered_by = POR religion = sunni }
 
 1444.11.11 = {
-	owner = NWP
-	controller = NWP
-	add_core = NWP
-	culture = sumatran
-	religion = vajrayana
+	owner = PLB
+	controller = PLB
+	add_core = PLB
 }

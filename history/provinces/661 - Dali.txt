@@ -1,11 +1,10 @@
 #661 - Dali
 
-owner = NWD
-controller = NWD
-add_core = NWD
+owner = MNG
+controller = MNG
 add_core = MNG
-culture = yi
-religion = vajrayana
+culture = bai
+religion = buddhism
 capital = "Dali"
 trade_goods = tea
 hre = no
@@ -36,9 +35,7 @@ discovered_by = nomad_group
 }
 
 1444.11.11 = {
-	owner = NWD
-	controller = NWD
-	add_core = NWD
-	culture = yi
-	religion = vajrayana
+	owner = CDL
+	controller = CDL
+	add_core = CDL
 }

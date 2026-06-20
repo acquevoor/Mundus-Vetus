@@ -1,10 +1,9 @@
 #4339 - Rasht
 
-owner = NAN
-controller = NAN
-add_core = NAN
+owner = BPI
+controller = BPI
 culture = mazandarani
-religion = al_ghulat
+religion = sunni
 capital = "Rasht"
 trade_goods = silk
 hre = no
@@ -49,9 +48,7 @@ discovered_by = nomad_group
 1779.1.1 = { unrest = 0 } # With the Qajar dynasty the situation stabilized
 
 1444.11.11 = {
-	owner = NAN
-	controller = NAN
-	add_core = NAN
-	culture = mazandarani
-	religion = al_ghulat
+	owner = SRV
+	controller = SRV
+	add_core = SRV
 }

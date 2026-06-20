@@ -1,11 +1,10 @@
 #2760 - Hadiya
 
-owner = NWS
-controller = NWS
-add_core = NWS
+owner = HDY
+controller = HDY
 add_core = HDY
-culture = amhara 
-religion = coptic
+culture = sidamo 
+religion = sunni
 capital = "Angacha"
 is_city = yes
 base_manpower = 2
@@ -30,11 +29,8 @@ discovered_by = indian
 	add_core = ETH
 	remove_core = ADA
 }
-
 1444.11.11 = {
-	owner = NWS
-	controller = NWS
-	add_core = NWS
-	culture = amhara
-	religion = coptic
+	owner = SOA
+	controller = SOA
+	add_core = SOA
 }
