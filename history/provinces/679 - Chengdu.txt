@@ -1,11 +1,11 @@
 #679 - Sichuan Pendi
-add_core = DIN
 
-owner = DIN
-controller = DIN
+owner = MNN
+controller = MNN
+add_core = MNN
 add_core = MNG
 culture = zhongyuan
-religion = confucianism
+religion = vajrayana
 capital = "Chengdu"
 trade_goods = silk
 hre = no
@@ -33,11 +33,10 @@ center_of_trade = 2
 1673.12.1 = { controller = CZH } # Three Feudatories revolt
 1680.1.1 = { controller = QNG }
 
-
 1444.11.11 = {
-	owner = DIN
-	controller = DIN
-	add_core = DIN
+	owner = MNN
+	controller = MNN
+	add_core = MNN
 	culture = zhongyuan
-	religion = confucianism
+	religion = vajrayana
 }

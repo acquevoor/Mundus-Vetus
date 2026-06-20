@@ -1,8 +1,8 @@
 #435 - Sistan
-add_core = QTL
 
-owner = QTL
-controller = QTL
+owner = QUM
+controller = QUM
+add_core = QUM
 culture = persian
 religion = al_mutazila
 capital = "Zaranj"
@@ -43,11 +43,10 @@ base_production = 3 } # The Reforms of Abbas the Great
 	remove_core = PER
 } # Ahmad Shah established the Durrani empire
 
-
 1444.11.11 = {
-	owner = QTL
-	controller = QTL
-	add_core = QTL
+	owner = QUM
+	controller = QUM
+	add_core = QUM
 	culture = persian
 	religion = al_mutazila
 }

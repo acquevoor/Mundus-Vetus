@@ -1,8 +1,8 @@
 # 2118 - Urzhar
-add_core = IMR
 
-owner = IMR
-controller = IMR
+owner = KYR
+controller = KYR
+add_core = KYR
 add_core = OIR
 culture = uzbehk
 religion = tengri_pagan_reformed
@@ -32,11 +32,10 @@ discovered_by = nomad_group
 	add_core = QNG
 }
 
-
 1444.11.11 = {
-	owner = IMR
-	controller = IMR
-	add_core = IMR
+	owner = KYR
+	controller = KYR
+	add_core = KYR
 	culture = uzbehk
 	religion = tengri_pagan_reformed
 }

@@ -1,5 +1,4 @@
 #291 - Kharkov
-add_core = MNC
 
 latent_trade_goods = {
 	coal
@@ -7,6 +6,7 @@ latent_trade_goods = {
 
 owner = MNC
 controller = MNC
+add_core = MNC
 culture = khazar
 religion = tengri_pagan_reformed
 hre = no
@@ -35,8 +35,7 @@ discovered_by = nomad_group
 	add_core = RUS
 	remove_core = ZAZ
 	capital = "Kharkov" 
-} 
-
+}
 
 1444.11.11 = {
 	owner = MNC

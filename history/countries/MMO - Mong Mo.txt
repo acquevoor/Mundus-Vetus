@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = chin
+religion = adivasi
+technology_group = indian
+capital = 2166 # Mong Mo
+
+1444.11.11 = {
+	monarch = {
+		name = "Paamheiba I"
+		dynasty = "Chandrakirti"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

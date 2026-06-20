@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = al_suryah_arabic
+religion = sunni
+technology_group = muslim
+capital = 1855 # Sidon
+
+1444.11.11 = {
+	monarch = {
+		name = "Marwa I"
+		dynasty = "al-Qazdughli"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

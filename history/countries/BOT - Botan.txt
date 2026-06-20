@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = armenian
+religion = yazidi
+technology_group = eastern
+capital = 4296 # Botan
+
+1444.11.11 = {
+	monarch = {
+		name = "Eshkhan I"
+		dynasty = "Argutinsky-Dolgorukov"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

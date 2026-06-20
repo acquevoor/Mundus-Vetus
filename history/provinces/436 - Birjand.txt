@@ -1,8 +1,8 @@
 #436 - Birjand
-add_core = QTL
 
-owner = QTL
-controller = QTL
+owner = QUM
+controller = QUM
+add_core = QUM
 culture = persian
 religion = al_mutazila
 capital = "Birjand"
@@ -62,11 +62,10 @@ base_production = 3 } # The Reforms of Abbas the Great
 1802.1.1 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Nadir Mirza revolt against Qajar Shah
 1803.4.1 = { revolt = {} controller = PER } # Nadir Mirza is killed
 
-
 1444.11.11 = {
-	owner = QTL
-	controller = QTL
-	add_core = QTL
+	owner = QUM
+	controller = QUM
+	add_core = QUM
 	culture = persian
 	religion = al_mutazila
 }

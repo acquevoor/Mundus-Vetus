@@ -1,0 +1,34 @@
+#2758 - Illubabor
+
+owner = KAF
+controller = KAF
+add_core = KAF
+add_core = ENA
+culture = sidamo
+religion = coptic
+capital = "Illubabor"
+is_city = yes
+base_manpower = 2
+trade_goods = slaves
+hre = no
+base_tax = 2 
+base_production = 3
+discovered_by = east_african
+discovered_by = muslim
+
+1650.1.1 = {
+	culture = oromo
+}
+1710.1.1 = {
+	owner = ETH
+	controller = ETH
+	add_core = ETH
+}
+
+1444.11.11 = {
+	owner = KAF
+	controller = KAF
+	add_core = KAF
+	culture = sidamo
+	religion = coptic
+}

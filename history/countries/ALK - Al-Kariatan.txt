@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = bedouin_arabic
+religion = sunni
+technology_group = muslim
+capital = 4273 # Al-Kariatan
+
+1444.11.11 = {
+	monarch = {
+		name = "Sahba I"
+		dynasty = "Nabhani"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

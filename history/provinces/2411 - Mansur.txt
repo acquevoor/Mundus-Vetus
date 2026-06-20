@@ -1,8 +1,8 @@
 #2411 - Mansur
-add_core = MNC
 
 owner = MNC
 controller = MNC
+add_core = MNC
 culture = khazar
 religion = tengri_pagan_reformed
 hre = no
@@ -32,7 +32,6 @@ discovered_by = nomad_group
 1736.6.30 = { controller = RUS } # Taken by the army during the Russo-Turkish War
 1739.9.29 = { owner = RUS add_core = RUS remove_core = TUR capital = "Ekaterinoslav" } # Treaty of Belgrad
 1775.5.7 = { remove_core = ZAZ } # Zaporozhian host abolished
-
 
 1444.11.11 = {
 	owner = MNC

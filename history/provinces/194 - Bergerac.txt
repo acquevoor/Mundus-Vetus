@@ -5,13 +5,13 @@ controller = GUY
 capital = "Bergerac"
 is_city = yes
 culture = gascon
-religion = cathar
+religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 3
-#add_core = FRA
+add_core = FRA
 add_core = GUY
 discovered_by = eastern
 discovered_by = western
@@ -42,3 +42,10 @@ base_production = 4 } # At the walls of Paris - French War of Religion
 1686.1.17 = { religion = catholic } # Dragonnard campaign succesful: region reverts back to catholicism
 1689.1.1 = { unrest = 0 } # War of the Grand Alliance erupts: Louis XIV can't persue his religious policy anymore
 1749.1.1 = { base_tax = 5 base_production = 5 } # Machault and the 5% tax
+
+1444.11.11 = {
+	owner = GUY
+	controller = GUY
+	add_core = GUY
+	culture = gascon
+}

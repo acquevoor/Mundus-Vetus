@@ -1,11 +1,10 @@
 #2783 - Hobyo
 
-owner = NWH
-controller = NWH
-add_core = NWH
+owner = HOB
+controller = HOB
 add_core = AJU
 add_core = HOB
-culture = afar
+culture = somali
 religion = sunni
 capital = "Hobyo"
 trade_goods = grain
@@ -31,9 +30,7 @@ discovered_by = ottoman
 1650.1.1 = { owner = HOB controller = HOB remove_core = AJU }
 
 1444.11.11 = {
-	owner = NWH
-	controller = NWH
-	add_core = NWH
-	culture = afar
-	religion = sunni
+	owner = HOB
+	controller = HOB
+	add_core = HOB
 }

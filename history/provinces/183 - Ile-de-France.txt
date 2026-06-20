@@ -59,3 +59,11 @@ base_production = 15 } # Richelieu
 	revolt = {}
 	controller = FRA
 } # The establishment of the First Republic
+
+1444.11.11 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	culture = cosmopolitan_french
+	religion = catholic
+}

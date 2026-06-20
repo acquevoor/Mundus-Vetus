@@ -1,0 +1,120 @@
+# Mundus Vetus - Somali daimyo subjects
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = ZEI
+	second = HRG
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = ZEI
+	second = BEA
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = ZEI
+	second = TGD
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = ZEI
+	second = SAN
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = BSA
+	second = LAS
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = BSA
+	second = HAF
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = BSA
+	second = QRD
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = BSA
+	second = GAR
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = HOB
+	second = MGH
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = HOB
+	second = WRS
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = HOB
+	second = ELB
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = HOB
+	second = BLD
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = MDI
+	second = MRC
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = MDI
+	second = BWA
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = MDI
+	second = KIS
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = MDI
+	second = AFO
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}
+dependency = {
+	subject_type = "daimyo_vassal"
+	first = MDI
+	second = BRD
+	start_date = 1444.11.11
+	end_date = 9999.1.1
+}

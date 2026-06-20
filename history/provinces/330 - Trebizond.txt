@@ -40,4 +40,6 @@ center_of_trade = 1
 	owner = TRE
 	controller = TRE
 	add_core = TRE
+	culture = turkish
+	religion = marcionismus
 }

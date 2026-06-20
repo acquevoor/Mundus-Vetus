@@ -1,7 +1,8 @@
 # 4111 - Vendée
 
-owner = FRA
-controller = FRA
+owner = ANJ
+controller = ANJ
+add_core = ANJ
 capital = "Luçon"
 is_city = yes
 culture = cosmopolitan_french
@@ -42,3 +43,11 @@ center_of_trade = 1
 1685.10.18 = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
 1686.1.17 = { religion = catholic } # Dragonnard campaign succesful: region reverts back to catholicism
 1689.1.1 = { unrest = 0 } # War of the Grand Alliance erupts: Louis XIV can't persue his religious policy anymore
+
+1444.11.11 = {
+	owner = ANJ
+	controller = ANJ
+	add_core = ANJ
+	culture = cosmopolitan_french
+	religion = catholic
+}

@@ -1,8 +1,8 @@
 #467 - Borisoglebsk
-add_core = MNC
 
 owner = MNC
 controller = MNC
+add_core = MNC
 culture = khazar
 religion = tengri_pagan_reformed
 capital = "Borisoglebsk"
@@ -31,7 +31,6 @@ discovered_by = western
 1650.1.1 = { religion = orthodox }
 1773.9.13 = { revolt = { type = anti_tax_rebels size = 1 name = "Yemelyan Pugachev" } controller = REB unrest = 6 } # Pugachev rebellion
 1775.2.1 = { revolt = {} controller = RUS unrest = 0 } # Pugachev is captured
-
 
 1444.11.11 = {
 	owner = MNC

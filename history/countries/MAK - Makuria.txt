@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = nubian
+religion = coptic
+technology_group = east_african
+capital = 1234 # Makuria
+
+1444.11.11 = {
+	monarch = {
+		name = "Adlân I"
+		dynasty = "Bigawi"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

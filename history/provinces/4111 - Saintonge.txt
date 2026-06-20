@@ -1,7 +1,8 @@
 # 4111 - Saintonge and Aunis
 
-owner = FRA
-controller = FRA
+owner = ANJ
+controller = ANJ
+add_core = ANJ
 capital = "Saintes"
 is_city = yes
 culture = cosmopolitan_french
@@ -44,3 +45,11 @@ discovered_by = ottoman
 1689.1.1 = { unrest = 0 } # War of the Grand Alliance erupts: Louis XIV can't persue his religious policy anymore
 1715.1.1 = { fort_17th = no fort_18th = yes }
 1749.1.1 = { base_tax = 6 base_production = 6 } # Machault and the 5% tax
+
+1444.11.11 = {
+	owner = ANJ
+	controller = ANJ
+	add_core = ANJ
+	culture = cosmopolitan_french
+	religion = catholic
+}

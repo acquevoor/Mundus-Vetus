@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = persian
+religion = al_mutazila
+technology_group = muslim
+capital = 427 # Qumis
+
+1444.11.11 = {
+	monarch = {
+		name = "'Abbâs I"
+		dynasty = "Zaman"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

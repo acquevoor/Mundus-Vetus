@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = nubian
+religion = coptic
+technology_group = east_african
+capital = 2797 # Dongola
+
+1444.11.11 = {
+	monarch = {
+		name = "Ñonnen I"
+		dynasty = "Hedareb"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

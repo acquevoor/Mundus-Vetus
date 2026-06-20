@@ -1,7 +1,8 @@
 # 178 Anjou - Principal cities: Angers
 
-owner = ALE
-controller = ALE 
+owner = ANJ
+controller = ANJ 
+add_core = ANJ
 capital = "Angers"
 is_city = yes
 culture = cosmopolitan_french
@@ -11,7 +12,7 @@ base_tax = 5
 base_production = 5
 trade_goods = cloth
 base_manpower = 5
-add_core = ALE
+add_core = PRO
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western
@@ -44,3 +45,11 @@ discovered_by = ottoman
 1658.1.1 = { unrest = 0 }
 1685.10.18 = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
 1686.1.17 = { religion = catholic unrest = 0 } # Dragonnard campaign succesful: region reverts back to catholicism
+
+1444.11.11 = {
+	owner = ANJ
+	controller = ANJ
+	add_core = ANJ
+	culture = cosmopolitan_french
+	religion = catholic
+}

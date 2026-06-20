@@ -1,8 +1,8 @@
 #433 - Yadz
-add_core = QTL
 
-owner = QTL
-controller = QTL
+owner = QUM
+controller = QUM
+add_core = QUM
 culture = persian
 religion = al_mutazila
 capital = "Yazd"
@@ -55,11 +55,10 @@ base_production = 4 } # The Reforms of Abbas the Great
 1748.1.1 = { unrest = 4 } # The empire began to decline
 1779.1.1 = { unrest = 0 } # With the Qajar dynasty the situation stabilized
 
-
 1444.11.11 = {
-	owner = QTL
-	controller = QTL
-	add_core = QTL
+	owner = QUM
+	controller = QUM
+	add_core = QUM
 	culture = persian
 	religion = al_mutazila
 }

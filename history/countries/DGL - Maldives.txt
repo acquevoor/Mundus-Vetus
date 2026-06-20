@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = malayalam
+religion = sunni
+technology_group = indian
+capital = 1248 # Maldives
+
+1444.11.11 = {
+	monarch = {
+		name = "Lakshmi I"
+		dynasty = "Kolathiri"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

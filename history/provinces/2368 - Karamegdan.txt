@@ -1,8 +1,8 @@
 # 2368 - Karamegdan
-add_core = IMR
 
-owner = IMR
-controller = IMR
+owner = KYR
+controller = KYR
+add_core = KYR
 add_core = CHG
 culture = uzbehk
 religion = tengri_pagan_reformed
@@ -42,11 +42,10 @@ discovered_by = KAS
 	add_core = QNG
 }
 
-
 1444.11.11 = {
-	owner = IMR
-	controller = IMR
-	add_core = IMR
+	owner = KYR
+	controller = KYR
+	add_core = KYR
 	culture = uzbehk
 	religion = tengri_pagan_reformed
 }

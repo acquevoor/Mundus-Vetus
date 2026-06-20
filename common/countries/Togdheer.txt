@@ -1,0 +1,32 @@
+graphical_culture = africangfx
+
+color = { 150 120 90 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Togdheer I" = 100
+}
+
+leader_names = {
+	Issaq
+}
+
+ship_names = {
+	Togdheer
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}

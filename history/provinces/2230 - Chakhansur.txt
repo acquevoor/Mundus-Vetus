@@ -1,10 +1,10 @@
 #2230 - Chakansur
-add_core = QTL
 
-owner = QTL
-controller = QTL
+owner = QUM
+controller = QUM
+add_core = QUM
 culture = khorasani
-religion = sunni
+religion = al_mutazila
 capital = "Chakansur"
 trade_goods = livestock
 hre = no
@@ -41,9 +41,10 @@ discovered_by = nomad_group
 	remove_core = PER
 } # Ahmad Shah established the Durrani empire
 
-
 1444.11.11 = {
-	owner = QTL
-	controller = QTL
-	add_core = QTL
+	owner = QUM
+	controller = QUM
+	add_core = QUM
+	culture = khorasani
+	religion = al_mutazila
 }

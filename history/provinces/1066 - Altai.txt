@@ -1,7 +1,8 @@
 #1066 - Altai
 
-owner = OIR
-controller = OIR
+owner = KYR
+controller = KYR
+add_core = KYR
 add_core = OIR
 culture = naiman
 religion = tengri_pagan_reformed
@@ -40,4 +41,12 @@ discovered_by = KHA
 	owner = QNG
 	controller = QNG
 	add_core = QNG
+}
+
+1444.11.11 = {
+	owner = KYR
+	controller = KYR
+	add_core = KYR
+	culture = naiman
+	religion = tengri_pagan_reformed
 }

@@ -1,8 +1,8 @@
 #478 - Argyn
-add_core = IMR
 
-owner = IMR
-controller = IMR
+owner = KYR
+controller = KYR
+add_core = KYR
 culture = uzbehk
 religion = tengri_pagan_reformed
 capital = "Argyn"
@@ -30,11 +30,10 @@ discovered_by = nomad_group
 1740.1.1 = { owner = ZUN controller = ZUN } # Dzungarian invasion
 1755.1.1 = { owner = KZH controller = KZH }
 
-
 1444.11.11 = {
-	owner = IMR
-	controller = IMR
-	add_core = IMR
+	owner = KYR
+	controller = KYR
+	add_core = KYR
 	culture = uzbehk
 	religion = tengri_pagan_reformed
 }

@@ -1,10 +1,10 @@
 #2307 - Van
 
-owner = Z39 #Zahids
-controller = Z39
-add_core = Z39
+owner = BOT #Zahids
+controller = BOT
+add_core = BOT
 culture = armenian
-religion = coptic
+religion = yazidi
 capital = "Van"
 trade_goods = wool
 hre = no
@@ -48,7 +48,9 @@ discovered_by = nomad_group
 1730.1.1 = { unrest = 0 }
 
 1444.11.11 = {
-	owner = Z39
-	controller = Z39
-	add_core = Z39
+	owner = BOT
+	controller = BOT
+	add_core = BOT
+	culture = armenian
+	religion = yazidi
 }

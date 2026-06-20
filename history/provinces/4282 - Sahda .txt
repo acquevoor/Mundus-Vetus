@@ -1,10 +1,9 @@
 #4282 - Sahda
 
-owner = YEM
-controller = YEM
-add_core = YEM
+owner = NJR
+controller = NJR
 culture = afar
-religion = sunni
+religion = shiite
 capital = "Sahda"
 trade_goods = coffee
 hre = no
@@ -35,9 +34,9 @@ discovered_by = east_african
 1515.1.1 = { discovered_by = POR }
 
 1444.11.11 = {
-	owner = YEM
-	controller = YEM
-	add_core = YEM
+	owner = NJR
+	controller = NJR
+	add_core = NJR
 	culture = afar
-	religion = sunni
+	religion = shiite
 }

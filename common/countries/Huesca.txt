@@ -1,0 +1,32 @@
+graphical_culture = westerngfx
+
+color = { 120 81 169 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Blanka I" = 100
+}
+
+leader_names = {
+	de Monteagudo
+}
+
+ship_names = {
+	Huesca
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}

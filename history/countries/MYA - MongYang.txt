@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = chin
+religion = adivasi
+technology_group = indian
+capital = 582 # New Mong Yang
+
+1444.11.11 = {
+	monarch = {
+		name = "Madhuchandra I"
+		dynasty = "Nara"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

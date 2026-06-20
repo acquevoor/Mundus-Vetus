@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = al_suryah_arabic
+religion = coptic
+technology_group = muslim
+capital = 1849 # Hama
+
+1444.11.11 = {
+	monarch = {
+		name = "Mirza I"
+		dynasty = "Abaza"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

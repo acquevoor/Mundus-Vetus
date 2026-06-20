@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = somali
+religion = sunni
+technology_group = east_african
+capital = 1099 # Socotra
+
+1444.11.11 = {
+	monarch = {
+		name = "Leyla I"
+		dynasty = "Darod"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

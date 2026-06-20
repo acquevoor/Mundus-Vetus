@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = catalan
+religion = catholic
+technology_group = western
+capital = 2987 # Urgell
+
+1444.11.11 = {
+	monarch = {
+		name = "Laia I"
+		dynasty = "de Menezes"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

@@ -1,8 +1,8 @@
 #468 - Khazaria
-add_core = MNC
 
 owner = MNC
 controller = MNC 
+add_core = MNC
 culture = khazar
 religion = tengri_pagan_reformed
 capital = "Cherny Yar"
@@ -26,7 +26,6 @@ discovered_by = nomad_group
 1600.1.1 = { culture = russian religion = orthodox }
 1670.3.1 = { revolt = { type = anti_tax_rebels size = 2 name = "Stepan Razin" } controller = REB unrest = 6 } # Razin rebellion
 1671.4.14 = { revolt = { } controller = RUS unrest = 0 } # Razin captured
-
 
 1444.11.11 = {
 	owner = MNC

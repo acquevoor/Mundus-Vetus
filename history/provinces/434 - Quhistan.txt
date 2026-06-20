@@ -1,8 +1,8 @@
 #434 - Quhistan
-add_core = QTL
 
-owner = QTL
-controller = QTL
+owner = QUM
+controller = QUM
+add_core = QUM
 culture = persian
 religion = al_mutazila
 capital = "Bampur"
@@ -41,11 +41,10 @@ discovered_by = nomad_group
 1677.1.1 = { discovered_by = FRA }
 1707.5.12 = { discovered_by = GBR }
 
-
 1444.11.11 = {
-	owner = QTL
-	controller = QTL
-	add_core = QTL
+	owner = QUM
+	controller = QUM
+	add_core = QUM
 	culture = persian
 	religion = al_mutazila
 }

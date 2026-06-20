@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = tibetan
+religion = vajrayana
+technology_group = indian
+capital = 2135 # Minn
+
+1444.11.11 = {
+	monarch = {
+		name = "Tsewang Arabtan I"
+		dynasty = "Rlangs"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

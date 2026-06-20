@@ -1,8 +1,8 @@
 #4327 - Jask
-add_core = QTL
 
-owner = QTL
-controller = QTL
+owner = QUM
+controller = QUM
+add_core = QUM
 culture = persian
 religion = al_mutazila
 capital = "Jask"
@@ -56,11 +56,10 @@ discovered_by = nomad_group
 	add_core = OMA
 }
 
-
 1444.11.11 = {
-	owner = QTL
-	controller = QTL
-	add_core = QTL
+	owner = QUM
+	controller = QUM
+	add_core = QUM
 	culture = persian
 	religion = al_mutazila
 }

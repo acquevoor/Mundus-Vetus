@@ -1,8 +1,8 @@
 # 2166 - Dehong
 
-owner = DEH
-controller = DEH
-add_core = DEH
+owner = MMO
+controller = MMO
+add_core = MMO
 add_core = MMA
 culture = chin
 religion = adivasi
@@ -39,9 +39,9 @@ discovered_by = indian
 }
 
 1444.11.11 = {
-	owner = DEH
-	controller = DEH
-	add_core = DEH
+	owner = MMO
+	controller = MMO
+	add_core = MMO
 	culture = chin
 	religion = adivasi
 }

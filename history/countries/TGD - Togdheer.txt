@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = daimyo
+primary_culture = afar
+religion = sunni
+technology_group = east_african
+capital = 2792 # Togdheer
+
+1444.11.11 = {
+	monarch = {
+		name = "Togdheer I"
+		dynasty = "Issaq"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,7 +1,8 @@
 #1081 - Simbirsk
 
-owner = KAZ
-controller = KAZ
+owner = KNA
+controller = KNA
+add_core = KNA
 capital = "Bolgar"
 culture = bulgar
 religion = sunni
@@ -33,3 +34,11 @@ discovered_by = ottoman
 1671.4.14 = { revolt = { } controller = RUS unrest = 0 } # Razin captured
 1773.9.13 = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } controller = REB unrest = 6 } # Pugachev rebellion
 1775.2.1 = { revolt = {} controller = RUS unrest = 0 } # Pugachev is captured
+
+1444.11.11 = {
+	owner = KNA
+	controller = KNA
+	add_core = KNA
+	culture = bulgar
+	religion = sunni
+}

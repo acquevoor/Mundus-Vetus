@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = daimyo
 primary_culture = afar
 religion = sunni
 technology_group = east_african

@@ -1,11 +1,11 @@
 #4212 - Jiazhou
-add_core = DIN
 
-owner = DIN
-controller = DIN
+owner = MNN
+controller = MNN
+add_core = MNN
 add_core = MNG
 culture = zhongyuan
-religion = confucianism
+religion = vajrayana
 capital = "Jiazhou"
 trade_goods = tea
 hre = no
@@ -31,11 +31,10 @@ discovered_by = nomad_group
 1673.12.1 = { controller = CZH } # Three Feudatories revolt
 1680.1.1 = { controller = QNG }
 
-
 1444.11.11 = {
-	owner = DIN
-	controller = DIN
-	add_core = DIN
+	owner = MNN
+	controller = MNN
+	add_core = MNN
 	culture = zhongyuan
-	religion = confucianism
+	religion = vajrayana
 }

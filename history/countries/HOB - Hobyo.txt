@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = shogunate
+primary_culture = afar
+religion = sunni
+technology_group = east_african
+capital = 2783 # Hobyo
+
+1444.11.11 = {
+	monarch = {
+		name = "Deeqa I"
+		dynasty = "Darod"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
