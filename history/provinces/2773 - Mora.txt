@@ -5,7 +5,7 @@ controller = HRE
 add_core = HRE
 add_core = ADA
 add_core = HAR
-culture = afar
+culture = harari
 religion = sunni
 capital = "Ali Sabieh"
 is_city = yes
@@ -44,6 +44,4 @@ discovered_by = indian
 	owner = HRE
 	controller = HRE
 	add_core = HRE
-	culture = afar
-	religion = sunni
 }

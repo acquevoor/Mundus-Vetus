@@ -4,8 +4,8 @@ controller = FZG
 add_core = FZG
 is_city = yes
 
-culture = sidamo #Shilluk
-religion = coptic #Fetishism
+culture = nubian #Shilluk
+religion = shamanism #Fetishism
 capital = "Alays"
 native_size = 80
 native_ferocity = 4
@@ -31,6 +31,4 @@ discovered_by = ottoman
 	owner = FZG
 	controller = FZG
 	add_core = FZG
-	culture = sidamo
-	religion = coptic
 }

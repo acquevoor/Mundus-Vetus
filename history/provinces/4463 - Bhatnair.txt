@@ -4,7 +4,7 @@ owner = KFI
 controller = KFI
 add_core = KFI
 culture = rajput
-religion = vajrayana
+religion = hinduism
 capital = "Bhatnair"
 trade_goods = livestock
 hre = no
@@ -67,6 +67,4 @@ discovered_by = chinese
 	owner = KFI
 	controller = KFI
 	add_core = KFI
-	culture = rajput
-	religion = vajrayana
 }

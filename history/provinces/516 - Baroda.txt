@@ -70,6 +70,4 @@ discovered_by = east_african
 	owner = NVE
 	controller = NVE
 	add_core = NVE
-	culture = gujarati
-	religion = hinduism
 }

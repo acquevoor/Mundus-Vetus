@@ -3,7 +3,7 @@ owner = KYR
 controller = KYR
 add_core = KYR
 
-culture = uzbehk
+culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Imakia"
 trade_goods = unknown
@@ -43,6 +43,4 @@ is_city = yes
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = uzbehk
-	religion = tengri_pagan_reformed
 }

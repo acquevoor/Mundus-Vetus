@@ -3,8 +3,8 @@
 owner = KHA	# The Oirads united much of Mongolia
 controller = KHA
 add_core = KHA
-culture = chihan
-religion = shendao
+culture = mongol
+religion = vajrayana
 capital = "Xilin Gol"
 trade_goods = livestock
 hre = no
@@ -40,6 +40,4 @@ add_core = CHH
 	owner = KHA
 	controller = KHA
 	add_core = KHA
-	culture = chihan
-	religion = shendao
 }

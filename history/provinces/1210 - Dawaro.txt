@@ -4,7 +4,7 @@ owner = HRE
 controller = HRE
 add_core = HRE
 add_core = ETH
-culture = afar 
+culture = harari 
 religion = sunni
 capital = "Gende Belo"
 is_city = yes
@@ -67,6 +67,4 @@ discovered_by = indian
 	owner = HRE
 	controller = HRE
 	add_core = HRE
-	culture = afar
-	religion = sunni
 }

@@ -45,6 +45,4 @@ center_of_trade = 2
 	owner = TMB
 	controller = TMB
 	add_core = TMB
-	culture = tuareg
-	religion = sunni
 }

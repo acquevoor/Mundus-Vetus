@@ -2,8 +2,8 @@
 
 owner = SAK
 controller = SAK
-culture = malayan
-religion = vajrayana
+culture = sumatran
+religion = sunni
 capital = "Siak"
 trade_goods = chinaware
 hre = no
@@ -26,6 +26,4 @@ center_of_trade = 1
 	owner = SAK
 	controller = SAK
 	add_core = SAK
-	culture = malayan
-	religion = vajrayana
 }

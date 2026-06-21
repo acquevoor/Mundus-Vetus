@@ -86,6 +86,4 @@ center_of_trade = 1
 	owner = SEA
 	controller = SEA
 	add_core = SEA
-	culture = bengali
-	religion = hinduism
 }

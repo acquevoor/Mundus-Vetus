@@ -68,6 +68,4 @@ center_of_trade = 1
 	owner = VJA
 	controller = VJA
 	add_core = VJA
-	culture = cham
-	religion = hinduism
 }

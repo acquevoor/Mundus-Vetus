@@ -48,6 +48,4 @@ discovered_by = nomad_group
 	owner = GYE
 	controller = GYE
 	add_core = GYE
-	culture = tibetan
-	religion = vajrayana
 }

@@ -39,6 +39,4 @@ discovered_by = east_african
 	owner = ALK
 	controller = ALK
 	add_core = ALK
-	culture = bedouin_arabic
-	religion = sunni
 }

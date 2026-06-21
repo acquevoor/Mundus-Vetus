@@ -4,7 +4,7 @@ owner = DEV
 controller = DEV
 add_core = DEV
 culture = bengali
-religion = vajrayana #A good case could be made that this province was atleast 50% buddhist
+religion = hinduism #A good case could be made that this province was atleast 50% buddhist
 capital = "Chittagong"
 trade_goods = cotton
 hre = no
@@ -56,6 +56,4 @@ center_of_trade = 3
 	owner = DEV
 	controller = DEV
 	add_core = DEV
-	culture = bengali
-	religion = vajrayana
 }

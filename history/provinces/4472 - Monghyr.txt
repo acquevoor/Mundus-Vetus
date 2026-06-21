@@ -4,7 +4,7 @@ owner = KET
 controller = KET
 add_core = KET
 culture = bihari
-religion = vajrayana
+religion = hinduism
 capital = "Monghyr"
 trade_goods = silk
 hre = no
@@ -106,6 +106,4 @@ owner = BNG
 	owner = KET
 	controller = KET
 	add_core = KET
-	culture = bihari
-	religion = vajrayana
 }

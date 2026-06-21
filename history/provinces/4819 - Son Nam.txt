@@ -1,7 +1,7 @@
 owner = DAI
 controller = DAI
-culture = lao
-religion = satsana_phi
+culture = vietnamese
+religion = mahayana
 capital = "Son Nam"
 trade_goods = grain
 hre = no
@@ -50,6 +50,4 @@ discovered_by = ottoman
 	owner = DAI
 	controller = DAI
 	add_core = DAI
-	culture = lao
-	religion = satsana_phi
 }

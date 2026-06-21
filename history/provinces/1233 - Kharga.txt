@@ -35,6 +35,4 @@ discovered_by = east_african
 	owner = SLY
 	controller = SLY
 	add_core = SLY
-	culture = al_misr_arabic
-	religion = sunni
 }

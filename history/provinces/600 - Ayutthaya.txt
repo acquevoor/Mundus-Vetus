@@ -3,7 +3,7 @@
 owner = TUW 
 controller = TUW
 add_core = TUW
-culture = mon
+culture = central_thai
 religion = buddhism
 capital = "Ayutthaya"
 trade_goods = ivory
@@ -28,6 +28,4 @@ center_of_trade = 2
 	owner = TUW
 	controller = TUW
 	add_core = TUW
-	culture = mon
-	religion = buddhism
 }

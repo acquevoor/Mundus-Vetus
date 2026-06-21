@@ -45,8 +45,6 @@ discovered_by = sub_saharan
 	owner = BON
 	controller = BON
 	add_core = BON
-	culture = aka
-	religion = shamanism
 }
 
 
@@ -54,6 +52,4 @@ discovered_by = sub_saharan
 	owner = ASH
 	controller = ASH
 	add_core = ASH
-	culture = aka
-	religion = shamanism
 }

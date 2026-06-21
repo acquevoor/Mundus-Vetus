@@ -1,8 +1,8 @@
 #2802 - Kobbe
 add_core = BGG
 
-culture = nubian 
-religion = coptic #Fetishism
+culture = tunjur 
+religion = shamanism #Fetishism
 capital = "Kobbe"
 add_core = DAR
 native_size = 50
@@ -29,6 +29,4 @@ base_manpower = 1
 	owner = BGG
 	controller = BGG
 	add_core = BGG
-	culture = nubian
-	religion = coptic
 }

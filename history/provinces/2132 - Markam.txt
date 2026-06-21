@@ -43,6 +43,4 @@ discovered_by = indian
 	owner = Y03
 	controller = Y03
 	add_core = Y03
-	culture = tibetan
-	religion = vajrayana
 }

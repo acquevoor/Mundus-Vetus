@@ -5,7 +5,7 @@ controller = KFI
 add_core = KFI
 add_core = AFG
 culture = afghani
-religion = vajrayana
+religion = sunni
 capital = "Peshawar"
 trade_goods = livestock
 hre = no
@@ -61,6 +61,4 @@ center_of_trade = 1
 	owner = KFI
 	controller = KFI
 	add_core = KFI
-	culture = afghani
-	religion = vajrayana
 }

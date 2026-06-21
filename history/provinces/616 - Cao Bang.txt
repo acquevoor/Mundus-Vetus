@@ -2,8 +2,8 @@
 
 owner = DAI
 controller = DAI
-culture = lao
-religion = satsana_phi
+culture = zhuang
+religion = mahayana
 capital = "Cao Bang"
 trade_goods = grain
 hre = no
@@ -46,6 +46,4 @@ discovered_by = indian
 	owner = DAI
 	controller = DAI
 	add_core = DAI
-	culture = lao
-	religion = satsana_phi
 }

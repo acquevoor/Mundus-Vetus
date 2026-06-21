@@ -39,6 +39,4 @@ center_of_trade = 1
 	owner = JAB
 	controller = JAB
 	add_core = JAB
-	culture = bedouin_arabic
-	religion = sunni
 }

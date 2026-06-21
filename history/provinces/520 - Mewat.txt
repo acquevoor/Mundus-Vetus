@@ -80,5 +80,4 @@ discovered_by = chinese
 	owner = MEW
 	controller = MEW
 	add_core = MEW
-	religion = hinduism
 }

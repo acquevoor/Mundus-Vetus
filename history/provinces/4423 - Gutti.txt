@@ -48,6 +48,4 @@ discovered_by = chinese
 	owner = KAK
 	controller = KAK
 	add_core = KAK
-	culture = telegu
-	religion = hinduism
 }

@@ -3,8 +3,8 @@
 owner = AFS
 controller = AFS
 add_core = AFS
-culture = kurdish
-religion = shiite
+culture = al_iraqiya_arabic
+religion = sunni
 capital = "Tikrit"
 trade_goods = livestock
 hre = no
@@ -53,6 +53,4 @@ add_local_autonomy = 20
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	culture = kurdish
-	religion = shiite
 }

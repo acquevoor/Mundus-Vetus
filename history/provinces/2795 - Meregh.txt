@@ -5,7 +5,7 @@ controller = MGH
 add_core = MGH
 add_core = AJU
 add_core = HOB
-culture = afar
+culture = somali
 religion = sunni
 capital = "Mareeg"
 trade_goods = livestock
@@ -34,6 +34,4 @@ discovered_by = ottoman
 	owner = MGH
 	controller = MGH
 	add_core = MGH
-	culture = afar
-	religion = sunni
 }

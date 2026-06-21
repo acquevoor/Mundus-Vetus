@@ -33,6 +33,4 @@ discovered_by = indian
 	owner = DKL
 	controller = DKL
 	add_core = DKL
-	culture = afar
-	religion = sunni
 }

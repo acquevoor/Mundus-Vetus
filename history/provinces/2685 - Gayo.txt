@@ -4,7 +4,7 @@ add_core = GYO
 owner = GYO
 controller = GYO
 culture = acehnese
-religion = animism
+religion = sunni
 capital = "Gayo"
 trade_goods = tropical_wood
 hre = no
@@ -51,6 +51,4 @@ discovered_by = ottoman
 	owner = GYO
 	controller = GYO
 	add_core = GYO
-	culture = acehnese
-	religion = animism
 }

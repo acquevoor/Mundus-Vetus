@@ -3,8 +3,8 @@
 owner = REI
 controller = REI
 add_core = REI
-culture = luri
-religion = al_batiniyya
+culture = persian
+religion = sunni
 capital = "Abarquh"
 trade_goods = livestock #known for its pastures for Timurid armies
 hre = no
@@ -61,6 +61,4 @@ discovered_by = nomad_group
 	owner = REI
 	controller = REI
 	add_core = REI
-	culture = luri
-	religion = al_batiniyya
 }

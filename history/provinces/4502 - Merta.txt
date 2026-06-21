@@ -66,5 +66,4 @@ discovered_by = chinese
 	owner = NGA
 	controller = NGA
 	add_core = NGA
-	religion = hinduism
 }

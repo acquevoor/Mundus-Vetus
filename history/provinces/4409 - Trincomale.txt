@@ -39,6 +39,4 @@ center_of_trade = 1
 	owner = KND
 	controller = KND
 	add_core = KND
-	culture = sinhala
-	religion = buddhism
 }

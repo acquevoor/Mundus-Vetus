@@ -4,8 +4,8 @@ owner = Y02
 controller = Y02
 add_core = Y02
 add_core = MNG
-culture = yi
-religion = vajrayana
+culture = bai
+religion = buddhism
 capital = "Pu'er"
 trade_goods = tea
 hre = no
@@ -38,6 +38,4 @@ discovered_by = indian
 	owner = Y02
 	controller = Y02
 	add_core = Y02
-	culture = yi
-	religion = vajrayana
 }

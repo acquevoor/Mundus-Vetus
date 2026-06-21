@@ -3,7 +3,7 @@
 owner = SND
 controller = SND
 culture = sindhi
-religion = hinduism
+religion = sunni
 capital = "Bhakkar"
 trade_goods = cotton
 hre = no
@@ -48,5 +48,4 @@ discovered_by = chinese
 	owner = SND
 	controller = SND
 	add_core = SND
-	religion = hinduism
 }

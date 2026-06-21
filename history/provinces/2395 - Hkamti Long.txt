@@ -3,8 +3,8 @@
 owner = HKA
 controller = HKA
 add_core = HKA
-culture = yi
-religion = vajrayana
+culture = kachin
+religion = animism
 capital = "Hkamti Long"
 trade_goods = grain
 hre = no
@@ -53,6 +53,4 @@ discovered_by = indian
 	owner = HKA
 	controller = HKA
 	add_core = HKA
-	culture = yi
-	religion = vajrayana
 }

@@ -33,6 +33,4 @@ discovered_by = sub_saharan
 	owner = YAT
 	controller = YAT
 	add_core = YAT
-	culture = mossi
-	religion = shamanism
 }

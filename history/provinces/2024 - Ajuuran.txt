@@ -5,7 +5,7 @@ controller = GAR
 add_core = GAR
 add_core = MRE
 add_core = MJE
-culture = afar
+culture = somali
 religion = sunni
 capital = "Garoowe"
 is_city = yes
@@ -34,6 +34,4 @@ discovered_by = ottoman
 	owner = GAR
 	controller = GAR
 	add_core = GAR
-	culture = afar
-	religion = sunni
 }

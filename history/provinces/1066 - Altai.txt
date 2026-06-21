@@ -4,7 +4,7 @@ owner = KYR
 controller = KYR
 add_core = KYR
 add_core = OIR
-culture = naiman
+culture = buryat
 religion = tengri_pagan_reformed
 capital = "Altai Uriankhai"
 trade_goods = fur
@@ -47,6 +47,4 @@ discovered_by = KHA
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = naiman
-	religion = tengri_pagan_reformed
 }

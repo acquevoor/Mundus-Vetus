@@ -67,6 +67,4 @@ center_of_trade = 1
 	owner = NVE
 	controller = NVE
 	add_core = NVE
-	culture = marathi
-	religion = hinduism
 }

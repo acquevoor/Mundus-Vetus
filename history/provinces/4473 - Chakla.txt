@@ -4,7 +4,7 @@ owner = DEV
 controller = DEV
 add_core = DEV
 culture = chin
-religion = vajrayana
+religion = hinduism
 capital = "Chakla"
 trade_goods = tropical_wood
 hre = no
@@ -66,6 +66,4 @@ discovered_by = chinese
 	owner = DEV
 	controller = DEV
 	add_core = DEV
-	culture = chin
-	religion = vajrayana
 }

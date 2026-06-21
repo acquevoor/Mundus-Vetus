@@ -66,6 +66,4 @@ center_of_trade = 2
 	owner = AGE
 	controller = AGE
 	add_core = AGE
-	culture = amhara
-	religion = coptic
 }

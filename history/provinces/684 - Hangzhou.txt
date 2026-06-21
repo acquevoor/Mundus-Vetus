@@ -40,6 +40,4 @@ center_of_trade = 2
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	culture = wu
-	religion = confucianism
 }

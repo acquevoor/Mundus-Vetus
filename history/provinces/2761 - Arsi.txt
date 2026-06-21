@@ -4,7 +4,7 @@ owner = HRE
 controller = HRE
 add_core = HRE
 add_core = HDY
-culture = afar 
+culture = amhara 
 religion = sunni
 capital = "Assela"
 is_city = yes
@@ -40,6 +40,4 @@ discovered_by = indian
 	owner = HRE
 	controller = HRE
 	add_core = HRE
-	culture = afar
-	religion = sunni
 }

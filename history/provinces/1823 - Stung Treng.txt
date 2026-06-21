@@ -4,7 +4,7 @@ owner = SAI
 controller = SAI
 add_core = SAI
 culture = khmer
-religion = hinduism
+religion = animism
 capital = "Stung Treng"
 trade_goods = grain
 hre = no
@@ -46,6 +46,4 @@ discovered_by = indian
 	owner = SAI
 	controller = SAI
 	add_core = SAI
-	culture = khmer
-	religion = hinduism
 }

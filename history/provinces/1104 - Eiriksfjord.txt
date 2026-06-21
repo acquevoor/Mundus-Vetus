@@ -4,7 +4,7 @@ controller = NOR
 add_core = NOR
 
 culture = inuit
-religion = norse_pagan_reformed
+religion = totemism
 capital = "Eiriksfjord"
 trade_goods = unknown
 hre = no
@@ -35,5 +35,4 @@ is_city = yes
 	owner = NOR
 	controller = NOR
 	add_core = NOR
-	religion = norse_pagan_reformed
 }

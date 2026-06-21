@@ -38,6 +38,4 @@ discovered_by = indian
 	owner = ARI
 	controller = ARI
 	add_core = ARI
-	culture = burmese
-	religion = buddhism
 }

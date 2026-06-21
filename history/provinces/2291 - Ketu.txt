@@ -5,7 +5,7 @@ owner = KEU
 controller = KEU
 add_core = OYO
 is_city = yes
-culture = fon 
+culture = yorumba 
 religion = shamanism #Fetishism
 capital = "Ketu"
 trade_goods = slaves
@@ -23,6 +23,4 @@ discovered_by = sub_saharan
 	owner = KEU
 	controller = KEU
 	add_core = KEU
-	culture = fon
-	religion = shamanism
 }

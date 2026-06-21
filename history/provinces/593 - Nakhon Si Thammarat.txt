@@ -3,8 +3,8 @@
 owner = CAI
 controller = CAI
 add_core = CAI
-culture = malayan
-religion = vajrayana
+culture = central_thai
+religion = buddhism
 capital = "Nakhon Si Thammarat"
 trade_goods = tropical_wood
 hre = no
@@ -41,6 +41,4 @@ discovered_by = ottoman
 	owner = CAI
 	controller = CAI
 	add_core = CAI
-	culture = malayan
-	religion = vajrayana
 }

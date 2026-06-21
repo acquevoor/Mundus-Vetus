@@ -3,7 +3,7 @@
 owner = MER
 controller = MER
 culture = rajput
-religion = jain
+religion = hinduism
 capital = "Chittor"
 trade_goods = grain
 hre = no

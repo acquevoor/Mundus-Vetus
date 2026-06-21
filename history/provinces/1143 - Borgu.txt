@@ -5,7 +5,7 @@ owner = BSS
 controller = BSS
 add_core = GUR
 is_city = yes
-culture = mossi 
+culture = dagomba 
 religion = shamanism #Fetishism
 capital = "Bussa"
 hre = no
@@ -40,6 +40,4 @@ discovered_by = sub_saharan
 	owner = BSS
 	controller = BSS
 	add_core = BSS
-	culture = mossi
-	religion = shamanism
 }

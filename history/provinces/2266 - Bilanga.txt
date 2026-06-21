@@ -20,6 +20,4 @@ discovered_by = sub_saharan
 	owner = ZND
 	controller = ZND
 	add_core = ZND
-	culture = mossi
-	religion = shamanism
 }

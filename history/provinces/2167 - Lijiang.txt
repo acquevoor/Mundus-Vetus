@@ -5,8 +5,8 @@ controller = LIJ
 add_core = LIJ
 add_core = MNG
 add_core = CDL
-culture = yi
-religion = vajrayana
+culture = bai
+religion = buddhism
 capital = "Lijiang"
 trade_goods = tea
 hre = no
@@ -38,6 +38,4 @@ discovered_by = indian
 	owner = LIJ
 	controller = LIJ
 	add_core = LIJ
-	culture = yi
-	religion = vajrayana
 }

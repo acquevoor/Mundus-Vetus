@@ -3,8 +3,8 @@
 owner = LRI
 controller = LRI
 add_core = LRI
-culture = luri
-religion = al_mutazila
+culture = kurdish
+religion = sunni
 capital = "Sanandaj"
 trade_goods = cloth
 hre = no
@@ -34,6 +34,4 @@ discovered_by = indian
 	owner = LRI
 	controller = LRI
 	add_core = LRI
-	culture = luri
-	religion = al_mutazila
 }

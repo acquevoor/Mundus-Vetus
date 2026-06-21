@@ -70,6 +70,4 @@ discovered_by = chinese
 	owner = KDA
 	controller = KDA
 	add_core = KDA
-	culture = oriya
-	religion = hinduism
 }

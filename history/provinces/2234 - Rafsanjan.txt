@@ -4,7 +4,7 @@ owner = QUM
 controller = QUM
 add_core = QUM
 culture = persian
-religion = al_mutazila
+religion = sunni
 capital = "Rafsanjan"
 trade_goods = copper
 hre = no
@@ -55,6 +55,4 @@ discovered_by = nomad_group
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
-	religion = al_mutazila
 }

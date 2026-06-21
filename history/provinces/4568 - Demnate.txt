@@ -4,7 +4,7 @@ add_core = AWD
 owner = AWD
 controller = AWD 
 add_core = MOR 
-culture = berber
+culture = moroccan
 religion = sunni
 capital = "Demnate"
 trade_goods = wool
@@ -26,6 +26,4 @@ discovered_by = ottoman
 	owner = AWD
 	controller = AWD
 	add_core = AWD
-	culture = berber
-	religion = sunni
 }

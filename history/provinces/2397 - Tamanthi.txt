@@ -3,8 +3,8 @@
 owner = TMA
 controller = TMA
 add_core = TMA
-culture = chin
-religion = adivasi
+culture = shan
+religion = animism
 capital = "Tamanthi"
 trade_goods = tea
 hre = no
@@ -52,6 +52,4 @@ discovered_by = indian
 	owner = TMA
 	controller = TMA
 	add_core = TMA
-	culture = chin
-	religion = adivasi
 }

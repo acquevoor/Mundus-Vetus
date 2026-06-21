@@ -29,6 +29,4 @@ discovered_by = muslim
 	owner = KAF
 	controller = KAF
 	add_core = KAF
-	culture = sidamo
-	religion = coptic
 }

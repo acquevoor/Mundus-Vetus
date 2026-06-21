@@ -1,6 +1,6 @@
 #1063 - Sayan
 
-culture = sayan
+culture = buryat
 religion = tengri_pagan_reformed
 capital = "Sayan"
 trade_goods = unknown

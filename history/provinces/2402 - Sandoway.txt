@@ -3,8 +3,8 @@
 owner = DEV
 controller = DEV
 add_core = DEV
-culture = bengali
-religion = vajrayana
+culture = arakanese
+religion = buddhism
 capital = "Sandoway"
 trade_goods = iron
 hre = no
@@ -31,6 +31,4 @@ discovered_by = ottoman
 	owner = DEV
 	controller = DEV
 	add_core = DEV
-	culture = bengali
-	religion = vajrayana
 }

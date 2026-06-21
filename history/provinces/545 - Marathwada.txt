@@ -84,6 +84,4 @@ center_of_trade = 2
 	owner = SEU
 	controller = SEU
 	add_core = SEU
-	culture = marathi
-	religion = hinduism
 }

@@ -5,7 +5,7 @@ owner = HTN
 controller = HTN
 add_core = GUG
 add_core = LDK
-culture = turco_iranian
+culture = tibetan
 religion = vajrayana
 capital = "Rutog"
 trade_goods = wool
@@ -48,6 +48,4 @@ discovered_by = nomad_group
 	owner = HTN
 	controller = HTN
 	add_core = HTN
-	culture = turco_iranian
-	religion = vajrayana
 }

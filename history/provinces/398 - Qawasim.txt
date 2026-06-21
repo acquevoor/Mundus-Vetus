@@ -3,8 +3,8 @@
 owner = SHI
 controller = SHI
 add_core = SHI
-culture = al_iraqiya_arabic
-religion = mandaiuta
+culture = gulf_arabic
+religion = ibadi
 capital = "Sharjah"
 trade_goods = livestock
 hre = no
@@ -44,6 +44,4 @@ discovered_by = east_african
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	culture = al_iraqiya_arabic
-	religion = mandaiuta
 }

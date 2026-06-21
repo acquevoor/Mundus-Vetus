@@ -4,7 +4,7 @@ owner = SIN
 controller = SIN
 add_core = SIN
 culture = malayan
-religion = vajrayana
+religion = sunni
 capital = "Tanjungpinaung"
 trade_goods = naval_supplies
 hre = no
@@ -34,6 +34,4 @@ discovered_by = ottoman
 	owner = SIN
 	controller = SIN
 	add_core = SIN
-	culture = malayan
-	religion = vajrayana
 }

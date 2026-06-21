@@ -47,6 +47,4 @@ discovered_by = ottoman
 	owner = KTH
 	controller = KTH
 	add_core = KTH
-	culture = cham
-	religion = hinduism
 }

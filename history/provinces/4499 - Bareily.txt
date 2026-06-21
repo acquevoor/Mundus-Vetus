@@ -88,6 +88,4 @@ discovered_by = chinese
 	owner = KNN
 	controller = KNN
 	add_core = KNN
-	culture = kanauji
-	religion = hinduism
 }

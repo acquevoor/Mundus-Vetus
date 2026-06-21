@@ -63,6 +63,4 @@ discovered_by = ottoman
 	owner = AAR
 	controller = AAR
 	add_core = AAR
-	culture = cham
-	religion = hinduism
 }

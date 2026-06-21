@@ -3,8 +3,8 @@
 owner = QUM
 controller = QUM
 add_core = QUM
-culture = persian
-religion = al_mutazila
+culture = khorasani
+religion = sunni
 capital = "Damghan"
 trade_goods = wool
 hre = no
@@ -61,6 +61,4 @@ discovered_by = indian
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
-	religion = al_mutazila
 }

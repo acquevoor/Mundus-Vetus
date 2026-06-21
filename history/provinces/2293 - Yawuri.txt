@@ -5,8 +5,8 @@ owner = NUP
 controller = NUP
 add_core = ZZZ
 is_city = yes
-culture = nupe 
-religion = sunni #Fetishism
+culture = hausa 
+religion = shamanism #Fetishism
 capital = "Birnin Yawuri"
 trade_goods = coffee #Kola nuts
 hre = no
@@ -30,6 +30,4 @@ discovered_by = sub_saharan
 	owner = NUP
 	controller = NUP
 	add_core = NUP
-	culture = nupe
-	religion = sunni
 }

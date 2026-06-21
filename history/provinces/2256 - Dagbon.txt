@@ -22,6 +22,4 @@ discovered_by = sub_saharan
 	owner = DGB
 	controller = DGB
 	add_core = DGB
-	culture = dagomba
-	religion = shamanism
 }

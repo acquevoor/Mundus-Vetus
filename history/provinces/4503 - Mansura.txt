@@ -47,5 +47,4 @@ center_of_trade = 1
 	owner = SRA
 	controller = SRA
 	add_core = SRA
-	religion = sunni
 }

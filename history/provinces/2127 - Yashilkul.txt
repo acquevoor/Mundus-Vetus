@@ -5,7 +5,7 @@ owner = KSG
 controller = KSG
 add_core = KAS
 culture = uzbehk
-religion = ecclesia_assyrica
+religion = shiite
 capital = "Yashilkul"
 trade_goods = livestock
 hre = no
@@ -43,6 +43,4 @@ discovered_by = ottoman
 	owner = KSG
 	controller = KSG
 	add_core = KSG
-	culture = uzbehk
-	religion = ecclesia_assyrica
 }

@@ -32,6 +32,4 @@ discovered_by = ottoman
 	owner = TNU
 	controller = TNU
 	add_core = TNU
-	culture = malayan
-	religion = sunni
 }

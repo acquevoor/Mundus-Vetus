@@ -5,7 +5,7 @@ controller = MAL
 add_core = MAL
 is_city = yes
 culture = mali 
-religion = sunni #Fetishism
+religion = shamanism #Fetishism
 capital = "Bamako"
 trade_goods = spices
 hre = no
@@ -42,6 +42,4 @@ discovered_by = sub_saharan
 	owner = MAL
 	controller = MAL
 	add_core = MAL
-	culture = mali
-	religion = sunni
 }

@@ -3,10 +3,10 @@
 owner = SON
 controller = SON
 add_core = SON
-culture = mossi
+culture = songhai
 is_city = yes
 base_manpower = 1
-religion = shamanism
+religion = sunni
 capital = "Lulama"
 trade_goods = grain
 hre = no
@@ -19,6 +19,4 @@ discovered_by = sub_saharan
 	owner = SON
 	controller = SON
 	add_core = SON
-	culture = mossi
-	religion = shamanism
 }

@@ -4,7 +4,7 @@ owner = BEA
 controller = BEA
 add_core = BEA
 add_core = WAR
-culture = afar
+culture = somali
 religion = sunni
 capital = "Berbera"
 is_city = yes
@@ -32,6 +32,4 @@ discovered_by = indian
 	owner = BEA
 	controller = BEA
 	add_core = BEA
-	culture = afar
-	religion = sunni
 }

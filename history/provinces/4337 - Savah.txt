@@ -3,8 +3,8 @@
 owner = REI
 controller = REI
 add_core = REI
-culture = luri
-religion = al_batiniyya
+culture = persian
+religion = sunni
 capital = "Savah"
 trade_goods = grain
 hre = no
@@ -57,6 +57,4 @@ discovered_by = indian
 	owner = REI
 	controller = REI
 	add_core = REI
-	culture = luri
-	religion = al_batiniyya
 }

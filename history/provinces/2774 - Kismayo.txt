@@ -4,7 +4,7 @@ owner = KIS
 controller = KIS
 add_core = KIS
 add_core = AJU
-culture = afar
+culture = somali
 religion = sunni
 capital = "Kismayo"
 trade_goods = fish
@@ -31,6 +31,4 @@ discovered_by = ottoman
 	owner = KIS
 	controller = KIS
 	add_core = KIS
-	culture = afar
-	religion = sunni
 }

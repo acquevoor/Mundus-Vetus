@@ -3,8 +3,8 @@
 owner = SHI
 controller = SHI
 add_core = SHI
-culture = al_iraqiya_arabic
-religion = mandaiuta
+culture = persian
+religion = sunni
 capital = "Bandar Langeh"
 trade_goods = spices
 hre = no
@@ -59,6 +59,4 @@ discovered_by = nomad_group
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	culture = al_iraqiya_arabic
-	religion = mandaiuta
 }

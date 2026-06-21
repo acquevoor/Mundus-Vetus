@@ -5,7 +5,7 @@ controller = MAL
 culture = mali
 is_city = yes
 base_manpower = 2
-religion = sunni #Fetishism
+religion = shamanism #Fetishism
 capital = "Kurussa"
 trade_goods = gold
 hre = no
@@ -25,6 +25,4 @@ discovered_by = sub_saharan
 	owner = MAL
 	controller = MAL
 	add_core = MAL
-	culture = mali
-	religion = sunni
 }

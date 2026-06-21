@@ -11,5 +11,4 @@ discovered_by = indian
 	owner = Z31
 	controller = Z31
 	add_core = Z31
-	religion = vajrayana
 }

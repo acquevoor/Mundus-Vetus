@@ -5,8 +5,8 @@ owner = DIN
 controller = DIN
 add_core = MNG
 add_core = CMI
-culture = zhongyuan
-religion = confucianism
+culture = miao
+religion = animism
 capital = "Yuanling"
 trade_goods = tea
 hre = no
@@ -49,6 +49,4 @@ discovered_by = nomad_group
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	culture = zhongyuan
-	religion = confucianism
 }

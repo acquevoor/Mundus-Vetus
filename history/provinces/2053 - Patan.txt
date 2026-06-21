@@ -4,7 +4,7 @@ owner = VAG
 controller = VAG
 add_core = VAG
 culture = gujarati
-religion = jain
+religion = hinduism
 capital = "Patan"
 trade_goods = cloth
 hre = no
@@ -43,6 +43,4 @@ discovered_by = chinese
 	owner = VAG
 	controller = VAG
 	add_core = VAG
-	culture = gujarati
-	religion = jain
 }

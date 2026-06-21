@@ -7,7 +7,7 @@ add_core = MNG
 add_core = CYI
 add_core = CDL
 culture = yi
-religion = vajrayana
+religion = animism
 capital = "Jianchang"
 trade_goods = grain
 hre = no
@@ -44,6 +44,4 @@ discovered_by = indian
 	owner = JIA
 	controller = JIA
 	add_core = JIA
-	culture = yi
-	religion = vajrayana
 }

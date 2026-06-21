@@ -33,6 +33,4 @@ discovered_by = sub_saharan
 	owner = AIR
 	controller = AIR
 	add_core = AIR
-	culture = tuareg
-	religion = sunni
 }

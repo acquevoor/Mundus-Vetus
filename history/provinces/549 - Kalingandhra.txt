@@ -76,6 +76,4 @@ center_of_trade = 1
 	owner = Y00
 	controller = Y00
 	add_core = Y00
-	culture = telegu
-	religion = hinduism
 }

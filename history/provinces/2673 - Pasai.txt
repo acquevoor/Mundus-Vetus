@@ -4,7 +4,7 @@ owner = PUR
 controller = PUR
 add_core = PUR
 culture = acehnese
-religion = al_batiniyya
+religion = sunni
 capital = "Pasai"
 trade_goods = spices
 hre = no
@@ -39,6 +39,4 @@ center_of_trade = 2
 	owner = PUR
 	controller = PUR
 	add_core = PUR
-	culture = acehnese
-	religion = al_batiniyya
 }

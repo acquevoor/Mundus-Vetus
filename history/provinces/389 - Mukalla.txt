@@ -2,7 +2,7 @@
 
 owner = HDR
 controller = HDR
-culture = afar
+culture = yemeni_culture
 religion = sunni
 capital = "Al Mukalla"
 trade_goods = incense
@@ -40,6 +40,4 @@ discovered_by = east_african
 	owner = HDR
 	controller = HDR
 	add_core = HDR
-	culture = afar
-	religion = sunni
 }

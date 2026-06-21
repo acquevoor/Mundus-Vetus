@@ -3,7 +3,7 @@ add_core = FUL
 
 owner = FUL
 controller = FUL
-culture = fulani
+culture = soninke
 is_city = yes
 base_manpower = 2
 religion = shamanism #Fetishism
@@ -33,6 +33,4 @@ discovered_by = sub_saharan
 	owner = FUL
 	controller = FUL
 	add_core = FUL
-	culture = fulani
-	religion = shamanism
 }

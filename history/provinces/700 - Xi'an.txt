@@ -4,8 +4,8 @@ add_core = TIA
 owner = TIA
 controller = TIA
 add_core = MNG
-culture = zhongyuan
-religion = shendao
+culture = xibei
+religion = confucianism
 capital = "Xi'an"
 trade_goods = grain
 hre = no
@@ -40,6 +40,4 @@ center_of_trade = 2
 	owner = TIA
 	controller = TIA
 	add_core = TIA
-	culture = zhongyuan
-	religion = shendao
 }

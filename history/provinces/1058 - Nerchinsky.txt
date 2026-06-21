@@ -3,7 +3,7 @@
 owner = KHA
 controller = KHA
 add_core = KHA
-culture = mergid
+culture = buryat
 religion = tengri_pagan_reformed
 capital = "Onan Gol"
 trade_goods = fur
@@ -33,6 +33,4 @@ discovered_by = BRT
 	owner = KHA
 	controller = KHA
 	add_core = KHA
-	culture = mergid
-	religion = tengri_pagan_reformed
 }

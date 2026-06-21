@@ -2,7 +2,7 @@
 
 owner = HSI
 controller = HSI
-culture = burmese
+culture = shan
 religion = buddhism
 capital = "Hsipaw"
 trade_goods = grain
@@ -52,6 +52,4 @@ discovered_by = indian
 	owner = HSI
 	controller = HSI
 	add_core = HSI
-	culture = burmese
-	religion = buddhism
 }

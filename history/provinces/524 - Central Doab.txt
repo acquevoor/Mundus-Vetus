@@ -129,6 +129,4 @@ center_of_trade = 2
 	owner = JAY
 	controller = JAY
 	add_core = JAY
-	culture = kanauji
-	religion = hinduism
 }

@@ -68,6 +68,4 @@ center_of_trade = 2
 	owner = GZN
 	controller = GZN
 	add_core = GZN
-	culture = afghani
-	religion = sunni
 }

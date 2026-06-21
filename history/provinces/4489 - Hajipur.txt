@@ -4,7 +4,7 @@ owner = GAU
 controller = GAU
 add_core = GAU
 culture = bihari
-religion = vajrayana
+religion = hinduism
 capital = "Hajipur"
 trade_goods = glass
 hre = no
@@ -107,6 +107,4 @@ owner = BNG
 	owner = GAU
 	controller = GAU
 	add_core = GAU
-	culture = bihari
-	religion = vajrayana
 }

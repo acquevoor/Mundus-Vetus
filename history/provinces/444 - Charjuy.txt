@@ -5,7 +5,7 @@ owner = QTL
 controller = QTL
 add_core = MRV
 culture = uzbehk
-religion = al_batiniyya
+religion = sunni
 capital = "Charjuy"
 trade_goods = iron
 hre = no
@@ -43,8 +43,6 @@ discovered_by = nomad_group
 	owner = MRV
 	controller = MRV
 	add_core = MRV
-	culture = uzbehk
-	religion = al_batiniyya
 	trade_goods = iron
 }
 
@@ -53,6 +51,4 @@ discovered_by = nomad_group
 	owner = QTL
 	controller = QTL
 	add_core = QTL
-	culture = uzbehk
-	religion = al_batiniyya
 }

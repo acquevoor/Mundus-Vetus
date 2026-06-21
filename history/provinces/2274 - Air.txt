@@ -34,6 +34,4 @@ fort_15th = yes
 	owner = AIR
 	controller = AIR
 	add_core = AIR
-	culture = tuareg
-	religion = sunni
 }

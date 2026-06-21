@@ -3,8 +3,8 @@
 owner = CAI
 controller = CAI
 add_core = CAI
-culture = malayan
-religion = vajrayana
+culture = central_thai
+religion = buddhism
 capital = "Chaiya"
 trade_goods = fish
 hre = no
@@ -42,6 +42,4 @@ discovered_by = ottoman
 	owner = CAI
 	controller = CAI
 	add_core = CAI
-	culture = malayan
-	religion = vajrayana
 }

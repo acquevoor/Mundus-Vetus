@@ -5,7 +5,7 @@ controller = HRE
 add_core = HRE
 add_core = ETH
 add_core = SOA
-culture = afar 
+culture = amhara 
 religion = sunni
 capital = "Ankober"
 is_city = yes
@@ -57,6 +57,4 @@ discovered_by = indian
 	owner = HRE
 	controller = HRE
 	add_core = HRE
-	culture = afar
-	religion = sunni
 }

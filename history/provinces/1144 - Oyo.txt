@@ -36,6 +36,4 @@ discovered_by = sub_saharan
 	owner = OYO
 	controller = OYO
 	add_core = OYO
-	culture = yorumba
-	religion = shamanism
 }

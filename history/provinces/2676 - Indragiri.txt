@@ -2,8 +2,8 @@
 
 owner = SAK
 controller = SAK
-culture = malayan
-religion = vajrayana
+culture = sumatran
+religion = sunni
 capital = "Indragiri"
 trade_goods = copper
 hre = no
@@ -27,6 +27,4 @@ discovered_by = ottoman
 	owner = SAK
 	controller = SAK
 	add_core = SAK
-	culture = malayan
-	religion = vajrayana
 }

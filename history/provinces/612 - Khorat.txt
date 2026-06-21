@@ -3,7 +3,7 @@
 owner = TUW
 controller = TUW
 add_core = TUW
-culture = mon
+culture = khmer
 religion = buddhism
 capital = "Khorat"
 trade_goods = silk
@@ -38,6 +38,4 @@ discovered_by = indian
 	owner = TUW
 	controller = TUW
 	add_core = TUW
-	culture = mon
-	religion = buddhism
 }

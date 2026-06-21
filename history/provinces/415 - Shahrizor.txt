@@ -4,7 +4,7 @@ owner = AFS
 controller = AFS
 add_core = AFS
 culture = kurdish
-religion = shiite
+religion = sunni
 capital = "Kirkuk"
 trade_goods = grain
 hre = no
@@ -57,6 +57,4 @@ discovered_by = nomad_group
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	culture = kurdish
-	religion = shiite
 }

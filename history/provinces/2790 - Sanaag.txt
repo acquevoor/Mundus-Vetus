@@ -4,7 +4,7 @@ owner = SAN
 controller = SAN
 add_core = SAN
 add_core = WAR
-culture = afar
+culture = somali
 religion = sunni
 capital = "Maydh"
 trade_goods = incense
@@ -32,6 +32,4 @@ discovered_by = ottoman
 	owner = SAN
 	controller = SAN
 	add_core = SAN
-	culture = afar
-	religion = sunni
 }

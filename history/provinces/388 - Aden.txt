@@ -2,7 +2,7 @@
 
 owner = YEM #Tahirids
 controller = YEM #Tahirids
-culture = afar
+culture = yemeni_culture
 religion = sunni
 capital = "Aden"
 trade_goods = incense
@@ -55,6 +55,4 @@ center_of_trade = 2
 	owner = YEM
 	controller = YEM
 	add_core = YEM
-	culture = afar
-	religion = sunni
 }

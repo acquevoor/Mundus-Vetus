@@ -2,8 +2,8 @@
 
 owner = HED
 controller = HED
-culture = tigray
-religion = coptic
+culture = hejazi_culture
+religion = sunni
 capital = "Makkah"
 trade_goods = incense
 hre = no

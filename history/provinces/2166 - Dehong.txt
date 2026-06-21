@@ -4,8 +4,8 @@ owner = MMO
 controller = MMO
 add_core = MMO
 add_core = MMA
-culture = chin
-religion = adivasi
+culture = shan
+religion = buddhism
 capital = "Dehong"
 trade_goods = tropical_wood
 hre = no
@@ -42,6 +42,4 @@ discovered_by = indian
 	owner = MMO
 	controller = MMO
 	add_core = MMO
-	culture = chin
-	religion = adivasi
 }

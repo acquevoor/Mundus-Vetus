@@ -31,6 +31,4 @@ discovered_by = sub_saharan
 	owner = KTK
 	controller = KTK
 	add_core = KTK
-	culture = kanuri
-	religion = sunni
 }

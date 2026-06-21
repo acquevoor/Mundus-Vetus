@@ -5,8 +5,8 @@ owner = KBI
 controller = KBI
 add_core = SON
 is_city = yes
-culture = mali 
-religion = sunni #Fetishism
+culture = songhai 
+religion = shamanism #Fetishism
 capital = "Say"
 trade_goods = grain
 hre = no
@@ -20,6 +20,4 @@ discovered_by = sub_saharan
 	owner = KBI
 	controller = KBI
 	add_core = KBI
-	culture = mali
-	religion = sunni
 }

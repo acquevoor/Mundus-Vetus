@@ -1,8 +1,8 @@
 owner = SAI
 controller = SAI
 add_core = SAI
-culture = khmer
-religion = hinduism
+culture = lao
+religion = animism
 capital = "Attapeu"
 trade_goods = ivory
 hre = no
@@ -40,6 +40,4 @@ discovered_by = indian
 	owner = SAI
 	controller = SAI
 	add_core = SAI
-	culture = khmer
-	religion = hinduism
 }

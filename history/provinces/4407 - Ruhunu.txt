@@ -43,6 +43,4 @@ discovered_by = east_african
 	owner = KND
 	controller = KND
 	add_core = KND
-	culture = sinhala
-	religion = buddhism
 }

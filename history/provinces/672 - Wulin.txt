@@ -4,7 +4,7 @@ add_core = DIN
 owner = DIN
 controller = DIN
 add_core = MNG
-culture = zhongyuan
+culture = xiang
 religion = confucianism
 capital = "Wulin"
 trade_goods = cotton
@@ -46,6 +46,4 @@ extra_cost = 8
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	culture = zhongyuan
-	religion = confucianism
 }

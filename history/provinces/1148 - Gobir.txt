@@ -3,7 +3,7 @@
 owner = SOK
 controller = SOK
 add_core = KTS
-culture = mali
+culture = hausa
 is_city = yes
 base_manpower = 3
 religion = sunni
@@ -45,6 +45,4 @@ discovered_by = sub_saharan
 	owner = SOK
 	controller = SOK
 	add_core = SOK
-	culture = mali
-	religion = sunni
 }

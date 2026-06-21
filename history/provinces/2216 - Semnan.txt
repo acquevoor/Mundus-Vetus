@@ -4,7 +4,7 @@ owner = QUM
 controller = QUM
 add_core = QUM
 culture = persian
-religion = al_mutazila
+religion = sunni
 capital = "Semnan"
 trade_goods = gems #Turquoise
 hre = no
@@ -73,6 +73,4 @@ discovered_by = nomad_group
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
-	religion = al_mutazila
 }

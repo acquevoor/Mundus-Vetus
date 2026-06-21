@@ -3,8 +3,8 @@
 owner = BLC
 controller = BLC
 add_core = BLC
-culture = sindhi
-religion = hinduism
+culture = baluchi
+religion = sunni
 capital = "Siwi"
 trade_goods = wool
 hre = no
@@ -47,6 +47,4 @@ discovered_by = nomad_group
 	owner = BLC
 	controller = BLC
 	add_core = BLC
-	culture = sindhi
-	religion = hinduism
 }

@@ -21,6 +21,4 @@ native_hostileness = 3
 	owner = AWD
 	controller = AWD
 	add_core = AWD
-	culture = berber
-	religion = sunni
 }

@@ -45,6 +45,4 @@ is_city = yes
 	owner = OIR
 	controller = OIR
 	add_core = OIR
-	culture = kirgiz
-	religion = tengri_pagan_reformed
 }

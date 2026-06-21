@@ -41,6 +41,4 @@ discovered_by = ottoman
 	owner = KLI
 	controller = KLI
 	add_core = KLI
-	culture = javanese
-	religion = hinduism
 }

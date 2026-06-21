@@ -4,7 +4,7 @@ owner = VAG
 controller = VAG
 add_core = VAG
 culture = gujarati
-religion = jain
+religion = hinduism
 capital = "Bharuch"
 trade_goods = silk #Silk
 hre = no
@@ -75,6 +75,4 @@ discovered_by = east_african
 	owner = VAG
 	controller = VAG
 	add_core = VAG
-	culture = gujarati
-	religion = jain
 }

@@ -3,8 +3,8 @@
 owner = SHI
 controller = SHI
 add_core = SHI
-culture = al_iraqiya_arabic
-religion = mandaiuta
+culture = persian
+religion = shiite
 capital = "Darab"
 trade_goods = spices #Saffron - Could also produce salt due to the salt lakes
 hre = no
@@ -62,6 +62,4 @@ discovered_by = nomad_group
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	culture = al_iraqiya_arabic
-	religion = mandaiuta
 }

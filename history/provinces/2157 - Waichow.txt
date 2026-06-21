@@ -4,7 +4,7 @@ add_core = DIN
 owner = DIN
 controller = DIN
 add_core = MNG
-culture = zhongyuan
+culture = hakka
 religion = confucianism
 capital = "Waichow"
 trade_goods = grain
@@ -57,6 +57,4 @@ discovered_by = indian
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	culture = zhongyuan
-	religion = confucianism
 }

@@ -50,6 +50,4 @@ discovered_by = nomad_group
 	owner = NDN
 	controller = NDN
 	add_core = NDN
-	culture = tibetan
-	religion = vajrayana
 }

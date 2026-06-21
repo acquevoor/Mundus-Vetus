@@ -3,7 +3,7 @@
 owner = PTA
 controller = PTA
 culture = panjabi
-religion = sikhism
+religion = hinduism
 capital = "Sirhind"
 trade_goods = cotton
 hre = no

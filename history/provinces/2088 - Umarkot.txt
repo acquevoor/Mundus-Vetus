@@ -45,5 +45,4 @@ discovered_by = chinese
 	owner = SRA
 	controller = SRA
 	add_core = SRA
-	religion = sunni
 }

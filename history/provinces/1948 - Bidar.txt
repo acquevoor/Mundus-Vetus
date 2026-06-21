@@ -44,6 +44,4 @@ center_of_trade = 2
 	owner = KLY
 	controller = KLY
 	add_core = KLY
-	culture = kannada
-	religion = hinduism
 }

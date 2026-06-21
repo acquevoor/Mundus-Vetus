@@ -3,7 +3,7 @@
 owner = BGA
 controller = BGA
 culture = marathi
-religion = jain
+religion = hinduism
 capital = "Mayuragiri"
 trade_goods = grain	#Millet
 hre = no

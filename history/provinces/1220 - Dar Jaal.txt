@@ -39,6 +39,4 @@ discovered_by = ottoman
 	owner = ABD
 	controller = ABD
 	add_core = ABD
-	culture = nubian
-	religion = sunni
 }

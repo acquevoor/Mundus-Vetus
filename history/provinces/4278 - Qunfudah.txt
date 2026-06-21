@@ -3,8 +3,8 @@ add_core = SLY
 
 owner = SLY
 controller = SLY
-culture = al_misr_arabic
-religion = sunni
+culture = hejazi_culture
+religion = shiite
 capital = "Qunfudhah"
 trade_goods = incense
 hre = no
@@ -47,6 +47,4 @@ discovered_by = east_african
 	owner = SLY
 	controller = SLY
 	add_core = SLY
-	culture = al_misr_arabic
-	religion = sunni
 }

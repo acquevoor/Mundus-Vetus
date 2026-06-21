@@ -4,7 +4,7 @@ owner = KFI
 controller = KFI
 add_core = KFI
 culture = afghani
-religion = vajrayana
+religion = sunni
 capital = "Jalalabad"
 trade_goods = livestock
 hre = no
@@ -65,6 +65,4 @@ discovered_by = nomad_group
 	owner = KFI
 	controller = KFI
 	add_core = KFI
-	culture = afghani
-	religion = vajrayana
 }

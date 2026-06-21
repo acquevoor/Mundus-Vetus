@@ -48,6 +48,4 @@ add_local_autonomy = 50
 	owner = SEA
 	controller = SEA
 	add_core = SEA
-	culture = jharkhandi
-	religion = hinduism
 }

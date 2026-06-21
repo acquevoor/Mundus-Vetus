@@ -3,8 +3,8 @@ add_core = QTL
 
 owner = QTL
 controller = QTL
-culture = persian
-religion = al_mutazila
+culture = khorasani
+religion = sunni
 capital = "Nishapur"
 trade_goods = gems #Turquoise
 hre = no
@@ -58,6 +58,4 @@ discovered_by = indian
 	owner = QTL
 	controller = QTL
 	add_core = QTL
-	culture = persian
-	religion = al_mutazila
 }

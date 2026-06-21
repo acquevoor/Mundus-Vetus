@@ -22,6 +22,4 @@ is_city = yes
 	owner = CNK
 	controller = CNK
 	add_core = CNK
-	culture = chinook
-	religion = totemism
 }

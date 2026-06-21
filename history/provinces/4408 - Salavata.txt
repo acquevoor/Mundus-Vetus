@@ -39,6 +39,4 @@ discovered_by = chinese
 	owner = KND
 	controller = KND
 	add_core = KND
-	culture = sinhala
-	religion = buddhism
 }

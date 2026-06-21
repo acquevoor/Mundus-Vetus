@@ -3,8 +3,8 @@ add_core = TKS
 
 owner = TKS
 controller = TKS
-culture = uzbehk
-religion = tengri_pagan_reformed
+culture = nogaybak
+religion = sunni
 capital = "Zhetyru"
 trade_goods = naval_supplies
 hre = no
@@ -31,6 +31,4 @@ discovered_by = GOL
 	owner = TKS
 	controller = TKS
 	add_core = TKS
-	culture = uzbehk
-	religion = tengri_pagan_reformed
 }

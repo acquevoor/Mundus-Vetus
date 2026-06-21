@@ -53,6 +53,4 @@ discovered_by = western
 	owner = FEZ
 	controller = FEZ
 	add_core = FEZ
-	culture = moroccan
-	religion = sunni
 }

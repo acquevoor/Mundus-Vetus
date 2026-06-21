@@ -30,6 +30,4 @@ discovered_by = sub_saharan
 	owner = GYM
 	controller = GYM
 	add_core = GYM
-	culture = aka
-	religion = shamanism
 }

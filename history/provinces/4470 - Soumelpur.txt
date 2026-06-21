@@ -4,7 +4,7 @@ owner = KET
 controller = KET
 add_core = KET
 culture = jharkhandi
-religion = vajrayana
+religion = hinduism
 capital = "Soumelpur"
 trade_goods = iron
 hre = no
@@ -49,6 +49,4 @@ discovered_by = chinese
 	owner = KET
 	controller = KET
 	add_core = KET
-	culture = jharkhandi
-	religion = vajrayana
 }

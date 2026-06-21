@@ -1,7 +1,7 @@
 #1249 - Yola
 add_core = KWR
 
-culture = hausa
+culture = jukun
 religion = shamanism #Fetishism
 capital = "Kwararafa"
 trade_goods = unknown
@@ -32,6 +32,4 @@ discovered_by = KBO
 	owner = KWR
 	controller = KWR
 	add_core = KWR
-	culture = hausa
-	religion = shamanism
 }

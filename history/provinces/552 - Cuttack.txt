@@ -84,6 +84,4 @@ center_of_trade = 1
 	owner = KDA
 	controller = KDA
 	add_core = KDA
-	culture = oriya
-	religion = hinduism
 }

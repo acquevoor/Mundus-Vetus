@@ -4,7 +4,7 @@ owner = KFI
 controller = KFI
 add_core = KFI
 culture = kashmiri #Dardic/Shina and Balti
-religion = vajrayana
+religion = shiite
 capital = "Skardu"
 trade_goods = wool
 hre = no
@@ -23,7 +23,7 @@ discovered_by = nomad_group
 discovered_by = chinese
 
 
-1410.1.1 = { religion = shiite } #Converted to islam in early 15th century
+1410.1.1 = {} #Converted to islam in early 15th century
 1450.1.1 = {
 	owner = KSH
 	controller = KSH
@@ -44,6 +44,4 @@ discovered_by = chinese
 	owner = KFI
 	controller = KFI
 	add_core = KFI
-	culture = kashmiri
-	religion = vajrayana
 }

@@ -3,8 +3,8 @@
 owner = REI
 controller = REI
 add_core = REI
-culture = luri
-religion = al_batiniyya
+culture = persian
+religion = shiite
 capital = "Teheran"
 trade_goods = silk
 hre = no
@@ -59,6 +59,4 @@ base_production = 6 } # Political fragmentation
 	owner = REI
 	controller = REI
 	add_core = REI
-	culture = luri
-	religion = al_batiniyya
 }

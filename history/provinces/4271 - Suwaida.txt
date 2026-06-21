@@ -3,8 +3,8 @@
 owner = SUW
 controller = SUW
 add_core = SUW
-culture = al_suryah_arabic
-religion = sunni
+culture = bedouin_arabic
+religion = shiite
 capital = "As-Suwayda"
 trade_goods = livestock
 hre = no
@@ -35,6 +35,4 @@ discovered_by = BYZ
 	owner = SUW
 	controller = SUW
 	add_core = SUW
-	culture = al_suryah_arabic
-	religion = sunni
 }

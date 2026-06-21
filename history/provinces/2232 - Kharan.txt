@@ -3,8 +3,8 @@
 owner = BLC
 controller = BLC
 add_core = BLC
-culture = sindhi
-religion = hinduism
+culture = baluchi
+religion = sunni
 capital = "Kharan"
 trade_goods = livestock
 hre = no
@@ -37,6 +37,4 @@ add_local_autonomy = 75
 	owner = BLC
 	controller = BLC
 	add_core = BLC
-	culture = sindhi
-	religion = hinduism
 }

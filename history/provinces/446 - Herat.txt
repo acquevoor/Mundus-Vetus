@@ -3,7 +3,7 @@ add_core = QTL
 
 owner = QTL
 controller = QTL
-culture = afghani
+culture = khorasani
 religion = sunni
 capital = "Herat"
 trade_goods = paper
@@ -56,6 +56,4 @@ center_of_trade = 2
 	owner = QTL
 	controller = QTL
 	add_core = QTL
-	culture = afghani
-	religion = sunni
 }

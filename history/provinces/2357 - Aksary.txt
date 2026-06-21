@@ -3,8 +3,8 @@
 owner = KYR
 controller = KYR
 add_core = KYR
-culture = uzbehk
-religion = tengri_pagan_reformed
+culture = khazak
+religion = sunni
 capital = "Aksary"
 trade_goods = naval_supplies
 hre = no
@@ -34,6 +34,4 @@ discovered_by = nomad_group
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = uzbehk
-	religion = tengri_pagan_reformed
 }

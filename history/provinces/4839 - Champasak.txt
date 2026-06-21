@@ -1,8 +1,8 @@
 owner = SAI
 controller = SAI
 add_core = SAI
-culture = khmer
-religion = hinduism
+culture = lao
+religion = animism
 capital = "Champasak"
 trade_goods = tea
 hre = no
@@ -35,6 +35,4 @@ discovered_by = indian
 	owner = SAI
 	controller = SAI
 	add_core = SAI
-	culture = khmer
-	religion = hinduism
 }

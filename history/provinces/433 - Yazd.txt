@@ -4,7 +4,7 @@ owner = QUM
 controller = QUM
 add_core = QUM
 culture = persian
-religion = al_mutazila
+religion = zoroastrian
 capital = "Yazd"
 trade_goods = paper
 hre = no
@@ -59,6 +59,4 @@ base_production = 4 } # The Reforms of Abbas the Great
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
-	religion = al_mutazila
 }

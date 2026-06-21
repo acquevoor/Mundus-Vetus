@@ -3,8 +3,8 @@
 owner = SHI
 controller = SHI
 add_core = SHI
-culture = al_iraqiya_arabic
-religion = mandaiuta
+culture = luri
+religion = sunni
 capital = "Kazerun"
 trade_goods = wine #and cotton and Dates
 hre = no
@@ -63,6 +63,4 @@ discovered_by = nomad_group
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	culture = al_iraqiya_arabic
-	religion = mandaiuta
 }

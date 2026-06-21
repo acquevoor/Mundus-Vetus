@@ -93,6 +93,4 @@ discovered_by = ottoman
 	owner = ACA
 	controller = ACA
 	add_core = ACA
-	culture = marathi
-	religion = hinduism
 }

@@ -6,7 +6,7 @@ controller = SRR
 add_core = JOL
 is_city = yes
 culture = senegambian 
-religion = animism #Fetishism
+religion = shamanism #Fetishism
 capital = "Mbissel"
 trade_goods = slaves
 hre = no
@@ -28,6 +28,4 @@ discovered_by = sub_saharan
 	owner = SRR
 	controller = SRR
 	add_core = SRR
-	culture = senegambian
-	religion = animism
 }

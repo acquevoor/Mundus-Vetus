@@ -3,8 +3,8 @@
 owner = AFS
 controller = AFS
 add_core = AFS
-culture = kurdish
-religion = shiite
+culture = al_iraqiya_arabic
+religion = sunni
 capital = "al-Qurna"
 trade_goods = spices #Dates
 hre = no
@@ -59,6 +59,4 @@ discovered_by = BYZ
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	culture = kurdish
-	religion = shiite
 }

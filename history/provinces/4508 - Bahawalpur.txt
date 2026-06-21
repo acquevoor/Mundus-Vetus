@@ -3,7 +3,7 @@
 owner = MUL
 controller = MUL
 culture = panjabi
-religion = hinduism
+religion = sunni
 capital = "Bahawalpur"
 trade_goods = livestock
 hre = no
@@ -65,5 +65,4 @@ discovered_by = chinese
 	owner = MUL
 	controller = MUL
 	add_core = MUL
-	religion = hinduism
 }

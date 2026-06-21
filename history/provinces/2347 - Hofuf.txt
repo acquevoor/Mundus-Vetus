@@ -3,8 +3,8 @@ add_core = BHR
 
 owner = BHR
 controller = BHR
-culture = al_iraqiya_arabic
-religion = al_batiniyya
+culture = gulf_arabic
+religion = shiite
 capital = "Hofuf"
 trade_goods = spices #Dates
 hre = no
@@ -38,6 +38,4 @@ discovered_by = east_african
 	owner = BHR
 	controller = BHR
 	add_core = BHR
-	culture = al_iraqiya_arabic
-	religion = al_batiniyya
 }

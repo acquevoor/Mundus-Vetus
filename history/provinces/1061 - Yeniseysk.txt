@@ -1,6 +1,6 @@
 #1061 - Yeniseysk
 
-culture = yenisei
+culture = tungus
 religion = tengri_pagan_reformed
 capital = "Novoselovo"
 trade_goods = unknown

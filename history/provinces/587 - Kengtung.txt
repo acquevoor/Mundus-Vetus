@@ -3,8 +3,8 @@
 owner = Y05
 controller = Y05
 add_core = Y05
-culture = yi
-religion = vajrayana
+culture = shan
+religion = animism
 capital = "Kengtung"
 trade_goods = tropical_wood
 hre = no
@@ -58,6 +58,4 @@ discovered_by = indian
 	owner = Y05
 	controller = Y05
 	add_core = Y05
-	culture = yi
-	religion = vajrayana
 }

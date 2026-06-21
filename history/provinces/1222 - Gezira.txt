@@ -47,6 +47,4 @@ discovered_by = ottoman
 	owner = ARO
 	controller = ARO
 	add_core = ARO
-	culture = nubian
-	religion = coptic
 }

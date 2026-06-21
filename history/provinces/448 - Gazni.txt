@@ -65,6 +65,4 @@ discovered_by = nomad_group
 	owner = GZN
 	controller = GZN
 	add_core = GZN
-	culture = afghani
-	religion = sunni
 }

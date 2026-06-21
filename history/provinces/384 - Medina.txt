@@ -2,8 +2,8 @@
 
 owner = MDA
 controller = MDA
-culture = cosmopolitan_french
-religion = catholic
+culture = hejazi_culture
+religion = sunni
 capital = "Medina"
 trade_goods = cloth
 hre = no

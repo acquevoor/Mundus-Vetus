@@ -4,7 +4,7 @@ owner = GAU
 controller = GAU
 add_core = GAU
 culture = bengali
-religion = vajrayana
+religion = hinduism
 capital = "Goraghat"
 trade_goods = silk
 hre = no
@@ -81,6 +81,4 @@ discovered_by = chinese
 	owner = GAU
 	controller = GAU
 	add_core = GAU
-	culture = bengali
-	religion = vajrayana
 }

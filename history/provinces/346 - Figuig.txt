@@ -3,7 +3,7 @@ add_core = AWD
 
 owner = AWD
 controller = AWD 
-culture = berber
+culture = moroccan
 religion = sunni
 capital = "Tafilalt"
 trade_goods = gold
@@ -63,6 +63,4 @@ center_of_trade = 2
 	owner = AWD
 	controller = AWD
 	add_core = AWD
-	culture = berber
-	religion = sunni
 }

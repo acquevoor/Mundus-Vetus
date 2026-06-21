@@ -22,6 +22,4 @@ discovered_by = sub_saharan
 	owner = KBO
 	controller = KBO
 	add_core = KBO
-	culture = kanuri
-	religion = sunni
 }

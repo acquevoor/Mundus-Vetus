@@ -51,5 +51,4 @@ add_local_autonomy = 25
 	owner = KRK
 	controller = KRK
 	add_core = KRK
-	religion = hinduism
 }

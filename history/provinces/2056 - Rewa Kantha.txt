@@ -3,7 +3,7 @@
 owner = CMP
 controller = CMP
 culture = gujarati
-religion = jain
+religion = hinduism
 capital = "Champaner"
 trade_goods = wool
 hre = no

@@ -3,7 +3,7 @@
 owner = TUW
 controller = TUW
 add_core = TUW
-culture = mon
+culture = khmer
 religion = buddhism
 capital = "Khukhan"
 trade_goods = grain
@@ -44,6 +44,4 @@ discovered_by = indian
 	owner = TUW
 	controller = TUW
 	add_core = TUW
-	culture = mon
-	religion = buddhism
 }

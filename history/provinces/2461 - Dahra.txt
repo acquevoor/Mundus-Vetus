@@ -2,7 +2,7 @@
 
 owner = TLC
 controller = TLC
-culture = berber
+culture = algerian
 religion = sunni
 capital = "Mostaganem"
 trade_goods = grain
@@ -28,6 +28,4 @@ discovered_by = eastern
 	owner = TLC
 	controller = TLC
 	add_core = TLC
-	culture = berber
-	religion = sunni
 }

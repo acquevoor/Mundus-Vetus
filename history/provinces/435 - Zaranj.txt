@@ -3,8 +3,8 @@
 owner = QUM
 controller = QUM
 add_core = QUM
-culture = persian
-religion = al_mutazila
+culture = khorasani
+religion = sunni
 capital = "Zaranj"
 trade_goods = wool
 hre = no
@@ -47,6 +47,4 @@ base_production = 3 } # The Reforms of Abbas the Great
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
-	religion = al_mutazila
 }

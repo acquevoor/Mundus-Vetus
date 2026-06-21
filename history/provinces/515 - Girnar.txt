@@ -3,7 +3,7 @@
 owner = JGD
 controller = JGD
 culture = saurashtri
-religion = jain
+religion = hinduism
 capital = "Girnar"
 trade_goods = iron
 hre = no

@@ -9,7 +9,7 @@ owner = KSG
 controller = KSG
 add_core = KAS
 culture = kirgiz
-religion = ecclesia_assyrica
+religion = sunni
 capital = "Uzkend"
 trade_goods = wool
 hre = no
@@ -47,6 +47,4 @@ discovered_by = KAS
 	owner = KSG
 	controller = KSG
 	add_core = KSG
-	culture = kirgiz
-	religion = ecclesia_assyrica
 }

@@ -38,6 +38,4 @@ discovered_by = east_african
 	owner = MUT
 	controller = MUT
 	add_core = MUT
-	culture = gulf_arabic
-	religion = sunni
 }

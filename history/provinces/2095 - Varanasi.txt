@@ -4,7 +4,7 @@ owner = KET
 controller = KET
 add_core = KET
 culture = bihari
-religion = vajrayana
+religion = hinduism
 capital = "Varanasi"
 trade_goods = silk
 hre = no
@@ -105,6 +105,4 @@ add_province_triggered_modifier = hindu_varanasi
 	owner = KET
 	controller = KET
 	add_core = KET
-	culture = bihari
-	religion = vajrayana
 }

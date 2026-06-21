@@ -70,6 +70,4 @@ add_vaisyas_or_burghers_effect = yes
 	owner = HOY
 	controller = HOY
 	add_core = HOY
-	culture = tamil
-	religion = hinduism
 }

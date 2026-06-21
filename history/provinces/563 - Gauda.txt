@@ -4,7 +4,7 @@ owner = GAU
 controller = GAU
 add_core = GAU
 culture = bengali
-religion = vajrayana
+religion = hinduism
 capital = "Pandua"
 trade_goods = paper #And Silk
 hre = no
@@ -99,6 +99,4 @@ center_of_trade = 2
 	owner = GAU
 	controller = GAU
 	add_core = GAU
-	culture = bengali
-	religion = vajrayana
 }

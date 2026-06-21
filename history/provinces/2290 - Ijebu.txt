@@ -28,6 +28,4 @@ discovered_by = sub_saharan
 	owner = IJB
 	controller = IJB
 	add_core = IJB
-	culture = yorumba
-	religion = shamanism
 }

@@ -4,7 +4,7 @@ owner = DAI
 controller = DAI
 add_core = DAI
 culture = lao
-religion = satsana_phi
+religion = animism
 capital = "Song La"
 trade_goods = tea
 hre = no
@@ -45,6 +45,4 @@ discovered_by = indian
 	owner = DAI
 	controller = DAI
 	add_core = DAI
-	culture = lao
-	religion = satsana_phi
 }

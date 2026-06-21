@@ -5,7 +5,7 @@ owner = SLY
 controller = SLY
 add_core = MAM
 add_core = BEJ
-culture = al_misr_arabic
+culture = beja
 religion = sunni
 capital = "Suakin"
 is_city = yes
@@ -43,6 +43,4 @@ discovered_by = east_african
 	owner = SLY
 	controller = SLY
 	add_core = SLY
-	culture = al_misr_arabic
-	religion = sunni
 }

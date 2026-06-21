@@ -3,7 +3,7 @@
 owner = AFS
 controller = AFS
 add_core = AFS
-culture = kurdish
+culture = al_iraqiya_arabic
 religion = shiite
 capital = "Karbala"
 trade_goods = wool
@@ -51,6 +51,4 @@ add_province_triggered_modifier = religious_center
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	culture = kurdish
-	religion = shiite
 }

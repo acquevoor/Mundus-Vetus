@@ -69,6 +69,4 @@ discovered_by = chinese
 	owner = Y00
 	controller = Y00
 	add_core = Y00
-	culture = oriya
-	religion = hinduism
 }

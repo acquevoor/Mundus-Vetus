@@ -48,6 +48,4 @@ discovered_by = chinese
 	owner = ACA
 	controller = ACA
 	add_core = ACA
-	culture = gondi
-	religion = hinduism
 }

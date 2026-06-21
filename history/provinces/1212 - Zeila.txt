@@ -4,7 +4,7 @@ owner = ZEI
 controller = ZEI
 add_core = ZEI
 add_core = ADA
-culture = afar # issa
+culture = somali # issa
 religion = sunni
 capital = "Zayla"
 is_city = yes
@@ -33,6 +33,4 @@ center_of_trade = 2
 	owner = ZEI
 	controller = ZEI
 	add_core = ZEI
-	culture = afar
-	religion = sunni
 }

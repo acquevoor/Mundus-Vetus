@@ -2,7 +2,7 @@
 add_core = TLB
 
 culture = sumatran
-religion = animism
+religion = hinduism
 capital = "Tulangbewang"
 trade_goods = spices
 hre = no
@@ -59,6 +59,4 @@ discovered_by = ottoman
 	owner = TLB
 	controller = TLB
 	add_core = TLB
-	culture = sumatran
-	religion = animism
 }

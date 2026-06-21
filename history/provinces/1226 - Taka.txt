@@ -46,6 +46,4 @@ discovered_by = ottoman
 	owner = BEJ
 	controller = BEJ
 	add_core = BEJ
-	culture = beja
-	religion = sunni
 }

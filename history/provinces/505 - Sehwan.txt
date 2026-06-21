@@ -3,7 +3,7 @@
 owner = SND
 controller = SND
 culture = sindhi
-religion = hinduism
+religion = sunni
 capital = "Sehwan"
 trade_goods = silk #Silk cloth, fine calicoes, painted cloth
 hre = no
@@ -41,5 +41,4 @@ discovered_by = chinese
 	owner = SND
 	controller = SND
 	add_core = SND
-	religion = hinduism
 }

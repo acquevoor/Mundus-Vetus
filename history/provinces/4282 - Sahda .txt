@@ -2,7 +2,7 @@
 
 owner = NJR
 controller = NJR
-culture = afar
+culture = yemeni_culture
 religion = shiite
 capital = "Sahda"
 trade_goods = coffee
@@ -37,6 +37,4 @@ discovered_by = east_african
 	owner = NJR
 	controller = NJR
 	add_core = NJR
-	culture = afar
-	religion = shiite
 }

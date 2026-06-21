@@ -38,6 +38,4 @@ discovered_by = sub_saharan
 	owner = WGD
 	controller = WGD
 	add_core = WGD
-	culture = mossi
-	religion = shamanism
 }

@@ -4,7 +4,7 @@ owner = KFI
 controller = KFI
 add_core = KFI
 culture = panjabi
-religion = vajrayana
+religion = sunni
 capital = "Multan"
 trade_goods = cloth #Chintz
 hre = no
@@ -63,6 +63,4 @@ center_of_trade = 1
 	owner = KFI
 	controller = KFI
 	add_core = KFI
-	culture = panjabi
-	religion = vajrayana
 }

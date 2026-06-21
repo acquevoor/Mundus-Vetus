@@ -30,6 +30,4 @@ discovered_by = sub_saharan
 	owner = DNK
 	controller = DNK
 	add_core = DNK
-	culture = aka
-	religion = shamanism
 }

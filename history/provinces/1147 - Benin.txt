@@ -39,6 +39,4 @@ add_permanent_province_modifier = {
 	owner = BEN
 	controller = BEN
 	add_core = BEN
-	culture = yorumba
-	religion = shamanism
 }

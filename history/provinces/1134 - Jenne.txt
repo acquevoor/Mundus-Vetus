@@ -5,7 +5,7 @@ controller = JNN
 culture = bozo
 is_city = yes
 base_manpower = 3
-religion = sunni #Fetishism
+religion = shamanism #Fetishism
 capital = "Jenne"
 trade_goods = cloth
 hre = no
@@ -47,6 +47,4 @@ center_of_trade = 2
 	owner = JNN
 	controller = JNN
 	add_core = JNN
-	culture = bozo
-	religion = sunni
 }

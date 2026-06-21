@@ -3,8 +3,8 @@
 owner = SKI
 controller = SKI
 add_core = SKI
-culture = armenian
-religion = coptic
+culture = azerbaijani
+religion = sunni
 capital = "Shaki"
 trade_goods = wool
 hre = no
@@ -54,6 +54,4 @@ discovered_by = nomad_group
 	owner = SKI
 	controller = SKI
 	add_core = SKI
-	culture = armenian
-	religion = coptic
 }

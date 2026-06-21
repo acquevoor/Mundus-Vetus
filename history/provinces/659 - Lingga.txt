@@ -3,8 +3,8 @@
 owner = SIN
 controller = SIN
 add_core = SIN
-culture = malayan
-religion = vajrayana
+culture = sumatran
+religion = sunni
 capital = "Lingga"
 trade_goods = fish
 hre = no
@@ -29,6 +29,4 @@ discovered_by = ottoman
 	owner = SIN
 	controller = SIN
 	add_core = SIN
-	culture = malayan
-	religion = vajrayana
 }

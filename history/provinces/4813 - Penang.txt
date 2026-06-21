@@ -2,7 +2,7 @@ owner = PNA
 controller = PNA
 add_core = PNA
 culture = malayan
-religion = vajrayana
+religion = sunni
 capital = "Pengang"
 trade_goods = tropical_wood
 hre = no
@@ -30,6 +30,4 @@ discovered_by = ottoman
 	owner = PNA
 	controller = PNA
 	add_core = PNA
-	culture = malayan
-	religion = vajrayana
 }

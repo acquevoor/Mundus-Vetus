@@ -4,8 +4,8 @@ owner = CAG
 controller = CAG
 add_core = CAG
 add_core = OIR
-culture = uyghur
-religion = ecclesia_assyrica
+culture = oirats
+religion = vajrayana
 capital = "Ejin"
 trade_goods = livestock
 hre = no
@@ -40,6 +40,4 @@ discovered_by = nomad_group
 	owner = CAG
 	controller = CAG
 	add_core = CAG
-	culture = uyghur
-	religion = ecclesia_assyrica
 }

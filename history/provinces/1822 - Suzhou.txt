@@ -4,7 +4,7 @@ add_core = DIN
 owner = DIN
 controller = DIN
 add_core = MNG
-culture = zhongyuan
+culture = wu
 religion = confucianism
 capital = "Suzhou"
 trade_goods = silk
@@ -38,6 +38,4 @@ add_permanent_province_modifier = {
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	culture = zhongyuan
-	religion = confucianism
 }

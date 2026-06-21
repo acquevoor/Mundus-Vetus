@@ -3,7 +3,7 @@ owner = OGA
 controller = OGA
 add_core = OGA
 add_core = OGD
-culture = afar
+culture = somali
 religion = sunni
 capital = "Bale"
 native_size = 40
@@ -24,6 +24,4 @@ discovered_by = east_african
 	owner = OGA
 	controller = OGA
 	add_core = OGA
-	culture = afar
-	religion = sunni
 }

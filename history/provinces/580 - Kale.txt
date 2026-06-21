@@ -2,8 +2,8 @@
 
 owner = KAL
 controller = KAL
-culture = burmese
-religion = buddhism
+culture = chin
+religion = animism
 capital = "Kale"
 trade_goods = ivory
 hre = no
@@ -37,6 +37,4 @@ discovered_by = indian
 	owner = KAL
 	controller = KAL
 	add_core = KAL
-	culture = burmese
-	religion = buddhism
 }

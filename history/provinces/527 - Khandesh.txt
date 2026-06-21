@@ -66,5 +66,4 @@ center_of_trade = 2
 	owner = KHD
 	controller = KHD
 	add_core = KHD
-	religion = hinduism
 }

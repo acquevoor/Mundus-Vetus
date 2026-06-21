@@ -3,8 +3,8 @@
 owner = QUM
 controller = QUM
 add_core = QUM
-culture = persian
-religion = al_mutazila
+culture = khorasani
+religion = sunni
 capital = "Tun"
 trade_goods = spices #Saffron
 hre = no
@@ -57,6 +57,4 @@ discovered_by = indian
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
-	religion = al_mutazila
 }

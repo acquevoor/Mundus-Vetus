@@ -3,8 +3,8 @@ owner = SIN
 controller = SIN
 add_core = SIN
 
-culture = malayan
-religion = vajrayana
+culture = sumatran
+religion = hinduism
 capital = "Belitung"
 trade_goods = unknown
 hre = no
@@ -38,6 +38,4 @@ is_city = yes
 	owner = SIN
 	controller = SIN
 	add_core = SIN
-	culture = malayan
-	religion = vajrayana
 }

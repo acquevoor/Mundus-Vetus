@@ -3,7 +3,7 @@
 owner = MER #Dungarpur State
 controller = MER
 culture = rajput
-religion = jain
+religion = hinduism
 capital = "Dungarpur"
 trade_goods = copper
 hre = no

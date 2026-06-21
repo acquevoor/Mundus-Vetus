@@ -4,7 +4,7 @@ owner = GAU
 controller = GAU
 add_core = GAU
 culture = bihari
-religion = vajrayana
+religion = hinduism
 capital = "Sugauna"
 trade_goods = dyes
 hre = no
@@ -84,6 +84,4 @@ center_of_trade = 1
 	owner = GAU
 	controller = GAU
 	add_core = GAU
-	culture = bihari
-	religion = vajrayana
 }

@@ -4,7 +4,7 @@ owner = BWA
 controller = BWA
 add_core = BWA
 add_core = AJU
-culture = afar
+culture = somali
 religion = sunni
 capital = "Barawa"
 trade_goods = livestock
@@ -28,6 +28,4 @@ discovered_by = ottoman
 	owner = BWA
 	controller = BWA
 	add_core = BWA
-	culture = afar
-	religion = sunni
 }
