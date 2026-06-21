@@ -4259,7 +4259,7 @@ iranian	= {
 	}
 }
 
-mongolic = {
+altaic = {
 	graphical_culture = muslimgfx
 
 	mergid = {
