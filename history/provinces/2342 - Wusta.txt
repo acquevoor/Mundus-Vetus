@@ -3,7 +3,7 @@
 owner = MHR
 controller = MHR
 culture = mahri_culture
-religion = qarmatian
+religion = sunni
 capital = "Hasik" #Curia Muria Islands
 trade_goods = incense
 hre = no

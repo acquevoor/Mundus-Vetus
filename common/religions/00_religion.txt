@@ -2739,164 +2739,6 @@ eastern = {
 		heretic = { CONFUCIAN }
 	}
 	religious_schools = {
-		nastika_theravada = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_theravada_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_theravada_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_theravada_modifier
-			picture = "GFX_nastika_theravada"
-			advisor_cost = -0.1
-		}
-		nastika_amitabha = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_amitabha_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_amitabha_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_amitabha_modifier
-			picture = "GFX_nastika_amitabha"
-			tolerance_own = 1
-		}
-		nastika_zen = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_zen_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_zen_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_zen_modifier
-			picture = "GFX_nastika_zen"
-			discipline = 0.025
-		}
-		nastika_yogachara = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_yogachara_modifier }
-				NOT = { has_country_modifier = nastika_madhyamaka_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_yogachara_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_yogachara_modifier
-			picture = "GFX_nastika_yogachara"
-			idea_cost = -0.05
-		}
-		nastika_madhyamaka = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_madhyamaka_modifier }
-				NOT = { has_country_modifier = nastika_yogachara_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_madhyamaka_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_madhyamaka_modifier
-			picture = "GFX_nastika_madhyamaka"
-			technology_cost = -0.05
-		}
-		nastika_tiantai = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_tiantai_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_tiantai_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_tiantai_modifier
-			picture = "GFX_nastika_tiantai"
-			prestige_decay = -0.005
-		}
 		shendao_school = {
 			potential_invite_scholar = {
 				knows_of_scholar_country_capital_trigger = yes
@@ -3189,36 +3031,6 @@ eastern = {
 	flags_with_emblem_percentage = 33
 	flag_emblem_index_range = { 58 80 }
 
-	buddhism = { #Theravada
-		color = { 255 255 0 }
-		icon = 24
-		allowed_conversion = {
-			vajrayana
-			mahayana
-		}
-		country = {
-			tolerance_heretic = 2
-			advisor_cost = -0.1
-		}
-		country_as_secondary = {
-			development_cost = -0.1
-			diplomats = 1
-		}
-		on_convert = {
-			add_prestige = -100
-			add_stability = -1
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}
-		}
-		
-		heretic = { ZEN }
-		
-		harmonized_modifier = harmonized_buddhism
-		
-		uses_karma = yes
-	}
 	
 	vajrayana = {
 		color = { 150 10 10 }
@@ -3323,6 +3135,37 @@ eastern = {
 }
 
 dharmic = {
+	### Mundus Vetus: Bauddha (buddhism) relocated to dharmic ###
+	buddhism = { #Theravada
+		color = { 255 255 0 }
+		icon = 24
+		allowed_conversion = {
+			vajrayana
+			mahayana
+		}
+		country = {
+			tolerance_heretic = 2
+			advisor_cost = -0.1
+		}
+		country_as_secondary = {
+			development_cost = -0.1
+			diplomats = 1
+		}
+		on_convert = {
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { ZEN }
+		
+		harmonized_modifier = harmonized_buddhism
+		
+		uses_karma = yes
+	}
 	### Mundus Vetus: Jain + Ajivaka religions ###
 	jain = {
 		color = { 160 54 224 }
@@ -3372,6 +3215,164 @@ dharmic = {
 		heretic = { NASTIKA }
 	}
 	religious_schools = {
+		nastika_theravada = {
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+				religion = buddhism
+			}
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = nastika_theravada_modifier }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = nastika_theravada_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = nastika_theravada_modifier
+			picture = "GFX_nastika_theravada"
+			advisor_cost = -0.1
+		}
+		nastika_amitabha = {
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+				religion = buddhism
+			}
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = nastika_amitabha_modifier }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = nastika_amitabha_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = nastika_amitabha_modifier
+			picture = "GFX_nastika_amitabha"
+			tolerance_own = 1
+		}
+		nastika_zen = {
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+				religion = buddhism
+			}
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = nastika_zen_modifier }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = nastika_zen_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = nastika_zen_modifier
+			picture = "GFX_nastika_zen"
+			discipline = 0.025
+		}
+		nastika_yogachara = {
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+				religion = buddhism
+			}
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = nastika_yogachara_modifier }
+				NOT = { has_country_modifier = nastika_madhyamaka_modifier }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = nastika_yogachara_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = nastika_yogachara_modifier
+			picture = "GFX_nastika_yogachara"
+			idea_cost = -0.05
+		}
+		nastika_madhyamaka = {
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+				religion = buddhism
+			}
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = nastika_madhyamaka_modifier }
+				NOT = { has_country_modifier = nastika_yogachara_modifier }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = nastika_madhyamaka_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = nastika_madhyamaka_modifier
+			picture = "GFX_nastika_madhyamaka"
+			technology_cost = -0.05
+		}
+		nastika_tiantai = {
+			potential_invite_scholar = {
+				knows_of_scholar_country_capital_trigger = yes
+				religion = buddhism
+			}
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = nastika_tiantai_modifier }
+				OR = {
+					alliance_with = FROM
+					is_subject_of = FROM
+					overlord_of = FROM
+				}
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = nastika_tiantai_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = nastika_tiantai_modifier
+			picture = "GFX_nastika_tiantai"
+			prestige_decay = -0.005
+		}
 		jain_digambara = {
 			potential_invite_scholar = {
 				knows_of_scholar_country_capital_trigger = yes

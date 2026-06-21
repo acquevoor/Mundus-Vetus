@@ -2,6 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = azerbaijani
 religion = al_ghulat
-technology_group = anatolian
+technology_group = muslim
 capital = 416
 religious_school = ghulat_khurramdiniyya

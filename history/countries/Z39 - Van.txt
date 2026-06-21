@@ -2,6 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = armenian
 religion = yazidi
-technology_group = anatolian
+technology_group = muslim
 capital = 2307
 religious_school = yazidi_school
