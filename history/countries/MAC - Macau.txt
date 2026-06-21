@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = cantonese
+religion = buddhism
+technology_group = chinese
+capital = 668 # Macau
+
+1444.11.11 = {
+	monarch = {
+		name = "Kai I"
+		dynasty = "nodynasty"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

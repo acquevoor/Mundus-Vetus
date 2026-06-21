@@ -1,8 +1,8 @@
 #125 - Palermo
-add_core = IFQ
 
-owner = IFQ
-controller = IFQ
+owner = TUN
+controller = TUN
+add_core = TUN
 culture = sicilian 
 religion = sunni 
 hre = no 
@@ -13,7 +13,7 @@ base_manpower = 3
 capital = "Palermo"
 is_city = yes
 add_core = SIC
-#add_core = NAP
+add_core = NAP
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -22,11 +22,11 @@ extra_cost = 8
 center_of_trade = 1
 
 
-# 1409.7.25 = {
-	# owner = ARA
-	# controller = ARA
-	# add_core = ARA
-# } # Martin I inherits Sicily from his son
+1409.7.25 = {
+	owner = ARA
+	controller = ARA
+	add_core = ARA
+} # Martin I inherits Sicily from his son
 1516.1.23 = {	owner = SPA
 	controller = SPA
 	add_core = SPA
@@ -52,11 +52,10 @@ center_of_trade = 1
 	controller = NAP
 } # The Kingdom is restored to Ferdinand
 
-
 1444.11.11 = {
-	owner = IFQ
-	controller = IFQ
-	add_core = IFQ
+	owner = TUN
+	controller = TUN
+	add_core = TUN
 	culture = sicilian
 	religion = sunni
 }

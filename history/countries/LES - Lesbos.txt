@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = greek
+religion = orthodox
+technology_group = eastern
+capital = 4700 # Lesbos
+
+1444.11.11 = {
+	monarch = {
+		name = "Songul I"
+		dynasty = "Eretnaoglu"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

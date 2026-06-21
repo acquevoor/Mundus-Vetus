@@ -1,4 +1,7 @@
 #640 - Pontianak
+owner = SMB
+controller = SMB
+add_core = SMB
 
 culture = bornean
 religion = hinduism
@@ -18,6 +21,7 @@ discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
+is_city = yes
 
 1441.1.1 = {
 	owner = SMB
@@ -36,3 +40,11 @@ discovered_by = ottoman
 	is_city = yes
 	trade_goods = gold
 } # Lanfang Republic was founded by Chinese immigrants
+
+1444.11.11 = {
+	owner = SMB
+	controller = SMB
+	add_core = SMB
+	culture = bornean
+	religion = hinduism
+}

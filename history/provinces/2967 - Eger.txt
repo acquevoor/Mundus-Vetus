@@ -47,5 +47,6 @@ discovered_by = ottoman
 	owner = MVA
 	controller = MVA
 	add_core = MVA
+	culture = czech
 	religion = catholic
 }

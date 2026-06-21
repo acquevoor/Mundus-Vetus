@@ -1,8 +1,7 @@
 #735 - Hanseong
 
-owner = Z26
-controller = Z26
-add_core = Z26
+owner = KOR
+controller = KOR
 culture = korean
 religion = confucianism
 capital = "Hanseong"
@@ -28,7 +27,9 @@ center_of_trade = 1
 1653.1.1 = { discovered_by = NED } # Hendrick Hamel
 
 1444.11.11 = {
-	owner = Z26
-	controller = Z26
-	add_core = Z26
+	owner = KOR
+	controller = KOR
+	add_core = KOR
+	culture = korean
+	religion = confucianism
 }

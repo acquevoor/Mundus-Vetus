@@ -30,4 +30,6 @@ discovered_by = ottoman
 	owner = ABB
 	controller = ABB
 	add_core = ABB
+	culture = nubian
+	religion = shiite
 }

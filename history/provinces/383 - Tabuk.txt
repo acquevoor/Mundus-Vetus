@@ -1,8 +1,8 @@
 #383 - Tabouk
 
-owner = NIZ
-controller = NIZ
-add_core = NIZ
+owner = ANZ
+controller = ANZ
+add_core = ANZ
 culture = bedouin_arabic
 religion = sunni
 capital = "Tabuk"
@@ -48,9 +48,9 @@ discovered_by = east_african
 } # Mecca is returned to the Ottomans
 
 1444.11.11 = {
-	owner = NIZ
-	controller = NIZ
-	add_core = NIZ
+	owner = ANZ
+	controller = ANZ
+	add_core = ANZ
 	culture = bedouin_arabic
 	religion = sunni
 }

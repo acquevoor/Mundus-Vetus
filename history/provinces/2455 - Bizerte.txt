@@ -1,8 +1,7 @@
 # - Bizerte
-add_core = IFQ
 
-owner = IFQ
-controller = IFQ
+owner = TUN
+controller = TUN
 culture = sicilian
 religion = sunni
 capital = "Bizerte"
@@ -43,11 +42,10 @@ discovered_by = eastern
 	remove_core = ALG
 }#Tunisian Pashalik created
 
-
 1444.11.11 = {
-	owner = IFQ
-	controller = IFQ
-	add_core = IFQ
+	owner = TUN
+	controller = TUN
+	add_core = TUN
 	culture = sicilian
 	religion = sunni
 }

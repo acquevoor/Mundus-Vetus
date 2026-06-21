@@ -1,8 +1,7 @@
 #341 - Tunis
-add_core = IFQ
 
-owner = IFQ
-controller = IFQ 
+owner = TUN
+controller = TUN 
 culture = sicilian
 religion = sunni
 capital = "Tunis"
@@ -58,13 +57,12 @@ center_of_trade = 2
 1702.1.1 = { unrest = 4 add_core = ALG } # Military coup, Murad III is assassinated
 1703.1.1 = { unrest = 0 }
 1735.1.1 = { unrest = 6 } # Coup with Algerian support
-1756.1.1 = { unrest = 0 } # The Husaynid Dynasty is restored 
-
+1756.1.1 = { unrest = 0 } # The Husaynid Dynasty is restored
 
 1444.11.11 = {
-	owner = IFQ
-	controller = IFQ
-	add_core = IFQ
+	owner = TUN
+	controller = TUN
+	add_core = TUN
 	culture = sicilian
 	religion = sunni
 }

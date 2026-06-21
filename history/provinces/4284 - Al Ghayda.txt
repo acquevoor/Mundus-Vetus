@@ -29,3 +29,11 @@ discovered_by = east_african
 	owner = MHR
 	controller = MHR
 } #Retaken by the Mahri
+
+1444.11.11 = {
+	owner = MHR
+	controller = MHR
+	add_core = MHR
+	culture = mahri_culture
+	religion = sunni
+}

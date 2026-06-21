@@ -1,7 +1,8 @@
 #402 - Qishn
 
-owner = MHR
-controller = MHR
+owner = HDR
+controller = HDR
+add_core = HDR
 culture = mahri_culture
 religion = sunni
 capital = "Qishn"
@@ -29,3 +30,11 @@ discovered_by = east_african
 	owner = MHR
 	controller = MHR
 } #Retaken by the Mahri
+
+1444.11.11 = {
+	owner = HDR
+	controller = HDR
+	add_core = HDR
+	culture = mahri_culture
+	religion = sunni
+}

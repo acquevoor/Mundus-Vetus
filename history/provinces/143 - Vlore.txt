@@ -1,8 +1,7 @@
 #143 - Vlorë - Southern Albania
 
-owner = RMA
-controller = RMA
-add_core = RMA
+owner = ALB
+controller = ALB
 culture = greek
 religion = catholic
 capital = "Vlorë"
@@ -34,9 +33,9 @@ discovered_by = western
 1803.1.1 = { revolt = {} controller = TUR }
 
 1444.11.11 = {
-	owner = RMA
-	controller = RMA
-	add_core = RMA
+	owner = ALB
+	controller = ALB
+	add_core = ALB
 	culture = greek
 	religion = catholic
 }

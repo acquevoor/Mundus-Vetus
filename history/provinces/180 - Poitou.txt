@@ -1,8 +1,8 @@
 # 180 Haut-Poitou. Principal cities: Poitiers
 
-owner = BER
-controller = BER
-add_core = BER
+owner = ANJ
+controller = ANJ
+add_core = ANJ
 capital = "Poitiers"
 is_city = yes
 culture = cosmopolitan_french
@@ -48,9 +48,9 @@ discovered_by = ottoman
 1749.1.1 = { base_tax = 6 base_production = 6 } # Machault and the 5% tax
 
 1444.11.11 = {
-	owner = BER
-	controller = BER
-	add_core = BER
+	owner = ANJ
+	controller = ANJ
+	add_core = ANJ
 	culture = cosmopolitan_french
 	religion = catholic
 }

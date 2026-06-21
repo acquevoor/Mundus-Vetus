@@ -1,8 +1,8 @@
 # - Syracusa
-add_core = IFQ
 
-owner = IFQ
-controller = IFQ
+owner = TUN
+controller = TUN
+add_core = TUN
 culture = sicilian 
 religion = sunni 
 hre = no 
@@ -13,7 +13,7 @@ base_manpower = 2
 capital = "Trapani"
 is_city = yes
 add_core = SIC
-#add_core = NAP
+add_core = NAP
 
 
 
@@ -23,11 +23,11 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-# 1409.7.25 = {
-	# owner = ARA
-	# controller = ARA
-	# add_core = ARA
-# } # Martin I inherits Sicily from his son
+1409.7.25 = {
+	owner = ARA
+	controller = ARA
+	add_core = ARA
+} # Martin I inherits Sicily from his son
 1516.1.23 = {
 	owner = SPA
 	controller = SPA
@@ -55,11 +55,10 @@ discovered_by = ottoman
 	controller = NAP
 } # The Kingdom is restored to Ferdinand
 
-
 1444.11.11 = {
-	owner = IFQ
-	controller = IFQ
-	add_core = IFQ
+	owner = TUN
+	controller = TUN
+	add_core = TUN
 	culture = sicilian
 	religion = sunni
 }

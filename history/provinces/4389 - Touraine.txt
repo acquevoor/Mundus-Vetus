@@ -1,7 +1,8 @@
 # 0 Touraine - Principal cities: Tours
 
-owner = ORL
-controller = ORL
+owner = ANJ
+controller = ANJ
+add_core = ANJ
 capital = "Tours"
 is_city = yes
 culture = cosmopolitan_french
@@ -13,7 +14,7 @@ trade_goods = cloth
 base_manpower = 3
 add_local_autonomy = 10
 add_core = ORL
-#add_core = FRA
+add_core = FRA
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -37,3 +38,10 @@ discovered_by = ottoman
 1652.7.2 = { unrest = 0 revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Condé takes Orléannais
 1652.10.21 = { revolt = {} controller = FRA } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 
+1444.11.11 = {
+	owner = ANJ
+	controller = ANJ
+	add_core = ANJ
+	culture = cosmopolitan_french
+	religion = catholic
+}

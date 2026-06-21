@@ -38,4 +38,6 @@ discovered_by = east_african
 	owner = ABB
 	controller = ABB
 	add_core = ABB
+	culture = nubian
+	religion = coptic
 }

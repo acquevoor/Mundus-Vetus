@@ -30,4 +30,6 @@ center_of_trade = 2
 	owner = NAP
 	controller = NAP
 	add_core = NAP
+	culture = pontic_greek
+	religion = orthodox
 }

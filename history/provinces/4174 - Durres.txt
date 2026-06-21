@@ -1,8 +1,7 @@
 #4174 - Durres
 
-owner = RMA
-controller = RMA
-add_core = RMA
+owner = ALB
+controller = ALB
 culture = greek
 religion = catholic
 capital = "Durrës"
@@ -43,9 +42,9 @@ center_of_trade = 1
 1803.1.1 = { revolt = {} controller = TUR }
 
 1444.11.11 = {
-	owner = RMA
-	controller = RMA
-	add_core = RMA
+	owner = ALB
+	controller = ALB
+	add_core = ALB
 	culture = greek
 	religion = catholic
 }

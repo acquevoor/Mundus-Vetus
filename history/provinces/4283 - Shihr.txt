@@ -1,8 +1,7 @@
 #4283 - Shihr
 
-owner = YEM
-controller = YEM
-add_core = YEM
+owner = HDR
+controller = HDR
 culture = afar
 religion = sunni
 capital = "As Shihr"
@@ -34,9 +33,9 @@ center_of_trade = 1
 }
 
 1444.11.11 = {
-	owner = YEM
-	controller = YEM
-	add_core = YEM
+	owner = HDR
+	controller = HDR
+	add_core = HDR
 	culture = afar
 	religion = sunni
 }

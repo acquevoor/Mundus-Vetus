@@ -1,7 +1,8 @@
 # 189 Lothringen - Principal cities: Nancy
 
-owner = LOR
-controller = LOR 
+owner = LUX
+controller = LUX 
+add_core = LUX
 capital = "Nancy"
 is_city = yes
 culture = burgundian
@@ -35,3 +36,11 @@ discovered_by = ottoman
 1714.1.1 = { controller = LOR } # Leopold restored when the Spanish Succession Crisis comes to an end
 1766.2.23 = { owner = FRA controller = FRA } # Death of Duke Stanislaus, Lorraine ceases to exist
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+1444.11.11 = {
+	owner = LUX
+	controller = LUX
+	add_core = LUX
+	culture = burgundian
+	religion = catholic
+}

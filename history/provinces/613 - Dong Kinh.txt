@@ -1,8 +1,7 @@
 #613 - Dong Kinh
 
-owner = DON
-controller = DON
-add_core = DON
+owner = DAI
+controller = DAI
 culture = lao
 religion = satsana_phi
 capital = "Dong Kinh"
@@ -50,9 +49,9 @@ discovered_by = ottoman
 } # Nguyen Phuc Anh annexed the Tay Son Dynasty
 
 1444.11.11 = {
-	owner = DON
-	controller = DON
-	add_core = DON
+	owner = DAI
+	controller = DAI
+	add_core = DAI
 	culture = lao
 	religion = satsana_phi
 }

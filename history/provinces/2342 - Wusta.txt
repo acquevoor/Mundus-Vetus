@@ -43,3 +43,11 @@ discovered_by = east_african
 	controller = OMA
 	remove_core = PER
 }
+
+1444.11.11 = {
+	owner = MHR
+	controller = MHR
+	add_core = MHR
+	culture = mahri_culture
+	religion = sunni
+}

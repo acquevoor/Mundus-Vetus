@@ -1,8 +1,7 @@
 #2343 - Kathiri
 
-owner = YEM
-controller = YEM
-add_core = YEM
+owner = HDR
+controller = HDR
 culture = afar
 religion = sunni
 capital = "Say'un"
@@ -33,9 +32,9 @@ discovered_by = east_african
 }
 
 1444.11.11 = {
-	owner = YEM
-	controller = YEM
-	add_core = YEM
+	owner = HDR
+	controller = HDR
+	add_core = HDR
 	culture = afar
 	religion = sunni
 }

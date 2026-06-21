@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = cantonese
+religion = confucianism
+technology_group = chinese
+capital = 667 # Canton
+
+1444.11.11 = {
+	monarch = {
+		name = "Heying I"
+		dynasty = "nodynasty"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

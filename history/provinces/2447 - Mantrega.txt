@@ -34,4 +34,6 @@ discovered_by = nomad_group
 	owner = NAP
 	controller = NAP
 	add_core = NAP
+	culture = pontic_greek
+	religion = orthodox
 }

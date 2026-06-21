@@ -1,11 +1,11 @@
 #668 - Macau
-add_core = DIN
 
-owner = DIN
-controller = DIN
+owner = MAC
+controller = MAC
+add_core = MAC
 add_core = MNG
-culture = zhongyuan
-religion = confucianism
+culture = cantonese
+religion = buddhism
 capital = "Macau"
 trade_goods = fish
 hre = no
@@ -35,11 +35,10 @@ center_of_trade = 1
 	add_core = POR
 } # Leased by Portugal
 
-
 1444.11.11 = {
-	owner = DIN
-	controller = DIN
-	add_core = DIN
-	culture = zhongyuan
-	religion = confucianism
+	owner = MAC
+	controller = MAC
+	add_core = MAC
+	culture = cantonese
+	religion = buddhism
 }

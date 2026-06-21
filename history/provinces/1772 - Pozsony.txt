@@ -1,8 +1,7 @@
 #1772 - Pozsony
 
-owner = KRT
-controller = KRT
-add_core = KRT
+owner = SLO
+controller = SLO
 culture = hungarian
 religion = catholic
 capital = "Pressburg"
@@ -47,10 +46,9 @@ center_of_trade = 1
 1711.1.1 = { controller = HAB } # The House of Habsburg recognized as the new ruler
 
 1444.11.11 = {
-	owner = KRT
-	controller = KRT
-	add_core = KRT
+	owner = SLO
+	controller = SLO
+	add_core = SLO
 	culture = hungarian
 	religion = catholic
-	trade_goods = grain
 }

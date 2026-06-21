@@ -1,8 +1,7 @@
 #1016 - Ha Tinh
 
-owner = DON
-controller = DON
-add_core = DON
+owner = DAI
+controller = DAI
 culture = lao
 religion = satsana_phi
 capital = "Ha Tinh"
@@ -55,9 +54,9 @@ discovered_by = ottoman
 } # Nguyen Phuc Anh annexed the Tay Son Dynasty
 
 1444.11.11 = {
-	owner = DON
-	controller = DON
-	add_core = DON
+	owner = DAI
+	controller = DAI
+	add_core = DAI
 	culture = lao
 	religion = satsana_phi
 }

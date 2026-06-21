@@ -1,4 +1,7 @@
 culture = bornean
+owner = BNJ
+controller = BNJ
+add_core = BNJ
 religion = hinduism
 capital = "Batulican"
 trade_goods = unknown
@@ -14,6 +17,7 @@ discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
+is_city = yes
 
 1444.1.1 = {
 	owner = BNJ
@@ -24,3 +28,11 @@ discovered_by = ottoman
 }
 
 1521.1.1 = { discovered_by = POR }
+
+1444.11.11 = {
+	owner = BNJ
+	controller = BNJ
+	add_core = BNJ
+	culture = bornean
+	religion = hinduism
+}

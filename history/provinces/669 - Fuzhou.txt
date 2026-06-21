@@ -1,10 +1,10 @@
 #669 - Fuzhou
-add_core = DIN
 
-owner = DIN
-controller = DIN
+owner = FUZ
+controller = FUZ
+add_core = FUZ
 add_core = MNG
-culture = zhongyuan
+culture = cantonese
 religion = confucianism
 capital = "Fuzhou"
 trade_goods = tea
@@ -37,11 +37,10 @@ center_of_trade = 1
 	add_core = QNG
 }
 
-
 1444.11.11 = {
-	owner = DIN
-	controller = DIN
-	add_core = DIN
-	culture = zhongyuan
+	owner = FUZ
+	controller = FUZ
+	add_core = FUZ
+	culture = cantonese
 	religion = confucianism
 }
