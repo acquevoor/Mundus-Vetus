@@ -10,12 +10,8 @@ bookmark =
 	country = ENL
 	country = AMJ
 	country = FRK
-	country = GOR
-	country = LTZ
 	country = TAM
 	country = UTL
 
 	easy_country = ENL
-	easy_country = LTZ
-	easy_country = GOR
 }
