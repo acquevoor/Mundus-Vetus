@@ -3,7 +3,7 @@
 owner = TSK
 controller = TSK
 add_core = TSK
-culture = uzbehk
+culture = turco_iranian
 religion = al_batiniyya
 capital = "Atakent"
 trade_goods = livestock
@@ -37,7 +37,7 @@ discovered_by = nomad_group
 	owner = TSK
 	controller = TSK
 	add_core = TSK
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 	trade_goods = livestock
 }

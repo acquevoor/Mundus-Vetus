@@ -3,7 +3,7 @@
 owner = FZA
 controller = FZA 
 culture = maltese
-religion = catholic
+religion = sunni
 capital = "Sabha"
 trade_goods = livestock
 hre = no
@@ -25,5 +25,5 @@ discovered_by = ottoman
 	controller = FZA
 	add_core = FZA
 	culture = maltese
-	religion = catholic
+	religion = sunni
 }

@@ -4,7 +4,7 @@ owner = HRG
 controller = HRG
 add_core = HRG
 add_core = ADA
-culture = afar
+culture = somali
 religion = sunni
 capital = "Hargeisa"
 is_city = yes
@@ -28,6 +28,5 @@ discovered_by = indian
 	owner = HRG
 	controller = HRG
 	add_core = HRG
-	culture = afar
 	religion = sunni
 }

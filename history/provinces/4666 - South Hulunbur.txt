@@ -1,7 +1,7 @@
 owner = KHA
 controller = KHA
 add_core = KHA
-culture = chihan
+culture = khalkha
 religion = shendao
 capital = "Barag"
 trade_goods = livestock
@@ -37,6 +37,5 @@ discovered_by = nomad_group
 	owner = KHA
 	controller = KHA
 	add_core = KHA
-	culture = chihan
 	religion = shendao
 }

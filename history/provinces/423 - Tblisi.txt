@@ -3,7 +3,7 @@
 owner = TBI
 controller = TBI
 add_core = TBI
-culture = armenian
+culture = georgian
 religion = coptic
 capital = "T'bilisi"
 trade_goods = dyes
@@ -45,6 +45,5 @@ center_of_trade = 1
 	owner = TBI
 	controller = TBI
 	add_core = TBI
-	culture = armenian
 	religion = coptic
 }

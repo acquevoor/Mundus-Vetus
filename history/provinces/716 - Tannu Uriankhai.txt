@@ -3,7 +3,7 @@
 owner = OIR		# The Oirads united much of Mongolia
 controller = OIR
 add_core = OIR
-culture = uyghur
+culture = buryat
 religion = tengri_pagan_reformed
 capital = "Tannu Uriankhai"
 trade_goods = fur
@@ -44,6 +44,5 @@ discovered_by = nomad_group
 	owner = OIR
 	controller = OIR
 	add_core = OIR
-	culture = uyghur
 	religion = tengri_pagan_reformed
 }

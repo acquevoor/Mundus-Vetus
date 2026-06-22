@@ -3,7 +3,7 @@
 owner = SHI
 controller = SHI
 add_core = SHI
-culture = al_iraqiya_arabic
+culture = persian
 religion = mandaiuta
 capital = "Fasa"
 trade_goods = silk #And Paper in Jahrum
@@ -62,6 +62,5 @@ discovered_by = nomad_group
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	culture = al_iraqiya_arabic
 	religion = mandaiuta
 }

@@ -3,7 +3,7 @@
 owner = AFS
 controller = AFS
 add_core = AFS
-culture = kurdish
+culture = al_iraqiya_arabic
 religion = shiite
 capital = "Hoveyzeh"
 trade_goods = grain
@@ -35,6 +35,5 @@ discovered_by = indian
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	culture = kurdish
 	religion = shiite
 }

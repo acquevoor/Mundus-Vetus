@@ -3,7 +3,7 @@
 owner = KHA		# The Oirads united much of Mongolia
 controller = KHA
 add_core = KHA
-culture = khamag
+culture = khalkha
 religion = tengri_pagan_reformed
 capital = "Kherlen"
 trade_goods = livestock
@@ -44,6 +44,5 @@ discovered_by = nomad_group
 	owner = KHA
 	controller = KHA
 	add_core = KHA
-	culture = khamag
 	religion = tengri_pagan_reformed
 }

@@ -2,7 +2,7 @@
 
 owner = YEM
 controller = YEM
-culture = afar
+culture = yemeni_culture
 religion = sunni
 capital = "Zabid"
 trade_goods = coffee
@@ -55,6 +55,5 @@ center_of_trade = 1
 	owner = YEM
 	controller = YEM
 	add_core = YEM
-	culture = afar
 	religion = sunni
 }

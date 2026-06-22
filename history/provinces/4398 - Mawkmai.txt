@@ -3,7 +3,7 @@
 owner = Y05
 controller = Y05
 add_core = Y05
-culture = yi
+culture = shan
 religion = vajrayana
 capital = "Mawkmai"
 trade_goods = grain
@@ -51,6 +51,5 @@ discovered_by = indian
 	owner = Y05
 	controller = Y05
 	add_core = Y05
-	culture = yi
 	religion = vajrayana
 }

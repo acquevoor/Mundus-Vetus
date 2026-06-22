@@ -3,7 +3,7 @@ add_core = BHR
 
 owner = BHR
 controller = BHR
-culture = al_iraqiya_arabic
+culture = gulf_arabic
 religion = al_batiniyya
 capital = "Manama"
 trade_goods = gems #Pearls
@@ -50,6 +50,5 @@ discovered_by = east_african
 	owner = BHR
 	controller = BHR
 	add_core = BHR
-	culture = al_iraqiya_arabic
 	religion = al_batiniyya
 }

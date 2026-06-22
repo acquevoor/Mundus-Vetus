@@ -4,7 +4,7 @@ add_core = TIA
 owner = TIA
 controller = TIA
 add_core = HMI
-culture = zhongyuan
+culture = oirats
 religion = shendao
 capital = "Yumen"
 trade_goods = livestock
@@ -42,6 +42,5 @@ center_of_trade = 2
 	owner = TIA
 	controller = TIA
 	add_core = TIA
-	culture = zhongyuan
 	religion = shendao
 }

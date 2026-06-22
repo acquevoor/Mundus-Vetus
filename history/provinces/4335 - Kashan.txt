@@ -3,7 +3,7 @@
 owner = REI
 controller = REI
 add_core = REI
-culture = luri
+culture = persian
 religion = al_batiniyya
 capital = "Kashan"
 trade_goods = silk
@@ -58,6 +58,5 @@ discovered_by = nomad_group
 	owner = REI
 	controller = REI
 	add_core = REI
-	culture = luri
 	religion = al_batiniyya
 }

@@ -2,7 +2,7 @@
 
 owner = MKA
 controller = MKA
-culture = chin
+culture = kachin
 religion = adivasi
 capital = "Mong Kawng"
 trade_goods = gems
@@ -49,6 +49,5 @@ discovered_by = indian
 	owner = MKA
 	controller = MKA
 	add_core = MKA
-	culture = chin
 	religion = adivasi
 }

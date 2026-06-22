@@ -3,7 +3,7 @@
 owner = EZU
 controller = EZU
 add_core = EZU
-culture = kurdish
+culture = armenian
 religion = ahl_e_haqq
 capital = "Erzurum"
 trade_goods = livestock
@@ -43,6 +43,5 @@ discovered_by = nomad_group
 	owner = EZU
 	controller = EZU
 	add_core = EZU
-	culture = kurdish
 	religion = ahl_e_haqq
 }

@@ -132,8 +132,6 @@ germanic = {
 		}
 	}
 
-
-
 	gothic_ger = {
 		primary = FEO
 	}
@@ -253,7 +251,6 @@ scandinavian = { #Nordic
 
 	#country = { land_forcelimit_modifier = 0.25}
 	#province = { local_build_cost = -0.10 }
-
 
 	ostersoen = {
 		primary = PRU
@@ -3528,9 +3525,9 @@ caucasian = {
 	}
 }
 
-turko_semitic = { #Levantine
+turkish_group = {
 	graphical_culture = muslimgfx
-	
+
 	turkish = {
 		province = { local_has_qizilbash = yes }
 		primary = TUR
@@ -3567,6 +3564,12 @@ turko_semitic = { #Levantine
 			Handan Alime Kösem Hüma 
 		}
 	}
+}
+
+turko_semitic = { #Levantine
+	graphical_culture = muslimgfx
+	
+
 	al_misr_arabic = { #Egyptian Arab
 		primary = MAM
 		dynasty_names = {
@@ -6350,7 +6353,6 @@ east_asian = {	# Chinese Group
 			Yi Wang Kim Pak Shin Song Chae Gang Jeong Jang Yun Han Hong Yu Ki Choi Ga Gye Go Na Noh Woo Do Du Ban Ma Min Mun
 			Seo Son Sim An Yang O Jeon Cho Jin Ha Hong Heo Kwak Lim Won Kwon Hwang Bae Seok Bang Dae Gyeong Nam Sung Baek
 
-
 		}
 		male_names = {
 			Hongwi Yu Gwang Hyeol Yung Yeok Ho Hwan Yeon Hon Jong Sun Yun Geum San Gong Byeon Myeongbok Ha-eung Un Gu Seon Hyeon
@@ -6616,11 +6618,6 @@ east_asian = {	# Chinese Group
 		}
 	}
 
-
-
-
-
-
 	dynasty_names = {
 		Zhu Wu Geng Shang Zheng Zhao Li Shi Liu Guo Yang Wang Qian Ma Meng Gao 
 		Chen Sun Sima Cao Xiao Qi Zu Zhou Huang Bai Qiu Tang Lu	Xu Chang 
@@ -6638,7 +6635,6 @@ korean_g = {
 		dynasty_names = { 
 			Yi Wang Kim Pak Shin Song Chae Gang Jeong Jang Yun Han Hong Yu Ki Choi Ga Gye Go Na Noh Woo Do Du Ban Ma Min Mun
 			Seo Son Sim An Yang O Jeon Cho Jin Ha Hong Heo Kwak Lim Won Kwon Hwang Bae Seok Bang Dae Gyeong Nam Sung Baek
-
 
 		}
 		male_names = {
@@ -6752,7 +6748,6 @@ japanese_g = {
 	}
 }
 
-
 tibetan_group = {
 	graphical_culture = asiangfx
 	tibetan = {
@@ -6820,7 +6815,6 @@ tibetan_group = {
 		}
 	}
 }
-
 
 malay = { 
 	graphical_culture = southeastasiangfx
@@ -9543,7 +9537,6 @@ evenks = {
 	}
 }
 
-
 kamchatkan_g = {
 	graphical_culture = inuitgfx
 	second_graphical_culture = asiangfx
@@ -10408,16 +10401,6 @@ oghuric = {
 kipchak_group = {
 	graphical_culture = muslimgfx
 
-	oghuz = {
-		male_names = { Oghuz Tughrul Chaghri Arslan Seljuk Bayindir Salur Yazir Afshar Begdili Igdir Bugduz Yiva Kayi Bayat Dukak Mikail Israil Yabghu Korkut }
-		female_names = { Banu Chichek Selcan Aybuke Gokce Burla }
-		dynasty_names = { Kinik Kayi Bayat Salur Afshar Bayindir }
-	}
-	pecheneg = {
-		male_names = { Kurya Tyrach Kegen Baltchar Talmat Kuel Sur Boru Yula Kulbey Kara Bay Suru Ertem Vorotalmat }
-		female_names = { Boila Kuman Targu }
-		dynasty_names = { Iabdiertim Kuartzitzur Khabuksingila Suru }
-	}
 	kipchak = {
 		male_names = { Bulan Obadiah Zachariah Benjamin Aaron Joseph Manasseh Nisi Menahem Tarkhan Bagatur Bihar Karadach Pesakh Alp }
 		female_names = { Sarah Serakh Atika Chichak Parsbit }

@@ -5,7 +5,7 @@ controller = SHI
 add_core = SHI
 add_core = ORM
 capital = "Hormuz"
-culture = al_iraqiya_arabic
+culture = gulf_arabic
 religion = mandaiuta
 trade_goods = gems #Pearls
 hre = no
@@ -45,6 +45,5 @@ center_of_trade = 2
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	culture = al_iraqiya_arabic
 	religion = mandaiuta
 }

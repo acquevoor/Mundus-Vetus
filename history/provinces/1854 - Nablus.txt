@@ -3,7 +3,7 @@ add_core = SLY
 
 owner = SLY
 controller = SLY
-culture = al_misr_arabic
+culture = al_suryah_arabic
 religion = sunni
 capital = "Nablus"
 trade_goods = sugar
@@ -30,6 +30,5 @@ discovered_by = east_african
 	owner = SLY
 	controller = SLY
 	add_core = SLY
-	culture = al_misr_arabic
 	religion = sunni
 }

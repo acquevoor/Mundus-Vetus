@@ -3,7 +3,7 @@
 owner = YAW
 controller = YAW
 add_core = YAW
-culture = burmese
+culture = shan
 religion = buddhism
 capital = "Yawnghwe"
 trade_goods = cotton
@@ -53,6 +53,5 @@ discovered_by = indian
 	owner = YAW
 	controller = YAW
 	add_core = YAW
-	culture = burmese
 	religion = buddhism
 }

@@ -2,7 +2,7 @@
 
 owner = YEM
 controller = YEM
-culture = afar
+culture = hejazi_culture
 religion = sunni
 capital = "Jazan"
 trade_goods = fish
@@ -52,6 +52,5 @@ discovered_by = east_african
 	owner = YEM
 	controller = YEM
 	add_core = YEM
-	culture = afar
 	religion = sunni
 }

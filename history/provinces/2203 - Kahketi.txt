@@ -3,7 +3,7 @@
 owner = KKH
 controller = KKH
 add_core = KKH
-culture = circassian
+culture = georgian
 religion = uatsdin
 capital = "Telavi"
 trade_goods = wine
@@ -43,6 +43,5 @@ discovered_by = nomad_group
 	owner = KKH
 	controller = KKH
 	add_core = KKH
-	culture = circassian
 	religion = uatsdin
 }

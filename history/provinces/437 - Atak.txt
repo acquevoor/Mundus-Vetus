@@ -4,7 +4,7 @@ add_core = QTL
 owner = QTL
 controller = QTL
 add_core = MRV
-culture = uzbehk
+culture = turco_iranian
 religion = al_batiniyya
 capital = "Nisa"
 trade_goods = wool
@@ -42,7 +42,7 @@ discovered_by = nomad_group
 	owner = MRV
 	controller = MRV
 	add_core = MRV
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 	trade_goods = wool
 }
@@ -52,6 +52,6 @@ discovered_by = nomad_group
 	owner = QTL
 	controller = QTL
 	add_core = QTL
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 }

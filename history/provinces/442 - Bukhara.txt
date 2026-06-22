@@ -4,7 +4,7 @@ add_core = QQP
 owner = QQP
 controller = QQP
 add_core = TSK
-culture = uzbehk
+culture = turco_iranian
 religion = al_batiniyya
 capital = "Bukhara"
 trade_goods = salt
@@ -41,7 +41,7 @@ discovered_by = indian
 	owner = TSK
 	controller = TSK
 	add_core = TSK
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 	trade_goods = salt
 }
@@ -51,6 +51,6 @@ discovered_by = indian
 	owner = QQP
 	controller = QQP
 	add_core = QQP
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 }

@@ -3,7 +3,7 @@
 owner = TSK
 controller = TSK
 add_core = TSK
-culture = uzbehk
+culture = turco_iranian
 religion = al_batiniyya
 capital = "Shymkent"
 trade_goods = wool
@@ -52,7 +52,7 @@ discovered_by = indian
 	owner = TSK
 	controller = TSK
 	add_core = TSK
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 	trade_goods = wool
 }

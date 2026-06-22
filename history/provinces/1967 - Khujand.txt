@@ -4,7 +4,7 @@ add_core = KSG
 owner = KSG
 controller = KSG
 add_core = KAS
-culture = uzbehk
+culture = turco_iranian
 religion = ecclesia_assyrica
 capital = "Khujand"
 trade_goods = silk
@@ -56,6 +56,6 @@ discovered_by = indian
 	owner = KSG
 	controller = KSG
 	add_core = KSG
-	culture = uzbehk
+	culture = turco_iranian
 	religion = ecclesia_assyrica
 }

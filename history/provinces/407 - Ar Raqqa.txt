@@ -3,7 +3,7 @@
 owner = ARR
 controller = ARR
 add_core = ARR
-culture = kurdish
+culture = al_suryah_arabic
 religion = sabian
 capital = "Ar Rakkah"
 trade_goods = livestock
@@ -33,6 +33,5 @@ discovered_by = indian
 	owner = ARR
 	controller = ARR
 	add_core = ARR
-	culture = kurdish
 	religion = sabian
 }

@@ -3,7 +3,7 @@
 owner = SHI
 controller = SHI
 add_core = SHI
-culture = al_iraqiya_arabic
+culture = gulf_arabic
 religion = mandaiuta
 capital = "Gamrun"
 trade_goods = spices
@@ -70,6 +70,5 @@ center_of_trade = 1
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	culture = al_iraqiya_arabic
 	religion = mandaiuta
 }

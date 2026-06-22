@@ -2,7 +2,7 @@
 
 owner = HED
 controller = HED
-culture = tigray
+culture = hejazi_culture
 religion = coptic
 capital = "Makkah"
 trade_goods = incense

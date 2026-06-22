@@ -4,7 +4,7 @@ owner = MRC
 controller = MRC
 add_core = MRC
 add_core = AJU
-culture = afar
+culture = somali
 religion = sunni
 capital = "Merca"
 is_city = yes
@@ -31,6 +31,5 @@ discovered_by = ottoman
 	owner = MRC
 	controller = MRC
 	add_core = MRC
-	culture = afar
 	religion = sunni
 }

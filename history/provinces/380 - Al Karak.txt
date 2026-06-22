@@ -3,7 +3,7 @@
 owner = JAF
 controller = JAF
 add_core = JAF
-culture = al_suryah_arabic
+culture = bedouin_arabic
 religion = sunni
 capital = "Al Karak"
 trade_goods = grain
@@ -37,6 +37,5 @@ discovered_by = east_african
 	owner = JAF
 	controller = JAF
 	add_core = JAF
-	culture = al_suryah_arabic
 	religion = sunni
 }

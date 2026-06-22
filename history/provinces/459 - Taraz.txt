@@ -4,7 +4,7 @@ owner = TSK
 controller = TSK
 add_core = TSK
 add_core = CHG
-culture = uzbehk
+culture = turco_iranian
 religion = al_batiniyya
 capital = "Taraz"
 trade_goods = grain
@@ -39,7 +39,7 @@ discovered_by = KAS
 	owner = TSK
 	controller = TSK
 	add_core = TSK
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 	trade_goods = grain
 }

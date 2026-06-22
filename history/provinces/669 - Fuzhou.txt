@@ -4,7 +4,7 @@ owner = FUZ
 controller = FUZ
 add_core = FUZ
 add_core = MNG
-culture = cantonese
+culture = chimin
 religion = confucianism
 capital = "Fuzhou"
 trade_goods = tea
@@ -41,6 +41,5 @@ center_of_trade = 1
 	owner = FUZ
 	controller = FUZ
 	add_core = FUZ
-	culture = cantonese
 	religion = confucianism
 }

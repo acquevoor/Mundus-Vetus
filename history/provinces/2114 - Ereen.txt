@@ -3,7 +3,7 @@
 owner = KHA
 controller = KHA
 add_core = KHA
-culture = chihan
+culture = mongol
 religion = shendao
 capital = "Ereen"
 trade_goods = livestock
@@ -40,6 +40,5 @@ add_core = CHH
 	owner = KHA
 	controller = KHA
 	add_core = KHA
-	culture = chihan
 	religion = shendao
 }

@@ -3,7 +3,7 @@
 owner = ERZ
 controller = ERZ
 add_core = ERZ
-culture = kurdish
+culture = armenian
 religion = ahl_e_haqq
 capital = "Erzindjan"
 trade_goods = copper
@@ -49,6 +49,5 @@ discovered_by = nomad_group
 	owner = ERZ
 	controller = ERZ
 	add_core = ERZ
-	culture = kurdish
 	religion = ahl_e_haqq
 }

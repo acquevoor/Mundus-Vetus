@@ -3,7 +3,7 @@
 owner = QUM
 controller = QUM
 add_core = QUM
-culture = persian
+culture = baluchi
 religion = al_mutazila
 capital = "Bam"
 trade_goods = cotton
@@ -49,6 +49,5 @@ fort_15th = yes #Bam Citadel
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
 	religion = al_mutazila
 }

@@ -4,7 +4,7 @@ add_core = DIN
 owner = DIN
 controller = DIN
 add_core = MNG
-culture = zhongyuan
+culture = cantonese
 religion = confucianism
 capital = "Limchow"
 trade_goods = incense
@@ -47,6 +47,5 @@ discovered_by = indian
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	culture = zhongyuan
 	religion = confucianism
 }

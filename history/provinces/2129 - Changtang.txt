@@ -7,6 +7,7 @@ discovered_by = indian
 
 
 #Mundus Vetus school nation (chos_bodong)
+culture = tibetan
 1444.11.10 = {
 	owner = Z31
 	controller = Z31

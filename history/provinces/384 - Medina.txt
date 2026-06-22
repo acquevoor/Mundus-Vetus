@@ -3,7 +3,7 @@
 owner = MDA
 controller = MDA
 culture = hejazi_culture
-religion = catholic
+religion = sunni
 capital = "Medina"
 trade_goods = cloth
 hre = no

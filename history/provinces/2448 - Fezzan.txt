@@ -3,7 +3,7 @@
 owner = FZA
 controller = FZA 
 culture = maltese
-religion = catholic
+religion = sunni
 capital = "Murzuk"
 trade_goods = ivory
 hre = no
@@ -27,5 +27,5 @@ discovered_by = ottoman
 	controller = FZA
 	add_core = FZA
 	culture = maltese
-	religion = catholic
+	religion = sunni
 }

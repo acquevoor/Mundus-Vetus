@@ -2,7 +2,7 @@ owner = CAG		# The Oirads united much of Mongolia
 controller = CAG
 add_core = CAG
 add_core = OIR
-culture = uyghur
+culture = oirats
 religion = ecclesia_assyrica
 capital = "Monkhkhairkhan"
 trade_goods = livestock
@@ -44,6 +44,5 @@ discovered_by = nomad_group
 	owner = CAG
 	controller = CAG
 	add_core = CAG
-	culture = uyghur
 	religion = ecclesia_assyrica
 }

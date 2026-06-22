@@ -3,7 +3,7 @@
 owner = MEL
 controller = MEL
 add_core = MEL
-culture = azerbaijani
+culture = armenian
 religion = hurufiyya
 capital = "Nakhchevani"
 trade_goods = wine
@@ -62,6 +62,5 @@ discovered_by = nomad_group
 	owner = MEL
 	controller = MEL
 	add_core = MEL
-	culture = azerbaijani
 	religion = hurufiyya
 }

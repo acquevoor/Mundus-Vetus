@@ -3,7 +3,7 @@
 owner = Y08
 controller = Y08
 add_core = Y08
-culture = assamese
+culture = kachin
 religion = adivasi
 capital = "Minsin"
 trade_goods = grain
@@ -52,6 +52,5 @@ discovered_by = indian
 	owner = Y08
 	controller = Y08
 	add_core = Y08
-	culture = assamese
 	religion = adivasi
 }

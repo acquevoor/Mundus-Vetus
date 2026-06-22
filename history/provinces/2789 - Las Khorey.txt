@@ -4,7 +4,7 @@ owner = LAS
 controller = LAS
 add_core = LAS
 add_core = WAR
-culture = afar
+culture = somali
 religion = sunni
 capital = "Las Khorey"
 trade_goods = incense
@@ -27,6 +27,5 @@ discovered_by = ottoman
 	owner = LAS
 	controller = LAS
 	add_core = LAS
-	culture = afar
 	religion = sunni
 }

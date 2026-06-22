@@ -3,7 +3,7 @@
 owner = DAG
 controller = DAG 
 add_core = DAG
-culture = azerbaijani
+culture = dagestani
 religion = hurufiyya
 capital = "Derbent"
 trade_goods = fish
@@ -53,6 +53,5 @@ discovered_by = nomad_group
 	owner = DAG
 	controller = DAG
 	add_core = DAG
-	culture = azerbaijani
 	religion = hurufiyya
 }

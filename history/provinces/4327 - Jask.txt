@@ -3,7 +3,7 @@
 owner = QUM
 controller = QUM
 add_core = QUM
-culture = persian
+culture = gulf_arabic
 religion = al_mutazila
 capital = "Jask"
 trade_goods = fish
@@ -60,6 +60,5 @@ discovered_by = nomad_group
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
 	religion = al_mutazila
 }

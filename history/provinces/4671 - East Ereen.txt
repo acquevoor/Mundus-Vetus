@@ -2,7 +2,7 @@ add_core = TIA
 owner = TIA
 controller = TIA
 add_core = KHA
-culture = zhongyuan
+culture = mongol
 religion = shendao
 capital = "Kalgan"
 trade_goods = livestock
@@ -40,6 +40,5 @@ add_core = CHH
 	owner = TIA
 	controller = TIA
 	add_core = TIA
-	culture = zhongyuan
 	religion = shendao
 }

@@ -3,7 +3,7 @@
 owner = MUT
 controller = MUT
 add_core = MUT
-culture = gulf_arabic
+culture = bedouin_arabic
 religion = sunni
 capital = "Hafar"
 trade_goods = livestock
@@ -39,6 +39,5 @@ discovered_by = east_african
 	owner = MUT
 	controller = MUT
 	add_core = MUT
-	culture = gulf_arabic
 	religion = sunni
 }

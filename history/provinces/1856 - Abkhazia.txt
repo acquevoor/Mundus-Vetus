@@ -3,7 +3,7 @@
 owner = ABK
 controller = ABK
 add_core = ABK
-culture = circassian
+culture = georgian
 religion = uatsdin
 capital = "Sukhumi"
 trade_goods = wine
@@ -40,6 +40,5 @@ add_local_autonomy = 50
 	owner = ABK
 	controller = ABK
 	add_core = ABK
-	culture = circassian
 	religion = uatsdin
 }

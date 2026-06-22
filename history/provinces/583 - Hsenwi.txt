@@ -2,7 +2,7 @@
 
 owner = HSE
 controller = HSE
-culture = chin
+culture = shan
 religion = adivasi
 capital = "Hsenwi"
 trade_goods = tropical_wood
@@ -52,6 +52,5 @@ discovered_by = indian
 	owner = HSE
 	controller = HSE
 	add_core = HSE
-	culture = chin
 	religion = adivasi
 }

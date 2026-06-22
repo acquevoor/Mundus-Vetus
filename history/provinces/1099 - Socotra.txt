@@ -3,7 +3,7 @@
 owner = SOC
 controller = SOC
 add_core = SOC
-culture = somali
+culture = mahri_culture
 religion = sunni
 capital = "Suqutra"
 trade_goods = fish
@@ -29,6 +29,5 @@ discovered_by = east_african
 	owner = SOC
 	controller = SOC
 	add_core = SOC
-	culture = somali
 	religion = sunni
 }

@@ -3,7 +3,7 @@
 owner = CIS
 controller = CIS
 add_core = CIS
-culture = oghuz
+culture = turkish
 religion = sunni
 capital = "Bolu"
 trade_goods = fish
@@ -42,6 +42,5 @@ base_production = 4 } # Lale Devri (the tulip age), not appreciated by everyone
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	culture = oghuz
 	religion = sunni
 }

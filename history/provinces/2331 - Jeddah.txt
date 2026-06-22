@@ -3,7 +3,7 @@ add_core = SLY
 
 owner = SLY
 controller = SLY
-culture = al_misr_arabic
+culture = hejazi_culture
 religion = sunni
 capital = "Jiddah"
 trade_goods = incense
@@ -50,6 +50,5 @@ center_of_trade = 2
 	owner = SLY
 	controller = SLY
 	add_core = SLY
-	culture = al_misr_arabic
 	religion = sunni
 }

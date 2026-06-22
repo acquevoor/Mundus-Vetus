@@ -3,7 +3,7 @@
 owner = CIS
 controller = CIS
 add_core = CIS
-culture = oghuz
+culture = pontic_greek
 religion = sunni
 capital = "Samsun"
 trade_goods = wine
@@ -36,6 +36,5 @@ discovered_by = nomad_group
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	culture = oghuz
 	religion = sunni
 }

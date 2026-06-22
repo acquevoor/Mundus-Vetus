@@ -3,7 +3,7 @@ add_core = QQP
 
 owner = QQP
 controller = QQP
-culture = uzbehk
+culture = turco_iranian
 religion = al_batiniyya
 capital = "Urgench"
 trade_goods = grain
@@ -41,6 +41,6 @@ discovered_by = indian
 	owner = QQP
 	controller = QQP
 	add_core = QQP
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 }

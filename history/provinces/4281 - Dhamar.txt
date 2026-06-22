@@ -2,7 +2,7 @@
 
 owner = YEM #Tahirids
 controller = YEM #Tahirids
-culture = afar
+culture = yemeni_culture
 religion = sunni
 capital = "Dhamar"
 trade_goods = livestock
@@ -58,6 +58,5 @@ discovered_by = east_african
 	owner = YEM
 	controller = YEM
 	add_core = YEM
-	culture = afar
 	religion = sunni
 }

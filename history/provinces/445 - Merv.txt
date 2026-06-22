@@ -4,7 +4,7 @@ add_core = QTL
 owner = QTL
 controller = QTL
 add_core = MRV
-culture = uzbehk
+culture = turco_iranian
 religion = al_batiniyya
 capital = "Merv"
 trade_goods = fur
@@ -35,7 +35,7 @@ center_of_trade = 1
 }
 1502.1.1 = { owner = KHO controller = KHO remove_core = TIM } # The end of the Timurids in Samarkand
 1505.1.1 = { controller = BUK }
-1506.1.1 = { owner = BUK add_core = BUK remove_core = KHO culture = uzbehk } # Conquered by Muhammad Shaybani
+1506.1.1 = { owner = BUK add_core = BUK remove_core = KHO culture = turco_iranian } # Conquered by Muhammad Shaybani
 1510.12.2 = { owner = PER controller = PER add_core = PER } # Battle of Merv, Ismail Shah defeats and kills Muhammad Shaybani
 1673.1.1 = { discovered_by = ENG }
 1677.1.1 = { discovered_by = FRA }
@@ -47,7 +47,7 @@ center_of_trade = 1
 	owner = MRV
 	controller = MRV
 	add_core = MRV
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 	trade_goods = fur
 }
@@ -57,6 +57,6 @@ center_of_trade = 1
 	owner = QTL
 	controller = QTL
 	add_core = QTL
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 }

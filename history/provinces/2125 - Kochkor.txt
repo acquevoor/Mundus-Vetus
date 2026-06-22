@@ -4,7 +4,7 @@ owner = TSK
 controller = TSK
 add_core = TSK
 add_core = CHG
-culture = uzbehk
+culture = turco_iranian
 religion = al_batiniyya
 capital = "Kochkor"
 trade_goods = livestock
@@ -40,7 +40,7 @@ discovered_by = muslim
 	owner = TSK
 	controller = TSK
 	add_core = TSK
-	culture = uzbehk
+	culture = turco_iranian
 	religion = al_batiniyya
 	trade_goods = livestock
 }

@@ -3,7 +3,7 @@
 owner = REI
 controller = REI
 add_core = REI
-culture = luri
+culture = persian
 religion = al_batiniyya
 capital = "Esfahan"
 trade_goods = paper
@@ -66,6 +66,5 @@ center_of_trade = 2
 	owner = REI
 	controller = REI
 	add_core = REI
-	culture = luri
 	religion = al_batiniyya
 }

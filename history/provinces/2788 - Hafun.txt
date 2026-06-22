@@ -5,7 +5,7 @@ controller = HAF
 add_core = HAF
 add_core = MRE
 add_core = MJE
-culture = afar
+culture = somali
 religion = sunni
 capital = "Hafun"
 trade_goods = incense #also cinnamon, spices, cloves and ivory
@@ -29,6 +29,5 @@ discovered_by = ottoman
 	owner = HAF
 	controller = HAF
 	add_core = HAF
-	culture = afar
 	religion = sunni
 }

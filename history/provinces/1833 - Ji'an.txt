@@ -4,7 +4,7 @@ add_core = DIN
 owner = DIN
 controller = DIN
 add_core = MNG
-culture = zhongyuan
+culture = gan
 religion = confucianism
 capital = "Ji'an"
 trade_goods = cloth
@@ -44,6 +44,5 @@ discovered_by = nomad_group
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	culture = zhongyuan
 	religion = confucianism
 }
