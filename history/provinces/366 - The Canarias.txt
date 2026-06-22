@@ -1,7 +1,7 @@
 #366 - The Canarias
 
-culture = berber
-religion = animism
+culture = castillian
+religion = catholic
 capital = "Las Palmas"
 trade_goods = unknown
 hre = no
@@ -23,8 +23,6 @@ native_hostileness = 0
 	controller = Q07
 	add_core = Q07
 	is_city = yes
-	religion = catholic
-	culture = castillian	
 	trade_goods = sugar
 } # Castilian control
 1478.1.1 = { capital = "Las Palmas" }

@@ -3,7 +3,7 @@
 owner = ALB
 controller = ALB
 culture = albanian
-religion = catholic
+religion = orthodox
 capital = "Vlorë"
 trade_goods = wool #or salt
 hre = no
@@ -36,5 +36,4 @@ discovered_by = western
 	owner = ALB
 	controller = ALB
 	add_core = ALB
-	religion = catholic
 }

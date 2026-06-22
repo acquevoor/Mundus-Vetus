@@ -3,7 +3,7 @@
 owner = MYA
 controller = MYA
 culture = shan
-religion = adivasi
+religion = buddhism
 capital = "Mong Yang"
 trade_goods = copper
 hre = no
@@ -51,5 +51,4 @@ discovered_by = indian
 	owner = MYA
 	controller = MYA
 	add_core = MYA
-	religion = adivasi
 }

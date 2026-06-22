@@ -4,7 +4,7 @@ owner = KHA
 controller = KHA
 add_core = KHA
 culture = khalkha
-religion = shendao
+religion = tengri_pagan_reformed
 capital = "Dornogovi"
 trade_goods = livestock
 hre = no
@@ -45,5 +45,4 @@ discovered_by = nomad_group
 	owner = KHA
 	controller = KHA
 	add_core = KHA
-	religion = shendao
 }

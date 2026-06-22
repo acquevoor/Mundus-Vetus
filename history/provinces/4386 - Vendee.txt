@@ -48,6 +48,4 @@ center_of_trade = 1
 	owner = ANJ
 	controller = ANJ
 	add_core = ANJ
-	culture = cosmopolitan_french
-	religion = catholic
 }

@@ -1,8 +1,8 @@
 # No previous file for Tagant
 add_core = AWD
 
-culture = berber 
-religion = sunni #Fetishism
+culture = fulani 
+religion = shamanism #Fetishism
 capital = "Kiffa"
 trade_goods = unknown
 hre = no
@@ -31,6 +31,4 @@ discovered_by = sub_saharan
 	owner = AWD
 	controller = AWD
 	add_core = AWD
-	culture = berber
-	religion = sunni
 }

@@ -29,6 +29,4 @@ discovered_by = sub_saharan
 	owner = BRM
 	controller = BRM
 	add_core = BRM
-	culture = hausa
-	religion = sunni
 }

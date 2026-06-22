@@ -6,7 +6,7 @@ add_core = Q14
 add_core = BOH
 capital = "Praha"
 culture = czech
-religion = catholic
+religion = hussite
 trade_goods = cloth 
 hre = yes
 base_tax = 8
@@ -60,6 +60,4 @@ add_province_triggered_modifier = religious_center
 	owner = Q14
 	controller = Q14
 	add_core = Q14
-	culture = czech
-	religion = catholic
 }

@@ -2,7 +2,7 @@
 add_core = BGG
 
 culture = nubian
-religion = coptic #Fetishism
+religion = shamanism #Fetishism
 capital = "Al-Ubayyid"
 native_size = 50
 native_ferocity = 4
@@ -41,6 +41,4 @@ discovered_by = MAK
 	owner = BGG
 	controller = BGG
 	add_core = BGG
-	culture = nubian
-	religion = coptic
 }

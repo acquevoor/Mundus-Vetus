@@ -38,6 +38,4 @@ discovered_by = ottoman
 	owner = ZET
 	controller = ZET
 	add_core = ZET
-	culture = serbian
-	religion = orthodox
 }

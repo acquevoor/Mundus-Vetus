@@ -39,5 +39,4 @@ center_of_trade = 1
 	owner = Q07
 	controller = Q07
 	add_core = Q07
-	religion = catholic
 }

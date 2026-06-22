@@ -29,6 +29,4 @@ discovered_by = nomad_group
 	owner = LKI
 	controller = LKI
 	add_core = LKI
-	culture = dagestani
-	religion = sunni
 }

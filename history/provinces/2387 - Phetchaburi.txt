@@ -3,7 +3,7 @@
 owner = TUW 
 controller = TUW
 add_core = TUW
-culture = mon
+culture = central_thai
 religion = buddhism
 capital = "Phetchaburi"
 trade_goods = tropical_wood
@@ -30,6 +30,4 @@ discovered_by = ottoman
 	owner = TUW
 	controller = TUW
 	add_core = TUW
-	culture = mon
-	religion = buddhism
 }

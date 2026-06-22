@@ -5,8 +5,8 @@ controller = PRS
 add_core = PRS
 capital = "Torun"
 is_city = yes
-culture = pruthenian
-religion = baltic_pagan
+culture = polish
+religion = catholic
 trade_goods = grain
 hre = no
 base_tax = 4
@@ -54,6 +54,4 @@ center_of_trade = 1
 	owner = PRS
 	controller = PRS
 	add_core = PRS
-	culture = pruthenian
-	religion = baltic_pagan
 }

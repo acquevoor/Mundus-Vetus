@@ -47,6 +47,4 @@ discovered_by = ottoman
 	owner = NUB
 	controller = NUB
 	add_core = NUB
-	culture = nubian
-	religion = coptic
 }

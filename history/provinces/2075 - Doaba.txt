@@ -26,7 +26,6 @@ add_province_triggered_modifier = sikh_amritsar
 	owner = DLH
 } #Bahlul Lodi takes power in Delhi
 1499.1.1 = {
-	religion = sikhism
 	add_province_triggered_modifier = religious_center
 }
 1526.2.1 = { controller = TIM } # Babur's invasion

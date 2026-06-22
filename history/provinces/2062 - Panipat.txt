@@ -71,6 +71,4 @@ discovered_by = chinese
 	owner = BAT
 	controller = BAT
 	add_core = BAT
-	culture = kanauji
-	religion = hinduism
 }

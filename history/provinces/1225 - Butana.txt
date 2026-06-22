@@ -6,7 +6,7 @@ add_core = AGE
 add_core = ALO
 add_core = ABB
 culture = nubian 
-religion = coptic
+religion = sunni
 capital = "Qarri"
 base_manpower = 1
 base_tax = 1 
@@ -56,6 +56,4 @@ discovered_by = ottoman
 	owner = AGE
 	controller = AGE
 	add_core = AGE
-	culture = nubian
-	religion = coptic
 }

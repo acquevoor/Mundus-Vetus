@@ -4,7 +4,7 @@ owner = QUM
 controller = QUM
 add_core = QUM
 culture = gulf_arabic
-religion = al_mutazila
+religion = sunni
 capital = "Jask"
 trade_goods = fish
 hre = no
@@ -45,7 +45,6 @@ discovered_by = nomad_group
 	remove_core = KHO
 }# The Safavids take over, Shi'ism becomes the state religion
 1532.1.1 = {
-	religion = shiite
 } # Estimated time when the Safavids convert the Sunni to Shia
 1550.1.1 = { discovered_by = TUR }
 1673.1.1 = { discovered_by = ENG }
@@ -60,5 +59,4 @@ discovered_by = nomad_group
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	religion = al_mutazila
 }

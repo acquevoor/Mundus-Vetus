@@ -3,8 +3,8 @@ add_core = BDJ
 
 owner = BDJ
 controller = BDJ
-culture = andalucian
-religion = sunni
+culture = portugese
+religion = catholic
 capital = "Évora"
 trade_goods = wine
 hre = no
@@ -36,6 +36,4 @@ discovered_by = eastern
 	owner = BDJ
 	controller = BDJ
 	add_core = BDJ
-	culture = andalucian
-	religion = sunni
 }

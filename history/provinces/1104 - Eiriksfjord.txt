@@ -4,7 +4,7 @@ controller = Q16
 add_core = Q16
 
 culture = inuit
-religion = norse_pagan_reformed
+religion = totemism
 capital = "Eiriksfjord"
 trade_goods = unknown
 hre = no
@@ -25,8 +25,6 @@ is_city = yes
 	owner = Q00
 	controller = Q00
 	add_core = Q00
-	culture = danish
-	religion = protestant
 	trade_goods = fish
 	is_city = yes
 }
@@ -35,5 +33,4 @@ is_city = yes
 	owner = Q16
 	controller = Q16
 	add_core = Q16
-	religion = norse_pagan_reformed
 }

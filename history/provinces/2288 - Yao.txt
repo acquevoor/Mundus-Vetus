@@ -19,6 +19,4 @@ discovered_by = sub_saharan
 	owner = YAO
 	controller = YAO
 	add_core = YAO
-	culture = bilala
-	religion = sunni
 }

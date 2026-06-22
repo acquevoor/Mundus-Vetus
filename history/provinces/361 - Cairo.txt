@@ -65,6 +65,4 @@ center_of_trade = 2
 	owner = SLY
 	controller = SLY
 	add_core = SLY
-	culture = al_misr_arabic
-	religion = sunni
 }

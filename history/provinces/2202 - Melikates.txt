@@ -4,7 +4,7 @@ owner = MEL
 controller = MEL
 add_core = MEL
 culture = armenian
-religion = hurufiyya
+religion = coptic
 capital = "Khankendi"
 trade_goods = livestock
 hre = no
@@ -54,5 +54,4 @@ discovered_by = nomad_group
 	owner = MEL
 	controller = MEL
 	add_core = MEL
-	religion = hurufiyya
 }

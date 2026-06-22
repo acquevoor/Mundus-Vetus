@@ -27,7 +27,6 @@ discovered_by = ottoman
 	controller = KUR
 	add_core = KUR
 	remove_core = LIV
-	religion = protestant
 } # Treaty of Stettin
 1621.10.3 = { controller = Q01 } # 2nd Polish War-Captured by GIIA
 1622.6.25 = { controller = KUR } # 2nd Polish War-Captured by Radziwill

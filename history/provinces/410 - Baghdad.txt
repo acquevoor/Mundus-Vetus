@@ -4,7 +4,7 @@ owner = AFS
 controller = AFS
 add_core = AFS
 culture = al_iraqiya_arabic
-religion = shiite
+religion = sunni
 capital = "Baghdad"
 trade_goods = cloth
 hre = no
@@ -39,7 +39,6 @@ add_local_autonomy = 20
 	controller = PER
 	add_core = PER
 	remove_core = AKK
-	religion = shiite
 }
 1534.11.28 = { controller = TUR } # Ottoman conquest
 1536.1.1 = {
@@ -54,6 +53,4 @@ add_local_autonomy = 20
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	culture = al_iraqiya_arabic
-	religion = shiite
 }

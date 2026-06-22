@@ -80,6 +80,5 @@ discovered_by = ottoman
 	owner = HUN
 	controller = HUN
 	add_core = HUN
-	religion = orthodox
 	trade_goods = fur
 }

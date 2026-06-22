@@ -114,6 +114,4 @@ controller = REB
 	owner = PRA
 	controller = PRA
 	add_core = PRA
-	culture = malvi
-	religion = hinduism
 }

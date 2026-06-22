@@ -5,7 +5,7 @@ owner = BCB
 controller = BCB
 add_core = CHG
 culture = uyghur
-religion = tengri_pagan_reformed
+religion = sunni
 capital = "Ili"
 trade_goods = grain
 hre = no
@@ -43,6 +43,4 @@ discovered_by = ottoman
 	owner = BCB
 	controller = BCB
 	add_core = BCB
-	culture = uyghur
-	religion = tengri_pagan_reformed
 }

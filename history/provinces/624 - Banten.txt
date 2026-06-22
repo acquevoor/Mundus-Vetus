@@ -40,6 +40,4 @@ discovered_by = ottoman
 	owner = JAW
 	controller = JAW
 	add_core = JAW
-	culture = sundanese
-	religion = hinduism
 }

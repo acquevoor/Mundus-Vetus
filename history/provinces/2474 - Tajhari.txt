@@ -3,7 +3,7 @@ owner = FZA
 controller = FZA
 add_core = FZA
 
-culture = maltese
+culture = tuareg
 religion = sunni
 capital = "Tajhari"
 trade_goods = unknown
@@ -26,6 +26,4 @@ is_city = yes
 	owner = FZA
 	controller = FZA
 	add_core = FZA
-	culture = maltese
-	religion = sunni
 }

@@ -6,8 +6,8 @@ latent_trade_goods = {
 
 owner = SER
 controller = SER
-culture = bosnian
-religion = catholic
+culture = serbian
+religion = orthodox
 capital = "Pristina"
 trade_goods = gold #Novo Brdo and other Silver mines in this area
 hre = no
@@ -45,6 +45,4 @@ discovered_by = ottoman
 	owner = SER
 	controller = SER
 	add_core = SER
-	culture = bosnian
-	religion = catholic
 }

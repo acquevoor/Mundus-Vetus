@@ -64,6 +64,4 @@ discovered_by = chinese
 	owner = PRA
 	controller = PRA
 	add_core = PRA
-	culture = gondi
-	religion = hinduism
 }

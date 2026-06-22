@@ -64,5 +64,4 @@ discovered_by = chinese
 	owner = KLP
 	controller = KLP
 	add_core = KLP
-	religion = hinduism
 }

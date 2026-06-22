@@ -42,6 +42,4 @@ discovered_by = ottoman
 	owner = SZO
 	controller = SZO
 	add_core = SZO
-	culture = piedmontese
-	religion = catholic
 }

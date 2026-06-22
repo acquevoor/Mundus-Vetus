@@ -4,8 +4,8 @@ add_core = QTL
 owner = QTL
 controller = QTL
 add_core = MRV
-culture = turco_iranian
-religion = al_batiniyya
+culture = turkmeni
+religion = sunni
 capital = "Geok-Tepe"
 trade_goods = wool
 hre = no
@@ -40,8 +40,6 @@ discovered_by = indian
 	owner = MRV
 	controller = MRV
 	add_core = MRV
-	culture = turco_iranian
-	religion = al_batiniyya
 	trade_goods = wool
 }
 
@@ -50,6 +48,4 @@ discovered_by = indian
 	owner = QTL
 	controller = QTL
 	add_core = QTL
-	culture = turco_iranian
-	religion = al_batiniyya
 }

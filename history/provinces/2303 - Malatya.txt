@@ -4,7 +4,7 @@ owner = CIL
 controller = CIL
 add_core = CIL
 culture = turkish
-religion = coptic
+religion = shiite
 capital = "Malatiya"
 trade_goods = cloth
 hre = no
@@ -30,5 +30,4 @@ discovered_by = nomad_group
 	owner = CIL
 	controller = CIL
 	add_core = CIL
-	religion = coptic
 }

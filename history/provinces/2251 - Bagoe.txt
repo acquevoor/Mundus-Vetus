@@ -1,7 +1,5 @@
 #2251 - Bagoe
 
-culture = bambara
-religion = animism
 capital = "Bagoe"
 trade_goods = unknown
 hre = no

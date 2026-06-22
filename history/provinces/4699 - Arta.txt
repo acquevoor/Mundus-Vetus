@@ -38,6 +38,4 @@ discovered_by = western
 	owner = DRM
 	controller = DRM
 	add_core = DRM
-	culture = greek
-	religion = orthodox
 }

@@ -5,7 +5,7 @@ owner = KSG
 controller = KSG
 add_core = KAS
 culture = uyghur
-religion = ecclesia_assyrica
+religion = sunni
 capital = "Kashgar"
 trade_goods = wool
 hre = no
@@ -46,6 +46,4 @@ center_of_trade = 2
 	owner = KSG
 	controller = KSG
 	add_core = KSG
-	culture = uyghur
-	religion = ecclesia_assyrica
 }

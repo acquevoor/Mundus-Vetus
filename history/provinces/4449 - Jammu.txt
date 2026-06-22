@@ -57,5 +57,4 @@ discovered_by = chinese
 	owner = KSH
 	controller = KSH
 	add_core = KSH
-	religion = hinduism
 }

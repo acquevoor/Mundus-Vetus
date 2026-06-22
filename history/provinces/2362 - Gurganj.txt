@@ -3,8 +3,8 @@ add_core = TKS
 
 owner = TKS
 controller = TKS
-culture = kipchak
-religion = tengri_pagan_reformed
+culture = turkmeni
+religion = sunni
 capital = "Gurganj"
 trade_goods = wool
 hre = no
@@ -41,6 +41,4 @@ discovered_by = indian
 	owner = TKS
 	controller = TKS
 	add_core = TKS
-	culture = kipchak
-	religion = tengri_pagan_reformed
 }

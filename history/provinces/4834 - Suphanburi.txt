@@ -1,7 +1,7 @@
 owner = TUW
 controller = TUW
 add_core = TUW
-culture = mon
+culture = central_thai
 religion = buddhism
 capital = "Suphanburi"
 trade_goods = grain
@@ -25,6 +25,4 @@ discovered_by = ottoman
 	owner = TUW
 	controller = TUW
 	add_core = TUW
-	culture = mon
-	religion = buddhism
 }

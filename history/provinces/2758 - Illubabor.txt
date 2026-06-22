@@ -17,7 +17,6 @@ discovered_by = east_african
 discovered_by = muslim
 
 1650.1.1 = {
-	culture = oromo
 }
 1710.1.1 = {
 	owner = ETH
@@ -29,6 +28,4 @@ discovered_by = muslim
 	owner = KAF
 	controller = KAF
 	add_core = KAF
-	culture = sidamo
-	religion = coptic
 }

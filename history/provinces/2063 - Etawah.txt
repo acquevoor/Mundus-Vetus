@@ -89,6 +89,4 @@ discovered_by = chinese
 	owner = JAY
 	controller = JAY
 	add_core = JAY
-	culture = kanauji
-	religion = hinduism
 }

@@ -31,6 +31,4 @@ center_of_trade = 1
 	owner = MNN
 	controller = MNN
 	add_core = MNN
-	culture = tibetan
-	religion = vajrayana
 }

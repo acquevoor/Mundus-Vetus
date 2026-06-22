@@ -36,5 +36,4 @@ center_of_trade = 1
 	owner = HDR
 	controller = HDR
 	add_core = HDR
-	religion = sunni
 }

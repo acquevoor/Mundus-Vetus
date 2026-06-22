@@ -3,7 +3,7 @@ owner = KYR
 controller = KYR
 add_core = KYR
 
-culture = kipchak
+culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Imakia"
 trade_goods = unknown
@@ -33,8 +33,6 @@ is_city = yes
 	discovered_by = RUS
 	owner = RUS
 	controller = RUS
-	religion = orthodox
-	culture = kipchak
 }
 1623.1.1 = { add_core = RUS }
 1720.1.1 = { capital = "Koryakovsky" } # later on renamed Pavlodar
@@ -43,6 +41,4 @@ is_city = yes
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = kipchak
-	religion = tengri_pagan_reformed
 }

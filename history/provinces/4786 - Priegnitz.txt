@@ -4,7 +4,7 @@ owner = OBO
 controller = OBO
 add_core = OBO
 add_core = Q06
-culture = polabian
+culture = saxon
 religion = catholic
 hre = yes
 base_tax = 2 
@@ -32,6 +32,4 @@ discovered_by = ottoman
 	owner = OBO
 	controller = OBO
 	add_core = OBO
-	culture = polabian
-	religion = catholic
 }

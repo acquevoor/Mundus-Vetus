@@ -35,8 +35,6 @@ is_city = yes
 1618.1.1 = {
 	owner = RUS
 	controller = RUS
-	religion = orthodox
-	culture = russian
 	is_city = yes
 } # Part of Russia
 1781.1.1 = { add_core = RUS }
@@ -45,6 +43,4 @@ is_city = yes
 	owner = OIR
 	controller = OIR
 	add_core = OIR
-	culture = kirgiz
-	religion = tengri_pagan_reformed
 }

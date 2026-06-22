@@ -4,7 +4,7 @@ owner = Q04
 controller = Q04
 add_core = Q04
 culture = schlesian
-religion = slavic_pagan
+religion = catholic
 capital = "Breslau"
 trade_goods = cloth
 hre = yes
@@ -53,5 +53,4 @@ base_production = 8 base_manpower = 13 }
 	owner = Q04
 	controller = Q04
 	add_core = Q04
-	religion = slavic_pagan
 }

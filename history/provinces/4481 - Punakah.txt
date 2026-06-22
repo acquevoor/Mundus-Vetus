@@ -30,6 +30,4 @@ discovered_by = chinese
 	owner = Z52
 	controller = Z52
 	add_core = Z52
-	culture = tibetan
-	religion = vajrayana
 }

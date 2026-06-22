@@ -35,6 +35,4 @@ discovered_by = sub_saharan
 	owner = ZZZ
 	controller = ZZZ
 	add_core = ZZZ
-	culture = hausa
-	religion = shamanism
 }

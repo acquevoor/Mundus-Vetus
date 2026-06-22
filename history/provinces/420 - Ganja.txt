@@ -4,7 +4,7 @@ owner = MEL
 controller = MEL
 add_core = MEL
 culture = azerbaijani
-religion = hurufiyya
+religion = shiite
 capital = "Ganja"
 trade_goods = cotton
 hre = no
@@ -61,6 +61,4 @@ discovered_by = nomad_group
 	owner = MEL
 	controller = MEL
 	add_core = MEL
-	culture = azerbaijani
-	religion = hurufiyya
 }

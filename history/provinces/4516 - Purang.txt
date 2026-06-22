@@ -46,6 +46,4 @@ discovered_by = nomad_group
 	owner = PNG
 	controller = PNG
 	add_core = PNG
-	culture = tibetan
-	religion = vajrayana
 }

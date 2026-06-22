@@ -4,7 +4,7 @@ owner = OBO
 controller = OBO
 add_core = OBO
 add_core = MKL
-culture = polabian
+culture = pommeranian
 religion = catholic
 hre = yes
 base_tax = 3
@@ -29,6 +29,4 @@ discovered_by = ottoman
 	owner = OBO
 	controller = OBO
 	add_core = OBO
-	culture = polabian
-	religion = catholic
 }

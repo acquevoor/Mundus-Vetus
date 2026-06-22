@@ -4,7 +4,7 @@ owner = NAM
 controller = NAM
 add_core = NAM
 culture = lao
-religion = satsana_phi
+religion = animism
 capital = "Sikhottabong"
 trade_goods = grain
 hre = no
@@ -38,6 +38,4 @@ discovered_by = indian
 	owner = NAM
 	controller = NAM
 	add_core = NAM
-	culture = lao
-	religion = satsana_phi
 }

@@ -59,6 +59,4 @@ center_of_trade = 3
 	owner = GEN
 	controller = GEN
 	add_core = GEN
-	culture = ligurian
-	religion = catholic
 }

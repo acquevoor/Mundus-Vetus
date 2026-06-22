@@ -4,7 +4,7 @@ owner = QUM
 controller = QUM
 add_core = QUM
 culture = baluchi
-religion = al_mutazila
+religion = sunni
 capital = "Bam"
 trade_goods = cotton
 hre = no
@@ -36,7 +36,6 @@ fort_15th = yes #Bam Citadel
 	remove_core = AKK
 } # The Safavids take over, Shi'ism becomes the state religion
 1532.1.1 = {
-	religion = shiite
 } # Estimated time when the Safavids convert the Sunni to Shia
 1550.1.1 = { discovered_by = TUR }
 1673.1.1 = { discovered_by = ENG }
@@ -49,5 +48,4 @@ fort_15th = yes #Bam Citadel
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	religion = al_mutazila
 }

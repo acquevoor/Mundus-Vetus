@@ -2,8 +2,8 @@
 
 owner = SER
 controller = SER
-culture = bosnian
-religion = catholic
+culture = serbian
+religion = orthodox
 capital = "Belgrade"
 trade_goods = cloth
 hre = no
@@ -65,6 +65,4 @@ center_of_trade = 1
 	owner = SER
 	controller = SER
 	add_core = SER
-	culture = bosnian
-	religion = catholic
 }

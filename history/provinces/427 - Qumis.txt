@@ -4,7 +4,7 @@ owner = QUM
 controller = QUM
 add_core = QUM
 culture = khorasani
-religion = al_mutazila
+religion = sunni
 capital = "Damghan"
 trade_goods = wool
 hre = no
@@ -39,7 +39,6 @@ discovered_by = indian
 	remove_core = BUK
 } # The Safavids took over, Shi'ism became the state religion
 1532.1.1 = {
-	religion = shiite
 } # Estimated time when the Safavids convert the Sunni to Shia
 1550.1.1 = { discovered_by = TUR }
 1673.1.1 = { discovered_by = ENG }
@@ -61,5 +60,4 @@ discovered_by = indian
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	religion = al_mutazila
 }

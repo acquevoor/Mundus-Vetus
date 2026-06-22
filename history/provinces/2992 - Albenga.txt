@@ -57,6 +57,4 @@ discovered_by = ottoman
 	owner = GEN
 	controller = GEN
 	add_core = GEN
-	culture = ligurian
-	religion = catholic
 }

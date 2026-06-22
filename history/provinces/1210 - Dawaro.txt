@@ -67,5 +67,4 @@ discovered_by = indian
 	owner = HRE
 	controller = HRE
 	add_core = HRE
-	religion = sunni
 }

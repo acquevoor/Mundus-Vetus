@@ -42,6 +42,4 @@ discovered_by = western
 	owner = Y01
 	controller = Y01
 	add_core = Y01
-	culture = greek
-	religion = orthodox
 }

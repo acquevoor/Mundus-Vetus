@@ -4,7 +4,7 @@ owner = OBO
 controller = OBO
 add_core = OBO
 add_core = HSA
-culture = polabian
+culture = lower_saxon
 religion = catholic
 hre = yes
 base_tax = 7
@@ -47,6 +47,4 @@ base_production = 8 } # Stockholm commanded the Baltic Sea trade
 	owner = OBO
 	controller = OBO
 	add_core = OBO
-	culture = polabian
-	religion = catholic
 }

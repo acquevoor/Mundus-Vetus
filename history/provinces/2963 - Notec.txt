@@ -4,7 +4,7 @@ owner = Q04
 controller = Q04
 capital = "Naklo"
 culture = polish
-religion = slavic_pagan
+religion = catholic
 trade_goods = livestock
 hre = no
 base_tax = 1
@@ -54,5 +54,4 @@ discovered_by = ottoman
 	owner = Q04
 	controller = Q04
 	add_core = Q04
-	religion = slavic_pagan
 }

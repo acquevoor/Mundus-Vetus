@@ -5,7 +5,7 @@ owner = CRD		#Enrique III of Castille
 controller = CRD
 add_core = Q07
 culture = andalucian
-religion = sunni
+religion = catholic
 hre = no
 base_tax = 3
 base_production = 4
@@ -41,6 +41,4 @@ discovered_by = ottoman
 	owner = CRD
 	controller = CRD
 	add_core = CRD
-	culture = andalucian
-	religion = sunni
 }

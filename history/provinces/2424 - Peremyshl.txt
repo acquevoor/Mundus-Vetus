@@ -56,6 +56,5 @@ discovered_by = muslim
 	owner = HLC
 	controller = HLC
 	add_core = HLC
-	religion = orthodox
 	trade_goods = fur
 }

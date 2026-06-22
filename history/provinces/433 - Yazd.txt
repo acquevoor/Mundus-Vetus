@@ -4,7 +4,7 @@ owner = QUM
 controller = QUM
 add_core = QUM
 culture = persian
-religion = al_mutazila
+religion = zoroastrian
 capital = "Yazd"
 trade_goods = paper
 hre = no
@@ -44,7 +44,6 @@ center_of_trade = 1
 	controller = PER
 	add_core = PER
 	remove_core = AKK
-	religion = shiite
 } # The Safavids took over
 1550.1.1 = { discovered_by = TUR }
 1597.12.1 = { base_tax = 4
@@ -59,6 +58,4 @@ base_production = 4 } # The Reforms of Abbas the Great
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
-	religion = al_mutazila
 }

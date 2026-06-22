@@ -3,7 +3,7 @@
 owner = LRI
 controller = LRI
 culture = luri
-religion = al_mutazila
+religion = shiite
 capital = "Khorramabad"
 trade_goods = grain
 hre = no
@@ -43,6 +43,4 @@ fort_15th = yes #Falak-ol-Aflak
 	owner = LRI
 	controller = LRI
 	add_core = LRI
-	culture = luri
-	religion = al_mutazila
 }

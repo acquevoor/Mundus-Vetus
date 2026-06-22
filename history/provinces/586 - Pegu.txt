@@ -44,6 +44,4 @@ center_of_trade = 1
 	owner = TUW
 	controller = TUW
 	add_core = TUW
-	culture = mon
-	religion = buddhism
 }

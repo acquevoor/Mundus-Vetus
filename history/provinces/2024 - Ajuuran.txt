@@ -34,5 +34,4 @@ discovered_by = ottoman
 	owner = GAR
 	controller = GAR
 	add_core = GAR
-	religion = sunni
 }

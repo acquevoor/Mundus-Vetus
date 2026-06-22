@@ -8,8 +8,8 @@ latent_trade_goods = {
 owner = KSG
 controller = KSG
 add_core = KAS
-culture = turco_iranian
-religion = ecclesia_assyrica
+culture = kirgiz
+religion = sunni
 capital = "Uzkend"
 trade_goods = wool
 hre = no
@@ -47,6 +47,4 @@ discovered_by = KAS
 	owner = KSG
 	controller = KSG
 	add_core = KSG
-	culture = turco_iranian
-	religion = ecclesia_assyrica
 }

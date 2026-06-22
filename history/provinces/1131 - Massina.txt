@@ -3,7 +3,7 @@ add_core = WLT
 
 owner = WLT
 controller = WLT
-culture = mali
+culture = bambara
 is_city = yes
 base_manpower = 1
 religion = shamanism #Fetishism
@@ -42,6 +42,4 @@ center_of_trade = 1
 	owner = WLT
 	controller = WLT
 	add_core = WLT
-	culture = mali
-	religion = shamanism
 }

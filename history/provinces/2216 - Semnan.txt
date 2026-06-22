@@ -4,7 +4,7 @@ owner = QUM
 controller = QUM
 add_core = QUM
 culture = persian
-religion = al_mutazila
+religion = sunni
 capital = "Semnan"
 trade_goods = gems #Turquoise
 hre = no
@@ -48,7 +48,6 @@ discovered_by = nomad_group
 	remove_core = BUK
 } # Part of the Persian empire
 1532.1.1 = {
-	religion = shiite
 } # Estimated time when the Safavids convert the Sunni to Shia
 1597.12.1 = { base_tax = 3 base_production = 3 } # The Reforms of Abbas the Great
 1673.1.1 = { discovered_by = ENG }
@@ -73,6 +72,4 @@ discovered_by = nomad_group
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
-	religion = al_mutazila
 }

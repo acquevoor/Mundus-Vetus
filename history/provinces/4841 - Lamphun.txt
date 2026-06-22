@@ -3,8 +3,8 @@
 owner = Y05
 controller = Y05
 add_core = Y05
-culture = yi
-religion = vajrayana
+culture = northern_thai
+religion = buddhism
 capital = "Lamphun"
 trade_goods = grain
 hre = no
@@ -24,6 +24,4 @@ discovered_by = indian
 	owner = Y05
 	controller = Y05
 	add_core = Y05
-	culture = yi
-	religion = vajrayana
 }

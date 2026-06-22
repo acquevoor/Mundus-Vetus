@@ -35,5 +35,4 @@ discovered_by = BYZ
 	owner = JAF
 	controller = JAF
 	add_core = JAF
-	religion = sunni
 }

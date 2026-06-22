@@ -4,7 +4,7 @@ owner = KAI
 controller = KAI
 add_core = KAI
 culture = georgian
-religion = uatsdin
+religion = orthodox
 capital = "Gori"
 trade_goods = silk
 hre = no
@@ -42,5 +42,4 @@ discovered_by = nomad_group
 	owner = KAI
 	controller = KAI
 	add_core = KAI
-	religion = uatsdin
 }

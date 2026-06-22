@@ -58,6 +58,4 @@ discovered_by = ottoman
 	owner = KTR
 	controller = KTR
 	add_core = KTR
-	culture = serbian
-	religion = orthodox
 }

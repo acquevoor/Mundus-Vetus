@@ -3,7 +3,7 @@
 owner = YEM
 controller = YEM
 culture = yemeni_culture
-religion = sunni
+religion = shiite
 capital = "Marib"
 trade_goods = livestock
 hre = no
@@ -52,5 +52,4 @@ discovered_by = east_african
 	owner = YEM
 	controller = YEM
 	add_core = YEM
-	religion = sunni
 }

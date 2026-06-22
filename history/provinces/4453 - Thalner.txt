@@ -62,5 +62,4 @@ discovered_by = chinese
 	owner = KHD
 	controller = KHD
 	add_core = KHD
-	religion = hinduism
 }

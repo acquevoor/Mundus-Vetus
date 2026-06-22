@@ -4,7 +4,7 @@ owner = Q15 		# Knights of St. John Hospitaler of Jerusalem
 controller = Q15
 add_core = Q15
 culture = greek
-religion = sunni
+religion = orthodox
 capital = "Rhodes"
 trade_goods = fish
 hre = no
@@ -31,6 +31,4 @@ discovered_by = ottoman
 	owner = Q15
 	controller = Q15
 	add_core = Q15
-	culture = greek
-	religion = sunni
 }

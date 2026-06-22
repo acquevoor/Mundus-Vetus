@@ -2,8 +2,8 @@
 
 owner = SER
 controller = SER
-culture = bosnian
-religion = catholic
+culture = serbian
+religion = orthodox
 capital = "Valjevo"
 trade_goods = grain
 hre = no
@@ -54,6 +54,4 @@ discovered_by = ottoman
 	owner = SER
 	controller = SER
 	add_core = SER
-	culture = bosnian
-	religion = catholic
 }

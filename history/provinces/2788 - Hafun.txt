@@ -29,5 +29,4 @@ discovered_by = ottoman
 	owner = HAF
 	controller = HAF
 	add_core = HAF
-	religion = sunni
 }

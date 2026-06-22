@@ -53,6 +53,4 @@ discovered_by = eastern
 	owner = AWD
 	controller = AWD
 	add_core = AWD
-	culture = berber
-	religion = sunni
 }

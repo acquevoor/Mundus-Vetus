@@ -5,7 +5,7 @@ owner = TIA
 controller = TIA
 add_core = HMI
 culture = oirats
-religion = shendao
+religion = vajrayana
 capital = "Yumen"
 trade_goods = livestock
 hre = no
@@ -42,5 +42,4 @@ center_of_trade = 2
 	owner = TIA
 	controller = TIA
 	add_core = TIA
-	religion = shendao
 }

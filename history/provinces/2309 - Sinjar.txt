@@ -4,7 +4,7 @@ owner = AFS
 controller = AFS
 add_core = AFS
 culture = al_iraqiya_arabic
-religion = shiite
+religion = sunni
 capital = "Sindjar"
 trade_goods = sugar
 hre = no
@@ -49,5 +49,4 @@ add_local_autonomy = 20
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	religion = shiite
 }

@@ -4,7 +4,7 @@ owner = CIS
 controller = CIS
 add_core = CIS
 culture = turkish
-religion = sunni
+religion = shiite
 capital = "Sivas"
 trade_goods = livestock
 hre = no
@@ -50,6 +50,4 @@ discovered_by = nomad_group
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	culture = turkish
-	religion = sunni
 }

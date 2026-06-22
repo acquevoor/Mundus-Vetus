@@ -4,7 +4,7 @@ owner = GAU
 controller = GAU
 add_core = GAU
 culture = kochi
-religion = vajrayana
+religion = hinduism
 capital = "Purnia"
 trade_goods = silk
 hre = no
@@ -82,6 +82,4 @@ discovered_by = chinese
 	owner = GAU
 	controller = GAU
 	add_core = GAU
-	culture = kochi
-	religion = vajrayana
 }

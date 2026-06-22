@@ -3,8 +3,8 @@
 owner = TSK
 controller = TSK
 add_core = TSK
-culture = turco_iranian
-religion = al_batiniyya
+culture = khazak
+religion = sunni
 capital = "Sozak"
 trade_goods = wool
 base_tax = 1 
@@ -31,7 +31,5 @@ discovered_by = nomad_group
 	owner = TSK
 	controller = TSK
 	add_core = TSK
-	culture = turco_iranian
-	religion = al_batiniyya
 	trade_goods = wool
 }

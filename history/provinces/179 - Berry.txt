@@ -43,6 +43,4 @@ discovered_by = ottoman
 	owner = BER
 	controller = BER
 	add_core = BER
-	culture = cosmopolitan_french
-	religion = catholic
 }

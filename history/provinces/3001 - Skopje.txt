@@ -35,7 +35,6 @@ discovered_by = nomad_group
 	owner = TRK
 	controller = TRK
 	add_core = TRK
-	religion = orthodox
 }
 
 
@@ -43,5 +42,4 @@ discovered_by = nomad_group
 	owner = SKP
 	controller = SKP
 	add_core = SKP
-	religion = orthodox
 }

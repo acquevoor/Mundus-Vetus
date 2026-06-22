@@ -2,7 +2,7 @@
 
 owner = CRI
 controller = CRI
-culture = cuman
+culture = crimean
 religion = sunni
 hre = no
 base_tax = 6

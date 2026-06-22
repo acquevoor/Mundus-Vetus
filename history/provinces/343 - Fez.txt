@@ -66,6 +66,4 @@ discovered_by = ottoman
 	owner = FEZ
 	controller = FEZ
 	add_core = FEZ
-	culture = moroccan
-	religion = sunni
 }

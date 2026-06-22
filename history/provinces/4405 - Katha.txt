@@ -4,7 +4,7 @@ owner = Y07
 controller = Y07
 add_core = Y07
 culture = shan
-religion = adivasi
+religion = buddhism
 capital = "Katha"
 trade_goods = tea
 hre = no
@@ -52,5 +52,4 @@ discovered_by = indian
 	owner = Y07
 	controller = Y07
 	add_core = Y07
-	religion = adivasi
 }

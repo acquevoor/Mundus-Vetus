@@ -44,6 +44,4 @@ center_of_trade = 1
 	owner = TLD
 	controller = TLD
 	add_core = TLD
-	culture = castillian
-	religion = catholic
 }

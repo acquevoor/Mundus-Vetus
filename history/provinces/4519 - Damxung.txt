@@ -44,6 +44,4 @@ discovered_by = nomad_group
 	owner = DMX
 	controller = DMX
 	add_core = DMX
-	culture = tibetan
-	religion = vajrayana
 }

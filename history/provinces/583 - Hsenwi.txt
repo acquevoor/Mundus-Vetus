@@ -3,7 +3,7 @@
 owner = HSE
 controller = HSE
 culture = shan
-religion = adivasi
+religion = buddhism
 capital = "Hsenwi"
 trade_goods = tropical_wood
 hre = no
@@ -52,5 +52,4 @@ discovered_by = indian
 	owner = HSE
 	controller = HSE
 	add_core = HSE
-	religion = adivasi
 }

@@ -46,6 +46,4 @@ center_of_trade = 1
 	owner = LON
 	controller = LON
 	add_core = LON
-	culture = leonese
-	religion = catholic
 }

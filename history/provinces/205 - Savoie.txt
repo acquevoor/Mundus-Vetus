@@ -56,5 +56,4 @@ discovered_by = ottoman
 	owner = SAV
 	controller = SAV
 	add_core = SAV
-	culture = occitain
 }

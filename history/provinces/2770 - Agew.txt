@@ -65,6 +65,4 @@ discovered_by = indian
 	owner = AGE
 	controller = AGE
 	add_core = AGE
-	culture = amhara
-	religion = coptic
 }

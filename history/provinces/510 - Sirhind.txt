@@ -3,7 +3,7 @@
 owner = PTA
 controller = PTA
 culture = panjabi
-religion = sikhism
+religion = hinduism
 capital = "Sirhind"
 trade_goods = cotton
 hre = no
@@ -56,7 +56,6 @@ center_of_trade = 1
 1690.1.1 = { discovered_by = ENG }
 1700.1.1 = {
 	revolt = { type = religious_rebels size = 1 name = "Sikh Rebels" }	#Sikhs
-	religion = sikhism
 }
 1707.5.12 = { discovered_by = GBR }
 1715.1.1 = { revolt = { } }

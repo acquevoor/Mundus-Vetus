@@ -38,5 +38,4 @@ center_of_trade = 2
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	religion = sunni
 }

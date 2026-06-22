@@ -4,7 +4,7 @@ add_core = TLD
 owner = TLD		# Juan II of Castille
 controller = TLD
 add_core = Q07
-culture = castillian
+culture = andalucian
 religion = catholic 
 hre = no
 base_tax = 2
@@ -38,6 +38,4 @@ discovered_by = ottoman
 	owner = TLD
 	controller = TLD
 	add_core = TLD
-	culture = castillian
-	religion = catholic
 }

@@ -4,8 +4,8 @@ add_core = QTL
 owner = QTL
 controller = QTL
 add_core = MRV
-culture = turco_iranian
-religion = al_batiniyya
+culture = turkmeni
+religion = sunni
 capital = "Merv"
 trade_goods = fur
 hre = no
@@ -47,8 +47,6 @@ center_of_trade = 1
 	owner = MRV
 	controller = MRV
 	add_core = MRV
-	culture = turco_iranian
-	religion = al_batiniyya
 	trade_goods = fur
 }
 
@@ -57,6 +55,4 @@ center_of_trade = 1
 	owner = QTL
 	controller = QTL
 	add_core = QTL
-	culture = turco_iranian
-	religion = al_batiniyya
 }

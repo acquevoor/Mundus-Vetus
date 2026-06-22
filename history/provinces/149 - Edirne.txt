@@ -46,6 +46,4 @@ base_production = 6 } # Lale Devri (the tulip age), not appreciated by everyone
 	owner = WAL
 	controller = WAL
 	add_core = WAL
-	culture = greek
-	religion = orthodox
 }

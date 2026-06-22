@@ -35,5 +35,4 @@ discovered_by = east_african
 	owner = HDR
 	controller = HDR
 	add_core = HDR
-	religion = sunni
 }

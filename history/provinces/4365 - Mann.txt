@@ -4,7 +4,7 @@ owner = LOI
 controller = LOI
 add_core = LOI
 culture = highland_scottish
-religion = norse_pagan_reformed
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -32,5 +32,4 @@ discovered_by = eastern
 	owner = LOI
 	controller = LOI
 	add_core = LOI
-	religion = norse_pagan_reformed
 }

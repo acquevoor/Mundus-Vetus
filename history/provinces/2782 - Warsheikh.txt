@@ -29,5 +29,4 @@ discovered_by = ottoman
 	owner = WRS
 	controller = WRS
 	add_core = WRS
-	religion = sunni
 }

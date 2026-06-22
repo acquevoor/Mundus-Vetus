@@ -4,7 +4,7 @@ owner = KET
 controller = KET
 add_core = KET
 culture = bihari
-religion = vajrayana
+religion = hinduism
 capital = "Rohtasgarh"
 trade_goods = salt
 hre = no
@@ -107,6 +107,4 @@ owner = BNG
 	owner = KET
 	controller = KET
 	add_core = KET
-	culture = bihari
-	religion = vajrayana
 }

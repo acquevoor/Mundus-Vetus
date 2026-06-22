@@ -52,5 +52,4 @@ discovered_by = indian
 	owner = HSI
 	controller = HSI
 	add_core = HSI
-	religion = buddhism
 }

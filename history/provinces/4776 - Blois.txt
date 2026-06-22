@@ -48,6 +48,4 @@ discovered_by = ottoman
 	owner = ORL
 	controller = ORL
 	add_core = ORL
-	culture = cosmopolitan_french
-	religion = catholic
 }

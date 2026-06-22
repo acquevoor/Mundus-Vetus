@@ -77,6 +77,4 @@ add_core = SRH
 	owner = BAT
 	controller = BAT
 	add_core = BAT
-	culture = kanauji
-	religion = hinduism
 }

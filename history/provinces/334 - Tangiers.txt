@@ -42,6 +42,4 @@ center_of_trade = 2
 	owner = FEZ
 	controller = FEZ
 	add_core = FEZ
-	culture = moroccan
-	religion = sunni
 }

@@ -54,6 +54,4 @@ is_city = yes
 	owner = BEJ
 	controller = BEJ
 	add_core = BEJ
-	culture = beja
-	religion = sunni
 }

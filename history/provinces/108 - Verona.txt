@@ -51,6 +51,4 @@ center_of_trade = 1
 	owner = VRN
 	controller = VRN
 	add_core = VRN
-	culture = venetian
-	religion = catholic
 }

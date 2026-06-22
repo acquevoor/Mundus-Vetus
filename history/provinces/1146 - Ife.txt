@@ -35,6 +35,4 @@ discovered_by = sub_saharan
 	owner = IFE
 	controller = IFE
 	add_core = IFE
-	culture = yorumba
-	religion = shamanism
 }

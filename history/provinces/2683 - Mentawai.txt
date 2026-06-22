@@ -4,7 +4,7 @@ controller = MNT
 add_core = MNT
 
 culture = sumatran
-religion = vajrayana
+religion = hinduism
 capital = "Mentawai"
 trade_goods = unknown
 hre = no
@@ -30,6 +30,4 @@ is_city = yes
 	owner = MNT
 	controller = MNT
 	add_core = MNT
-	culture = sumatran
-	religion = vajrayana
 }

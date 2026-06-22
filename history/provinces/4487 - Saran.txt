@@ -4,7 +4,7 @@ owner = KET
 controller = KET
 add_core = KET
 culture = bihari
-religion = vajrayana
+religion = hinduism
 capital = "Saran"
 trade_goods = cotton
 hre = no
@@ -98,6 +98,4 @@ discovered_by = chinese
 	owner = KET
 	controller = KET
 	add_core = KET
-	culture = bihari
-	religion = vajrayana
 }

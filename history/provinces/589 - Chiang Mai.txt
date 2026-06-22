@@ -3,8 +3,8 @@
 owner = Y05
 controller = Y05
 add_core = Y05
-culture = yi
-religion = vajrayana
+culture = northern_thai
+religion = buddhism
 capital = "Chiang Mai"
 trade_goods = ivory 
 hre = no
@@ -34,6 +34,4 @@ fort_15th = yes
 	owner = Y05
 	controller = Y05
 	add_core = Y05
-	culture = yi
-	religion = vajrayana
 }

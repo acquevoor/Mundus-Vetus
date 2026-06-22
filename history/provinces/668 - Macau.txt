@@ -5,7 +5,7 @@ controller = MAC
 add_core = MAC
 add_core = MNG
 culture = cantonese
-religion = buddhism
+religion = confucianism
 capital = "Macau"
 trade_goods = fish
 hre = no
@@ -39,6 +39,4 @@ center_of_trade = 1
 	owner = MAC
 	controller = MAC
 	add_core = MAC
-	culture = cantonese
-	religion = buddhism
 }

@@ -4,7 +4,7 @@ owner = Y06
 controller = Y06
 add_core = Y06
 culture = shan
-religion = adivasi
+religion = buddhism
 capital = "Mong Kung"
 trade_goods = tropical_wood
 hre = no
@@ -51,5 +51,4 @@ discovered_by = indian
 	owner = Y06
 	controller = Y06
 	add_core = Y06
-	religion = adivasi
 }

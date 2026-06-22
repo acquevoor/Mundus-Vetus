@@ -1,8 +1,8 @@
 owner = PNA
 controller = PNA
 add_core = PNA
-culture = malayan
-religion = vajrayana
+culture = sumatran
+religion = sunni
 capital = "Deli"
 trade_goods = spices
 hre = no
@@ -33,6 +33,4 @@ discovered_by = ottoman
 	owner = PNA
 	controller = PNA
 	add_core = PNA
-	culture = malayan
-	religion = vajrayana
 }

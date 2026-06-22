@@ -2,8 +2,8 @@
 
 owner = Q19
 controller = Q19  
-culture = novgorodian
-religion = slavic_pagan
+culture = russian
+religion = orthodox
 hre = no
 base_tax = 3
 base_production = 3
@@ -41,6 +41,4 @@ base_production = 4 } # Treasury reforms
 	owner = Q19
 	controller = Q19
 	add_core = Q19
-	culture = novgorodian
-	religion = slavic_pagan
 }

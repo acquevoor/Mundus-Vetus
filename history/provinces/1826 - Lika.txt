@@ -53,6 +53,4 @@ add_core = DAL
 	owner = CRO
 	controller = CRO
 	add_core = CRO
-	culture = croatian
-	religion = catholic
 }

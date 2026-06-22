@@ -31,5 +31,4 @@ discovered_by = ottoman
 	owner = MRC
 	controller = MRC
 	add_core = MRC
-	religion = sunni
 }

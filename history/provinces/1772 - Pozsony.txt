@@ -49,5 +49,4 @@ center_of_trade = 1
 	owner = SLO
 	controller = SLO
 	add_core = SLO
-	religion = catholic
 }

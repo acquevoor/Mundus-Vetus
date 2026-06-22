@@ -24,5 +24,4 @@ discovered_by = east_african
 	owner = OGA
 	controller = OGA
 	add_core = OGA
-	religion = sunni
 }

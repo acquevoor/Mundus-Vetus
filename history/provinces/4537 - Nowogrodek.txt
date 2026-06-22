@@ -3,7 +3,7 @@
 owner = Q03
 controller = Q03  
 culture = byelorussian
-religion = baltic_pagan
+religion = orthodox
 hre = no
 base_tax = 2 
 base_production = 1
@@ -49,5 +49,4 @@ discovered_by = nomad_group
 	owner = Q03
 	controller = Q03
 	add_core = Q03
-	religion = baltic_pagan
 }

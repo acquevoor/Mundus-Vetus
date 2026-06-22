@@ -45,6 +45,4 @@ discovered_by = east_african
 	owner = BAQ
 	controller = BAQ
 	add_core = BAQ
-	culture = hejazi_culture
-	religion = shiite
 }

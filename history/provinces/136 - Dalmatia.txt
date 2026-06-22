@@ -2,7 +2,7 @@
 
 owner = CRO
 controller = CRO
-culture = croatian
+culture = dalmatian
 religion = catholic
 capital = "Split"
 trade_goods = wool
@@ -52,6 +52,4 @@ discovered_by = ottoman
 	owner = CRO
 	controller = CRO
 	add_core = CRO
-	culture = croatian
-	religion = catholic
 }

@@ -4,7 +4,7 @@ owner = VEL
 controller = VEL
 add_core = VEL
 add_core = Q06
-culture = polabian
+culture = saxon
 religion = catholic
 hre = yes
 base_tax = 3
@@ -45,6 +45,4 @@ discovered_by = ottoman
 	owner = VEL
 	controller = VEL
 	add_core = VEL
-	culture = polabian
-	religion = catholic
 }

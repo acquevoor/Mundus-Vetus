@@ -2,7 +2,7 @@
 add_core = TGL
 
 culture = nubian #Shilluk
-religion = coptic #Fetishism
+religion = shamanism #Fetishism
 capital = "Takala"
 native_size = 50
 trade_goods = unknown
@@ -41,6 +41,4 @@ discovered_by = MAK
 	owner = TGL
 	controller = TGL
 	add_core = TGL
-	culture = nubian
-	religion = coptic
 }

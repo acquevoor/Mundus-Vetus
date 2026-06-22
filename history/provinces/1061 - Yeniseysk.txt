@@ -1,6 +1,6 @@
 #1061 - Yeniseysk
 
-culture = yenisei
+culture = tungus
 religion = tengri_pagan_reformed
 capital = "Novoselovo"
 trade_goods = unknown
@@ -16,8 +16,6 @@ native_hostileness = 3
 	discovered_by = RUS
 	owner = RUS
 	controller = RUS
-	culture = russian
-	religion = orthodox
 	is_city = yes
 }
 1643.1.1 = {

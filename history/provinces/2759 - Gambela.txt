@@ -4,7 +4,7 @@ owner = KAF
 controller = KAF
 add_core = KAF
 culture = sidamo 
-religion = coptic #Fetishism
+religion = shamanism #Fetishism
 capital = "Gambela"
 is_city = yes
 base_manpower = 1
@@ -22,6 +22,4 @@ discovered_by = muslim
 	owner = KAF
 	controller = KAF
 	add_core = KAF
-	culture = sidamo
-	religion = coptic
 }

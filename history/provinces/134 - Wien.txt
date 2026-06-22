@@ -35,6 +35,4 @@ center_of_trade = 2
 	owner = Q14
 	controller = Q14
 	add_core = Q14
-	culture = austrian
-	religion = catholic
 }

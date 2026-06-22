@@ -5,7 +5,7 @@ controller = Q03
 capital = "Vilna"
 is_city = yes
 culture = lithuanian
-religion = baltic_pagan
+religion = catholic
 trade_goods = grain
 hre = no
 base_tax = 5
@@ -43,5 +43,4 @@ center_of_trade = 1
 	owner = Q03
 	controller = Q03
 	add_core = Q03
-	religion = baltic_pagan
 }

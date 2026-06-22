@@ -5,7 +5,7 @@ controller = Q02
 add_core = LIV
 add_core = Q02
 culture = latvian
-religion = baltic_pagan
+religion = catholic
 capital = "Wenden"
 trade_goods = livestock
 hre = no
@@ -55,5 +55,4 @@ discovered_by = eastern
 	owner = Q02
 	controller = Q02
 	add_core = Q02
-	religion = baltic_pagan
 }

@@ -1,7 +1,5 @@
 #1795 - Tibesti
 
-culture = tuareg
-religion = sunni
 capital = "Tibesti"
 trade_goods = unknown
 hre = no

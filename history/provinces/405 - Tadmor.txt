@@ -35,6 +35,4 @@ discovered_by = BYZ
 	owner = TAD
 	controller = TAD
 	add_core = TAD
-	culture = bedouin_arabic
-	religion = sunni
 }

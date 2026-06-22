@@ -34,5 +34,4 @@ fort_15th = yes #Castiello de Lobarre
 	owner = HUE
 	controller = HUE
 	add_core = HUE
-	religion = catholic
 }

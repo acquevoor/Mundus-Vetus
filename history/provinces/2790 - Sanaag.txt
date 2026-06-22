@@ -32,5 +32,4 @@ discovered_by = ottoman
 	owner = SAN
 	controller = SAN
 	add_core = SAN
-	religion = sunni
 }

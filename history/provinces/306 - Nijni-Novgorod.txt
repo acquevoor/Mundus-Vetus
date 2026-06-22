@@ -3,8 +3,8 @@
 owner = KNA
 controller = KNA
 add_core = KNA
-culture = kipchak
-religion = sunni
+culture = russian
+religion = orthodox
 hre = no
 base_tax = 5
 base_production = 5
@@ -46,6 +46,4 @@ center_of_trade = 2
 	owner = KNA
 	controller = KNA
 	add_core = KNA
-	culture = kipchak
-	religion = sunni
 }

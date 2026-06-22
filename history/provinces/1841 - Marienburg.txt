@@ -5,7 +5,7 @@ controller = PRS
 add_core = PRS
 capital = "Marienburg"
 culture = pruthenian
-religion = baltic_pagan
+religion = catholic
 trade_goods = naval_supplies
 hre = no
 base_tax = 4
@@ -62,5 +62,4 @@ discovered_by = ottoman
 	controller = PRS
 	add_core = PRS
 	culture = pruthenian
-	religion = baltic_pagan
 }

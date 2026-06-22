@@ -28,5 +28,4 @@ discovered_by = ottoman
 	owner = BSA
 	controller = BSA
 	add_core = BSA
-	religion = sunni
 }

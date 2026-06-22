@@ -5,7 +5,7 @@ controller = TMB
 add_core = TMB
 add_core = SOF
 is_city = yes
-culture = tuareg 
+culture = bambara 
 religion = sunni
 capital = "Tendirma"
 trade_goods = grain
@@ -55,6 +55,4 @@ discovered_by = sub_saharan
 	owner = TMB
 	controller = TMB
 	add_core = TMB
-	culture = tuareg
-	religion = sunni
 }

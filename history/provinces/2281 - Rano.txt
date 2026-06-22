@@ -5,7 +5,7 @@ owner = RAN
 controller = RAN
 add_core = KAN
 culture = hausa 
-religion = shamanism
+religion = sunni
 capital = "Rano"
 trade_goods = dyes
 hre = no
@@ -30,6 +30,4 @@ discovered_by = sub_saharan
 	owner = RAN
 	controller = RAN
 	add_core = RAN
-	culture = hausa
-	religion = shamanism
 }

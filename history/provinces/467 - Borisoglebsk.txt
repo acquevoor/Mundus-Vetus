@@ -3,8 +3,8 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = kipchak
-religion = tengri_pagan_reformed
+culture = mishary
+religion = sunni
 capital = "Borisoglebsk"
 trade_goods = livestock
 hre = no
@@ -36,6 +36,4 @@ discovered_by = western
 	owner = MNC
 	controller = MNC
 	add_core = MNC
-	culture = kipchak
-	religion = tengri_pagan_reformed
 }

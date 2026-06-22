@@ -3,7 +3,7 @@
 owner = MKA
 controller = MKA
 culture = kachin
-religion = adivasi
+religion = buddhism
 capital = "Mong Kawng"
 trade_goods = gems
 hre = no
@@ -49,5 +49,4 @@ discovered_by = indian
 	owner = MKA
 	controller = MKA
 	add_core = MKA
-	religion = adivasi
 }

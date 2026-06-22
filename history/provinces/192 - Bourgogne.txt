@@ -40,6 +40,4 @@ center_of_trade = 2
 	owner = Q11
 	controller = Q11
 	add_core = Q11
-	culture = burgundian
-	religion = catholic
 }

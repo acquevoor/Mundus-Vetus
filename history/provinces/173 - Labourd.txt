@@ -60,6 +60,4 @@ discovered_by = ottoman
 	owner = BOR
 	controller = BOR
 	add_core = BOR
-	culture = basque
-	religion = catholic
 }

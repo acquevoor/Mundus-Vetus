@@ -4,8 +4,8 @@ add_core = BCB
 owner = BCB
 controller = BCB
 add_core = CHG
-culture = uyghur
-religion = tengri_pagan_reformed
+culture = khazak
+religion = sunni
 capital = "Almaty"
 trade_goods = cloth
 hre = no
@@ -39,6 +39,4 @@ discovered_by = KAS
 	owner = BCB
 	controller = BCB
 	add_core = BCB
-	culture = uyghur
-	religion = tengri_pagan_reformed
 }

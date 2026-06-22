@@ -3,7 +3,7 @@
 owner = KNA
 controller = KNA
 add_core = KNA
-culture = kipchak
+culture = kazani
 religion = sunni
 capital = "Samara"
 trade_goods = livestock
@@ -31,6 +31,4 @@ discovered_by = ottoman
 	owner = KNA
 	controller = KNA
 	add_core = KNA
-	culture = kipchak
-	religion = sunni
 }

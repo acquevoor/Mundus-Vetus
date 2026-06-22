@@ -4,7 +4,7 @@ owner = ATI
 controller = ATI
 add_core = ATI
 culture = al_suryah_arabic
-religion = coptic
+religion = sunni
 capital = "Antakya"
 trade_goods = cloth
 hre = no
@@ -42,6 +42,4 @@ discovered_by = east_african
 	owner = ATI
 	controller = ATI
 	add_core = ATI
-	culture = al_suryah_arabic
-	religion = coptic
 }

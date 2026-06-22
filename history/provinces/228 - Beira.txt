@@ -3,7 +3,7 @@ add_core = PRT
 
 owner = PRT
 controller = PRT
-culture = galician
+culture = portugese
 religion = catholic
 capital = "Viseu"
 trade_goods = wine
@@ -40,6 +40,4 @@ discovered_by = eastern
 	owner = PRT
 	controller = PRT
 	add_core = PRT
-	culture = galician
-	religion = catholic
 }

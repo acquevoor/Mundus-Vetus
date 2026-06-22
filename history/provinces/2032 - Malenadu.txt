@@ -51,6 +51,4 @@ discovered_by = chinese
 	owner = HOY
 	controller = HOY
 	add_core = HOY
-	culture = kannada
-	religion = hinduism
 }

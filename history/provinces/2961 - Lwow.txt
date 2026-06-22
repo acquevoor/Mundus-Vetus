@@ -58,6 +58,5 @@ center_of_trade = 1
 	owner = HLC
 	controller = HLC
 	add_core = HLC
-	religion = orthodox
 	trade_goods = fur
 }

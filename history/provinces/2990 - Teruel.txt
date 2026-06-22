@@ -41,5 +41,4 @@ discovered_by = ottoman
 	owner = ZRG
 	controller = ZRG
 	add_core = ZRG
-	religion = catholic
 }

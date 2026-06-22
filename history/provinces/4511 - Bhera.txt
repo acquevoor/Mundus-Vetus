@@ -4,7 +4,7 @@ owner = KFI
 controller = KFI
 add_core = KFI
 culture = panjabi
-religion = vajrayana
+religion = hinduism
 capital = "Bhera"
 trade_goods = salt
 hre = no
@@ -45,7 +45,6 @@ add_local_autonomy = 50 #Kokhars
 	remove_core = DLH
 } # Battle of Panipat
 1540.1.1 = {
-	religion = sikhism
 	owner = BNG
 	controller = BNG
 	add_core = BNG
@@ -93,6 +92,4 @@ add_local_autonomy = 50 #Kokhars
 	owner = KFI
 	controller = KFI
 	add_core = KFI
-	culture = panjabi
-	religion = vajrayana
 }

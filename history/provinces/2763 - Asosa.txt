@@ -29,5 +29,4 @@ discovered_by = indian
 	owner = KAF
 	controller = KAF
 	add_core = KAF
-	religion = coptic
 }

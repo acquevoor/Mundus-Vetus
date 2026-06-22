@@ -3,7 +3,7 @@
 owner = KNA
 controller = KNA
 add_core = KNA
-culture = kipchak
+culture = kazani
 religion = sunni
 hre = no
 base_tax = 2 
@@ -36,6 +36,4 @@ discovered_by = nomad_group
 	owner = KNA
 	controller = KNA
 	add_core = KNA
-	culture = kipchak
-	religion = sunni
 }

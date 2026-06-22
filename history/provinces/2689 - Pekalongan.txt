@@ -26,7 +26,6 @@ discovered_by = ottoman
 	controller = DMK
 	add_core = DMK
 	remove_core = MAJ
-	religion = sunni
 } # Demak Sultanate was established
 1509.1.1 = { discovered_by = POR }
 1587.1.1 = {
@@ -43,6 +42,4 @@ discovered_by = ottoman
 	owner = KLI
 	controller = KLI
 	add_core = KLI
-	culture = javanese
-	religion = hinduism
 }

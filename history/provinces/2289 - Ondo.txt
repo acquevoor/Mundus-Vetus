@@ -32,6 +32,4 @@ discovered_by = sub_saharan
 	owner = BEN
 	controller = BEN
 	add_core = BEN
-	culture = yorumba
-	religion = shamanism
 }

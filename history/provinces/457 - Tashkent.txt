@@ -3,8 +3,8 @@
 owner = TSK
 controller = TSK
 add_core = TSK
-culture = turco_iranian
-religion = al_batiniyya
+culture = uzbehk
+religion = sunni
 capital = "Tashkent"
 trade_goods = grain
 hre = no
@@ -53,7 +53,5 @@ discovered_by = indian
 	owner = TSK
 	controller = TSK
 	add_core = TSK
-	culture = turco_iranian
-	religion = al_batiniyya
 	trade_goods = grain
 }

@@ -36,6 +36,4 @@ discovered_by = east_african
 	owner = JAF
 	controller = JAF
 	add_core = JAF
-	culture = al_suryah_arabic
-	religion = sunni
 }

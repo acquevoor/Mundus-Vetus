@@ -4,7 +4,7 @@ owner = REI
 controller = REI
 add_core = REI
 culture = persian
-religion = al_batiniyya
+religion = shiite
 capital = "Qom"
 trade_goods = cloth
 hre = no
@@ -54,5 +54,4 @@ discovered_by = indian
 	owner = REI
 	controller = REI
 	add_core = REI
-	religion = al_batiniyya
 }

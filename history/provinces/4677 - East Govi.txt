@@ -3,7 +3,7 @@ controller = CAG
 add_core = CAG
 add_core = OIR
 culture = khalkha
-religion = ecclesia_assyrica
+religion = tengri_pagan_reformed
 capital = "Noyon"
 trade_goods = livestock
 hre = no
@@ -40,5 +40,4 @@ discovered_by = nomad_group
 	owner = CAG
 	controller = CAG
 	add_core = CAG
-	religion = ecclesia_assyrica
 }

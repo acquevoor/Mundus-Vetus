@@ -22,7 +22,6 @@ discovered_by = ottoman
 1523.3.15 = { owner = Q01 controller = Q01 } # Gustav Wasas invasion of Norway
 1532.5.17 = { owner = Q16 controller = Q16 } # Malmö Recess & the Meeting in Varberg
 1536.1.1 = {
-	religion = protestant
 	owner = Q00
 	controller = Q00
 	add_core = Q00

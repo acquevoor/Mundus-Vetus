@@ -4,7 +4,7 @@ owner = KNA
 controller = KNA
 add_core = KNA
 capital = "Bolgar"
-culture = kipchak
+culture = kazani
 religion = sunni
 trade_goods = iron
 hre = no
@@ -26,8 +26,6 @@ discovered_by = ottoman
 	remove_core = KAZ 
 } # Russian conquest of Kazan
 1648.1.1 = {
-	culture = russian
-	religion = orthodox
 	capital = "Simbirsk" 
 } # Simbirsk founded as a strongpoint to defend Russia's southern front
 1670.3.1 = { revolt = { type = anti_tax_rebels size = 3 name = "Stepan Razin" } controller = REB unrest = 6 } # Razin rebellion
@@ -39,6 +37,4 @@ discovered_by = ottoman
 	owner = KNA
 	controller = KNA
 	add_core = KNA
-	culture = kipchak
-	religion = sunni
 }

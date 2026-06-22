@@ -52,5 +52,4 @@ discovered_by = indian
 	owner = MNI
 	controller = MNI
 	add_core = MNI
-	religion = buddhism
 }

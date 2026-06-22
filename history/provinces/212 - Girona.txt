@@ -58,6 +58,4 @@ discovered_by = ottoman
 	owner = GIR
 	controller = GIR
 	add_core = GIR
-	culture = catalan
-	religion = catholic
 }

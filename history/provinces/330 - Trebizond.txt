@@ -3,7 +3,7 @@
 owner = TRE
 controller = TRE
 culture = pontic_greek
-religion = marcionismus
+religion = orthodox
 capital = "Trapezous"
 trade_goods = naval_supplies
 hre = no
@@ -40,5 +40,4 @@ center_of_trade = 1
 	owner = TRE
 	controller = TRE
 	add_core = TRE
-	religion = marcionismus
 }

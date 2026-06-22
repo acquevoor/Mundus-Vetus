@@ -29,5 +29,4 @@ discovered_by = ottoman
 	owner = QRD
 	controller = QRD
 	add_core = QRD
-	religion = sunni
 }

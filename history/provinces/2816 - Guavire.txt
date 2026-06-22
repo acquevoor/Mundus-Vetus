@@ -32,8 +32,6 @@ is_city = yes
 	controller = SPA
 	add_core = SPA
 	is_city = yes
-	culture = castillian
-	religion = catholic
 	trade_goods = cocoa
 } 
 1811.7.5 = {

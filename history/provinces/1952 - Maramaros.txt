@@ -4,7 +4,7 @@ owner = JAZ
 controller = JAZ 
 add_core = JAZ
 culture = ruthenian
-religion = uatsdin
+religion = orthodox
 capital = "Huszt"
 trade_goods = livestock
 hre = no
@@ -70,6 +70,5 @@ discovered_by = ottoman
 	owner = JAZ
 	controller = JAZ
 	add_core = JAZ
-	religion = uatsdin
 	trade_goods = livestock
 }

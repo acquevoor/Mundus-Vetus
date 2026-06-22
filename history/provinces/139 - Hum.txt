@@ -3,7 +3,7 @@ add_core = HUM
 
 owner = HUM
 controller = HUM
-culture = dalmatian
+culture = bosnian
 religion = catholic
 capital = "Mostar"	# Unofficial capital of Herzegovina
 trade_goods = wool
@@ -36,6 +36,4 @@ discovered_by = ottoman
 	owner = HUM
 	controller = HUM
 	add_core = HUM
-	culture = dalmatian
-	religion = catholic
 }

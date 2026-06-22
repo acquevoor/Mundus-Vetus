@@ -44,6 +44,4 @@ discovered_by = ottoman
 	owner = NAV
 	controller = NAV
 	add_core = NAV
-	culture = basque
-	religion = catholic
 }

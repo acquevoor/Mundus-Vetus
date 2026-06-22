@@ -46,6 +46,4 @@ center_of_trade = 2
 	owner = ARO
 	controller = ARO
 	add_core = ARO
-	culture = nubian
-	religion = coptic
 }

@@ -35,6 +35,4 @@ base_production = 1 } # The decentralizing effect of the provincial system
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	culture = turkish
-	religion = sunni
 }

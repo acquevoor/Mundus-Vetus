@@ -6,7 +6,7 @@ controller = LGN
 add_core = YAO
 add_core = KBO
 culture = kanuri 
-religion = sunni #Fetishism
+religion = shamanism #Fetishism
 capital = "Logone"
 trade_goods = ivory
 hre = no
@@ -31,6 +31,4 @@ discovered_by = sub_saharan
 	owner = LGN
 	controller = LGN
 	add_core = LGN
-	culture = kanuri
-	religion = sunni
 }

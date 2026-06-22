@@ -3,8 +3,8 @@
 owner = WNL
 controller = WNL
 add_core = WNL
-culture = chimin
-religion = buddhism
+culture = bornean
+religion = sunni
 capital = "Brunei"
 trade_goods = spices
 hre = no
@@ -28,6 +28,4 @@ center_of_trade = 2
 	owner = WNL
 	controller = WNL
 	add_core = WNL
-	culture = chimin
-	religion = buddhism
 }

@@ -47,5 +47,4 @@ discovered_by = ottoman
 	owner = Q18
 	controller = Q18
 	add_core = Q18
-	culture = occitain
 }

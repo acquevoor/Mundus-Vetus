@@ -39,5 +39,4 @@ discovered_by = east_african
 	owner = MUT
 	controller = MUT
 	add_core = MUT
-	religion = sunni
 }

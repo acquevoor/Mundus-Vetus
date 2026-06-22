@@ -41,6 +41,4 @@ discovered_by = east_african
 	owner = NJR
 	controller = NJR
 	add_core = NJR
-	culture = yemeni_culture
-	religion = shiite
 }

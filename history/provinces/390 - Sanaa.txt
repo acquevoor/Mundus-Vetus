@@ -3,7 +3,7 @@
 owner = YEM
 controller = YEM
 culture = yemeni_culture
-religion = sunni
+religion = shiite
 capital = "Sana'a"
 trade_goods = wool
 hre = no
@@ -54,5 +54,4 @@ fort_15th = yes
 	owner = YEM
 	controller = YEM
 	add_core = YEM
-	religion = sunni
 }

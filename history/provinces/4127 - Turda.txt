@@ -3,7 +3,7 @@
 owner = Q20
 controller = Q20 
 culture = transylvanian
-religion = manichaei
+religion = orthodox
 capital = "Turda"
 trade_goods = salt # Famous salt mines
 hre = no
@@ -76,5 +76,4 @@ center_of_trade = 1
 	owner = Q20
 	controller = Q20
 	add_core = Q20
-	religion = manichaei
 }

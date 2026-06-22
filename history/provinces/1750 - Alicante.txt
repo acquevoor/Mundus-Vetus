@@ -5,8 +5,8 @@ owner = FEZ		#Martí I of Aragon
 controller = FEZ
 add_core = ARA
 add_core = VAL
-culture = moroccan
-religion = sunni
+culture = catalan
+religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
@@ -45,6 +45,4 @@ discovered_by = ottoman
 	owner = FEZ
 	controller = FEZ
 	add_core = FEZ
-	culture = moroccan
-	religion = sunni
 }

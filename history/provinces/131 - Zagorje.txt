@@ -41,6 +41,4 @@ discovered_by = ottoman
 	owner = CRO
 	controller = CRO
 	add_core = CRO
-	culture = croatian
-	religion = catholic
 }

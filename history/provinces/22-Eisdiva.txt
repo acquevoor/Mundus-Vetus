@@ -4,7 +4,7 @@ owner = Q16
 controller = Q16
 add_core = Q16
 culture = norwegian
-religion = norse_pagan_reformed
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -23,7 +23,6 @@ discovered_by = ottoman
 1536.1.1 = {	owner = Q00
 	controller = Q00
 	add_core = Q00
-	religion = protestant
 } # 'Handfästningen'(Unknown date)
 1630.1.1 = { trade_goods = copper } # Approximate date
 1814.1.14 = {
@@ -38,5 +37,4 @@ discovered_by = ottoman
 	owner = Q16
 	controller = Q16
 	add_core = Q16
-	religion = norse_pagan_reformed
 }

@@ -4,7 +4,7 @@ owner = ODI
 controller = ODI
 add_core = ODI
 culture = georgian
-religion = uatsdin
+religion = orthodox
 capital = "Batumi"
 trade_goods = fish
 hre = no
@@ -40,5 +40,4 @@ add_local_autonomy = 50
 	owner = ODI
 	controller = ODI
 	add_core = ODI
-	religion = uatsdin
 }

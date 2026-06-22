@@ -4,7 +4,7 @@ owner = SHI
 controller = SHI
 add_core = SHI
 culture = luri
-religion = mandaiuta
+religion = sunni
 capital = "Kazerun"
 trade_goods = wine #and cotton and Dates
 hre = no
@@ -44,7 +44,6 @@ discovered_by = nomad_group
 	controller = PER
 	add_core = PER
 	remove_core = AKK
-	religion = shiite
 } # The Safavids took over
 1550.1.1 = { discovered_by = TUR }
 1673.1.1 = { discovered_by = ENG }
@@ -63,5 +62,4 @@ discovered_by = nomad_group
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	religion = mandaiuta
 }

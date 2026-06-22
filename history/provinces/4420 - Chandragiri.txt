@@ -56,5 +56,4 @@ discovered_by = chinese
 	owner = KRK
 	controller = KRK
 	add_core = KRK
-	religion = hinduism
 }

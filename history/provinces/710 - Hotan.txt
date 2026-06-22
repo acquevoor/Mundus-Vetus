@@ -4,8 +4,8 @@ add_core = HTN
 owner = HTN
 controller = HTN
 add_core = KAS
-culture = turco_iranian
-religion = vajrayana
+culture = uyghur
+religion = sunni
 capital = "Hotan"
 trade_goods = gems #Hotan Jade
 hre = no
@@ -34,6 +34,4 @@ center_of_trade = 1
 	owner = HTN
 	controller = HTN
 	add_core = HTN
-	culture = turco_iranian
-	religion = vajrayana
 }

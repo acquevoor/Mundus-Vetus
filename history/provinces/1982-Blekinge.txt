@@ -27,7 +27,6 @@ discovered_by = ottoman
 1658.2.26 = { controller = Q01 owner = Q01 add_core = Q01  } # The Peace of Roskilde
 1680.1.1 = { 
 	capital = "Karlskrona" 
-	culture = swedish
 	shipyard = yes		# Karlskrona issued as naval base by KXI
 }
 

@@ -37,8 +37,6 @@ discovered_by = ottoman
 	remove_core = TOK
 } # The Nguyen Lords were independent from the Trinh Lords
 1600.1.1 = {
-	religion = buddhism
-	culture = vietnamese
 } # Vietnamese Assimilation
 1692.1.1 = { unrest = 6 } # Rebellion against Vietnamese rule
 1693.1.1 = { unrest = 0 }
@@ -63,6 +61,4 @@ discovered_by = ottoman
 	owner = AAR
 	controller = AAR
 	add_core = AAR
-	culture = cham
-	religion = hinduism
 }

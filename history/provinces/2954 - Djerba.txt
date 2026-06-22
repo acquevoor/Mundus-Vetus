@@ -3,8 +3,8 @@ add_core = DJB
 
 owner = DJB
 controller = DJB 
-culture = maltese
-religion = catholic
+culture = tunisian
+religion = ibadi
 capital = "Djerba"
 trade_goods = grain
 hre = no
@@ -64,6 +64,4 @@ center_of_trade = 1
 	owner = DJB
 	controller = DJB
 	add_core = DJB
-	culture = maltese
-	religion = catholic
 }

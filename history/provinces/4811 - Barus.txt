@@ -3,7 +3,7 @@ add_core = BTK
 owner = BTK
 controller = BTK
 culture = sumatran
-religion = animism
+religion = hinduism
 capital = "Barus"
 trade_goods = spices
 hre = no
@@ -29,6 +29,4 @@ discovered_by = ottoman
 	owner = BTK
 	controller = BTK
 	add_core = BTK
-	culture = sumatran
-	religion = animism
 }

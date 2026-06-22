@@ -4,7 +4,7 @@ owner = VAG
 controller = VAG
 add_core = VAG
 culture = gujarati
-religion = jain
+religion = hinduism
 capital = "Khambhat"
 trade_goods = cloth #Chintz
 hre = no
@@ -50,6 +50,4 @@ center_of_trade = 3
 	owner = VAG
 	controller = VAG
 	add_core = VAG
-	culture = gujarati
-	religion = jain
 }

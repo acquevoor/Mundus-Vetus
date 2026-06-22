@@ -40,6 +40,4 @@ discovered_by = QAS
 	owner = CLI
 	controller = CLI
 	add_core = CLI
-	culture = slovene
-	religion = catholic
 }

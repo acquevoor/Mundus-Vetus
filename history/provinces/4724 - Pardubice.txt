@@ -4,7 +4,7 @@ add_core = Q14
 add_core = BOH
 capital = "Chlumec"
 culture = czech
-religion = catholic
+religion = hussite
 trade_goods = grain 
 hre = yes
 base_tax = 3
@@ -51,6 +51,4 @@ discovered_by = ottoman
 	owner = Q14
 	controller = Q14
 	add_core = Q14
-	culture = czech
-	religion = catholic
 }

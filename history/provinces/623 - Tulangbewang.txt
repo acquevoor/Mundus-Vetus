@@ -2,7 +2,7 @@
 add_core = TLB
 
 culture = sumatran
-religion = animism
+religion = hinduism
 capital = "Tulangbewang"
 trade_goods = spices
 hre = no
@@ -35,7 +35,6 @@ discovered_by = ottoman
 	controller = BAN
 	add_core = BAN
 	is_city = yes
-	religion = sunni
 	
 } # Banten Sultanate expanded the influence in South Sumatra
 1752.1.1 = {
@@ -59,6 +58,4 @@ discovered_by = ottoman
 	owner = TLB
 	controller = TLB
 	add_core = TLB
-	culture = sumatran
-	religion = animism
 }

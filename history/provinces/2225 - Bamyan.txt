@@ -4,7 +4,7 @@ owner = GZN
 controller = GZN
 add_core = GZN
 culture = afghani
-religion = sunni
+religion = shiite
 capital = "Bamyan"
 trade_goods = dyes
 hre = no
@@ -66,6 +66,4 @@ discovered_by = nomad_group
 	owner = GZN
 	controller = GZN
 	add_core = GZN
-	culture = afghani
-	religion = sunni
 }

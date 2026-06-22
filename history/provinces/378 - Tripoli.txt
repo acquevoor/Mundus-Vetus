@@ -4,7 +4,7 @@ owner = TAS
 controller = TAS
 add_core = TAS
 culture = al_suryah_arabic
-religion = al_ghulat
+religion = shiite
 capital = "Trablos" #Tripoli in the East.
 trade_goods = grain
 hre = no
@@ -35,6 +35,4 @@ center_of_trade = 1
 	owner = TAS
 	controller = TAS
 	add_core = TAS
-	culture = al_suryah_arabic
-	religion = al_ghulat
 }

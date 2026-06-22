@@ -85,6 +85,4 @@ discovered_by = ottoman
 	owner = UTK
 	controller = UTK
 	add_core = UTK
-	culture = oriya
-	religion = hinduism
 }

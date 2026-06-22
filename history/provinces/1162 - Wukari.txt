@@ -1,7 +1,7 @@
 #1162 - Wukari
 add_core = KWR
 
-culture = hausa
+culture = jukun
 religion = shamanism #Fetishism
 capital = "Wukari"
 trade_goods = unknown
@@ -34,6 +34,4 @@ discovered_by = sub_saharan
 	owner = KWR
 	controller = KWR
 	add_core = KWR
-	culture = hausa
-	religion = shamanism
 }

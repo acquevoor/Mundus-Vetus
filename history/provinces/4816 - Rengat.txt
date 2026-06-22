@@ -1,7 +1,7 @@
 owner = SAK
 controller = SAK
-culture = malayan
-religion = vajrayana
+culture = sumatran
+religion = sunni
 capital = "Rengat"
 trade_goods = fish
 hre = no
@@ -25,6 +25,4 @@ discovered_by = ottoman
 	owner = SAK
 	controller = SAK
 	add_core = SAK
-	culture = malayan
-	religion = vajrayana
 }

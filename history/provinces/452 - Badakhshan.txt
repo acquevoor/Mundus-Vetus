@@ -62,6 +62,4 @@ add_local_autonomy = 25 #governed by Muhammad Juki
 	owner = GZN
 	controller = GZN
 	add_core = GZN
-	culture = afghani
-	religion = sunni
 }

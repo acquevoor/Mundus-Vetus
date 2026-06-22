@@ -6,7 +6,7 @@ add_core = Z01
 add_core = BOH
 capital = "Plzen"
 culture = czech
-religion = protestant
+religion = catholic
 trade_goods = naval_supplies
 hre = yes
 base_tax = 5 
@@ -60,5 +60,4 @@ discovered_by = ottoman
 	owner = Z01
 	controller = Z01
 	add_core = Z01
-	religion = protestant
 }

@@ -1,7 +1,7 @@
 #1127 - Tuat
 add_core = AWD
 
-culture = berber
+culture = tuareg
 capital = "Tawat"
 religion = sunni
 trade_goods = unknown
@@ -48,6 +48,4 @@ native_hostileness = 9
 	owner = AWD
 	controller = AWD
 	add_core = AWD
-	culture = berber
-	religion = sunni
 }

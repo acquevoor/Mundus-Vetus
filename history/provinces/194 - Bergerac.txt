@@ -47,5 +47,4 @@ base_production = 4 } # At the walls of Paris - French War of Religion
 	owner = GUY
 	controller = GUY
 	add_core = GUY
-	culture = gascon
 }

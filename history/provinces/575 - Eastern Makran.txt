@@ -3,8 +3,8 @@
 owner = BLC
 controller = BLC
 add_core = BLC
-culture = sindhi
-religion = hinduism
+culture = baluchi
+religion = sunni
 capital = "Gwadar"
 trade_goods = fish
 hre = no
@@ -35,6 +35,4 @@ discovered_by = nomad_group
 	owner = BLC
 	controller = BLC
 	add_core = BLC
-	culture = sindhi
-	religion = hinduism
 }

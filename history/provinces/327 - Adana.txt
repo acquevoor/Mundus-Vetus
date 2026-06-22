@@ -4,7 +4,7 @@ owner = CIL
 controller = CIL
 add_core = CIL
 culture = turkish
-religion = coptic
+religion = sunni
 capital = "Adana"
 trade_goods = cotton
 hre = no
@@ -34,5 +34,4 @@ center_of_trade = 1
 	owner = CIL
 	controller = CIL
 	add_core = CIL
-	religion = coptic
 }

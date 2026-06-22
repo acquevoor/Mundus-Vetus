@@ -4,8 +4,8 @@ add_core = FEZ
 owner = FEZ		# Juan II of Castille
 controller = FEZ
 add_core = Q07
-culture = moroccan
-religion = sunni 
+culture = andalucian
+religion = catholic 
 hre = no
 base_tax = 4
 base_production = 3 
@@ -38,6 +38,4 @@ discovered_by = ottoman
 	owner = FEZ
 	controller = FEZ
 	add_core = FEZ
-	culture = moroccan
-	religion = sunni
 }

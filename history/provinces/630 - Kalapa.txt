@@ -76,6 +76,4 @@ center_of_trade = 2
 	owner = JAW
 	controller = JAW
 	add_core = JAW
-	culture = sundanese
-	religion = hinduism
 }

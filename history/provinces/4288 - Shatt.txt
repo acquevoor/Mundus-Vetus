@@ -4,7 +4,7 @@ owner = AFS
 controller = AFS
 add_core = AFS
 culture = al_iraqiya_arabic
-religion = shiite
+religion = sunni
 capital = "al-Qurna"
 trade_goods = spices #Dates
 hre = no
@@ -27,7 +27,6 @@ discovered_by = BYZ
 	controller = PER
 	add_core = PER
 	remove_core = AKK
-	religion = shiite
 } # The Safavids took over, Shi'ism became the state religion
 1538.1.1 = {
 	owner = TUR
@@ -59,5 +58,4 @@ discovered_by = BYZ
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	religion = shiite
 }

@@ -4,8 +4,8 @@ owner = VET
 controller = VET
 add_core = VET
 capital = "Yur"
-culture = novgorodian
-religion = slavic_pagan
+culture = russian
+religion = orthodox
 trade_goods = grain
 hre = no
 base_tax = 3
@@ -30,6 +30,4 @@ discovered_by = nomad_group
 	owner = VET
 	controller = VET
 	add_core = VET
-	culture = novgorodian
-	religion = slavic_pagan
 }

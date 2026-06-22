@@ -4,8 +4,8 @@ owner = MAL
 controller = MAL
 add_core = MAL
 is_city = yes
-culture = mali 
-religion = sunni #Fetishism
+culture = dyola 
+religion = shamanism #Fetishism
 capital = "Tingrela"
 trade_goods = dyes
 hre = no
@@ -30,6 +30,4 @@ add_local_autonomy = 25
 	owner = MAL
 	controller = MAL
 	add_core = MAL
-	culture = mali
-	religion = sunni
 }

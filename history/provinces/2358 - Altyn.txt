@@ -3,8 +3,8 @@
 owner = KYR
 controller = KYR
 add_core = KYR
-culture = kipchak
-religion = tengri_pagan_reformed
+culture = khazak
+religion = sunni
 capital = "Altyn"
 trade_goods = livestock
 hre = no
@@ -31,6 +31,4 @@ discovered_by = muslim
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = kipchak
-	religion = tengri_pagan_reformed
 }

@@ -4,7 +4,7 @@ owner = LRI
 controller = LRI
 add_core = LRI
 culture = persian
-religion = al_mutazila
+religion = shiite
 capital = "Shushtar"
 trade_goods = silk
 hre = no
@@ -32,5 +32,4 @@ discovered_by = indian
 	owner = LRI
 	controller = LRI
 	add_core = LRI
-	religion = al_mutazila
 }

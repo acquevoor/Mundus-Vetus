@@ -4,7 +4,7 @@ owner = KYR
 controller = KYR
 add_core = KYR
 add_core = OIR
-culture = kipchak
+culture = oirats
 religion = tengri_pagan_reformed
 capital = "Hoboksar"
 trade_goods = livestock
@@ -28,7 +28,6 @@ discovered_by = nomad_group
 	controller = OIR
 	add_core = OIR
 	remove_core = CHG
-	religion = buddhism
 } # The Oirads
 1635.1.1 = {
 	owner = ZUN
@@ -45,6 +44,4 @@ discovered_by = nomad_group
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = kipchak
-	religion = tengri_pagan_reformed
 }

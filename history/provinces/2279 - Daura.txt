@@ -33,6 +33,4 @@ discovered_by = sub_saharan
 	owner = DUR
 	controller = DUR
 	add_core = DUR
-	culture = hausa
-	religion = sunni
 }

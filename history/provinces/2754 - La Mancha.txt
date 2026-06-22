@@ -4,8 +4,8 @@ add_core = CRD
 owner = CRD		#Juan II of Castille
 controller = CRD
 add_core = Q07
-culture = andalucian
-religion = sunni
+culture = castillian
+religion = catholic
 hre = no
 base_tax = 3 
 base_production = 3
@@ -44,6 +44,4 @@ discovered_by = ottoman
 	owner = CRD
 	controller = CRD
 	add_core = CRD
-	culture = andalucian
-	religion = sunni
 }

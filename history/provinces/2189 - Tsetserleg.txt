@@ -9,7 +9,7 @@ controller = KHA
 add_core = KHA
 add_core = OIR
 culture = khalkha
-religion = shendao
+religion = tengri_pagan_reformed
 capital = "Tsetserleg"
 trade_goods = fur
 hre = no
@@ -47,5 +47,4 @@ discovered_by = nomad_group
 	owner = KHA
 	controller = KHA
 	add_core = KHA
-	religion = shendao
 }

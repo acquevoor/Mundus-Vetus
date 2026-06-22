@@ -3,7 +3,7 @@
 owner = Q05
 controller = Q05
 culture = novgorodian
-religion = slavic_pagan
+religion = orthodox
 hre = no
 base_tax = 7
 base_production = 7
@@ -37,5 +37,4 @@ center_of_trade = 2
 	owner = Q05
 	controller = Q05
 	add_core = Q05
-	religion = slavic_pagan
 }

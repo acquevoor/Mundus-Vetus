@@ -4,9 +4,9 @@ controller = AWD
 add_core = AWD
 is_city = yes
 
-culture = berber
+culture = fulani
 capital = "Aligh"
-religion = sunni #Fetishism
+religion = shamanism #Fetishism
 trade_goods = unknown
 hre = no
 base_tax = 1 
@@ -28,6 +28,4 @@ discovered_by = sub_saharan
 	owner = AWD
 	controller = AWD
 	add_core = AWD
-	culture = berber
-	religion = sunni
 }

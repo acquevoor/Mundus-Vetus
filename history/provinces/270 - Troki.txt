@@ -2,7 +2,7 @@
 
 owner = Q03
 controller = Q03
-religion = baltic_pagan
+religion = catholic
 culture = lithuanian
 capital = "Trakai"
 trade_goods = livestock
@@ -36,5 +36,4 @@ discovered_by = nomad_group
 	owner = Q03
 	controller = Q03
 	add_core = Q03
-	religion = baltic_pagan
 }

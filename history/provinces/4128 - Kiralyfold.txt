@@ -3,7 +3,7 @@
 owner = Q20
 controller = Q20 
 culture = transylvanian #Transylvanian Saxons
-religion = manichaei
+religion = catholic
 capital = "Sibiu"
 trade_goods = cloth
 hre = no
@@ -73,5 +73,4 @@ discovered_by = ottoman
 	owner = Q20
 	controller = Q20
 	add_core = Q20
-	religion = manichaei
 }

@@ -4,7 +4,7 @@ owner = PUR
 controller = PUR
 add_core = PUR
 culture = acehnese
-religion = al_batiniyya
+religion = sunni
 capital = "Peureulak"
 trade_goods = spices
 hre = no
@@ -35,6 +35,4 @@ discovered_by = ottoman
 	owner = PUR
 	controller = PUR
 	add_core = PUR
-	culture = acehnese
-	religion = al_batiniyya
 }

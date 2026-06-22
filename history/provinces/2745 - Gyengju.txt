@@ -31,6 +31,4 @@ center_of_trade = 2
 	owner = KOR
 	controller = KOR
 	add_core = KOR
-	culture = korean
-	religion = confucianism
 }

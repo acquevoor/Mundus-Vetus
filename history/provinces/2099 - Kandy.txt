@@ -33,6 +33,4 @@ add_province_triggered_modifier = theravada_kotte
 	owner = KND
 	controller = KND
 	add_core = KND
-	culture = sinhala
-	religion = buddhism
 }

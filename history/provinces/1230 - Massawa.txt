@@ -29,6 +29,4 @@ discovered_by = indian
 	owner = BZN
 	controller = BZN
 	add_core = BZN
-	culture = tigray
-	religion = coptic
 }

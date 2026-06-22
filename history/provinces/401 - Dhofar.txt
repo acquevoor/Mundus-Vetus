@@ -48,6 +48,4 @@ discovered_by = east_african
 	owner = MHR
 	controller = MHR
 	add_core = MHR
-	culture = mahri_culture
-	religion = sunni
 }

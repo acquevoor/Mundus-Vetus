@@ -41,6 +41,4 @@ discovered_by = ottoman
 	owner = TUW
 	controller = TUW
 	add_core = TUW
-	culture = mon
-	religion = buddhism
 }

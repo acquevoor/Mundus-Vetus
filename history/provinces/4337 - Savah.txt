@@ -4,7 +4,7 @@ owner = REI
 controller = REI
 add_core = REI
 culture = persian
-religion = al_batiniyya
+religion = sunni
 capital = "Savah"
 trade_goods = grain
 hre = no
@@ -44,7 +44,6 @@ discovered_by = indian
 	remove_core = AKK
 } # The Safavids took over
 1532.1.1 = {
-	religion = shiite
 } # Estimated time when the Safavids convert the Sunni to Shia
 1550.1.1 = { discovered_by = TUR }
 1673.1.1 = { discovered_by = ENG }
@@ -57,5 +56,4 @@ discovered_by = indian
 	owner = REI
 	controller = REI
 	add_core = REI
-	religion = al_batiniyya
 }

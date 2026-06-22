@@ -4,7 +4,7 @@ add_core = FEZ
 owner = FEZ		#Mustapha Sa'd King of Granada
 controller = FEZ
 add_core = GRA
-culture = moroccan
+culture = andalucian
 religion = sunni
 hre = no
 base_tax = 2 
@@ -41,6 +41,4 @@ discovered_by = ottoman
 	owner = FEZ
 	controller = FEZ
 	add_core = FEZ
-	culture = moroccan
-	religion = sunni
 }

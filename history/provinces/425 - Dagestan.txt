@@ -4,7 +4,7 @@ owner = DAG
 controller = DAG 
 add_core = DAG
 culture = dagestani
-religion = hurufiyya
+religion = sunni
 capital = "Derbent"
 trade_goods = fish
 hre = no
@@ -29,7 +29,6 @@ discovered_by = nomad_group
 	remove_core = SRV # was AKK
 } # Ismail conquers Tabriz and defeats Alwand
 1531.7.1 = {
-	religion = shiite
 } # Estimated time for it become Shia
 1578.9.9 = { controller = TUR } 
 1590.3.21 = { controller = GAZ owner = GAZ add_core = GAZ } # Peace of Istanbul
@@ -53,5 +52,4 @@ discovered_by = nomad_group
 	owner = DAG
 	controller = DAG
 	add_core = DAG
-	religion = hurufiyya
 }

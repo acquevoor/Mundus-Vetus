@@ -28,6 +28,4 @@ discovered_by = indian
 	owner = MED
 	controller = MED
 	add_core = MED
-	culture = tigray
-	religion = coptic
 }

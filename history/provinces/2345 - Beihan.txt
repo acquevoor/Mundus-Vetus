@@ -3,7 +3,7 @@
 owner = YEM #Tahirids
 controller = YEM #Tahirids
 culture = yemeni_culture
-religion = sunni
+religion = shiite
 capital = "Beihan"
 trade_goods = livestock
 hre = no
@@ -56,5 +56,4 @@ discovered_by = east_african
 	owner = YEM
 	controller = YEM
 	add_core = YEM
-	religion = sunni
 }

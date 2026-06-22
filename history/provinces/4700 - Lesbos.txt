@@ -32,6 +32,4 @@ discovered_by = western
 	owner = LES
 	controller = LES
 	add_core = LES
-	culture = greek
-	religion = orthodox
 }

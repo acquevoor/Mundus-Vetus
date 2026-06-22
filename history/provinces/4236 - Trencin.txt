@@ -49,5 +49,4 @@ discovered_by = QAS
 	owner = SLO
 	controller = SLO
 	add_core = SLO
-	religion = catholic
 }

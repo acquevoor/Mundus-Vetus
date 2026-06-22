@@ -4,7 +4,7 @@ owner = DEV
 controller = DEV
 add_core = DEV
 culture = bengali
-religion = vajrayana
+religion = hinduism
 capital = "Haibatnagar"
 trade_goods = cotton
 hre = no
@@ -45,6 +45,4 @@ discovered_by = chinese
 	owner = DEV
 	controller = DEV
 	add_core = DEV
-	culture = bengali
-	religion = vajrayana
 }

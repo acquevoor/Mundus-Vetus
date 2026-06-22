@@ -3,8 +3,8 @@ controller = JNN
 add_core = JNN
 add_core = SOF
 is_city = yes
-culture = bozo 
-religion = sunni #Fetishism
+culture = bambara 
+religion = shamanism #Fetishism
 capital = "Sah"
 trade_goods = grain
 hre = no
@@ -39,6 +39,4 @@ discovered_by = sub_saharan
 	owner = JNN
 	controller = JNN
 	add_core = JNN
-	culture = bozo
-	religion = sunni
 }

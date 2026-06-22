@@ -1,7 +1,5 @@
 #4808 - Barisan
 
-culture = sumatran
-religion = animism
 capital = "Barisan"
 trade_goods = unknown
 hre = no

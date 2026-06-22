@@ -3,7 +3,7 @@
 owner = Q05 # was part of Ustyug principality, annexed by Muscovy in 1474
 controller = Q05
 culture = russian 
-religion = slavic_pagan
+religion = orthodox
 hre = no
 base_tax = 2
 base_production = 2
@@ -31,5 +31,4 @@ discovered_by = nomad_group
 	owner = Q05
 	controller = Q05
 	add_core = Q05
-	religion = slavic_pagan
 }

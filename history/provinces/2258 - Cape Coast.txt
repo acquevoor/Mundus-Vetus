@@ -19,8 +19,6 @@ center_of_trade = 1
 1471.1.1 = { discovered_by = POR } # Frenão do Pó
 
 1482.1.19 = {
-	culture = portugese
-	religion = catholic
 	capital = "Sao Jorge da Mina"
 	trade_goods = gold
 } #Portuguese trading post

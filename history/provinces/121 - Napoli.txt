@@ -49,6 +49,4 @@ center_of_trade = 2
 	owner = Q15
 	controller = Q15
 	add_core = Q15
-	culture = neapolitan
-	religion = catholic
 }

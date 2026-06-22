@@ -5,7 +5,7 @@ controller = UTL
 add_core = UTL
 add_core = MNG
 culture = chimin
-religion = sunni
+religion = confucianism
 capital = "Kingchow"
 trade_goods = tropical_wood
 hre = no
@@ -39,6 +39,4 @@ discovered_by = nomad_group
 	owner = UTL
 	controller = UTL
 	add_core = UTL
-	culture = chimin
-	religion = sunni
 }

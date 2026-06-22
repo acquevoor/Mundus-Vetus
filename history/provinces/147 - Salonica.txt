@@ -47,6 +47,4 @@ base_production = 4 } #The Decentralizing Effect of the Provincial System
 	owner = DRM
 	controller = DRM
 	add_core = DRM
-	culture = greek
-	religion = orthodox
 }

@@ -4,7 +4,7 @@ owner = SHI
 controller = SHI
 add_core = SHI
 culture = persian
-religion = mandaiuta
+religion = shiite
 capital = "Shiraz"
 trade_goods = wine #and Glass
 hre = no
@@ -65,5 +65,4 @@ add_province_triggered_modifier = religious_center
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	religion = mandaiuta
 }

@@ -4,7 +4,7 @@ owner = KET
 controller = KET
 add_core = KET
 culture = avadhi
-religion = vajrayana
+religion = hinduism
 capital = "Allahabad"
 trade_goods = cloth
 hre = no
@@ -101,6 +101,4 @@ center_of_trade = 2
 	owner = KET
 	controller = KET
 	add_core = KET
-	culture = avadhi
-	religion = vajrayana
 }

@@ -5,7 +5,7 @@ controller = Q16
 add_core = Q16 
 add_core = ICE
 culture = icelandic
-religion = norse_pagan_reformed
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -30,5 +30,4 @@ discovered_by = western
 	owner = Q16
 	controller = Q16
 	add_core = Q16
-	religion = norse_pagan_reformed
 }

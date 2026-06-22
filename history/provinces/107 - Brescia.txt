@@ -54,6 +54,4 @@ discovered_by = ottoman
 	owner = VRN
 	controller = VRN
 	add_core = VRN
-	culture = lombard
-	religion = catholic
 }

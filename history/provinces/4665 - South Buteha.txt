@@ -3,7 +3,7 @@ controller = KHA
 add_core = KHA
 add_core = KRC
 culture = chahar
-religion = shendao
+religion = tengri_pagan_reformed
 capital = "West Buteha"
 trade_goods = livestock
 hre = no
@@ -37,5 +37,4 @@ discovered_by = nomad_group
 	owner = KHA
 	controller = KHA
 	add_core = KHA
-	religion = shendao
 }

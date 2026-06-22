@@ -29,6 +29,4 @@ discovered_by = nomad_group
 	owner = KHU
 	controller = KHU
 	add_core = KHU
-	culture = dagestani
-	religion = sunni
 }

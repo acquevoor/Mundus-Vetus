@@ -3,8 +3,8 @@
 owner = QUM
 controller = QUM
 add_core = QUM
-culture = persian
-religion = al_mutazila
+culture = baluchi
+religion = sunni
 capital = "Chabahar"
 trade_goods = fish
 hre = no
@@ -44,6 +44,4 @@ discovered_by = nomad_group
 	owner = QUM
 	controller = QUM
 	add_core = QUM
-	culture = persian
-	religion = al_mutazila
 }

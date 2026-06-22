@@ -45,6 +45,4 @@ base_production = 7 } # Lale Devri (the tulip age), not appreciated by everyone
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	culture = turkish
-	religion = sunni
 }

@@ -28,5 +28,4 @@ discovered_by = indian
 	owner = HRG
 	controller = HRG
 	add_core = HRG
-	religion = sunni
 }

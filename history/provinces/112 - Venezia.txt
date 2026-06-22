@@ -43,6 +43,4 @@ center_of_trade = 3
 	owner = VEN
 	controller = VEN
 	add_core = VEN
-	culture = venetian
-	religion = catholic
 }

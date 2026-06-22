@@ -8,7 +8,7 @@ owner = Q14
 controller = Q14
 capital = "Olomouc"
 culture = czech
-religion = catholic
+religion = hussite
 trade_goods = grain 
 hre = yes
 base_tax = 3
@@ -56,6 +56,4 @@ discovered_by = ottoman
 	owner = Q14
 	controller = Q14
 	add_core = Q14
-	culture = czech
-	religion = catholic
 }

@@ -44,6 +44,4 @@ discovered_by = indian
 	owner = NYI
 	controller = NYI
 	add_core = NYI
-	culture = burmese
-	religion = buddhism
 }

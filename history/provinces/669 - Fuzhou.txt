@@ -41,5 +41,4 @@ center_of_trade = 1
 	owner = FUZ
 	controller = FUZ
 	add_core = FUZ
-	religion = confucianism
 }

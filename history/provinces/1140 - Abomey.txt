@@ -32,6 +32,4 @@ discovered_by = sub_saharan
 	owner = DAH
 	controller = DAH
 	add_core = DAH
-	culture = fon
-	religion = shamanism
 }

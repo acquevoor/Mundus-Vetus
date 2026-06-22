@@ -3,7 +3,7 @@
 owner = Q03
 controller = Q03
 culture = lithuanian
-religion = baltic_pagan
+religion = catholic
 capital = "Upyte"
 trade_goods = livestock
 hre = no
@@ -42,5 +42,4 @@ discovered_by = ottoman
 	owner = Q03
 	controller = Q03
 	add_core = Q03
-	religion = baltic_pagan
 }

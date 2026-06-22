@@ -33,5 +33,4 @@ center_of_trade = 2
 	owner = ZEI
 	controller = ZEI
 	add_core = ZEI
-	religion = sunni
 }

@@ -4,7 +4,7 @@ owner = NAM
 controller = NAM
 add_core = NAM
 culture = lao
-religion = satsana_phi
+religion = buddhism
 capital = "Vientiane"
 trade_goods = grain
 hre = no
@@ -36,6 +36,4 @@ add_core = VIE
 	owner = NAM
 	controller = NAM
 	add_core = NAM
-	culture = lao
-	religion = satsana_phi
 }

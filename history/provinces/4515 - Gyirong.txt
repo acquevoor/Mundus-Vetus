@@ -5,8 +5,8 @@ controller = GYI
 add_core = GYI
 add_core = UTS
 add_core = PHA
-culture = bihari
-religion = hinduism
+culture = tibetan
+religion = vajrayana
 capital = "Gyirong"
 trade_goods = livestock
 hre = no
@@ -45,6 +45,4 @@ discovered_by = nomad_group
 	owner = GYI
 	controller = GYI
 	add_core = GYI
-	culture = bihari
-	religion = hinduism
 }

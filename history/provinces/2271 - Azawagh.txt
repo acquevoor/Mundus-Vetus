@@ -5,7 +5,7 @@ owner = AZW
 controller = AZW
 add_core = SON
 is_city = yes
-culture = songhai 
+culture = tuareg 
 religion = sunni
 capital = "Menaka"
 trade_goods = livestock
@@ -30,6 +30,4 @@ discovered_by = sub_saharan
 	owner = AZW
 	controller = AZW
 	add_core = AZW
-	culture = songhai
-	religion = sunni
 }

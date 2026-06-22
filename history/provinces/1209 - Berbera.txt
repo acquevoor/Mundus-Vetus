@@ -32,5 +32,4 @@ discovered_by = indian
 	owner = BEA
 	controller = BEA
 	add_core = BEA
-	religion = sunni
 }

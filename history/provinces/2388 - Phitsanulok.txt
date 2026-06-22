@@ -3,7 +3,7 @@
 owner = TUW 
 controller = TUW
 add_core = TUW
-culture = mon
+culture = central_thai
 religion = buddhism
 capital = "Phitsanulok"
 trade_goods = livestock
@@ -25,6 +25,4 @@ discovered_by = indian
 	owner = TUW
 	controller = TUW
 	add_core = TUW
-	culture = mon
-	religion = buddhism
 }

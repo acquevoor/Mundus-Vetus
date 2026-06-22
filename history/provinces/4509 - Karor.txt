@@ -4,7 +4,7 @@ owner = KFI
 controller = KFI
 add_core = KFI
 culture = panjabi
-religion = vajrayana
+religion = sunni
 capital = "Karor"
 trade_goods = iron
 hre = no
@@ -72,6 +72,4 @@ discovered_by = chinese
 	owner = KFI
 	controller = KFI
 	add_core = KFI
-	culture = panjabi
-	religion = vajrayana
 }

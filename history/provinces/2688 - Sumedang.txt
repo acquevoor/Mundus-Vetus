@@ -25,7 +25,6 @@ discovered_by = ottoman
 	controller = CRB
 	add_core = CRB
 	remove_core = SUN
-	religion = sunni
 }
 1509.1.1 = { discovered_by = POR }
 1613.1.1 = { discovered_by = NED } # The Dutch arrived
@@ -36,6 +35,4 @@ discovered_by = ottoman
 	owner = JAW
 	controller = JAW
 	add_core = JAW
-	culture = sundanese
-	religion = hinduism
 }

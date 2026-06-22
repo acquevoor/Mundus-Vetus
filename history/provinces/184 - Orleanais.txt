@@ -51,6 +51,4 @@ center_of_trade = 1
 	owner = ORL
 	controller = ORL
 	add_core = ORL
-	culture = cosmopolitan_french
-	religion = catholic
 }

@@ -68,6 +68,4 @@ center_of_trade = 2
 	owner = MLO
 	controller = MLO
 	add_core = MLO
-	culture = lombard
-	religion = catholic
 }

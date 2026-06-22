@@ -2,7 +2,7 @@
 
 owner = CRO
 controller = CRO
-culture = croatian
+culture = dalmatian
 religion = catholic
 capital = "Zadar"
 trade_goods = naval_supplies
@@ -51,6 +51,4 @@ discovered_by = ottoman
 	owner = CRO
 	controller = CRO
 	add_core = CRO
-	culture = croatian
-	religion = catholic
 }

@@ -30,6 +30,4 @@ discovered_by = east_african
 	owner = MAK
 	controller = MAK
 	add_core = MAK
-	culture = nubian
-	religion = coptic
 }

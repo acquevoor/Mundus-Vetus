@@ -14,10 +14,7 @@ native_hostileness = 7
 
 1472.1.1 = {
 	discovered_by = POR
-	culture = portugese
-	religion = catholic
 	trade_goods = slaves
 } # Fernão do Pó
 1778.1.1 = {
-	culture = castillian
 } # Ceded to Spain, Treaty of El Pardo

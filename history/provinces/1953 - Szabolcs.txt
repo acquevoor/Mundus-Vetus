@@ -4,7 +4,7 @@ owner = JAZ
 controller = JAZ 
 add_core = JAZ
 culture = hungarian
-religion = uatsdin
+religion = catholic
 capital = "Debrecen"
 trade_goods = iron
 hre = no
@@ -78,7 +78,5 @@ discovered_by = ottoman
 	owner = JAZ
 	controller = JAZ
 	add_core = JAZ
-	culture = hungarian
-	religion = uatsdin
 	trade_goods = iron
 }

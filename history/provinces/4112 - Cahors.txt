@@ -48,5 +48,4 @@ discovered_by = ottoman
 	owner = GUY
 	controller = GUY
 	add_core = GUY
-	culture = gascon
 }

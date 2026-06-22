@@ -28,5 +28,4 @@ discovered_by = ottoman
 	owner = BWA
 	controller = BWA
 	add_core = BWA
-	religion = sunni
 }

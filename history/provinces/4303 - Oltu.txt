@@ -4,7 +4,7 @@ owner = OLT
 controller = OLT
 add_core = OLT
 culture = georgian
-religion = coptic
+religion = orthodox
 capital = "Oltu"
 trade_goods = livestock
 hre = no
@@ -44,5 +44,4 @@ discovered_by = nomad_group
 	owner = OLT
 	controller = OLT
 	add_core = OLT
-	religion = coptic
 }

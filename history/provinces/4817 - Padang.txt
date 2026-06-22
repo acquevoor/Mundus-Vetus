@@ -2,7 +2,7 @@ owner = PDA
 controller = PDA
 add_core = PDA
 culture = sumatran
-religion = vajrayana
+religion = hinduism
 capital = "Padang"
 trade_goods = grain
 hre = no
@@ -26,6 +26,4 @@ discovered_by = ottoman
 	owner = PDA
 	controller = PDA
 	add_core = PDA
-	culture = sumatran
-	religion = vajrayana
 }

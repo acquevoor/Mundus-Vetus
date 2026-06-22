@@ -60,6 +60,4 @@ discovered_by = western
 	owner = MOR
 	controller = MOR
 	add_core = MOR
-	culture = moroccan
-	religion = sunni
 }

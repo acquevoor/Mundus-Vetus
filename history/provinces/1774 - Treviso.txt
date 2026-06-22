@@ -45,6 +45,4 @@ discovered_by = ottoman
 	owner = VEN
 	controller = VEN
 	add_core = VEN
-	culture = venetian
-	religion = catholic
 }

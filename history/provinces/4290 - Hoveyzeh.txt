@@ -35,5 +35,4 @@ discovered_by = indian
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	religion = shiite
 }

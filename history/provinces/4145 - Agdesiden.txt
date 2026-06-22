@@ -4,7 +4,7 @@ owner = Q16
 controller = Q16
 add_core = Q16
 culture = norwegian
-religion = norse_pagan_reformed
+religion = catholic
 hre = no
 base_tax = 1
 base_production = 2
@@ -35,5 +35,4 @@ discovered_by = eastern
 	owner = Q16
 	controller = Q16
 	add_core = Q16
-	religion = norse_pagan_reformed
 }

@@ -42,5 +42,4 @@ discovered_by = nomad_group
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	religion = confucianism
 }

@@ -59,5 +59,4 @@ center_of_trade = 1
 	owner = ZRG
 	controller = ZRG
 	add_core = ZRG
-	religion = catholic
 }

@@ -35,6 +35,4 @@ discovered_by = ottoman
 	owner = HRZ
 	controller = HRZ
 	add_core = HRZ
-	culture = bosnian
-	religion = orthodox
 }

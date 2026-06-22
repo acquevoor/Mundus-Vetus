@@ -50,6 +50,4 @@ discovered_by = ottoman
 	owner = Q11
 	controller = Q11
 	add_core = Q11
-	culture = burgundian
-	religion = catholic
 }

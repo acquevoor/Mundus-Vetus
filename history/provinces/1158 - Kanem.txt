@@ -4,7 +4,7 @@ owner = YAO
 controller = YAO
 add_core = YAO
 add_core = KBO
-culture = bilala
+culture = kanuri
 religion = sunni
 capital = "Ngala"
 is_city = yes
@@ -28,6 +28,4 @@ center_of_trade = 1
 	owner = YAO
 	controller = YAO
 	add_core = YAO
-	culture = bilala
-	religion = sunni
 }

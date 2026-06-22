@@ -47,5 +47,4 @@ discovered_by = KHA
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	religion = tengri_pagan_reformed
 }

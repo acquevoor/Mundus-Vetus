@@ -41,6 +41,4 @@ discovered_by = ottoman
 	owner = TLD
 	controller = TLD
 	add_core = TLD
-	culture = castillian
-	religion = catholic
 }

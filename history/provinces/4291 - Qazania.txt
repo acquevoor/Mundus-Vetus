@@ -4,7 +4,7 @@ owner = AFS
 controller = AFS
 add_core = AFS
 culture = al_iraqiya_arabic
-religion = shiite
+religion = sunni
 capital = "Qazaniya"
 trade_goods = cotton
 hre = no
@@ -51,5 +51,4 @@ add_local_autonomy = 20
 	owner = AFS
 	controller = AFS
 	add_core = AFS
-	religion = shiite
 }

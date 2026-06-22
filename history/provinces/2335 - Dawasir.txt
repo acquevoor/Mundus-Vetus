@@ -35,6 +35,4 @@ discovered_by = east_african
 	owner = DAW
 	controller = DAW
 	add_core = DAW
-	culture = bedouin_arabic
-	religion = sunni
 }

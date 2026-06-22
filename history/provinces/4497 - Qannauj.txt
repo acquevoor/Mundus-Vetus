@@ -79,6 +79,4 @@ center_of_trade = 1
 	owner = KNN
 	controller = KNN
 	add_core = KNN
-	culture = avadhi
-	religion = hinduism
 }

@@ -4,7 +4,7 @@ owner = BOT
 controller = BOT
 add_core = BOT
 culture = kurdish
-religion = yazidi
+religion = sunni
 capital = "Bitlis"
 trade_goods = wool
 hre = no
@@ -47,5 +47,4 @@ discovered_by = nomad_group
 	owner = BOT
 	controller = BOT
 	add_core = BOT
-	religion = yazidi
 }

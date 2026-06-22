@@ -98,6 +98,4 @@ discovered_by = chinese
 	owner = JAY
 	controller = JAY
 	add_core = JAY
-	culture = avadhi
-	religion = hinduism
 }

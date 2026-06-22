@@ -49,6 +49,4 @@ base_production = 1 } #The Decentralizing Effect of the Provincial System
 	owner = Y01
 	controller = Y01
 	add_core = Y01
-	culture = greek
-	religion = orthodox
 }

@@ -36,6 +36,4 @@ base_production = 2 base_manpower = 1 } #Collapse of mali into minor states afte
 	owner = MAL
 	controller = MAL
 	add_core = MAL
-	culture = mali
-	religion = sunni
 }

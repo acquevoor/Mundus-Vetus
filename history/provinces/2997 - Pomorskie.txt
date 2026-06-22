@@ -6,7 +6,7 @@ add_core = Q04
 add_core = TEU
 capital = "Tuchel"
 culture = ostersoen
-religion = slavic_pagan
+religion = catholic
 trade_goods = grain
 hre = no
 base_tax = 3 
@@ -71,5 +71,4 @@ discovered_by = ottoman
 	owner = Q04
 	controller = Q04
 	add_core = Q04
-	religion = slavic_pagan
 }

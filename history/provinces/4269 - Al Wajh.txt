@@ -50,5 +50,4 @@ discovered_by = east_african
 	owner = SLY
 	controller = SLY
 	add_core = SLY
-	religion = sunni
 }

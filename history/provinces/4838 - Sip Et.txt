@@ -1,7 +1,7 @@
 owner = TUW
 controller = TUW
 add_core = TUW
-culture = mon
+culture = lao
 religion = buddhism
 capital = "Sip Et"
 trade_goods = ivory
@@ -35,6 +35,4 @@ discovered_by = indian
 	owner = TUW
 	controller = TUW
 	add_core = TUW
-	culture = mon
-	religion = buddhism
 }

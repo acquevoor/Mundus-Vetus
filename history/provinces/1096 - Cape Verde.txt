@@ -13,7 +13,5 @@ native_hostileness = 0
 1457.1.1 = {
 	discovered_by = POR
 	trade_goods = slaves
-	culture = portugese
-	religion = catholic
 }
 1500.1.1 = { trade_goods = fish }

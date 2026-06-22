@@ -42,6 +42,4 @@ center_of_trade = 1
 	owner = Y01
 	controller = Y01
 	add_core = Y01
-	culture = greek
-	religion = orthodox
 }

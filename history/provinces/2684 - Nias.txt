@@ -30,6 +30,4 @@ is_city = yes
 	owner = NIA
 	controller = NIA
 	add_core = NIA
-	culture = sumatran
-	religion = hinduism
 }

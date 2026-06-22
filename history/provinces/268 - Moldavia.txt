@@ -43,6 +43,5 @@ discovered_by = nomad_group
 	owner = HLC
 	controller = HLC
 	add_core = HLC
-	religion = orthodox
 	trade_goods = livestock
 }

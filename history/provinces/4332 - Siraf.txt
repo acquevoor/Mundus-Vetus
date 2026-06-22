@@ -3,8 +3,8 @@
 owner = SHI
 controller = SHI
 add_core = SHI
-culture = al_iraqiya_arabic
-religion = mandaiuta
+culture = persian
+religion = shiite
 capital = "Siraf"
 trade_goods = spices
 hre = no
@@ -60,6 +60,4 @@ center_of_trade = 1
 	owner = SHI
 	controller = SHI
 	add_core = SHI
-	culture = al_iraqiya_arabic
-	religion = mandaiuta
 }

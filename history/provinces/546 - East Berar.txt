@@ -40,7 +40,6 @@ discovered_by = chinese
 	add_core = NAG
 }	#Formation of the kingdom of Nagpur
 1741.1.1 = {
-	culture = marathi
 }	#Maratha expansion
 #1743 Marathas take control over Nagpur kingdom
 
@@ -48,6 +47,4 @@ discovered_by = chinese
 	owner = ACA
 	controller = ACA
 	add_core = ACA
-	culture = gondi
-	religion = hinduism
 }

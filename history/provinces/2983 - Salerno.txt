@@ -47,6 +47,4 @@ discovered_by = ottoman
 	owner = Q15
 	controller = Q15
 	add_core = Q15
-	culture = neapolitan
-	religion = catholic
 }

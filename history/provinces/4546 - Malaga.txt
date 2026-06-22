@@ -4,7 +4,7 @@ add_core = FEZ
 owner = FEZ		# Mustapha Sa'd King of Granada
 controller = FEZ
 add_core = GRA
-culture = moroccan
+culture = andalucian
 religion = sunni
 hre = no
 base_tax = 3
@@ -33,7 +33,6 @@ discovered_by = eastern
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castilla
 1568.12.25 = { unrest = 15 } # Sublevation of the morisques in the kingdom of Granada.
 1570.10.28 = {	unrest = 0
-	culture = castillian
 } # To quell the revolt, the morisques in Granada are forcefully deported to other Spanish territories
 1808.6.6 = { revolt = { type = pretender_rebels size = 0 } controller = REB }
 1811.1.1 = { revolt = {} controller = SPA }
@@ -45,6 +44,4 @@ discovered_by = eastern
 	owner = FEZ
 	controller = FEZ
 	add_core = FEZ
-	culture = moroccan
-	religion = sunni
 }

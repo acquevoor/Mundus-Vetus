@@ -4,7 +4,7 @@ owner = MAK
 controller = MAK
 add_core = MAK
 culture = nubian
-religion = coptic #To represent tenous hold over the province.
+religion = sunni #To represent tenous hold over the province.
 capital = "Qasr Ibrim"
 is_city = yes
 base_manpower = 2
@@ -28,13 +28,10 @@ discovered_by = east_african
 1540.1.1 = {
 	owner = TUR
 	controller = TUR
-	religion = sunni #If not before
 } #Ottomans occupy Lower Nubia
 
 1444.11.11 = {
 	owner = MAK
 	controller = MAK
 	add_core = MAK
-	culture = nubian
-	religion = coptic
 }

@@ -51,6 +51,4 @@ discovered_by = ottoman
 	owner = BOS
 	controller = BOS
 	add_core = BOS
-	culture = bosnian
-	religion = catholic
 }

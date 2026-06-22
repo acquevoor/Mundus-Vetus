@@ -45,5 +45,4 @@ discovered_by = nomad_group
 	owner = WAL
 	controller = WAL
 	add_core = WAL
-	religion = orthodox
 }

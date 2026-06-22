@@ -72,6 +72,4 @@ discovered_by = chinese
 	owner = RAI
 	controller = RAI
 	add_core = RAI
-	culture = kannada
-	religion = hinduism
 }

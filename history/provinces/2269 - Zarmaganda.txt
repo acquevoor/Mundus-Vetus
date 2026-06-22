@@ -23,6 +23,4 @@ discovered_by = sub_saharan
 	owner = AZW
 	controller = AZW
 	add_core = AZW
-	culture = songhai
-	religion = sunni
 }

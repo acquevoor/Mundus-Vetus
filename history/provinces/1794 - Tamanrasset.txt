@@ -1,7 +1,5 @@
 #1794 - Tamanrasset
 
-culture = tuareg
-religion = sunni
 capital = "Tamanrasset"
 trade_goods = unknown
 hre = no

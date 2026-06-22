@@ -5,7 +5,7 @@ owner = SVL		#Juan II of Castille
 controller = SVL
 add_core = Q07
 culture = andalucian
-religion = sunni
+religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
@@ -40,6 +40,4 @@ discovered_by = ottoman
 	owner = SVL
 	controller = SVL
 	add_core = SVL
-	culture = andalucian
-	religion = sunni
 }

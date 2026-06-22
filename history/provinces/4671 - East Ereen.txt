@@ -3,7 +3,7 @@ owner = TIA
 controller = TIA
 add_core = KHA
 culture = mongol
-religion = shendao
+religion = vajrayana
 capital = "Kalgan"
 trade_goods = livestock
 hre = no
@@ -40,5 +40,4 @@ add_core = CHH
 	owner = TIA
 	controller = TIA
 	add_core = TIA
-	religion = shendao
 }

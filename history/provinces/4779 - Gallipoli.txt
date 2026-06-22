@@ -35,6 +35,4 @@ base_production = 8 } #The Decentralizing Effect of the Provincial System
 	owner = WAL
 	controller = WAL
 	add_core = WAL
-	culture = greek
-	religion = orthodox
 }

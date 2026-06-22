@@ -35,6 +35,4 @@ is_city = yes
 	owner = SUL
 	controller = SUL
 	add_core = SUL
-	culture = filipino
-	religion = sunni
 }

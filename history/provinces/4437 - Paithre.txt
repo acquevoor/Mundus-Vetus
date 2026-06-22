@@ -81,6 +81,4 @@ discovered_by = chinese
 	owner = SEU
 	controller = SEU
 	add_core = SEU
-	culture = marathi
-	religion = hinduism
 }

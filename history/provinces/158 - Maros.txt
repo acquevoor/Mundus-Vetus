@@ -3,7 +3,7 @@
 owner = Q20
 controller = Q20 
 culture = transylvanian #Szeklers
-religion = manichaei
+religion = catholic
 capital = "Targu Mures"
 trade_goods = wool
 hre = no
@@ -77,5 +77,4 @@ discovered_by = ottoman
 	owner = Q20
 	controller = Q20
 	add_core = Q20
-	religion = manichaei
 }

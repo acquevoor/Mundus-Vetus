@@ -4,7 +4,7 @@ owner = REI
 controller = REI
 add_core = REI
 culture = persian
-religion = al_batiniyya
+religion = sunni
 capital = "Abarquh"
 trade_goods = livestock #known for its pastures for Timurid armies
 hre = no
@@ -47,7 +47,6 @@ discovered_by = nomad_group
 	remove_core = AKK
 } # The Safavids took over
 1532.1.1 = {
-	religion = shiite
 } # Estimated time when the Safavids convert the Sunni to Shia
 1550.1.1 = { discovered_by = TUR }
 1673.1.1 = { discovered_by = ENG }
@@ -61,5 +60,4 @@ discovered_by = nomad_group
 	owner = REI
 	controller = REI
 	add_core = REI
-	religion = al_batiniyya
 }

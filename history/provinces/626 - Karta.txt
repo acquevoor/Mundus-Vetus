@@ -4,7 +4,7 @@ owner = JAW
 controller = JAW
 add_core = JAW
 add_core = MAJ
-culture = sundanese
+culture = javanese
 religion = hinduism
 capital = "Karta"
 trade_goods = grain
@@ -48,6 +48,4 @@ discovered_by = ottoman
 	owner = JAW
 	controller = JAW
 	add_core = JAW
-	culture = sundanese
-	religion = hinduism
 }

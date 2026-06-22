@@ -3,7 +3,7 @@
 owner = LRI
 controller = LRI
 culture = luri
-religion = al_mutazila
+religion = shiite
 capital = "Yasuj"
 trade_goods = cloth
 hre = no
@@ -34,6 +34,4 @@ discovered_by = nomad_group
 	owner = LRI
 	controller = LRI
 	add_core = LRI
-	culture = luri
-	religion = al_mutazila
 }

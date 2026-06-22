@@ -4,7 +4,7 @@ owner = HOM
 controller = HOM
 add_core = HOM
 culture = al_suryah_arabic
-religion = al_ghulat
+religion = sunni
 capital = "Homs"
 trade_goods = cotton
 hre = no
@@ -43,6 +43,4 @@ discovered_by = indian
 	owner = HOM
 	controller = HOM
 	add_core = HOM
-	culture = al_suryah_arabic
-	religion = al_ghulat
 }

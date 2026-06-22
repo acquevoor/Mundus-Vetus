@@ -56,6 +56,4 @@ discovered_by = ottoman
 	owner = URG
 	controller = URG
 	add_core = URG
-	culture = catalan
-	religion = catholic
 }

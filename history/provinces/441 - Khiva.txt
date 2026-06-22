@@ -4,8 +4,8 @@ add_core = QQP
 owner = QQP
 controller = QQP
 add_core = MRV
-culture = turco_iranian
-religion = al_batiniyya
+culture = uzbehk
+religion = sunni
 capital = "Khiva"
 trade_goods = wool
 hre = no
@@ -43,8 +43,6 @@ center_of_trade = 1
 	owner = MRV
 	controller = MRV
 	add_core = MRV
-	culture = turco_iranian
-	religion = al_batiniyya
 	trade_goods = wool
 }
 
@@ -53,6 +51,4 @@ center_of_trade = 1
 	owner = QQP
 	controller = QQP
 	add_core = QQP
-	culture = turco_iranian
-	religion = al_batiniyya
 }

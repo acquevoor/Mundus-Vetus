@@ -3,8 +3,8 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = kipchak
-religion = tengri_pagan_reformed
+culture = ruthenian
+religion = orthodox
 hre = no
 base_tax = 1
 base_production = 1
@@ -29,8 +29,6 @@ discovered_by = nomad_group
 	owner = Q03
 	controller = Q03
 	add_core = Q03
-	culture = ruthenian
-	religion = orthodox 
 }
 1569.7.1 = {
 	owner = PLC
@@ -45,6 +43,4 @@ discovered_by = nomad_group
 	owner = MNC
 	controller = MNC
 	add_core = MNC
-	culture = kipchak
-	religion = tengri_pagan_reformed
 }

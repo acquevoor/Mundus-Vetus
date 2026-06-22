@@ -5,7 +5,7 @@ controller = CAG
 add_core = CAG
 add_core = HMI
 culture = oirats
-religion = ecclesia_assyrica
+religion = vajrayana
 capital = "Hami"
 trade_goods = grain
 hre = no
@@ -66,5 +66,4 @@ discovered_by = nomad_group
 	owner = CAG
 	controller = CAG
 	add_core = CAG
-	religion = ecclesia_assyrica
 }

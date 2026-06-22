@@ -3,7 +3,7 @@
 owner = LRI
 controller = LRI
 culture = luri
-religion = al_mutazila
+religion = sunni
 capital = "Kirmanshah"
 trade_goods = cloth
 hre = no
@@ -68,6 +68,4 @@ discovered_by = indian
 	owner = LRI
 	controller = LRI
 	add_core = LRI
-	culture = luri
-	religion = al_mutazila
 }

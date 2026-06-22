@@ -44,8 +44,6 @@ base_production = 4 } # The Decentralizing Effect of the Provincial System
 	owner = TRK
 	controller = TRK
 	add_core = TRK
-	culture = greek
-	religion = orthodox
 }
 
 
@@ -53,8 +51,6 @@ base_production = 4 } # The Decentralizing Effect of the Provincial System
 	owner = SKP
 	controller = SKP
 	add_core = SKP
-	culture = greek
-	religion = orthodox
 }
 
 
@@ -62,6 +58,4 @@ base_production = 4 } # The Decentralizing Effect of the Provincial System
 	owner = DRM
 	controller = DRM
 	add_core = DRM
-	culture = greek
-	religion = orthodox
 }

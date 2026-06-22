@@ -31,6 +31,4 @@ discovered_by = east_african
 	owner = AJM
 	controller = AJM
 	add_core = AJM
-	culture = bedouin_arabic
-	religion = sunni
 }

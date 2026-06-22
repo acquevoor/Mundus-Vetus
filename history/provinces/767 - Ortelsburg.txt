@@ -5,7 +5,7 @@ controller = PRS
 add_core = PRS
 capital = "Ortelsburg"
 culture = pruthenian
-religion = baltic_pagan
+religion = catholic
 trade_goods = naval_supplies
 hre = no
 base_tax = 2
@@ -25,7 +25,6 @@ discovered_by = ottoman
 	controller = PRU
 	remove_core = TEU
 	remove_core = Q04
-	religion = protestant
 } # Albert of Prussia became a protestant
 1618.8.28 = {
 	owner = Q06
@@ -46,5 +45,4 @@ discovered_by = ottoman
 	controller = PRS
 	add_core = PRS
 	culture = pruthenian
-	religion = baltic_pagan
 }

@@ -4,7 +4,7 @@ add_core = DIN
 owner = DIN
 controller = DIN
 add_core = MNG
-culture = zhongyuan
+culture = sichuanese
 religion = confucianism
 capital = "Chongqing"
 trade_goods = spices
@@ -38,6 +38,4 @@ center_of_trade = 1
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	culture = zhongyuan
-	religion = confucianism
 }

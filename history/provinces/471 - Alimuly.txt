@@ -3,8 +3,8 @@ add_core = TKS
 
 owner = TKS
 controller = TKS
-culture = kipchak
-religion = tengri_pagan_reformed
+culture = nogaybak
+religion = sunni
 capital = "Alimuly"
 trade_goods = livestock
 hre = no
@@ -27,6 +27,4 @@ discovered_by = SIB
 	owner = TKS
 	controller = TKS
 	add_core = TKS
-	culture = kipchak
-	religion = tengri_pagan_reformed
 }

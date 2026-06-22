@@ -30,6 +30,4 @@ discovered_by = sub_saharan
 	owner = FUL
 	controller = FUL
 	add_core = FUL
-	culture = fulani
-	religion = shamanism
 }

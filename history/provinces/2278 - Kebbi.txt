@@ -6,8 +6,8 @@ controller = KBI
 add_core = ZZZ
 add_core = HAU
 is_city = yes
-culture = mali 
-religion = sunni #Fetishism
+culture = hausa 
+religion = shamanism #Fetishism
 capital = "Sorko"
 trade_goods = grain
 hre = no
@@ -54,6 +54,4 @@ discovered_by = sub_saharan
 	owner = KBI
 	controller = KBI
 	add_core = KBI
-	culture = mali
-	religion = sunni
 }

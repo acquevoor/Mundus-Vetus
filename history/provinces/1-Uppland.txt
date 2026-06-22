@@ -30,7 +30,6 @@ center_of_trade = 2
 1502.5.9 = { controller = Q01 } # Retaken by Sweden
 1523.6.7 = { base_manpower = 4 } # Kgl.Drabantkåren/Svea Livgarde
 1527.6.1 = {
-	religion = protestant
 	reformation_center = protestant
 }
 1598.8.12 = { controller = PLC } # Sigismund tries to reconquer his crown

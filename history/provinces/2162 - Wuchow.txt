@@ -44,5 +44,4 @@ discovered_by = indian
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	religion = confucianism
 }

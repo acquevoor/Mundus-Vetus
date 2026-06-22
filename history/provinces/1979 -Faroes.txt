@@ -3,7 +3,7 @@
 owner = Q16
 controller = Q16 
 culture = icelandic
-religion = norse_pagan_reformed
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -19,7 +19,6 @@ discovered_by = western
 
 
 1536.1.1 = {
-	religion = protestant
 	owner = Q00
 	controller = Q00
 	add_core = Q00
@@ -29,5 +28,4 @@ discovered_by = western
 	owner = Q16
 	controller = Q16
 	add_core = Q16
-	religion = norse_pagan_reformed
 }

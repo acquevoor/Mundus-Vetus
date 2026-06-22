@@ -5,7 +5,7 @@ owner = AWD
 controller = AWD
 add_core = JOL
 is_city = yes
-culture = berber
+culture = senegambian
 capital = "Awlil"
 religion = sunni
 trade_goods = salt
@@ -31,6 +31,4 @@ discovered_by = sub_saharan
 	owner = AWD
 	controller = AWD
 	add_core = AWD
-	culture = berber
-	religion = sunni
 }

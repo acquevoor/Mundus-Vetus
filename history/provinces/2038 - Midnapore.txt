@@ -88,6 +88,4 @@ discovered_by = chinese
 	owner = UTK
 	controller = UTK
 	add_core = UTK
-	culture = bengali
-	religion = hinduism
 }

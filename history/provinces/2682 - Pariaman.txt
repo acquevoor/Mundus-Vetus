@@ -4,7 +4,7 @@ owner = PRI
 controller = PRI
 add_core = PRI
 culture = sumatran
-religion = vajrayana
+religion = hinduism
 capital = "Pariaman"
 trade_goods = grain
 hre = no
@@ -28,6 +28,4 @@ discovered_by = ottoman
 	owner = PRI
 	controller = PRI
 	add_core = PRI
-	culture = sumatran
-	religion = vajrayana
 }

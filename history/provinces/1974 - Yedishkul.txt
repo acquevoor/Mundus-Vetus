@@ -3,8 +3,8 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = kipchak
-religion = tengri_pagan_reformed
+culture = crimean
+religion = sunni
 hre = no
 base_tax = 4
 base_production = 4
@@ -34,6 +34,4 @@ discovered_by = nomad_group
 	owner = MNC
 	controller = MNC
 	add_core = MNC
-	culture = kipchak
-	religion = tengri_pagan_reformed
 }

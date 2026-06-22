@@ -4,7 +4,7 @@ owner = DEV
 controller = DEV
 add_core = DEV
 culture = arakanese
-religion = vajrayana
+religion = buddhism
 capital = "Mrauk U"
 trade_goods = grain
 hre = no
@@ -33,5 +33,4 @@ center_of_trade = 1
 	owner = DEV
 	controller = DEV
 	add_core = DEV
-	religion = vajrayana
 }

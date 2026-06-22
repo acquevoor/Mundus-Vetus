@@ -54,6 +54,4 @@ discovered_by = ottoman
 	owner = ANJ
 	controller = ANJ
 	add_core = ANJ
-	culture = cosmopolitan_french
-	religion = catholic
 }

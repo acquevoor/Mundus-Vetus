@@ -22,7 +22,5 @@ add_core = BRT
 1653.1.1 = {
 	owner = RUS
 	controller = RUS
-	religion = orthodox
-	culture = russian
 } # Pyotr Beketov
 1678.1.1 = { add_core = RUS }

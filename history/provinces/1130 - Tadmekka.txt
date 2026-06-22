@@ -33,6 +33,4 @@ discovered_by = sub_saharan
 	owner = TMB
 	controller = TMB
 	add_core = TMB
-	culture = tuareg
-	religion = sunni
 }

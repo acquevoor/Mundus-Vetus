@@ -9,8 +9,8 @@ base_manpower = 1
 native_size = 5
 native_ferocity = 1
 native_hostileness = 0
-religion = animism
-culture = berber
+religion = catholic
+culture = castillian
 
 1402.1.1 = {
 	discovered_by = western
@@ -22,8 +22,6 @@ culture = berber
 	controller = Q07
 	add_core = Q07
 	is_city = yes
-	religion = catholic
-	culture = castillian	
 	trade_goods = sugar
 }
 
@@ -33,8 +31,6 @@ culture = berber
 	add_core = Q07
 	is_city = yes
 	#trade_goods = slaves
-	culture = portugese
-	religion = catholic
 	trade_goods = sugar
 }
 1516.1.23 = {

@@ -3,8 +3,8 @@ add_core = SVL
 
 owner = SVL
 controller = SVL
-culture = andalucian
-religion = sunni
+culture = portugese
+religion = catholic
 capital = "Faro"
 trade_goods = salt
 hre = no
@@ -32,6 +32,4 @@ discovered_by = eastern
 	owner = SVL
 	controller = SVL
 	add_core = SVL
-	culture = andalucian
-	religion = sunni
 }

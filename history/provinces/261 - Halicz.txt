@@ -54,6 +54,5 @@ discovered_by = ottoman
 	owner = HLC
 	controller = HLC
 	add_core = HLC
-	religion = orthodox
 	trade_goods = fur
 }

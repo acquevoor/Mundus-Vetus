@@ -37,5 +37,4 @@ add_province_triggered_modifier = promised_land_modifier
 	owner = SLY
 	controller = SLY
 	add_core = SLY
-	religion = sunni
 }

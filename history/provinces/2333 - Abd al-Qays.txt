@@ -4,7 +4,7 @@ add_core = BHR
 owner = BHR
 controller = BHR
 culture = gulf_arabic
-religion = al_batiniyya
+religion = shiite
 capital = "Sila"
 trade_goods = fish
 hre = no
@@ -42,5 +42,4 @@ discovered_by = east_african
 	owner = BHR
 	controller = BHR
 	add_core = BHR
-	religion = al_batiniyya
 }

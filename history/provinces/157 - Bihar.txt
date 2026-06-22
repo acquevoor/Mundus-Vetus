@@ -4,7 +4,7 @@ owner = AMJ
 controller = AMJ 
 add_core = AMJ
 culture = transylvanian
-religion = catholic
+religion = orthodox
 capital = "Oradea"
 trade_goods = livestock
 hre = no
@@ -87,6 +87,5 @@ discovered_by = ottoman
 	owner = AMJ
 	controller = AMJ
 	add_core = AMJ
-	religion = catholic
 	trade_goods = livestock
 }

@@ -36,5 +36,4 @@ discovered_by = nomad_group
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	religion = sunni
 }

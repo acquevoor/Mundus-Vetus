@@ -46,5 +46,4 @@ extra_cost = 8
 	owner = DIN
 	controller = DIN
 	add_core = DIN
-	religion = confucianism
 }

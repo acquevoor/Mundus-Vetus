@@ -4,7 +4,7 @@ owner = KET
 controller = KET
 add_core = KET
 culture = avadhi
-religion = vajrayana
+religion = hinduism
 capital = "Jaunpur"
 trade_goods = paper #And Carpets
 hre = no
@@ -121,6 +121,4 @@ discovered_by = chinese
 	owner = KET
 	controller = KET
 	add_core = KET
-	culture = avadhi
-	religion = vajrayana
 }
