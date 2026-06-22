@@ -1,7 +1,7 @@
 #4535 - Wilkimierz
 
-owner = LIT
-controller = LIT
+owner = Q03
+controller = Q03
 capital = "Vilkmerge"
 is_city = yes
 culture = lithuanian
@@ -11,7 +11,7 @@ hre = no
 base_tax = 2
 base_production = 2
 base_manpower = 2
-add_core = LIT
+add_core = Q03
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -37,8 +37,8 @@ discovered_by = nomad_group
 1812.12.10 = { controller = RUS }
 
 1444.11.11 = {
-	owner = LIT
-	controller = LIT
-	add_core = LIT
+	owner = Q03
+	controller = Q03
+	add_core = Q03
 	religion = baltic_pagan
 }

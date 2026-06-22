@@ -4,7 +4,7 @@ owner = KNA
 controller = KNA
 add_core = KNA
 capital = "Bolgar"
-culture = khazar
+culture = kipchak
 religion = sunni
 trade_goods = iron
 hre = no
@@ -39,6 +39,6 @@ discovered_by = ottoman
 	owner = KNA
 	controller = KNA
 	add_core = KNA
-	culture = khazar
+	culture = kipchak
 	religion = sunni
 }

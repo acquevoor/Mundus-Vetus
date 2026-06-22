@@ -4,7 +4,7 @@ add_core = ZRG
 owner = ZRG		# Alfons V of Aragon
 controller = ZRG
 add_core = ARA
-culture = basque
+culture = aragonese
 religion = catholic
 hre = no
 base_tax = 5
@@ -41,6 +41,5 @@ center_of_trade = 1
 	owner = ZRG
 	controller = ZRG
 	add_core = ZRG
-	culture = basque
 	religion = catholic
 }

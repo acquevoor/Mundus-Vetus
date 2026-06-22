@@ -1,8 +1,8 @@
 # 4741 - Halle
 
-owner = MAG
-controller = MAG
-add_core = MAG
+owner = Q12
+controller = Q12
+add_core = Q12
 culture = saxon
 religion = catholic
 hre = yes
@@ -24,15 +24,15 @@ discovered_by = ottoman
 1524.1.1 = { religion = protestant }
 1650.1.1 = { culture = ostersoen }
 1680.10.4 = {
-	owner = BRA
-	controller = BRA
-	add_core = BRA
+	owner = Q06
+	controller = Q06
+	add_core = Q06
 } # The Archbishopric is incorporated into the Brandenburg domain
 1701.1.18 = {
 	owner = PRU
 	controller = PRU
 	add_core = PRU
-	remove_core = BRA
+	remove_core = Q06
 } # Friedrich III becomes king of Prussia
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 1806.11.1 = { controller = FRA } # Occupied by French troops

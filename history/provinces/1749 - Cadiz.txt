@@ -3,7 +3,7 @@ add_core = FEZ
 
 owner = FEZ		#Enrique III of Castille
 controller = FEZ
-add_core = CAS
+add_core = Q07
 culture = moroccan
 religion = sunni
 hre = no
@@ -27,7 +27,7 @@ center_of_trade = 1
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 1610.1.12 = { culture = castillian } # Decree for the expulsion of the morisques in Andalucía, unlike Valencia, this was performed uneventfully.
-1713.4.11 = { remove_core = CAS }
+1713.4.11 = { remove_core = Q07 }
 1808.6.6 = { revolt = { type = pretender_rebels size = 0.5 } controller = REB }
 1813.12.11 = { revolt = {} controller = SPA }
 

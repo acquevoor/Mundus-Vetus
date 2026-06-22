@@ -3,7 +3,7 @@
 owner = KNA
 controller = KNA
 add_core = KNA
-culture = khazar
+culture = kipchak
 religion = sunni
 hre = no
 base_tax = 4 
@@ -34,6 +34,6 @@ base_production = 8 } # Legislative reform
 	owner = KNA
 	controller = KNA
 	add_core = KNA
-	culture = khazar
+	culture = kipchak
 	religion = sunni
 }

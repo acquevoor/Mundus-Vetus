@@ -4,8 +4,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = MVA
-controller = MVA
+owner = Q14
+controller = Q14
 capital = "Olomouc"
 culture = czech
 religion = catholic
@@ -16,7 +16,7 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = BOH
-add_core = MVA
+add_core = Q14
 fort_15th = yes
 discovered_by = KAZ
 discovered_by = CRI
@@ -53,9 +53,9 @@ discovered_by = ottoman
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = MVA
-	controller = MVA
-	add_core = MVA
+	owner = Q14
+	controller = Q14
+	add_core = Q14
 	culture = czech
 	religion = catholic
 }

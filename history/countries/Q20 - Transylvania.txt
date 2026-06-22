@@ -1,0 +1,30 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+primary_culture = transylvanian
+add_accepted_culture = hungarian
+religion = manichaei
+capital = 158 # Maros (Székelyföld; 1951 Alba Iulia is held by Turda/TRD)
+
+1395.1.1 = {
+	monarch = {
+		name = "Stibor"
+		dynasty = "de Stiboricz"
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Mikl�s"
+		dynasty = "Cs�ki"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+ # Synod of Debrecen

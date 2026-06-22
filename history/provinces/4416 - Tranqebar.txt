@@ -28,9 +28,9 @@ add_local_autonomy = 25
 1550.1.1 = { controller = VIJ revolt = { } }
 1565.7.1 = { owner = TNJ controller = TNJ } # The Vijayanagar empire collapses
 1620.1.1 = {
-	owner = DAN
-	controller = DAN
-	add_core = DAN
+	owner = Q00
+	controller = Q00
+	add_core = Q00
 	capital = "Fort Dansborg"
 	add_to_trade_company = DAN
 	add_trade_company_investment = {

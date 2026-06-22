@@ -3,7 +3,7 @@
 owner = CIS
 controller = CIS
 add_core = CIS
-culture = oghuz_turk
+culture = oghuz
 religion = sunni
 capital = "Adalia"
 trade_goods = cotton
@@ -39,6 +39,6 @@ base_production = 1 } # The Decentralizing Effect of the Provincial System
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	culture = oghuz_turk
+	culture = oghuz
 	religion = sunni
 }

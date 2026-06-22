@@ -12,7 +12,7 @@ base_manpower = 1
 capital = "Novgorod-Seversky"
 is_city = yes
 add_core = CHR
-add_core = LIT
+add_core = Q03
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -20,7 +20,7 @@ discovered_by = ottoman
 discovered_by = nomad_group
 
 
-1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = LIT } # Treaty of the Annunciation
+1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = Q03 } # Treaty of the Annunciation
 1598.1.1 = { unrest = 5 } # "Time of troubles"
 1611.1.1 = { controller = PLC } # Polish occupation
 1613.1.1 = { unrest = 0 } # Order returned, Romanov dynasty

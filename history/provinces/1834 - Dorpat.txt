@@ -1,9 +1,9 @@
 #Dorpat
 
-owner = LTG
-controller = LTG
+owner = Q02
+controller = Q02
 add_core = LIV
-add_core = LTG
+add_core = Q02
 add_core = EST
 culture = estonian
 religion = baltic_pagan
@@ -26,8 +26,8 @@ discovered_by = eastern
 1542.1.1 = { religion = protestant} # Unknown date
 1558.7.18 = { controller = RUS } # Russian conquest
 1561.1.1 = {
-	owner = LIT
-	add_core = LIT
+	owner = Q03
+	add_core = Q03
 	remove_core = LIV
 } # Livonia ceases to exist
 1569.7.1 = {
@@ -35,18 +35,18 @@ discovered_by = eastern
 	add_core = PLC
 } # Union of Lublin
 1582.1.15 = { controller = PLC } # Peace of Jam-Zapolski
-1600.12.31 = { controller = SWE } # 2nd Polish War-Captured by Duke Karl
+1600.12.31 = { controller = Q01 } # 2nd Polish War-Captured by Duke Karl
 1603.4.5 = { controller = PLC } # 2nd Polish War-Captured by Chodkiewicz
-1625.8.21 = { controller = SWE } # 2nd Polish War-Captured by Jakob de la Gardie
-1629.9.16 = { owner = SWE add_core = SWE remove_core = PLC } # The Armistice of Altmark
+1625.8.21 = { controller = Q01 } # 2nd Polish War-Captured by Jakob de la Gardie
+1629.9.16 = { owner = Q01 add_core = Q01 remove_core = PLC } # The Armistice of Altmark
 1656.11.3 = { controller = RUS } # Karl X Gustavs Russian War-Captured by Russians
-1661.6.21 = { controller = SWE } # The Peace of Kardis
+1661.6.21 = { controller = Q01 } # The Peace of Kardis
 1704.7.14 = { controller = RUS } # The Great Nordic War-Captured Dorpat
-1721.8.30 = { owner = RUS add_core = RUS remove_core = SWE } # The Peace of Nystad
+1721.8.30 = { owner = RUS add_core = RUS remove_core = Q01 } # The Peace of Nystad
 
 1444.11.11 = {
-	owner = LTG
-	controller = LTG
-	add_core = LTG
+	owner = Q02
+	controller = Q02
+	add_core = Q02
 	religion = baltic_pagan
 }

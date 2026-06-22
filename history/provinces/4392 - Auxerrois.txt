@@ -1,9 +1,9 @@
 # 4392 Burgundian Auxerrois - Principal cities: Semur, Auxerre, Tonnerre.
 # Also includes much of Langres.
 
-owner = LUX
-controller = LUX 
-add_core = LUX
+owner = Q11
+controller = Q11 
+add_core = Q11
 capital = "Semur"
 is_city = yes
 culture = burgundian
@@ -36,9 +36,9 @@ discovered_by = ottoman
 1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 
 1444.11.11 = {
-	owner = LUX
-	controller = LUX
-	add_core = LUX
+	owner = Q11
+	controller = Q11
+	add_core = Q11
 	culture = burgundian
 	religion = catholic
 }

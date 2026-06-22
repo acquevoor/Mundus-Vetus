@@ -20,28 +20,28 @@ discovered_by = ottoman
 center_of_trade = 1
 
 1466.10.19 = {
-	owner = POL
-	controller = POL
+	owner = Q04
+	controller = Q04
 	remove_core = TEU
-	add_core = POL
+	add_core = Q04
 }
 1569.7.1 = {
 	owner = PLC
 	controller = PLC
-	remove_core = POL
+	remove_core = Q04
 	add_core = PLC
 } # Union of Lublin
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war, Polish succession
 1589.1.1 = { revolt = {} controller = PLC } # Coronation of Sigismund III
-1655.1.1 = { controller = SWE } # The Deluge
+1655.1.1 = { controller = Q01 } # The Deluge
 1660.1.1 = { controller = PLC }
 1772.9.22 = { controller = PRU owner = PRU add_core = PRU } # First partition
 1806.11.3 = { revolt = { type = nationalist_rebels size = 0 } controller = REB } # Polish uprising instigated by Napoleon
 1807.7.9 = {
 	revolt = {}
-	owner = POL
-	controller = POL
-	add_core = POL
+	owner = Q04
+	controller = Q04
+	add_core = Q04
 	remove_core = PRU
 } # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
 1814.4.11 = {

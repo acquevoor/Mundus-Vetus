@@ -1,8 +1,8 @@
 #257 - Mazovia
 
-owner = POL
-controller = POL
-add_core = POL
+owner = Q04
+controller = Q04
+add_core = Q04
 capital = "Warszawa"
 culture = polish
 religion = slavic_pagan
@@ -27,9 +27,9 @@ center_of_trade = 1
 
 
 1526.3.9 = {
-	owner = POL
-	controller = POL
-	add_core = POL
+	owner = Q04
+	controller = Q04
+	add_core = Q04
 	remove_core = MAZ
 } # Death of Janusz III
 1550.1.1 = {
@@ -38,14 +38,14 @@ center_of_trade = 1
 1569.7.1 = {
 	owner = PLC
 	controller = PLC
-	remove_core = POL
+	remove_core = Q04
 	add_core = PLC
 } # Union of Lublin
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 3 } controller = REB } # Civil war, Polish succession
 1589.1.1 = { revolt = {} controller = PLC } # Coronation of Sigismund III
-1656.7.28 = { controller = SWE } # Battle of Warsaw, against Sweden & Brandenburg
+1656.7.28 = { controller = Q01 } # Battle of Warsaw, against Sweden & Brandenburg
 1660.1.1 = { controller = PLC } # End of Northern war
-1702.5.1 = { controller = SWE } # Occupied again
+1702.5.1 = { controller = Q01 } # Occupied again
 1706.9.24 = { controller = PLC } # Treaty of Altranstadt
 1733.1.1 = { revolt = { type = revolutionary_rebels size = 3 } controller = REB } # The war of Polish succession
 1735.1.1 = { revolt = {} controller = PLC }
@@ -58,9 +58,9 @@ center_of_trade = 1
 1806.11.3 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Polish uprising instigated by Napoleon
 1807.7.9 = {
 	revolt = {}
-	owner = POL
-	controller = POL
-	add_core = POL
+	owner = Q04
+	controller = Q04
+	add_core = Q04
 	remove_core = PRU
 } # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
 1812.12.12 = { controller = RUS }
@@ -70,8 +70,8 @@ center_of_trade = 1
 } # Congress Poland, under Russian control after the Congress of Vienna
 
 1444.11.11 = {
-	owner = POL
-	controller = POL
-	add_core = POL
+	owner = Q04
+	controller = Q04
+	add_core = Q04
 	religion = slavic_pagan
 }

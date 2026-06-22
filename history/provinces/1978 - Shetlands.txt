@@ -1,7 +1,7 @@
 #1978 - Shetlands
 
-owner = NOR
-controller = NOR
+owner = Q16
+controller = Q16
 culture = norwegian
 religion = norse_pagan_reformed
 hre = no
@@ -11,7 +11,7 @@ trade_goods = fish
 base_manpower = 1
 capital = "Lerwick"
 is_city = yes # Estimated
-add_core = NOR
+add_core = Q16
 
 
 
@@ -26,7 +26,7 @@ discovered_by = eastern
 	culture = scottish
 	controller = SCO
 	add_core = SCO
-	remove_core = NOR
+	remove_core = Q16
 } # Formally ceded to the crown of Scotland
 1609.1.1 = { religion = reformed } # First Protestant Minister Arrives in the Orkneys
 1707.5.12 = {
@@ -36,8 +36,8 @@ discovered_by = eastern
 }
 
 1444.11.11 = {
-	owner = NOR
-	controller = NOR
-	add_core = NOR
+	owner = Q16
+	controller = Q16
+	add_core = Q16
 	religion = norse_pagan_reformed
 }

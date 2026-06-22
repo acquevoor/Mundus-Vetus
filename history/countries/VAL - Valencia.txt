@@ -1,9 +1,0 @@
-government = monarchy
-
-add_government_reform = feudalism_reform
-
-religion = catholic
-religious_school = catholic_dominican
-primary_culture = catalan
-technology_group = western
-capital = 220	# Valencia

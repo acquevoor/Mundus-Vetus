@@ -3,7 +3,7 @@
 owner = SER
 controller = SER
 add_core = TRK
-culture = greek
+culture = serbian
 religion = catholic
 capital = "Nis"
 trade_goods = livestock
@@ -41,7 +41,6 @@ discovered_by = ottoman
 	owner = TRK
 	controller = TRK
 	add_core = TRK
-	culture = greek
 	religion = orthodox
 }
 
@@ -50,6 +49,5 @@ discovered_by = ottoman
 	owner = SER
 	controller = SER
 	add_core = SER
-	culture = greek
 	religion = catholic
 }

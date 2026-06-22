@@ -3,7 +3,7 @@
 owner = HLC
 controller = HLC
 add_core = HLC
-culture = hungarian
+culture = romanian
 religion = orthodox
 capital = "Iasi"
 trade_goods = grain
@@ -44,7 +44,6 @@ discovered_by = nomad_group
 	owner = HLC
 	controller = HLC
 	add_core = HLC
-	culture = hungarian
 	religion = orthodox
 	trade_goods = grain
 }

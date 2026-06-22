@@ -3,7 +3,7 @@ add_core = FEZ
 
 owner = FEZ		# Juan II of Castille
 controller = FEZ
-add_core = CAS
+add_core = Q07
 culture = moroccan
 religion = sunni 
 hre = no
@@ -27,7 +27,7 @@ discovered_by = ottoman
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
 1566.1.1 = { culture = castillian }
-1713.4.11 = { remove_core = CAS }
+1713.4.11 = { remove_core = Q07 }
 1808.6.6 = { revolt = { type = pretender_rebels size = 1 } controller = REB }
 1811.1.1 = { revolt = {} controller = SPA }
 1812.10.1 = { revolt = { type = pretender_rebels size = 1 } controller = REB }

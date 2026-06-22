@@ -3,7 +3,7 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = khazar
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Borisoglebsk"
 trade_goods = livestock
@@ -36,6 +36,6 @@ discovered_by = western
 	owner = MNC
 	controller = MNC
 	add_core = MNC
-	culture = khazar
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

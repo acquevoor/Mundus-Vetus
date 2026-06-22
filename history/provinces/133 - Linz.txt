@@ -1,8 +1,8 @@
 #133 - Linz
 
-owner = MVA
-controller = MVA
-add_core = MVA
+owner = Q14
+controller = Q14
+add_core = Q14
 add_core = HAB
 culture = austrian
 religion = catholic
@@ -29,9 +29,9 @@ discovered_by = ottoman
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = MVA
-	controller = MVA
-	add_core = MVA
+	owner = Q14
+	controller = Q14
+	add_core = Q14
 	culture = austrian
 	religion = catholic
 }

@@ -1,8 +1,8 @@
 #Ostrov
 
-owner = NOV
-controller = NOV
-add_core = NOV
+owner = Q05
+controller = Q05
+add_core = Q05
 culture = novgorodian
 religion = slavic_pagan
 hre = no
@@ -29,8 +29,8 @@ discovered_by = eastern
 1613.3.3 = { unrest = 0 } # Order returned, Romanov dynasty
 
 1444.11.11 = {
-	owner = NOV
-	controller = NOV
-	add_core = NOV
+	owner = Q05
+	controller = Q05
+	add_core = Q05
 	religion = slavic_pagan
 }

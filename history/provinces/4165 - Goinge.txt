@@ -1,9 +1,9 @@
 #Eastern Skåne - More or less Kristianstad Län. Includes Göinge, Gladsax Len, Listerlandet, and others.
 
-add_core = DAN
-owner = SWE
-controller = SWE
-add_core = SWE
+add_core = Q00
+owner = Q01
+controller = Q01
+add_core = Q01
 culture = danish
 religion = catholic
 hre = no
@@ -20,14 +20,14 @@ discovered_by = ottoman
 
 
 1525.1.1 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Prelude to 'Grevefejden'(Sören Norrby)
-1525.5.10 = { revolt = {} controller = DAN } # Sören Norrby is defeated
+1525.5.10 = { revolt = {} controller = Q00 } # Sören Norrby is defeated
 1534.8.15 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # 'Grevefejden'(Christofer of Oldenburg)
-1536.3.15 = { revolt = {} controller = DAN } # Liberated by Sweden
+1536.3.15 = { revolt = {} controller = Q00 } # Liberated by Sweden
 1536.3.15 = { religion = protestant} # Unknown date
-1658.2.26 = { controller = SWE owner = SWE add_core = SWE } # The Peace of Roskilde
+1658.2.26 = { controller = Q01 owner = Q01 add_core = Q01 } # The Peace of Roskilde
 
 1444.11.11 = {
-	owner = SWE
-	controller = SWE
-	add_core = SWE
+	owner = Q01
+	controller = Q01
+	add_core = Q01
 }

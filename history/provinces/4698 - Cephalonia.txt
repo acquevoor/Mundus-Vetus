@@ -1,6 +1,6 @@
-owner = NAP
-controller = NAP
-add_core = NAP
+owner = Q15
+controller = Q15
+add_core = Q15
 culture = greek
 religion = orthodox
 capital = "Agios Georgios"
@@ -53,9 +53,9 @@ discovered_by = ottoman
 } # The Second Treaty of Paris
 
 1444.11.11 = {
-	owner = NAP
-	controller = NAP
-	add_core = NAP
+	owner = Q15
+	controller = Q15
+	add_core = Q15
 	culture = greek
 	religion = orthodox
 }

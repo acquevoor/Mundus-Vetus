@@ -1,8 +1,8 @@
 #Jämtland+Härjedalen
 
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = Q01
+controller = Q01
+add_core = Q01
 culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
 religion = catholic
 hre = no
@@ -13,7 +13,7 @@ base_manpower = 1
 capital = "Frösön"
 add_local_autonomy = 25
 is_city = yes
-add_core = NOR
+add_core = Q16
 
 
 
@@ -24,21 +24,21 @@ discovered_by = western
 1527.6.1 = { religion = protestant}
 1531.11.5 = { unrest = 10 } # The Return of Christian II
 1532.7.15 = { unrest = 0 } # The Capture of Christian II
-1536.1.1 = { owner = DAN controller = DAN add_core = DAN } # 'Handfästningen'(Unknown date)
-1564.2.10 = { controller = SWE } # Nordic Seven-years War
-1570.11.18 = { controller = DAN } # The Peace at Roskilde in 1570
-1611.8.1 = { controller = SWE } # The War of Kalmar (Unknown date)
-1613.1.20 = { controller = DAN } # The Peace of Knäred
-1644.2.1 = { controller = SWE } # Torstenssons War-Captured by Herman Flemming (Unknown date)
-1644.8.1 = { controller = DAN } # Torstenssons War-Captured by Hannibal Sehested
-1645.8.13 = { owner = SWE controller = SWE add_core = SWE } # The Peace of Brömsebro
-1657.11.25 = { controller = DAN } # Karl X Gustavs First Danish War-Captured by Bielke
-1658.2.26 = { controller = SWE } # The Peace of Roskilde
+1536.1.1 = { owner = Q00 controller = Q00 add_core = Q00 } # 'Handfästningen'(Unknown date)
+1564.2.10 = { controller = Q01 } # Nordic Seven-years War
+1570.11.18 = { controller = Q00 } # The Peace at Roskilde in 1570
+1611.8.1 = { controller = Q01 } # The War of Kalmar (Unknown date)
+1613.1.20 = { controller = Q00 } # The Peace of Knäred
+1644.2.1 = { controller = Q01 } # Torstenssons War-Captured by Herman Flemming (Unknown date)
+1644.8.1 = { controller = Q00 } # Torstenssons War-Captured by Hannibal Sehested
+1645.8.13 = { owner = Q01 controller = Q01 add_core = Q01 } # The Peace of Brömsebro
+1657.11.25 = { controller = Q00 } # Karl X Gustavs First Danish War-Captured by Bielke
+1658.2.26 = { controller = Q01 } # The Peace of Roskilde
 1690.1.1 = { culture = swedish } # date estimated
 1786.10.23 = { capital = "Östersund" }
 
 1444.11.11 = {
-	owner = SWE
-	controller = SWE
-	add_core = SWE
+	owner = Q01
+	controller = Q01
+	add_core = Q01
 }

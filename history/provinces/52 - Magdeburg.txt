@@ -1,8 +1,8 @@
 #52 - Altmark
 
-owner = MAG
-controller = MAG
-add_core = MAG
+owner = Q12
+controller = Q12
+add_core = Q12
 culture = saxon
 religion = catholic
 hre = yes
@@ -23,15 +23,15 @@ fort_15th = yes
 1524.1.1 = { religion = protestant }
 1650.1.1 = { culture = ostersoen }
 1680.10.4 = {
-	owner = BRA
-	controller = BRA
-	add_core = BRA
+	owner = Q06
+	controller = Q06
+	add_core = Q06
 } # The Archbishopric is incorporated into the Brandenburg domain
 1701.1.18 = {
 	owner = PRU
 	controller = PRU
 	add_core = PRU
-	remove_core = BRA
+	remove_core = Q06
 } # Friedrich III becomes king of Prussia
 1725.1.1 = { base_manpower = 4 }
 1750.1.1 = {  base_manpower = 5 base_tax = 10 base_production = 10 }

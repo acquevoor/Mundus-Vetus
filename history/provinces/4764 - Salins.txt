@@ -1,8 +1,8 @@
 # 4764 - Salins. Principal cities: Salins, Lons-le-Saunier, Arlay, Pontarlier
 
-owner = LUX
-controller = LUX 
-add_core = LUX
+owner = Q11
+controller = Q11 
+add_core = Q11
 capital = "Salins"
 is_city = yes
 add_local_autonomy = 30 # The counts of Chalon-Arlay were very dominant in the region
@@ -32,9 +32,9 @@ discovered_by = ottoman
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = LUX
-	controller = LUX
-	add_core = LUX
+	owner = Q11
+	controller = Q11
+	add_core = Q11
 	culture = burgundian
 	religion = catholic
 }

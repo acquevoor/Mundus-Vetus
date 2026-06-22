@@ -3,7 +3,7 @@
 owner = CIS
 controller = CIS
 add_core = CIS
-culture = oghuz_turk
+culture = oghuz
 religion = sunni
 capital = "Sinop"
 trade_goods = naval_supplies
@@ -38,6 +38,6 @@ center_of_trade = 2
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	culture = oghuz_turk
+	culture = oghuz
 	religion = sunni
 }

@@ -4,7 +4,7 @@ owner = KYR
 controller = KYR
 add_core = KYR
 add_core = CHG
-culture = uzbehk
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Karamegdan"
 trade_goods = wool
@@ -46,6 +46,6 @@ discovered_by = KAS
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = uzbehk
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

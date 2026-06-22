@@ -4,7 +4,7 @@
 owner = VEL
 controller = VEL
 add_core = VEL
-add_core = BRA
+add_core = Q06
 culture = polabian
 religion = catholic
 hre = yes
@@ -31,7 +31,7 @@ center_of_trade = 1
 	owner = PRU
 	controller = PRU
 	add_core = PRU
-	remove_core = BRA
+	remove_core = Q06
 	base_tax = 6 
 	base_production = 6
 	base_manpower = 6

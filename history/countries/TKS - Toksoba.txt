@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = uzbehk
+primary_culture = kipchak
 religion = tengri_pagan_reformed
 technology_group = indian
 capital = 465 # Toksoba

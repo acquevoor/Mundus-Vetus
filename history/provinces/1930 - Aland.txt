@@ -1,8 +1,8 @@
 #Åland
 
-owner = SWE
-controller = SWE
-add_core = SWE
+owner = Q01
+controller = Q01
+add_core = Q01
 culture = swedish
 religion = catholic
 capital = "Mariehamn"
@@ -22,20 +22,20 @@ discovered_by = ottoman
 
 1527.6.1 = { religion = protestant}
 1563.6.7 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Duke Johan is sentenced to death
-1563.8.12 = { revolt = {} controller = SWE } # Åbo falls and Duke Johan is imprisoned.
+1563.8.12 = { revolt = {} controller = Q01 } # Åbo falls and Duke Johan is imprisoned.
 1714.1.1 = { controller = RUS } # The Great Nordic War-Captured by Apraksin
-1718.1.1 = { controller = SWE } # The Peace of Nystad
+1718.1.1 = { controller = Q01 } # The Peace of Nystad
 1742.10.15 = { controller = RUS } # The War of the Hats-Estimated date
-1743.8.7 = { controller = SWE } # The Peace of Åbo
+1743.8.7 = { controller = Q01 } # The Peace of Åbo
 1808.3.28 = { controller = RUS } # Overrun by Russian troops
 1809.9.17 = {
 	owner = RUS
 	add_core = RUS
-	remove_core = SWE
+	remove_core = Q01
 } # Treaty of Fredrikshamn
 
 1444.11.11 = {
-	owner = SWE
-	controller = SWE
-	add_core = SWE
+	owner = Q01
+	controller = Q01
+	add_core = Q01
 }

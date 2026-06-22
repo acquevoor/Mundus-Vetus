@@ -1,8 +1,0 @@
-government = tribal
-add_government_reform = tribal_kingdom
-government_rank = 1
-technology_group = eastern
-religion = catholic
-religious_school = catholic_benedictine
-primary_culture = sapmi
-capital = 18

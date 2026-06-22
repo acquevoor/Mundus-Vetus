@@ -3,7 +3,7 @@
 owner = KYR
 controller = KYR
 add_core = KYR
-culture = kangly
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Yasi"
 trade_goods = grain
@@ -36,6 +36,6 @@ discovered_by = nomad_group
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = kangly
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

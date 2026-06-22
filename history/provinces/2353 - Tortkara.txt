@@ -3,7 +3,7 @@ add_core = TKS
 
 owner = TKS
 controller = TKS
-culture = uzbehk
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Tortkara"
 trade_goods = naval_supplies
@@ -34,6 +34,6 @@ discovered_by = muslim
 	owner = TKS
 	controller = TKS
 	add_core = TKS
-	culture = uzbehk
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

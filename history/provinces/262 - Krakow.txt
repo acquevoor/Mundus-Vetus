@@ -4,8 +4,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = POL
-controller = POL
+owner = Q04
+controller = Q04
 culture = polish
 religion = slavic_pagan
 capital = "Kraków"
@@ -17,7 +17,7 @@ base_manpower = 6
 is_city = yes
 fort_15th = yes
  #Jagiellonian University established in 1364 by Casimir III the Great
-add_core = POL
+add_core = Q04
 add_core = KRA
 discovered_by = KAZ
 discovered_by = CRI
@@ -34,7 +34,7 @@ center_of_trade = 2
 1569.7.1 = {
 	owner = PLC
 	controller = PLC
-	remove_core = POL
+	remove_core = Q04
 	add_core = PLC
 } # Union of Lublin
 1587.1.1 = { unrest = 6 }
@@ -49,9 +49,9 @@ center_of_trade = 2
 1794.11.16 = { unrest = 0 } # The end of the uprising
 1795.10.24 = { owner = HAB controller = HAB add_core = HAB } # Third partition
 1807.7.9 = {
-	owner = POL
-	controller = POL
-	add_core = POL
+	owner = Q04
+	controller = Q04
+	add_core = Q04
 	remove_core = HAB
 } # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
 1815.5.3 = {
@@ -60,8 +60,8 @@ center_of_trade = 2
 } # The Free city of Krakow
 
 1444.11.11 = {
-	owner = POL
-	controller = POL
-	add_core = POL
+	owner = Q04
+	controller = Q04
+	add_core = Q04
 	religion = slavic_pagan
 }

@@ -3,7 +3,7 @@
 owner = HLC
 controller = HLC
 add_core = HLC
-culture = hungarian
+culture = ruthenian
 religion = orthodox
 hre = no
 base_tax = 3
@@ -12,7 +12,7 @@ trade_goods = fur
 base_manpower = 1
 capital = "Przemysl"
 is_city = yes
-add_core = POL
+add_core = Q04
 add_core = VOL
 
 
@@ -31,7 +31,7 @@ discovered_by = muslim
 1569.7.1 = {
 	owner = PLC
 	controller = PLC
-	remove_core = POL
+	remove_core = Q04
 	add_core = PLC
 } # Union of Lublin
 1572.1.1 = { unrest = 6 } # Sigismund II dies
@@ -43,7 +43,7 @@ discovered_by = muslim
 1596.1.1 = { unrest = 0 } 
 1648.1.1 = { revolt = { type = nationalist_rebels size = 0 } controller = REB add_core = ZAZ } # Struggle for liberation, Bogdan Zenon Chmielnicki rebellion
 1654.1.1 = { revolt = {} controller = PLC remove_core = ZAZ }
-1655.1.1 = { controller = SWE } # The Deluge
+1655.1.1 = { controller = Q01 } # The Deluge
 1660.1.1 = { controller = PLC }
 1772.8.5 = {
 	owner = HAB
@@ -56,7 +56,6 @@ discovered_by = muslim
 	owner = HLC
 	controller = HLC
 	add_core = HLC
-	culture = hungarian
 	religion = orthodox
 	trade_goods = fur
 }

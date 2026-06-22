@@ -1,9 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-technology_group = western
-primary_culture = ostersoen
-religion = catholic
-religious_school = catholic_augustinian
-capital = 50	# Berlin
-
-1750.1.1 = { set_legacy_government = constitutional_republic }

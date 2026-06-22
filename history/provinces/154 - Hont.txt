@@ -2,7 +2,7 @@
 
 owner = SLO
 controller = SLO 
-culture = hungarian
+culture = slovak
 religion = catholic
 capital = "Hont"
 trade_goods = gold #Schemnitz / Banská Štiavnica
@@ -65,6 +65,5 @@ discovered_by = QAS
 	owner = SLO
 	controller = SLO
 	add_core = SLO
-	culture = hungarian
 	religion = catholic
 }

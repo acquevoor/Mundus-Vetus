@@ -2,7 +2,7 @@
 
 owner = SLO
 controller = SLO 
-culture = hungarian
+culture = slovak
 religion = catholic
 capital = "Trencin"
 trade_goods = iron
@@ -49,6 +49,5 @@ discovered_by = QAS
 	owner = SLO
 	controller = SLO
 	add_core = SLO
-	culture = hungarian
 	religion = catholic
 }

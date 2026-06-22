@@ -3,7 +3,7 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = khazar
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Sarai"
 trade_goods = wool
@@ -35,6 +35,6 @@ add_province_triggered_modifier = gol_the_tatar_yoke
 	owner = MNC
 	controller = MNC
 	add_core = MNC
-	culture = khazar
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

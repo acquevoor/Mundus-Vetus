@@ -3,7 +3,7 @@ add_core = TKS
 
 owner = TKS
 controller = TKS
-culture = nogai
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Yaik"
 trade_goods = iron
@@ -32,6 +32,6 @@ base_production = 4 base_manpower = 4 } # Pugachev is captured, city renamed
 	owner = TKS
 	controller = TKS
 	add_core = TKS
-	culture = nogai
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

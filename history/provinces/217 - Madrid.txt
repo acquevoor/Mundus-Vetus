@@ -3,7 +3,7 @@ add_core = TLD
 
 owner = TLD		#Juan II of Castille
 controller = TLD
-add_core = CAS
+add_core = Q07
 culture = castillian
 religion = catholic
 hre = no
@@ -32,7 +32,7 @@ discovered_by = ottoman
 1706.8.4 = { controller = SPA } # Troops loyal to Felipe V recover the city
 1710.9.27 = { controller = HAB } # Archduke Carlos takes the city
 1710.11.9 = { controller = SPA } # Archduke Carlos leaves the city due to the pressure of partidaries of Felipe V
-1713.4.11 = { remove_core = CAS }
+1713.4.11 = { remove_core = Q07 }
 1766.3.23 = { unrest = 3 } # Esquilache mutiny
 1766.12.1 = { unrest = 0 } # The King grants a pardon and comes back to Madrid, after the situations has stabilised.
 1808.5.1 = { controller = FRA } # Invaded by the French army

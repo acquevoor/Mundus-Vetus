@@ -1,8 +1,8 @@
 #285 - Kaffa
 
-owner = NAP
-controller = NAP 
-add_core = NAP
+owner = Q15
+controller = Q15 
+add_core = Q15
 culture = pontic_greek
 religion = orthodox
 hre = no
@@ -27,9 +27,9 @@ center_of_trade = 2
 1804.1.1 = { capital = "Feodosiya" } # The city is renamed
 
 1444.11.11 = {
-	owner = NAP
-	controller = NAP
-	add_core = NAP
+	owner = Q15
+	controller = Q15
+	add_core = Q15
 	culture = pontic_greek
 	religion = orthodox
 }

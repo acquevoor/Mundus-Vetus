@@ -3,7 +3,7 @@
 owner = HLC
 controller = HLC
 add_core = HLC
-culture = hungarian
+culture = romanian
 religion = orthodox
 hre = no
 base_tax = 5
@@ -43,7 +43,6 @@ discovered_by = nomad_group
 	owner = HLC
 	controller = HLC
 	add_core = HLC
-	culture = hungarian
 	religion = orthodox
 	trade_goods = livestock
 }

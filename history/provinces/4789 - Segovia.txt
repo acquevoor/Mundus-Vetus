@@ -1,9 +1,9 @@
 #4789 - Segovia
 
-owner = CAS		#Juan II of Castille
-controller = CAS
-add_core = CAS
-culture = basque
+owner = Q07		#Juan II of Castille
+controller = Q07
+add_core = Q07
+culture = castillian
 religion = catholic
 hre = no
 base_tax = 3
@@ -29,7 +29,7 @@ discovered_by = ottoman
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 1520.5.1 = { unrest = 5 } # War of the Comunidades
 1521.4.1 = { unrest = 0 } # The army of the "Comuneros" is defeated at Villalar. Its leaders are promptly beheaded.
-1713.4.11 = { remove_core = CAS }
+1713.4.11 = { remove_core = Q07 }
 1808.6.6 = { revolt = { type = pretender_rebels size = 0 } controller = REB }
 1808.12.1 = { revolt = {} controller = SPA }
 1812.10.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB }
@@ -37,9 +37,8 @@ discovered_by = ottoman
 
 
 1444.11.11 = {
-	owner = CAS
-	controller = CAS
-	add_core = CAS
-	culture = basque
+	owner = Q07
+	controller = Q07
+	add_core = Q07
 	religion = catholic
 }

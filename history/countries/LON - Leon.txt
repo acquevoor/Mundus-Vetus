@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = leonese
-religion = catholic
-religious_school = catholic_dominican
-technology_group = western
-capital = 208 #Leon

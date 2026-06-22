@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = khazar
+primary_culture = kipchak
 religion = sunni
 technology_group = eastern
 capital = 2419 # Kanadey

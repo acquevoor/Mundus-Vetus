@@ -19,9 +19,9 @@ discovered_by = ottoman
 
 #Last of the Ingolstadt Wittelsbachs dies
 1447.5.1 = {
-	owner = LBV
-	controller = LBV
-	add_core = LBV
+	owner = Q10
+	controller = Q10
+	add_core = Q10
 }
 
 #Last of the Landshuter Wittelsbachs dies, Bavaria reunited

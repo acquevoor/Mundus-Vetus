@@ -1,8 +1,8 @@
 # 192 Bourgogne - Principal cities: Dijon
 
-owner = LUX
-controller = LUX 
-add_core = LUX
+owner = Q11
+controller = Q11 
+add_core = Q11
 capital = "Dijon"
 is_city = yes
 culture = burgundian
@@ -37,9 +37,9 @@ center_of_trade = 2
 1773.1.1 = { base_tax = 11 base_production = 11 } # Turgot & the Economical Reforms
 
 1444.11.11 = {
-	owner = LUX
-	controller = LUX
-	add_core = LUX
+	owner = Q11
+	controller = Q11
+	add_core = Q11
 	culture = burgundian
 	religion = catholic
 }

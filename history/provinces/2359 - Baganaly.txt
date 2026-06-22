@@ -3,7 +3,7 @@
 owner = KYR
 controller = KYR
 add_core = KYR
-culture = uzbehk
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Baganaly"
 trade_goods = grain
@@ -32,6 +32,6 @@ discovered_by = ottoman
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = uzbehk
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

@@ -1,9 +1,9 @@
 #4141 - Ditmarschen
 
-owner = DAN
-controller = DAN
+owner = Q00
+controller = Q00
 add_core = DTT
-add_core = DAN
+add_core = Q00
 culture = lower_saxon
 religion = catholic
 hre = yes
@@ -19,10 +19,10 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1532.1.1 = { religion = protestant }
-1559.1.1 = { owner = DAN controller = DAN add_core = DAN add_core = SHL } #The last feud.
+1559.1.1 = { owner = Q00 controller = Q00 add_core = Q00 add_core = SHL } #The last feud.
 1627.5.1 = { controller = HAB }
-1629.5.22 = { controller = DAN }
-1773.1.1 = { owner = DAN controller = DAN }
+1629.5.22 = { controller = Q00 }
+1773.1.1 = { owner = Q00 controller = Q00 }
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 1810.12.13 = {
 	owner = FRA
@@ -30,7 +30,7 @@ discovered_by = ottoman
 	add_core = FRA
 } # Annexed by France
 1814.4.11 = {
-	owner = DAN
-	controller = DAN
+	owner = Q00
+	controller = Q00
 	remove_core = FRA
 } # Napoleon abdicates unconditionally

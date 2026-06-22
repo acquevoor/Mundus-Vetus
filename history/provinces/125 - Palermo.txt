@@ -13,7 +13,7 @@ base_manpower = 3
 capital = "Palermo"
 is_city = yes
 add_core = SIC
-add_core = NAP
+add_core = Q15
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -41,15 +41,15 @@ center_of_trade = 1
 	controller = HAB
 	add_core = HAB
 }
-1734.6.2 = {	owner = NAP
-	controller = NAP
+1734.6.2 = {	owner = Q15
+	controller = Q15
 	remove_core = HAB
 }
 1806.3.11 = {	owner = SIC
 	controller = SIC
 } # Ferdinand flees to Sicily
-1815.5.3 = {	owner = NAP
-	controller = NAP
+1815.5.3 = {	owner = Q15
+	controller = Q15
 } # The Kingdom is restored to Ferdinand
 
 1444.11.11 = {

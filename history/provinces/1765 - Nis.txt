@@ -3,7 +3,7 @@
 owner = WAL
 controller = WAL
 add_core = WAL
-culture = greek
+culture = bulgarian
 religion = orthodox
 capital = "Sofia"
 trade_goods = iron
@@ -39,6 +39,5 @@ discovered_by = nomad_group
 	owner = WAL
 	controller = WAL
 	add_core = WAL
-	culture = greek
 	religion = orthodox
 }

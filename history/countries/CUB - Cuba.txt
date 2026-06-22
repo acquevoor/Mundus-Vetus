@@ -1,6 +1,0 @@
-government = republic
-technology_group = western
-primary_culture = castillian
-religion = catholic
-religious_school = catholic_franciscan
-capital = 484

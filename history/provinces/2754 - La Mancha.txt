@@ -3,7 +3,7 @@ add_core = CRD
 
 owner = CRD		#Juan II of Castille
 controller = CRD
-add_core = CAS
+add_core = Q07
 culture = andalucian
 religion = sunni
 hre = no
@@ -33,7 +33,7 @@ discovered_by = ottoman
 } # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castilla
 1520.5.1 = { unrest = 5 } # War of the Comunidades
 1522.2.3 = { unrest = 0 } # After the defeat of the comuneros at Villalar, Toledo was still able to resist for 9 months.
-1713.4.11 = { remove_core = CAS }
+1713.4.11 = { remove_core = Q07 }
 1808.6.6 = { revolt = { type = pretender_rebels size = 1 } controller = REB }
 1809.1.1 = { revolt = {} controller = SPA }
 1812.10.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB }

@@ -4,7 +4,7 @@ owner = HUE		#Alfons V of Aragon
 controller = HUE
 add_core = HUE
 add_core = ARA
-culture = basque
+culture = aragonese
 religion = catholic
 hre = no
 base_tax = 3 
@@ -34,6 +34,5 @@ fort_15th = yes #Castiello de Lobarre
 	owner = HUE
 	controller = HUE
 	add_core = HUE
-	culture = basque
 	religion = catholic
 }

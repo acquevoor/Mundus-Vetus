@@ -1,8 +1,8 @@
 #274 - Pskov
 
-owner = NOV
-controller = NOV
-add_core = NOV
+owner = Q05
+controller = Q05
+add_core = Q05
 culture = novgorodian
 religion = slavic_pagan
 hre = no
@@ -40,8 +40,8 @@ center_of_trade = 1
 1672.1.1 = { base_tax = 7 base_production = 7 } # Tax revenues increased
 
 1444.11.11 = {
-	owner = NOV
-	controller = NOV
-	add_core = NOV
+	owner = Q05
+	controller = Q05
+	add_core = Q05
 	religion = slavic_pagan
 }

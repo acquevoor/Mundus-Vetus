@@ -10403,17 +10403,12 @@ oghuric = {
 		female_names = { Aysylu Gulnara Suyumbike Altynchach Chulpan Banu }
 		dynasty_names = { Baranjar Bilar Suvar Esegel Almushid }
 	}
-	khazar = {
-		male_names = { Bulan Obadiah Zachariah Benjamin Aaron Joseph Manasseh Nisi Menahem Tarkhan Bagatur Bihar Karadach Pesakh Alp }
-		female_names = { Sarah Serakh Atika Chichak Parsbit }
-		dynasty_names = { Ashina Bulanid Tarkhan }
-	}
 }
 
-oghuz = {
+kipchak_group = {
 	graphical_culture = muslimgfx
 
-	oghuz_turk = {
+	oghuz = {
 		male_names = { Oghuz Tughrul Chaghri Arslan Seljuk Bayindir Salur Yazir Afshar Begdili Igdir Bugduz Yiva Kayi Bayat Dukak Mikail Israil Yabghu Korkut }
 		female_names = { Banu Chichek Selcan Aybuke Gokce Burla }
 		dynasty_names = { Kinik Kayi Bayat Salur Afshar Bayindir }
@@ -10422,6 +10417,11 @@ oghuz = {
 		male_names = { Kurya Tyrach Kegen Baltchar Talmat Kuel Sur Boru Yula Kulbey Kara Bay Suru Ertem Vorotalmat }
 		female_names = { Boila Kuman Targu }
 		dynasty_names = { Iabdiertim Kuartzitzur Khabuksingila Suru }
+	}
+	kipchak = {
+		male_names = { Bulan Obadiah Zachariah Benjamin Aaron Joseph Manasseh Nisi Menahem Tarkhan Bagatur Bihar Karadach Pesakh Alp }
+		female_names = { Sarah Serakh Atika Chichak Parsbit }
+		dynasty_names = { Ashina Bulanid Tarkhan }
 	}
 }
 

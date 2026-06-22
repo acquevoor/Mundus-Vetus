@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = roman
-religion = catholic
-religious_school = catholic_franciscan
-technology_group = western
-capital = 118 # Rome

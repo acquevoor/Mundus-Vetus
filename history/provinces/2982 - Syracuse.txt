@@ -13,7 +13,7 @@ base_manpower = 2
 capital = "Syracusa"
 is_city = yes
 add_core = SIC
-add_core = NAP
+add_core = Q15
 
 
 
@@ -42,8 +42,8 @@ discovered_by = ottoman
 	add_core = HAB
 }
 1734.6.2 = {
-	owner = NAP
-	controller = NAP
+	owner = Q15
+	controller = Q15
 	remove_core = HAB
 }
 1806.3.11 = {
@@ -51,8 +51,8 @@ discovered_by = ottoman
 	controller = SIC
 } # Ferdinand flees to Sicily
 1815.5.3 = {
-	owner = NAP
-	controller = NAP
+	owner = Q15
+	controller = Q15
 } # The Kingdom is restored to Ferdinand
 
 1444.11.11 = {

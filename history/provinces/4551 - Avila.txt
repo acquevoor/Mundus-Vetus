@@ -3,7 +3,7 @@ add_core = TLD
 
 owner = TLD		#Juan II of Castille
 controller = TLD
-add_core = CAS
+add_core = Q07
 culture = castillian
 religion = catholic
 hre = no
@@ -30,7 +30,7 @@ discovered_by = ottoman
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 1520.5.1 = { unrest = 5 } # War of the Comunidades
 1521.4.1 = { unrest = 0 } # The army of the "Comuneros" is defeated at Villalar. Its leaders are promptly beheaded.
-1713.4.11 = { remove_core = CAS }
+1713.4.11 = { remove_core = Q07 }
 1808.6.6 = { revolt = { type = pretender_rebels size = 1 } controller = REB }
 1808.12.1 = { revolt = {} controller = SPA }
 1812.7.26 = { revolt = { type = pretender_rebels size = 1 } controller = REB }

@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = naiman
+primary_culture = kipchak
 religion = tengri_pagan_reformed
 technology_group = nomad_group
 capital = 1066 # Kyrgyzstan

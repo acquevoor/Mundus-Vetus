@@ -3,7 +3,7 @@ add_core = SKP
 
 owner = SKP
 controller = SKP
-culture = greek
+culture = bulgarian
 religion = orthodox
 capital = "Ohrid"
 trade_goods = wool
@@ -35,6 +35,5 @@ discovered_by = nomad_group
 	owner = SKP
 	controller = SKP
 	add_core = SKP
-	culture = greek
 	religion = orthodox
 }

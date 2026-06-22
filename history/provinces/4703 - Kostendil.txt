@@ -1,7 +1,7 @@
 owner = WAL
 controller = WAL
 add_core = WAL
-culture = greek
+culture = bulgarian
 religion = orthodox
 capital = "Kostendil"
 trade_goods = copper
@@ -24,6 +24,5 @@ discovered_by = nomad_group
 	owner = WAL
 	controller = WAL
 	add_core = WAL
-	culture = greek
 	religion = orthodox
 }

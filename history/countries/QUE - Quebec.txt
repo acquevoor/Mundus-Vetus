@@ -1,6 +1,0 @@
-government = republic
-religion = catholic
-religious_school = catholic_franciscan
-primary_culture = quebecois
-technology_group = western
-capital = 986	# Quebec city

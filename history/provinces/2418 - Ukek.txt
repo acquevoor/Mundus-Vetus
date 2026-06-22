@@ -3,7 +3,7 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = khazar
+culture = kipchak
 religion = tengri_pagan_reformed
 hre = no
 base_tax = 2 
@@ -48,6 +48,6 @@ base_production = 9 } #german colonists on Volga
 	owner = MNC
 	controller = MNC
 	add_core = MNC
-	culture = khazar
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

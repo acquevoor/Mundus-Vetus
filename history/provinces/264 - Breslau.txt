@@ -1,8 +1,8 @@
 #264 - Breslau (Breslau+Brieg+Öls+Wartenberg+Wohlau/Steinau)
 
-owner = POL
-controller = POL
-add_core = POL
+owner = Q04
+controller = Q04
+add_core = Q04
 culture = schlesian
 religion = slavic_pagan
 capital = "Breslau"
@@ -50,8 +50,8 @@ base_production = 8 base_manpower = 13 }
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = POL
-	controller = POL
-	add_core = POL
+	owner = Q04
+	controller = Q04
+	add_core = Q04
 	religion = slavic_pagan
 }

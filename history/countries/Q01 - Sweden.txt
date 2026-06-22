@@ -1,0 +1,60 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+unit_type = western
+primary_culture = swedish
+religion = catholic
+religious_school = catholic_benedictine
+add_accepted_culture = finnish
+capital = 1	#Stockholm
+
+national_focus = MIL
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -6
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	
+
+	
+
+	
+
+	
+	
+
+ # Parliament of Verster�s
+
+		
+
+#
+
+ 
+
+# # Removed /SW�
+
+# # Removed /SW�
+
+# # The Court of Appeals
+
+#
+
+# # Removed /SW�
+
+# # Removed /SW�

@@ -4,7 +4,7 @@ owner = KNA
 controller = KNA
 add_core = KNA
 capital = "Kazan"
-culture = khazar
+culture = kipchak
 religion = sunni
 trade_goods = grain
 hre = no
@@ -33,6 +33,6 @@ center_of_trade = 2
 	owner = KNA
 	controller = KNA
 	add_core = KNA
-	culture = khazar
+	culture = kipchak
 	religion = sunni
 }

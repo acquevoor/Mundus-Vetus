@@ -3,7 +3,7 @@ owner = KYR
 controller = KYR
 add_core = KYR
 
-culture = uzbehk
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Barnaul"
 trade_goods = unknown
@@ -34,7 +34,7 @@ is_city = yes
 	owner = RUS
 	controller = RUS
 	religion = orthodox
-	culture = russian
+	culture = kipchak
 }
 1623.1.1 = { add_core = RUS }
 
@@ -42,6 +42,6 @@ is_city = yes
 	owner = KYR
 	controller = KYR
 	add_core = KYR
-	culture = uzbehk
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

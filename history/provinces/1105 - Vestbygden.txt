@@ -1,7 +1,7 @@
 #1105 - Vestbygden
-owner = NOR
-controller = NOR
-add_core = NOR
+owner = Q16
+controller = Q16
+add_core = Q16
 
 culture = inuit
 religion = norse_pagan_reformed
@@ -22,9 +22,9 @@ is_city = yes
 1720.1.1 = { discovered_by = DAN }
 
 1721.1.1 = {
-	owner = DAN
-	controller = DAN
-	add_core = DAN
+	owner = Q00
+	controller = Q00
+	add_core = Q00
 	culture = danish
 	trade_goods = fur
 	religion = protestant
@@ -32,8 +32,8 @@ is_city = yes
 }
 
 1444.11.11 = {
-	owner = NOR
-	controller = NOR
-	add_core = NOR
+	owner = Q16
+	controller = Q16
+	add_core = Q16
 	religion = norse_pagan_reformed
 }

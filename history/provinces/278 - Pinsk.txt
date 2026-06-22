@@ -12,7 +12,7 @@ trade_goods = wool
 base_manpower = 1
 capital = "Pinsk"
 is_city = yes
-add_core = LIT
+add_core = Q03
 
 
 

@@ -2,7 +2,7 @@
 
 owner = ALB
 controller = ALB
-culture = greek
+culture = albanian
 religion = catholic
 capital = "Krujë"
 trade_goods = wool
@@ -37,6 +37,5 @@ discovered_by = western
 	owner = ALB
 	controller = ALB
 	add_core = ALB
-	culture = greek
 	religion = catholic
 }

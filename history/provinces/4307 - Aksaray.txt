@@ -3,7 +3,7 @@
 owner = CIS
 controller = CIS
 add_core = CIS
-culture = oghuz_turk
+culture = oghuz
 religion = sunni
 capital = "Aksaray"
 trade_goods = livestock
@@ -36,6 +36,6 @@ base_production = 1 } # The decentralizing effect of the provincial system
 	owner = CIS
 	controller = CIS
 	add_core = CIS
-	culture = oghuz_turk
+	culture = oghuz
 	religion = sunni
 }

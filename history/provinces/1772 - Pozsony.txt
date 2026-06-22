@@ -2,7 +2,7 @@
 
 owner = SLO
 controller = SLO
-culture = hungarian
+culture = slovak
 religion = catholic
 capital = "Pressburg"
 trade_goods = grain
@@ -49,6 +49,5 @@ center_of_trade = 1
 	owner = SLO
 	controller = SLO
 	add_core = SLO
-	culture = hungarian
 	religion = catholic
 }

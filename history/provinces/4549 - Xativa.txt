@@ -5,7 +5,7 @@ owner = ZRG		#Martí I of Aragon
 controller = ZRG
 add_core = ARA
 add_core = VAL
-culture = basque
+culture = catalan
 religion = catholic
 hre = no
 base_tax = 4
@@ -45,6 +45,5 @@ discovered_by = ottoman
 	owner = ZRG
 	controller = ZRG
 	add_core = ZRG
-	culture = basque
 	religion = catholic
 }
