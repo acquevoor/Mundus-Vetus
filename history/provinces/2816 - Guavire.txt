@@ -1,7 +1,4 @@
 # - Guaviare
-owner = SAK
-controller = SAK
-add_core = SAK
 
 culture = guajiro
 
@@ -49,8 +46,3 @@ is_city = yes
 	remove_core = SPA
 } # The establishment of Gran Colombia
 
-1444.11.11 = {
-	owner = SAK
-	controller = SAK
-	add_core = SAK
-}

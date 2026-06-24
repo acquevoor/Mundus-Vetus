@@ -1,8 +1,8 @@
 #Ostrov
 
-owner = Q05
-controller = Q05
-add_core = Q05
+owner = PSK
+controller = PSK
+add_core = PSK
 culture = novgorodian
 religion = orthodox
 hre = no
@@ -29,7 +29,7 @@ discovered_by = eastern
 1613.3.3 = { unrest = 0 } # Order returned, Romanov dynasty
 
 1444.11.11 = {
-	owner = Q05
-	controller = Q05
-	add_core = Q05
+	owner = PSK
+	controller = PSK
+	add_core = PSK
 }

@@ -1,8 +1,8 @@
 #308 - Yaroslavl
 
-owner = TVE
-controller = TVE
-add_core = TVE
+owner = YAR
+controller = YAR
+add_core = YAR
 culture = russian
 religion = orthodox
 hre = no 
@@ -38,7 +38,7 @@ center_of_trade = 1
 1767.1.1 = { base_tax = 6 base_production = 6 } # Legislative reforms
 
 1444.11.11 = {
-	owner = TVE
-	controller = TVE
-	add_core = TVE
+	owner = YAR
+	controller = YAR
+	add_core = YAR
 }

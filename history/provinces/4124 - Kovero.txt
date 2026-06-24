@@ -1,9 +1,5 @@
 #4124 - North Karelia
 
-owner = KRL
-controller = KRL
-add_core = Q05
-add_core = KRL
 culture = karelian
 religion = orthodox
 hre = no
@@ -16,18 +12,12 @@ is_city = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
+owner = U07
+controller = U07
 
 1478.1.15 = {
-	owner = MOS
-	controller = MOS
-	add_core = MOS
-	remove_core = Q05
 } # Muscovite annexation of Novgorod
 1503.4.1 = {
-	owner = RUS
-	controller = RUS 
-	add_core = RUS 
-	remove_core = MOS 
 } # Muscovy becomes Russia
 1580.11.4 = { controller = Q01 } # Livonian War
 1583.8.10 = { owner = Q01 add_core = Q01 } # The Armistice of Plussa
@@ -36,12 +26,15 @@ discovered_by = nomad_group
 1617.2.27 = { owner = Q01 add_core = Q01 remove_core = RUS } # The Peace of Stolbova
 1710.9.8 = { controller = RUS } # The Great Nordic War-Captured Keksholm
 1721.8.30 = {
-	owner = RUS
-	add_core = RUS remove_core = Q01 
 } # The Peace of Nystad
 
 1444.11.11 = {
-	owner = KRL
-	controller = KRL
-	add_core = KRL
+}
+add_core = U07
+1444.11.11 = {
+	owner = U07
+	controller = U07
+	add_core = U07
+	culture = karelian
+	religion = orthodox
 }

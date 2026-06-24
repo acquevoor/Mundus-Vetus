@@ -1,10 +1,7 @@
 #1778 - Kasimov
 
-owner = KNA
-controller = KNA
-add_core = KNA
 culture = mishary
-religion = sunni
+religion = vajrayana
 hre = no
 base_tax = 4 
 base_production = 4
@@ -12,11 +9,12 @@ trade_goods = livestock
 base_manpower = 5
 capital = "Novy Nizovoy"
 is_city = yes
-add_core = MOS
 discovered_by = eastern
 discovered_by = western
 discovered_by = GOL
 discovered_by = nomad_group
+owner = U02
+controller = U02
 
 
 1444.1.1 = { add_core = QAS capital = "Kasimov" }
@@ -31,7 +29,12 @@ base_production = 7 } # Governmental reforms and the absolutism
 base_production = 8 } # Legislative reform
 
 1444.11.11 = {
-	owner = KNA
-	controller = KNA
-	add_core = KNA
+}
+add_core = U02
+1444.11.11 = {
+	owner = U02
+	controller = U02
+	add_core = U02
+	culture = mishary
+	religion = vajrayana
 }

@@ -1,9 +1,6 @@
 # 4392 Burgundian Auxerrois - Principal cities: Semur, Auxerre, Tonnerre.
 # Also includes much of Langres.
 
-owner = Q11
-controller = Q11 
-add_core = Q11
 capital = "Semur"
 is_city = yes
 culture = burgundian
@@ -13,12 +10,13 @@ base_tax = 4
 base_production = 4
 trade_goods = wine
 base_manpower = 3
-add_core = BUR
 fort_15th = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+owner = U12
+controller = U12
 
 
 1477.1.5 = { owner = FRA controller = FRA add_core = FRA } # Charles the Bold dies and transfers Bourgogne to France
@@ -36,7 +34,12 @@ discovered_by = ottoman
 1652.10.21 = { unrest = 0 } # The King is allowed to enter Paris again, Mazarin leaves France for good. Second Fronde over.
 
 1444.11.11 = {
-	owner = Q11
-	controller = Q11
-	add_core = Q11
+}
+add_core = U12
+1444.11.11 = {
+	owner = U12
+	controller = U12
+	add_core = U12
+	culture = burgundian
+	religion = catholic
 }

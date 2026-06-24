@@ -1,11 +1,7 @@
 #Savolaks, incl. Nyslott(Olofsborg).
 
-owner = FIN
-controller = FIN
-add_core = Q01
-add_core = FIN
 culture = finnish
-religion = catholic
+religion = orthodox
 hre = no
 base_tax = 1 
 base_production = 1
@@ -16,6 +12,8 @@ is_city = yes
 #fort_15th = yes
 discovered_by = western
 discovered_by = eastern
+owner = U07
+controller = U07
 
 
 1497.3.13 = { controller = Q00 } # Danish loyalists at Danish DoW
@@ -33,13 +31,15 @@ discovered_by = eastern
 1743.8.7 = { controller = Q01 } # The Peace of Åbo
 1808.2.21 = { controller = RUS } # Conquered by Friedrich Wilhelm von Buxhoevden
 1809.9.17 = {
-	owner = RUS
-	add_core = RUS
-	remove_core = Q01
 } # Treaty of Fredrikshamn
 
 1444.11.11 = {
-	owner = FIN
-	controller = FIN
-	add_core = FIN
+}
+add_core = U07
+1444.11.11 = {
+	owner = U07
+	controller = U07
+	add_core = U07
+	culture = finnish
+	religion = orthodox
 }

@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = kazani
+religion = vajrayana
+technology_group = eastern
+capital = 2422
+
+1444.11.11 = {
+	monarch = {
+		name = "Anvar I"
+		dynasty = "Isxaqi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

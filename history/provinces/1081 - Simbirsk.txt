@@ -1,29 +1,23 @@
 #1081 - Simbirsk
 
-owner = KNA
-controller = KNA
-add_core = KNA
 capital = "Bolgar"
-culture = kazani
-religion = sunni
+culture = bulgar
+religion = vajrayana
 trade_goods = iron
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = KAZ
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 discovered_by = ottoman
+owner = U11
+controller = U11
 
 
 1552.10.2 = {
-	owner = RUS
-	controller = RUS
-	add_core = RUS
-	remove_core = KAZ 
 } # Russian conquest of Kazan
 1648.1.1 = {
 	capital = "Simbirsk" 
@@ -34,7 +28,12 @@ discovered_by = ottoman
 1775.2.1 = { revolt = {} controller = RUS unrest = 0 } # Pugachev is captured
 
 1444.11.11 = {
-	owner = KNA
-	controller = KNA
-	add_core = KNA
+}
+add_core = U11
+1444.11.11 = {
+	owner = U11
+	controller = U11
+	add_core = U11
+	culture = bulgar
+	religion = vajrayana
 }

@@ -1,10 +1,7 @@
 #2419 - Kanadey
 
-owner = KNA
-controller = KNA
-add_core = KNA
-culture = kazani
-religion = sunni
+culture = bulgar
+religion = vajrayana
 hre = no
 base_tax = 2 
 base_production = 2
@@ -12,19 +9,16 @@ trade_goods = livestock
 base_manpower = 2
 capital = "Kanadey"
 is_city = yes
-add_core = KAZ
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
+owner = U11
+controller = U11
 
 
 1552.10.2 = {
-	owner = RUS
-	controller = RUS 
-	add_core = RUS 
-	remove_core = KAZ
 } # Russian conquest of Kazan
 1641.1.1 = { religion = orthodox culture = russian capital = "Syzran" }
 1670.3.1 = { revolt = { type = anti_tax_rebels size = 2 name = "Stepan Razin" } controller = REB unrest = 6 } # Razin rebellion
@@ -33,7 +27,12 @@ discovered_by = nomad_group
 1775.2.1 = { revolt = {} controller = RUS unrest = 0 } # Pugachev is captured
 
 1444.11.11 = {
-	owner = KNA
-	controller = KNA
-	add_core = KNA
+}
+add_core = U11
+1444.11.11 = {
+	owner = U11
+	controller = U11
+	add_core = U11
+	culture = bulgar
+	religion = vajrayana
 }

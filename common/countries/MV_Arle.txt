@@ -1,0 +1,28 @@
+graphical_culture = westerngfx
+
+color = { 179 16 4 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Bourguigne I" = 100
+}
+
+leader_names = {
+	de La Croix
+}
+
+ship_names = {
+	Bourgogne
+}

@@ -1,11 +1,7 @@
 #4152 - Kuusamo incl Maanselkä and Kitka
 
-owner = SMI
-controller = SMI
-add_core = Q01
-add_core = SMI
 culture = sapmi
-religion = catholic
+religion = orthodox
 hre = no
 base_tax = 1 
 base_production = 1
@@ -16,6 +12,8 @@ capital = "Maanselkä"
 is_city = yes
 discovered_by = eastern
 discovered_by = western
+owner = U07
+controller = U07
 
 1527.6.1 = { religion = protestant}
 1598.8.1 = { controller = PLC } # Sigismund tries to reconquer his crown
@@ -29,13 +27,15 @@ discovered_by = western
 1743.8.7 = { controller = Q01 } # The Peace of Åbo
 1808.9.14 = { controller = RUS } # The Swedish forces are defeated at the battle Oravais
 1809.9.17 = {
-	owner = RUS
-	add_core = RUS
-	remove_core = Q01
 } # Treaty of Fredrikshamn
 
 1444.11.11 = {
-	owner = SMI
-	controller = SMI
-	add_core = SMI
+}
+add_core = U07
+1444.11.11 = {
+	owner = U07
+	controller = U07
+	add_core = U07
+	culture = sapmi
+	religion = orthodox
 }

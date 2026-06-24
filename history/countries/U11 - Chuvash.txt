@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = bulgar
+religion = vajrayana
+technology_group = eastern
+capital = 1081
+
+1444.11.11 = {
+	monarch = {
+		name = "Ildus I"
+		dynasty = "Yusupow"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

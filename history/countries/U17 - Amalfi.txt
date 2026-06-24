@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = neapolitan
+religion = catholic
+technology_group = western
+capital = 2983
+
+1444.11.11 = {
+	monarch = {
+		name = "Nestore I"
+		dynasty = "Allucingolli"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

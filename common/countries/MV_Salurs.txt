@@ -1,0 +1,28 @@
+graphical_culture = easterngfx
+
+color = { 255 36 0 }
+
+revolutionary_colors = { 1 1 1 }
+
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	quality_ideas
+	trade_ideas
+	innovativeness_ideas
+}
+
+monarch_names = {
+	"Parand I" = 100
+}
+
+leader_names = {
+	Haji Chalabi
+}
+
+ship_names = {
+	Azerbaijan
+}

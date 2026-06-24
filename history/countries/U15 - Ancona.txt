@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = umbrian
+religion = catholic
+technology_group = western
+capital = 119
+
+1444.11.11 = {
+	monarch = {
+		name = "Bartolomeo I"
+		dynasty = "di Lucca"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

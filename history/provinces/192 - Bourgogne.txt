@@ -1,8 +1,5 @@
 # 192 Bourgogne - Principal cities: Dijon
 
-owner = Q11
-controller = Q11 
-add_core = Q11
 capital = "Dijon"
 is_city = yes
 culture = burgundian
@@ -12,7 +9,6 @@ base_tax = 7
 base_production = 7
 trade_goods = wine
 base_manpower = 6
-add_core = BUR
 #fort_15th = yes
 discovered_by = eastern
 discovered_by = western
@@ -20,6 +16,8 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 16
 center_of_trade = 2
+owner = U12
+controller = U12
 
 1477.1.5 = { owner = FRA controller = FRA add_core = FRA } # Charles the Bold dies and transfers Bourgogne to France
 1526.1.14 = { add_core = HAB } # Treaty of Madrid, Austria claims Burgundy, but François I refuses to hand it over subsequently
@@ -37,7 +35,12 @@ center_of_trade = 2
 1773.1.1 = { base_tax = 11 base_production = 11 } # Turgot & the Economical Reforms
 
 1444.11.11 = {
-	owner = Q11
-	controller = Q11
-	add_core = Q11
+}
+add_core = U12
+1444.11.11 = {
+	owner = U12
+	controller = U12
+	add_core = U12
+	culture = burgundian
+	religion = catholic
 }

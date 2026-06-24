@@ -1,12 +1,8 @@
 #East Karelia
 
-owner = Q05
-controller = Q05 
 capital = "Kem"
 culture = karelian
 religion = orthodox
-add_core = Q05
-add_core = KRL
 hre = no
 is_city = yes
 base_tax = 1 
@@ -20,12 +16,19 @@ discovered_by = western
 discovered_by = eastern
 
 add_local_autonomy = 25
+owner = U07
+controller = U07
 
 1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = Q05 }
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
 
 1444.11.11 = {
-	owner = Q05
-	controller = Q05
-	add_core = Q05
+}
+add_core = U07
+1444.11.11 = {
+	owner = U07
+	controller = U07
+	add_core = U07
+	culture = karelian
+	religion = orthodox
 }

@@ -1,0 +1,32 @@
+#119 - Ancona
+
+culture = umbrian 
+religion = catholic 
+hre = no 
+base_tax = 5 
+base_production = 5    
+trade_goods = paper
+base_manpower = 4    
+capital = "Ancona" 
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+owner = U15
+controller = U15
+
+
+1750.1.1 = { add_core = ITA }
+1805.12.26 = {
+} # Treaty of Pressburg
+1814.4.11 = {
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+add_core = U15
+1444.11.11 = {
+	owner = U15
+	controller = U15
+	add_core = U15
+	culture = umbrian
+	religion = catholic
+}

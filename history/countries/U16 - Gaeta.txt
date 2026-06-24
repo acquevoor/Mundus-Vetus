@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = umbrian
+religion = catholic
+technology_group = western
+capital = 4732
+
+1444.11.11 = {
+	monarch = {
+		name = "Adalgisa I"
+		dynasty = "Sturzo"
+		adm = 2
+		dip = 2
+		mil = 2
+		female = yes
+	}
+}

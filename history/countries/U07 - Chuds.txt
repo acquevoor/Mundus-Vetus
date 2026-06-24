@@ -1,17 +1,16 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = kipchak
-religion = sunni
+primary_culture = karelian
+religion = orthodox
 technology_group = eastern
-capital = 2419 # Kanadey
+capital = 4124
 
 1444.11.11 = {
 	monarch = {
-		name = "Chichak I"
-		dynasty = "Bulanid"
+		name = "Irter I"
+		dynasty = "nodynasty"
 		adm = 2
 		dip = 2
 		mil = 2
-		female = yes
 	}
 }

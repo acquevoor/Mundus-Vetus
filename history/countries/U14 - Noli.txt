@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = ligurian
+religion = catholic
+technology_group = western
+capital = 2992
+
+1444.11.11 = {
+	monarch = {
+		name = "Manfredo I"
+		dynasty = "Zorzi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = uralic
+religion = tengri_pagan_reformed
+technology_group = eastern
+capital = 305
+
+1444.11.11 = {
+	monarch = {
+		name = "Danil I"
+		dynasty = "Rategid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
