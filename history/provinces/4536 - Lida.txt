@@ -2,7 +2,7 @@
 
 owner = Q03
 controller = Q03
-religion = catholic
+religion = baltic_pagan
 culture = lithuanian
 capital = "Lyda"
 trade_goods = livestock

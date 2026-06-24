@@ -3,7 +3,7 @@
 owner = Q05
 controller = Q05
 culture = novgorodian
-religion = orthodox
+religion = slavic_pagan
 hre = no
 base_tax = 2
 base_production = 2

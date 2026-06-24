@@ -3,7 +3,7 @@
 owner = Q03
 controller = Q03
 culture = lithuanian
-religion = catholic
+religion = baltic_pagan
 capital = "Varniai"
 trade_goods = livestock
 hre = no

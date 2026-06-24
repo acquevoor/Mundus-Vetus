@@ -3,7 +3,7 @@
 owner = Q04
 controller = Q04
 culture = polish
-religion = catholic
+religion = slavic_pagan
 capital = "Gniezno"
 trade_goods = cloth
 hre = no

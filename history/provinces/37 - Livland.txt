@@ -3,7 +3,7 @@
 owner = Q02
 controller = Q02
 culture = latvian
-religion = catholic
+religion = baltic_pagan
 capital = "Fellin"
 trade_goods = livestock
 hre = no
