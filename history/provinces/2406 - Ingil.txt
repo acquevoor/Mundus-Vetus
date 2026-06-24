@@ -3,7 +3,7 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = ruthenian
+culture = kipchak
 religion = orthodox
 hre = no
 base_tax = 1

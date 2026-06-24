@@ -1,7 +1,7 @@
 #2427 - Ostyaki
 
 capital = "Beloyarskiy"
-culture = ostyaki
+culture = kipchak
 religion = tengri_pagan_reformed
 trade_goods = fur
 hre = no

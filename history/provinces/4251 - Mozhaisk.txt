@@ -1,6 +1,6 @@
 #4251 - Mozhaisk
 
-culture = russian
+culture = volga_finnic
 religion = orthodox
 hre = no
 base_tax = 3

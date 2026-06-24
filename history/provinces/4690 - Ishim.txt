@@ -1,6 +1,6 @@
 # 4690 - Ishim
 
-culture = siberian
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Ishim"
 trade_goods = fur

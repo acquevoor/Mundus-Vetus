@@ -1,6 +1,6 @@
 #1956 - Suzdal
 
-culture = russian
+culture = volga_finnic
 religion = vajrayana
 hre = no
 base_tax = 4

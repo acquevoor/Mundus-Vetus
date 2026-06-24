@@ -3,7 +3,7 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = dagestani
+culture = kipchak
 religion = sunni
 capital = "Mozdok"
 trade_goods = livestock

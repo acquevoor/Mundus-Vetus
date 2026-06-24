@@ -1,6 +1,6 @@
 #4688 - Baraba
 
-culture = kirgiz
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Baraba"
 trade_goods = livestock

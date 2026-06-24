@@ -3,7 +3,7 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = astrakhani
+culture = kipchak
 religion = sunni
 hre = no
 base_tax = 3

@@ -1,6 +1,6 @@
 #473 - Samara
 
-culture = kazani
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Samara"
 trade_goods = livestock

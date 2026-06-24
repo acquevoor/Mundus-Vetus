@@ -1,6 +1,6 @@
 # 2369 - Upper Ishim, formerly Lower Ishim
 
-culture = khazak
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Zhanibek"
 trade_goods = iron

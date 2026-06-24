@@ -1,6 +1,6 @@
 #4254 - Starodub
 
-culture = russian
+culture = volga_finnic
 religion = vajrayana
 hre = no
 base_tax = 3

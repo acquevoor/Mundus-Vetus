@@ -1,6 +1,6 @@
 #1071 - Tara
 
-culture = siberian
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Tara"
 trade_goods = fur

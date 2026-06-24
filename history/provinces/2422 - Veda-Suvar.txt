@@ -1,6 +1,6 @@
 #2422 - Veda-Suvar
 
-culture = kazani
+culture = volga_finnic
 religion = vajrayana
 capital = "Veda-Suvar"
 trade_goods = grain

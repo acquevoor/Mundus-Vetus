@@ -1,6 +1,6 @@
 #2419 - Kanadey
 
-culture = bulgar
+culture = volga_finnic
 religion = vajrayana
 hre = no
 base_tax = 2 

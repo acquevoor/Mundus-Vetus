@@ -1,7 +1,7 @@
 #1075 - Tyumen
 
 capital = "Chimgi-Tura"
-culture = siberian
+culture = kipchak
 religion = tengri_pagan_reformed
 trade_goods = fur
 hre = no

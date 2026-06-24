@@ -1,7 +1,7 @@
 #1082 - Kazan
 
 capital = "Kazan"
-culture = kazani
+culture = volga_finnic
 religion = vajrayana
 trade_goods = grain
 hre = no

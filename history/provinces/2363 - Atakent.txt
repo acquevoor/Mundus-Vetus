@@ -3,7 +3,7 @@
 owner = TSK
 controller = TSK
 add_core = TSK
-culture = khazak
+culture = turco_iranian
 religion = sunni
 capital = "Atakent"
 trade_goods = livestock

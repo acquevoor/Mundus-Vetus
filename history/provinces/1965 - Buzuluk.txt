@@ -1,6 +1,6 @@
 #1965 - Buzuluk
 
-culture = nogaybak
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Buzuluk"
 trade_goods = iron

@@ -3,7 +3,7 @@ add_core = TKS
 
 owner = TKS
 controller = TKS
-culture = khazak
+culture = kipchak
 religion = sunni
 capital = "Tortkara"
 trade_goods = naval_supplies

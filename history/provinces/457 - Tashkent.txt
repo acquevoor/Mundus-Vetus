@@ -3,7 +3,7 @@
 owner = TSK
 controller = TSK
 add_core = TSK
-culture = uzbehk
+culture = turco_iranian
 religion = sunni
 capital = "Tashkent"
 trade_goods = grain

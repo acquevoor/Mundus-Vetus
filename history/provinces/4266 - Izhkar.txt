@@ -1,7 +1,7 @@
 #4266 - Izhkar
 
 capital = "Izhkar"
-culture = uralic
+culture = volga_finnic
 religion = tengri_pagan_reformed #Sami Shamanism
 trade_goods = iron
 hre = no

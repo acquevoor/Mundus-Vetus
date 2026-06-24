@@ -1,6 +1,6 @@
 #Ust-Sysolsk
 
-culture = uralic
+culture = volga_finnic
 religion = tengri_pagan_reformed
 hre = no
 base_tax = 1 

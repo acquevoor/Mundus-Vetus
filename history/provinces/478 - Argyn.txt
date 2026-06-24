@@ -3,7 +3,7 @@
 owner = KYR
 controller = KYR
 add_core = KYR
-culture = khazak
+culture = kipchak
 religion = sunni
 capital = "Argyn"
 trade_goods = wool

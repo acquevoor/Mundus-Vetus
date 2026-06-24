@@ -1,6 +1,6 @@
 #4689 - Om
 
-culture = siberian
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Om"
 trade_goods = fur

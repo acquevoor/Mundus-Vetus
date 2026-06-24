@@ -1,6 +1,6 @@
 #4264 - Tetyushi
 
-culture = kazani
+culture = volga_finnic
 religion = vajrayana
 capital = "Tetyushi"
 trade_goods = grain

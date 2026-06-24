@@ -3,7 +3,7 @@ add_core = TKS
 
 owner = TKS
 controller = TKS
-culture = turkmeni
+culture = kipchak
 religion = sunni
 capital = "Gurganj"
 trade_goods = wool

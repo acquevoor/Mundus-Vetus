@@ -3,7 +3,7 @@ add_core = TKS
 
 owner = TKS
 controller = TKS
-culture = nogaybak
+culture = kipchak
 religion = sunni
 capital = "Saraychik"
 trade_goods = salt

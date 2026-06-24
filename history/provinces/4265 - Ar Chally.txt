@@ -1,6 +1,6 @@
 #2421 - Ar-Chally
 
-culture = kazani
+culture = kipchak
 religion = tengri_pagan_reformed
 hre = no
 base_tax = 2 

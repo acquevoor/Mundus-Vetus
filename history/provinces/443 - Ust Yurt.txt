@@ -2,7 +2,7 @@
 
 owner = TKS
 controller = TKS
-culture = nogaybak
+culture = kipchak
 religion = sunni
 capital = "Ust Yurt"
 trade_goods = livestock

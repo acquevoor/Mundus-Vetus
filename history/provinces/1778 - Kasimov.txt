@@ -1,6 +1,6 @@
 #1778 - Kasimov
 
-culture = mishary
+culture = volga_finnic
 religion = vajrayana
 hre = no
 base_tax = 4 

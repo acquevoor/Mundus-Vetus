@@ -2,7 +2,7 @@
 
 owner = TRS
 controller = TRS
-culture = uzbehk
+culture = turco_iranian
 religion = sunni
 capital = "Qarshi"
 trade_goods = cotton

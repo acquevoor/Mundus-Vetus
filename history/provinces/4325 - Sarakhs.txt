@@ -3,7 +3,7 @@ add_core = QTL
 
 owner = QTL
 controller = QTL
-culture = khorasani
+culture = turco_iranian
 religion = sunni
 capital = "Sarakhs"
 trade_goods = wool

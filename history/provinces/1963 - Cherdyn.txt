@@ -1,7 +1,7 @@
 #Cherdyn
 
 capital = "Cherdyn"
-culture = uralic
+culture = volga_finnic
 religion = tengri_pagan_reformed #Sami Shamanism
 trade_goods = salt
 hre = no

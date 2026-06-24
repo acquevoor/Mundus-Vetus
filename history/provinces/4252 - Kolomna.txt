@@ -1,6 +1,6 @@
 #4252 - Kolomna
 
-culture = russian
+culture = volga_finnic
 religion = orthodox
 hre = no
 base_tax = 2

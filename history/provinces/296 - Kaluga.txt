@@ -1,6 +1,6 @@
 #296 - Kaluga
 
-culture = russian
+culture = volga_finnic
 religion = orthodox
 hre = no
 base_tax = 3

@@ -1,6 +1,6 @@
 #2444 - Bashgird
 
-culture = bashkir
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Bashgird"
 trade_goods = gold

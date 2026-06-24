@@ -1,6 +1,6 @@
 #475 - Bashkortostan
 
-culture = bashkir
+culture = kipchak
 religion = tengri_pagan_reformed
 capital = "Bashkort"
 trade_goods = wool

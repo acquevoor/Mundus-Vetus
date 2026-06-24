@@ -1,6 +1,6 @@
 #305 - Perm
 
-culture = uralic
+culture = volga_finnic
 religion = tengri_pagan_reformed #Sami Shamanism
 hre = no
 base_tax = 4
