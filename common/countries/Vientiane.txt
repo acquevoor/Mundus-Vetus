@@ -1,5 +1,0 @@
-graphical_culture = chinesegfx
-color = { 151  174  28 }
-historical_idea_groups = {
-	# generic ideas
-}

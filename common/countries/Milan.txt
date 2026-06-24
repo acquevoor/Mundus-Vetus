@@ -1,5 +1,0 @@
-graphical_culture = westerngfx
-color = { 166  108  146 }
-historical_idea_groups = {
-	# generic ideas
-}

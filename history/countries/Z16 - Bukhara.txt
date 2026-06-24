@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = turco_iranian
-religion = al_batiniyya
-technology_group = muslim
-capital = 442
-religious_school = batiniyya_naqshbandiyya

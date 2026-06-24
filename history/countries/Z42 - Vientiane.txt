@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = lao
-religion = satsana_phi
-technology_group = chinese
-capital = 614
-religious_school = satsanaphi_school

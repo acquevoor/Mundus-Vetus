@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = piedmontese
-religion = reformed
-technology_group = western
-capital = 4727
-religious_school = apostolici_waldensian

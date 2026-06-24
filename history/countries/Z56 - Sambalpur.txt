@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = garjati
-religion = adivasi
-technology_group = indian
-capital = 553
-religious_school = adivasi_sarna

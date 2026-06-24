@@ -1,5 +1,0 @@
-graphical_culture = africangfx
-color = { 119 91 217 }
-historical_idea_groups = {
-	# generic ideas
-}

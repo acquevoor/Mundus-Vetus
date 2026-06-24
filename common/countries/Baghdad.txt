@@ -1,5 +1,0 @@
-graphical_culture = muslimgfx
-color = { 89 121 67 }
-historical_idea_groups = {
-	# generic ideas
-}

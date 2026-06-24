@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = malayalam
-religion = ecclesia_assyrica
-technology_group = indian
-capital = 534
-religious_school = assyrica_indian

@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = greek
-religion = bektashi
-technology_group = ottoman
-capital = 149
-religious_school = bektashi_school

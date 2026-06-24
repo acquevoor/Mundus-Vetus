@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = rajput
-religion = al_batiniyya
-technology_group = indian
-capital = 2087
-religious_school = batiniyya_chishtiyya
