@@ -10394,24 +10394,6 @@ ugric = {
 		}
 	}
 
-	volga_finnic = {
-		primary = U20
-		male_names = {
-			Aydar Bulat Talgat Ilshat Kazbek Almaz Marat Rustem Damir Tagir Idris Yusuf Mukhtar Salavat Iskander
-			Mikku Veljo Olev Endel Toomas Aivar Heino Raivo Jaagup Andres
-			Kuzma Vasili Petr Stepan Yakov Mikhail Foma Andrei Grigori Ivan
-		}
-		female_names = {
-			Aisylu Gulnara Liliya Aliya Dilyara Zulfiya Adelina Rezeda Almira
-			Helle Maarja Liisa Anu Tiia Kaja
-			Evdokia Praskovia Marfa Anisya Glikeria
-		}
-		dynasty_names = {
-			Kulsharipov Yusupov Tukhvatullin Garipov Rakhimov
-			Toompea Kaarli Saaremaa Tartu
-			Mordvin Erzyan Mokshan Komi Mari Meshchera Murom Bolgar Chuvash Merya
-		}
-	}
 
 	uralic = {
 		primary = PRM
@@ -10485,5 +10467,54 @@ ugric = {
 		# Komi
 		"Azegid" "Gachegid" "Zhebegid" "Lunegid" "Zhunegid" "Irtegid" "Moshegid" "Nydogid" "Nylogid" "Ozhegid" "Odegid" 
 		"Rategid" "Permyakid" "Yugra" "Syktyvkar"
+	}
+
+	udmurtia = {
+		primary = U01
+		male_names = { Yermak Petr Stepan Daniil Kuzma Egor Mikhail Yakov Ilya Ivan }
+		female_names = { Aksinya Anna Marfa Praskovia Glikeria }
+		dynasty_names = { Udmurt Kalmez Vatka Kazakov Iliashev }
+	}
+	moksha = {
+		primary = U05
+		male_names = { Inyazor Pureshka Tyushtya Inyaska Erdyaska Damai Khoriya Pichai Vargai Tundai }
+		female_names = { Litova Vezhai Kelyu Aniva Vechkenza }
+		dynasty_names = { Inyazorov Purgasov Damaev Khoriev Tundayev }
+	}
+	erzya = {
+		primary = U06
+		male_names = { Tyushtya Inyazor Purgas Kichai Vechkanza Damai Erdyu Saiya Pinai Nuyan }
+		female_names = { Litova Mazava Vezhai Nuyana Eryushka }
+		dynasty_names = { Purgasov Inyazorov Tyushtyaev Vechkanzov Pinaev }
+	}
+	bolgar = {
+		primary = U20
+		male_names = { Almish Mikhail Talib Mumin Ibrahim Mahmud Iltedber Aydar Chichak Abdullah }
+		female_names = { Hadia Saima Aliya Maliha Rumia }
+		dynasty_names = { Bulanid Almishid Iltedber Bulghar Saqaliba }
+	}
+	chuvash = {
+		primary = U11
+		male_names = { Atner Atti Chigesh Iltebir Kasim Mishar Polat Sabir Tukai Yatay }
+		female_names = { Sarbi Pinerba Erminia Nyaime Ilemka }
+		dynasty_names = { Mishar Suvar Anatri Viryal Asla }
+	}
+	mari = {
+		primary = U03
+		male_names = { Akpars Boltush Chumblat Mamich Onar Pakai Tokash Tushai Vurspatyr Yorobon }
+		female_names = { Pampalche Shemchik Pizhamarka Yyvan Saskaviy }
+		dynasty_names = { Akparsid Boltushid Chumblatov Mamichev Yorobonid }
+	}
+	merya = {
+		primary = U04
+		male_names = { Yan Sigir Tugar Ulrab Voraga Kuy Murat Pelga Setyu Veksha }
+		female_names = { Signa Tola Veksa Yana Murza }
+		dynasty_names = { Meryanid Yaroslavid Klyazminid Nerlid Volgid }
+	}
+	meshchera = {
+		primary = U08
+		male_names = { Bahmet Chelbai Engalei Kulyu Mishar Narish Saltan Tatar Tuli Yarli }
+		female_names = { Aklima Bibinur Gulchachak Sarvar Zifa }
+		dynasty_names = { Bahmetid Engaleyev Narishev Sayid Yarlykov }
 	}
 }

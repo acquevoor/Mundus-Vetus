@@ -1,6 +1,6 @@
 #4264 - Tetyushi
 
-culture = volga_finnic
+culture = erzya
 religion = vajrayana
 capital = "Tetyushi"
 trade_goods = grain

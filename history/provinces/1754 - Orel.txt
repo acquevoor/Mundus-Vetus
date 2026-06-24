@@ -1,6 +1,6 @@
 #1754 - Murom ( formerly Orel)
 
-culture = volga_finnic
+culture = uralic
 religion = vajrayana 
 hre = no
 base_tax = 4 

@@ -1,7 +1,7 @@
 #1972 - Udmurtia
 
 capital = "Elabuga"
-culture = volga_finnic
+culture = udmurtia
 religion = vajrayana #Sami Shamanism
 trade_goods = grain
 hre = no

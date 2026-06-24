@@ -1,7 +1,7 @@
 #1082 - Kazan
 
 capital = "Kazan"
-culture = volga_finnic
+culture = udmurtia
 religion = vajrayana
 trade_goods = grain
 hre = no

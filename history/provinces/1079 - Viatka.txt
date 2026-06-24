@@ -1,7 +1,7 @@
 #1079 - Viatka
 
 capital = "Hlynov"
-culture = volga_finnic
+culture = uralic
 religion = tengri_pagan_reformed
 trade_goods = copper
 hre = no

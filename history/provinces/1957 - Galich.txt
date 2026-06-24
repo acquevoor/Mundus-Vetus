@@ -1,7 +1,7 @@
 #Galich
 
 capital = "Galich"
-culture = volga_finnic
+culture = mari
 religion = vajrayana
 trade_goods = salt
 hre = no

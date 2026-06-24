@@ -1,6 +1,6 @@
 #2423 - Alatyr
 
-culture = volga_finnic
+culture = chuvash
 religion = vajrayana
 hre = no
 base_tax = 3 

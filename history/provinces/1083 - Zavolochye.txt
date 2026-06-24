@@ -1,7 +1,7 @@
 #1083 - Vetluga ( formerly Zavolochye )
 
 capital = "Yur"
-culture = volga_finnic
+culture = mari
 religion = vajrayana
 trade_goods = grain
 hre = no

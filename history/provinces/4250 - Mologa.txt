@@ -1,6 +1,6 @@
 #4250 - Mologa
 
-culture = volga_finnic
+culture = merya
 religion = vajrayana
 hre = no 
 base_tax = 2

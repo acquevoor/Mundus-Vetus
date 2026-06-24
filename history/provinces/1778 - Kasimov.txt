@@ -1,6 +1,6 @@
 #1778 - Kasimov
 
-culture = volga_finnic
+culture = uralic
 religion = vajrayana
 hre = no
 base_tax = 4 

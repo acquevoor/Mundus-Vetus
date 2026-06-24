@@ -1,7 +1,7 @@
 #1077 - Solikamsk
 
 capital = "Usolye Kamskoye"
-culture = volga_finnic
+culture = uralic
 religion = tengri_pagan_reformed #Sami Shamanism
 trade_goods = salt # was center of salt mining
 hre = no

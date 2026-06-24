@@ -1,6 +1,6 @@
 #2422 - Veda-Suvar
 
-culture = volga_finnic
+culture = moksha
 religion = vajrayana
 capital = "Veda-Suvar"
 trade_goods = grain

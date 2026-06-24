@@ -1,6 +1,6 @@
 #2419 - Kanadey
 
-culture = volga_finnic
+culture = chuvash
 religion = vajrayana
 hre = no
 base_tax = 2 

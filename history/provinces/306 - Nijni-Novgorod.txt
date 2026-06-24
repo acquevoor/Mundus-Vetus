@@ -1,6 +1,6 @@
 #306 - Nijni-Novgorod
 
-culture = volga_finnic
+culture = mari
 religion = vajrayana
 hre = no
 base_tax = 5
