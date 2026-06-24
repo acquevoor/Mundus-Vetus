@@ -10102,7 +10102,6 @@ siberian = {
 	}
 }
 
-# ponytail: Biscay Bay group bundles welsh/breton/basque (display name set in localisation as 'Biscay Bay')
 celtic = {
 	graphical_culture = westerngfx
 
