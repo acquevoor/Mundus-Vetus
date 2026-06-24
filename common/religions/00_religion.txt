@@ -4685,7 +4685,7 @@ pagan = {
 	
 	norse_pagan_reformed = {
 		icon = 21
-		color = { 191 191 191 }
+		color = { 128 24 24 }
 		country = {
 			land_forcelimit_modifier = 0.10
 			naval_forcelimit_modifier = 0.10
