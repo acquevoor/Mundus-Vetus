@@ -1,8 +1,7 @@
-owner = CAG
-controller = CAG
-add_core = CAG
+owner = OIR
+controller = OIR
 add_core = OIR
-culture = khalkha
+culture = oirats
 religion = tengri_pagan_reformed
 capital = "Zakhchin"
 trade_goods = livestock
@@ -36,9 +35,3 @@ discovered_by = nomad_group
 	add_core = QNG
 } # Outer Mongolia intergrated into Qing
 1709.1.1 = { discovered_by = SPA }
-
-1444.11.11 = {
-	owner = CAG
-	controller = CAG
-	add_core = CAG
-}

@@ -1,10 +1,9 @@
 #1066 - Altai
 
-owner = KYR
-controller = KYR
-add_core = KYR
+owner = OIR
+controller = OIR
 add_core = OIR
-culture = kipchak
+culture = oirats
 religion = tengri_pagan_reformed
 capital = "Altai Uriankhai"
 trade_goods = fur
@@ -41,10 +40,4 @@ discovered_by = KHA
 	owner = QNG
 	controller = QNG
 	add_core = QNG
-}
-
-1444.11.11 = {
-	owner = KYR
-	controller = KYR
-	add_core = KYR
 }

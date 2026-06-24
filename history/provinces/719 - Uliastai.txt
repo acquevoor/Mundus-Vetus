@@ -3,7 +3,7 @@
 owner = OIR		# The Oirads united much of Mongolia
 controller = OIR
 add_core = OIR
-culture = khalkha
+culture = oirats
 religion = tengri_pagan_reformed
 capital = "Uliastai"
 trade_goods = wool
