@@ -1,9 +1,10 @@
 # 2193 - Govi
 
-owner = OIR
-controller = OIR
+owner = CAG
+controller = CAG
+add_core = CAG
 add_core = OIR
-culture = oirats
+culture = khalkha
 religion = tengri_pagan_reformed
 capital = "Govi"
 trade_goods = livestock
@@ -36,3 +37,9 @@ discovered_by = nomad_group
 	controller = QNG
 	add_core = QNG
 } # Kangxi leads Qing army pushing Zunghars back
+
+1444.11.11 = {
+	owner = CAG
+	controller = CAG
+	add_core = CAG
+}

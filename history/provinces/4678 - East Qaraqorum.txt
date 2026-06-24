@@ -1,9 +1,10 @@
 # 4678 - Qaraqorum
 
-owner = OIR
-controller = OIR
+owner = KHA
+controller = KHA
+add_core = KHA
 add_core = OIR
-culture = oirats
+culture = khalkha
 religion = tengri_pagan_reformed
 capital = "Qaraqorum"
 trade_goods = cloth
@@ -42,3 +43,9 @@ discovered_by = nomad_group
 	add_core = QNG
 } # Outer Mongolia intergrated into Qing
 1709.1.1 = { discovered_by = SPA }
+
+1444.11.11 = {
+	owner = KHA
+	controller = KHA
+	add_core = KHA
+}
