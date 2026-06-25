@@ -1,6 +1,6 @@
 graphical_culture = africangfx
 
-color = { 80 0 0 }
+color = { 235 216 218 }
 
 revolutionary_colors = { 1 1 1 }
 
