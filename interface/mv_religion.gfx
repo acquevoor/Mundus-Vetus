@@ -328,4 +328,32 @@ spriteTypes = {
 		name = "GFX_jain_svetambara"
 		texturefile = "gfx/interface/icon_brahmin_school.dds"
 	}
+	spriteType = {
+		name = "GFX_vaidika_nigama"
+		texturefile = "gfx/interface/icon_brahmin_school.dds"
+	}
+	spriteType = {
+		name = "GFX_vaidika_agama"
+		texturefile = "gfx/interface/icon_shin_school.dds"
+	}
+	spriteType = {
+		name = "GFX_vaidika_shrauta"
+		texturefile = "gfx/interface/icon_shingon_school.dds"
+	}
+	spriteType = {
+		name = "GFX_vaidika_tantra"
+		texturefile = "gfx/interface/icon_mr_nyingma_school.dds"
+	}
+	spriteType = {
+		name = "GFX_vaidika_siddha"
+		texturefile = "gfx/interface/icon_mr_karma_kagyu_school.dds"
+	}
+	spriteType = {
+		name = "GFX_vaidika_bhakti"
+		texturefile = "gfx/interface/icon_jodo_school.dds"
+	}
+	spriteType = {
+		name = "GFX_vaidika_smarta"
+		texturefile = "gfx/interface/icon_akanya_sutta_school.dds"
+	}
 }

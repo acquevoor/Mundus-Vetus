@@ -3,7 +3,7 @@
 owner = MEW
 controller = MEW
 culture = rajput
-religion = hinduism
+religion = sant_mat
 capital = "Bharatpur"
 trade_goods = livestock
 hre = no

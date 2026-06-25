@@ -3,7 +3,7 @@
 owner = PTA
 controller = PTA
 culture = panjabi
-religion = hinduism
+religion = sant_mat
 capital = "Samana"
 trade_goods = cloth #Samianas
 hre = no

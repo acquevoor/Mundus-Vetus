@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = sindhi
-religion = sunni
+religion = hinduism
+religious_school = vaidika_agama
 technology_group = indian
 capital = 4503 # Soomra
 

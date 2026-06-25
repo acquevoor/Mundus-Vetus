@@ -3,7 +3,7 @@
 owner = KAC
 controller = KAC
 culture = bengali
-religion = hinduism
+religion = adivasi
 capital = "Sylhet"
 trade_goods = cotton
 hre = no

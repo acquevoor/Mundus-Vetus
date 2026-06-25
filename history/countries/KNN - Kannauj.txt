@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = avadhi
-religion = hinduism
+religion = sant_mat
 technology_group = indian
 capital = 4497 # Kannauj
 

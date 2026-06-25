@@ -3636,6 +3636,139 @@ dharmic = {
 			picture = "GFX_adivasi_tani"
 			manpower_recovery_speed = 0.1
 		}
+		vaidika_nigama = {
+			potential_invite_scholar = { knows_of_scholar_country_capital_trigger = yes religion = hinduism }
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = vaidika_nigama_modifier }
+				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = vaidika_nigama_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = vaidika_nigama_modifier
+			picture = "GFX_vaidika_nigama"
+			idea_cost = -0.05
+		}
+		vaidika_agama = {
+			potential_invite_scholar = { knows_of_scholar_country_capital_trigger = yes religion = hinduism }
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = vaidika_agama_modifier }
+				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = vaidika_agama_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = vaidika_agama_modifier
+			picture = "GFX_vaidika_agama"
+			tolerance_own = 1
+		}
+		vaidika_shrauta = {
+			potential_invite_scholar = { knows_of_scholar_country_capital_trigger = yes religion = hinduism }
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = vaidika_shrauta_modifier }
+				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = vaidika_shrauta_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = vaidika_shrauta_modifier
+			picture = "GFX_vaidika_shrauta"
+			monthly_piety = 0.001
+		}
+		vaidika_tantra = {
+			potential_invite_scholar = { knows_of_scholar_country_capital_trigger = yes religion = hinduism }
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = vaidika_tantra_modifier }
+				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = vaidika_tantra_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = vaidika_tantra_modifier
+			picture = "GFX_vaidika_tantra"
+			discipline = 0.025
+		}
+		vaidika_siddha = {
+			potential_invite_scholar = { knows_of_scholar_country_capital_trigger = yes religion = hinduism }
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = vaidika_siddha_modifier }
+				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = vaidika_siddha_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = vaidika_siddha_modifier
+			picture = "GFX_vaidika_siddha"
+			advisor_cost = -0.1
+		}
+		vaidika_bhakti = {
+			potential_invite_scholar = { knows_of_scholar_country_capital_trigger = yes religion = hinduism }
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = vaidika_bhakti_modifier }
+				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = vaidika_bhakti_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = vaidika_bhakti_modifier
+			picture = "GFX_vaidika_bhakti"
+			global_missionary_strength = 0.01
+		}
+		vaidika_smarta = {
+			potential_invite_scholar = { knows_of_scholar_country_capital_trigger = yes religion = hinduism }
+			can_invite_scholar = {
+				adm_power_cost = 50
+				reverse_has_opinion = { who = FROM value = 150 }
+				NOT = { has_country_modifier = vaidika_smarta_modifier }
+				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
+				hidden_progressive_opinion_for_scholar_trigger = yes
+			}
+			on_invite_scholar = {
+				adm_power_cost = 50
+				clear_religious_scholar_modifiers_effect = yes
+				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
+				add_country_modifier = { name = vaidika_smarta_modifier duration = 7300 }
+			}
+			invite_scholar_modifier_display = vaidika_smarta_modifier
+			picture = "GFX_vaidika_smarta"
+			technology_cost = -0.05
+		}
 	}
 
 
@@ -3647,6 +3780,8 @@ dharmic = {
 		icon = 8
 		allowed_conversion = {
 			sikhism
+			lingayat
+			sant_mat
 		}
 		country = {
 			tolerance_heathen = 1
@@ -4284,7 +4419,62 @@ dharmic = {
 			}
 		}
 	}
-	
+
+	lingayat = {
+		color = { 170 60 200 }
+		icon = 31
+		allowed_conversion = {
+			hinduism
+		}
+		country = {
+			tolerance_own = 2
+			global_missionary_strength = 0.01
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_heretic = 1
+			tolerance_heathen = 1
+		}
+		on_convert = {
+			change_religion = lingayat
+			add_prestige = -100
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = { VIRASHAIVA }
+		date = 1162.01.01
+	}
+
+	sant_mat = {
+		color = { 90 170 220 }
+		icon = 32
+		allowed_conversion = {
+			hinduism
+			sikhism
+		}
+		country = {
+			tolerance_heathen = 2
+			tolerance_heretic = 1
+			prestige_decay = -0.005
+		}
+		country_as_secondary = {
+			tolerance_heathen = 2
+			global_unrest = -1
+		}
+		on_convert = {
+			change_religion = sant_mat
+			add_prestige = -100
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		heretic = { KABIRPANTHI }
+		date = 1398.01.01
+	}
+
 	harmonized_modifier = harmonized_dharmic
 	
 	crusade_name = CRUSADE

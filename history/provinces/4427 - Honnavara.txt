@@ -3,7 +3,7 @@
 owner = KLN
 controller = KLN
 culture = kannada
-religion = hinduism
+religion = lingayat
 capital = "Honnavara"
 trade_goods = spices
 hre = no

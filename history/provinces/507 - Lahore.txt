@@ -3,7 +3,7 @@
 owner = SRH
 controller = SRH
 culture = panjabi
-religion = hinduism
+religion = sant_mat
 capital = "Lahore"
 trade_goods = silk
 hre = no

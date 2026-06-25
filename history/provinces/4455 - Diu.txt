@@ -3,7 +3,7 @@
 owner = JGD
 controller = JGD
 culture = saurashtri
-religion = hinduism
+religion = jain
 capital = "Diu"
 trade_goods = sugar
 hre = no

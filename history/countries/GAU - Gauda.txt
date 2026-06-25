@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = bengali
-religion = vajrayana
+religion = hinduism
+religious_school = vaidika_tantra
 technology_group = indian
 capital = 563 # Gauda
 

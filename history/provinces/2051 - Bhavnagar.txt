@@ -3,7 +3,7 @@
 owner = PTL
 controller = PTL
 culture = saurashtri
-religion = hinduism
+religion = jain
 capital = "Bhavnagar"
 trade_goods = salt
 hre = no
