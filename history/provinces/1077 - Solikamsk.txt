@@ -19,8 +19,6 @@ controller = U09
 
 
 1500.1.1 = { religion = orthodox }
-1505.4.1 = {
-}
 1600.1.1 = { capital = "Solikamsk" }
 add_core = U09
 1444.11.11 = {

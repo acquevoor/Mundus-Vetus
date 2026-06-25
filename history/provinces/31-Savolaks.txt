@@ -32,9 +32,6 @@ controller = U07
 1808.2.21 = { controller = RUS } # Conquered by Friedrich Wilhelm von Buxhoevden
 1809.9.17 = {
 } # Treaty of Fredrikshamn
-
-1444.11.11 = {
-}
 add_core = U07
 1444.11.11 = {
 	owner = U07

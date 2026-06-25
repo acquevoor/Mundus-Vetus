@@ -18,9 +18,6 @@ controller = U03
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
 1598.1.7 = { unrest = 5 } # "Time of troubles"
 1612.3.1 = { unrest = 0 } # Pozharsky army moves through Kostroma
-
-1444.11.11 = {
-}
 add_core = U03
 1444.11.11 = {
 	owner = U03

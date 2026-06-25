@@ -34,12 +34,6 @@ controller = U13
 } # Retaken by Shah Abbas
 1673.1.1 = { discovered_by = ENG }
 1707.5.12 = { discovered_by = GBR }
-1725.1.1 = {
-}
-1729.1.1 = {
-}
-1444.11.11 = {
-}
 add_core = U13
 1444.11.11 = {
 	owner = U13

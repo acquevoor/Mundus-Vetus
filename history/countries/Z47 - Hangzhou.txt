@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = wu
-religion = buddhism
-technology_group = chinese
-capital = 684
-religious_school = nastika_amitabha

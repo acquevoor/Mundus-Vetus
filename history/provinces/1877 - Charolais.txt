@@ -25,9 +25,6 @@ controller = U12
 1674.9.1 = { controller = FRA } # France captures Franche-Comté 
 1678.9.19 = { owner = FRA remove_core = SPA } # Treaty of Nijmegen (FRA-SPA)
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-
-1444.11.11 = {
-}
 add_core = U12
 1444.11.11 = {
 	owner = U12

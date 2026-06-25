@@ -19,9 +19,6 @@ owner = U11
 controller = U11
 
 1450.1.1 = { discovered_by = SIB }
-
-1503.4.1 = {
-}
 1560.1.1 = { base_tax = 7 base_production = 7 } # Treasury reform
 1598.1.7 = { unrest = 1 } # "Time of troubles", Nizhny Novgorod only city that supported Moscow
 1611.9.1 = { unrest = 0 } # Nizhegorod guard of Minin and Pozharsky to support Moscow
@@ -30,9 +27,6 @@ controller = U11
 1719.1.1 = { base_tax = 8 base_production = 8  } # Governmental reforms and the absolutism, Nizhegorod governorate
 1773.1.1 = { unrest = 5 } # Emelian Pugachev, Cossack insurrection
 1774.9.14 = { unrest = 0 } # Pugachev is captured
-
-1444.11.11 = {
-}
 add_core = U11
 1444.11.11 = {
 	owner = U11

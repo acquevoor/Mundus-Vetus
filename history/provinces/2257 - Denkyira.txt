@@ -1,4 +1,3 @@
-add_core = DNK
 
 culture = aka 
 religion = shamanism #Fetishism
@@ -18,16 +17,7 @@ discovered_by = sub_saharan
 
 
 1500.1.1 = {
-	owner = DNK
-	controller = DNK
 	add_core = ASH 
 	trade_goods = coffee
 	is_city = yes 
 } #Akan migrations, Denkyira established
-
-
-1444.11.11 = {
-	owner = DNK
-	controller = DNK
-	add_core = DNK
-}

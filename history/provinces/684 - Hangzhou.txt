@@ -3,7 +3,6 @@ add_core = DIN
 
 owner = DIN
 controller = DIN
-add_core = Z47
 add_core = MNG
 culture = wu
 religion = confucianism
@@ -28,14 +27,6 @@ center_of_trade = 2
 }
 1675.1.1 = { controller = MNG }
 1680.1.1 = { controller = QNG }
-
-1444.11.11 = {
-	owner = Z47
-	controller = Z47
-	add_core = Z47
-}
-
-
 1444.11.11 = {
 	owner = DIN
 	controller = DIN

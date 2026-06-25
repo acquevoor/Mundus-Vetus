@@ -1,5 +1,4 @@
 #623 - Tulangbewang
-add_core = TLB
 
 culture = sumatran
 religion = hinduism
@@ -22,8 +21,6 @@ discovered_by = ottoman
 
 1405.1.1 = { discovered_by = MNG }
 1444.1.1 = {
-	owner = TLB
-	controller = TLB
 	add_core = PLB
 	is_city = yes
 	trade_goods = spices
@@ -51,11 +48,4 @@ discovered_by = ottoman
 		investment = brokers_exchange
 		investor = NED
 	}
-}
-
-
-1444.11.11 = {
-	owner = TLB
-	controller = TLB
-	add_core = TLB
 }

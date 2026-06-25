@@ -4,7 +4,6 @@ add_core = SKP
 
 owner = DRM
 controller = DRM
-add_core = TRK
 culture = greek
 religion = orthodox
 capital = "Thessaloniki"
@@ -39,14 +38,6 @@ base_production = 4 } # The Decentralizing Effect of the Provincial System
  # The situation began to stabilize, Greek pop. returned
 1689.1.1 = { revolt = { type = nationalist_rebels size = 1.5 } controller = REB } # Karposh uprising against Ottoman rule
 1690.1.1 = { revolt = {} controller = TUR }
-
-1444.11.11 = {
-	owner = TRK
-	controller = TRK
-	add_core = TRK
-}
-
-
 1444.11.11 = {
 	owner = SKP
 	controller = SKP

@@ -16,8 +16,6 @@ owner = U09
 controller = U09
 
 1478.1.15 = {	remove_core = NOV } # Novgorod conquered
-1505.4.1 = {
-}
 1598.1.7 = { unrest = 5 } # "Time of troubles"
 1613.3.3 = { unrest = 0 } # Order returned, Romanov dynasty
 add_core = U09

@@ -3,7 +3,6 @@ add_core = QTL
 
 owner = QTL
 controller = QTL
-add_core = MRV
 culture = turco_iranian
 religion = sunni
 capital = "Geok-Tepe"
@@ -37,9 +36,6 @@ discovered_by = indian
 1717.1.1 = { discovered_by = RUS }
 
 1444.11.11 = {
-	owner = MRV
-	controller = MRV
-	add_core = MRV
 	trade_goods = wool
 }
 

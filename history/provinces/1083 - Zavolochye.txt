@@ -23,9 +23,6 @@ controller = U03
 
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
 1778.8.18 = { capital = "Vetluga" }
-
-1444.11.11 = {
-}
 add_core = U03
 1444.11.11 = {
 	owner = U03

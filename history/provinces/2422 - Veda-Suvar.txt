@@ -23,9 +23,6 @@ controller = U05
 1552.10.2 = {
 } # Russian conquest of Kazan
 1616.4.5 = { culture = russian religion = orthodox capital = "Cheboksary" }
-
-1444.11.11 = {
-}
 add_core = U05
 1444.11.11 = {
 	owner = U05

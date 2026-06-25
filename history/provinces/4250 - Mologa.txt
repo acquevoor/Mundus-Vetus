@@ -18,8 +18,6 @@ controller = U04
 
 
 1463.1.1 = {	owner = MOS controller = MOS add_core = MOS remove_core = YAR } # Incorporated into Muscovy
-1503.4.1 = {
-}
 1560.1.1 = { base_tax = 4 base_production = 4 } # Treasury reforms
 1598.1.7 = { unrest = 5 base_manpower = 4 } # "Time of troubles", peasantry brought into serfdom
 1612.4.1 = { unrest = 0 } # Pozharsky forces arrives
@@ -28,9 +26,6 @@ controller = U04
  # First large factories appeared in the Yaroslavl region, linen, silk
 1711.1.1 = { base_tax = 5 base_production = 5  } # Governmental reforms and the absolutism
 1767.1.1 = { base_tax = 6 base_production = 6 } # Legislative reforms
-
-1444.11.11 = {
-}
 add_core = U04
 1444.11.11 = {
 	owner = U04

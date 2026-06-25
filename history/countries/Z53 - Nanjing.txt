@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = jianghuai
-religion = buddhism
-technology_group = chinese
-capital = 1821
-religious_school = nastika_tiantai

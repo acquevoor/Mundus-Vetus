@@ -1,5 +1,4 @@
 #2802 - Kobbe
-add_core = BGG
 
 culture = tunjur 
 religion = shamanism #Fetishism
@@ -15,18 +14,9 @@ base_production = 1
 base_manpower = 1
 
 1596.1.1 = {
-	owner = BGG
-	controller = BGG
 	discovered_by = NUB
 	is_city = yes
 	discovered_by = ETH
 	trade_goods = grain
 }
 1682.1.1 = { religion = sunni }
-
-
-1444.11.11 = {
-	owner = BGG
-	controller = BGG
-	add_core = BGG
-}

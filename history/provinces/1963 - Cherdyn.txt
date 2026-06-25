@@ -19,8 +19,6 @@ controller = U09
 
 
 1455.1.1 = { religion = orthodox }
-1505.4.1 = {
-}
 add_core = U09
 1444.11.11 = {
 	owner = U09

@@ -2,7 +2,6 @@
 
 owner = SER
 controller = SER
-add_core = TRK
 culture = serbian
 religion = orthodox
 capital = "Nis"
@@ -36,14 +35,6 @@ discovered_by = ottoman
 1813.1.1 = { revolt = {} controller = TUR }
 1815.4.23 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # The Second Serbian uprising
 1817.1.1 = { revolt = {} controller = TUR }
-
-1444.11.11 = {
-	owner = TRK
-	controller = TRK
-	add_core = TRK
-}
-
-
 1444.11.11 = {
 	owner = SER
 	controller = SER

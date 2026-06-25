@@ -1,5 +1,4 @@
 #2800 - Kosti
-add_core = BGG
 
 culture = nubian
 religion = shamanism #Fetishism
@@ -20,8 +19,6 @@ discovered_by = MAK
 
 
 1503.1.1 = {
-	owner = BGG
-	controller = BGG
 	add_core = NUB
 	discovered_by = NUB
 	is_city = yes
@@ -35,10 +32,3 @@ discovered_by = MAK
 1756.1.1 = { unrest = 4 } #Badi IV comes into conflict with aristocrats over new slave army plan
 1761.1.1 = { unrest = 9 } #Badi IV persecutes aristocrats who challenge his authority
 1762.1.1 = { unrest = 0 } #Badi IV deposed by Muhammad Abu Likaylik
-
-
-1444.11.11 = {
-	owner = BGG
-	controller = BGG
-	add_core = BGG
-}

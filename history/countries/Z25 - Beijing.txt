@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = celestial_empire
-primary_culture = chihan
-religion = shendao
-technology_group = chinese
-capital = 1816
-religious_school = shendao_school

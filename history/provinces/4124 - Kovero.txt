@@ -27,9 +27,6 @@ controller = U07
 1710.9.8 = { controller = RUS } # The Great Nordic War-Captured Keksholm
 1721.8.30 = {
 } # The Peace of Nystad
-
-1444.11.11 = {
-}
 add_core = U07
 1444.11.11 = {
 	owner = U07

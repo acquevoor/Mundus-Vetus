@@ -28,14 +28,9 @@ controller = U17
 1504.1.31 = { remove_core = FRA } # The Treaty of Lyon in 1504
 1516.1.23 = {
 } # Unification of Spain
-1714.3.7 = {
-}
 1734.6.2 = { owner = Q15 controller = Q15 remove_core = HAB }
 1806.2.9 = { controller = FRA } # French troops invade
 1806.3.11 = { controller = Q15 } # Joseph Bonaparte becomes king of the new Kingdom of Naples
-
-1444.11.11 = {
-}
 add_core = U17
 1444.11.11 = {
 	owner = U17

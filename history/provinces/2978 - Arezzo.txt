@@ -20,8 +20,6 @@ controller = U18
 1495.1.1 = { hre = no }
 1527.1.1 = { controller = SPA } # War of the League of Cognac
 1529.8.3 = { controller = LAN } # Treaty of Cambrai
-1569.8.1 = {
-}
 1750.1.1 = { add_core = ITA } 
 1801.2.9 = {
 } # The Treaty of Lunéville

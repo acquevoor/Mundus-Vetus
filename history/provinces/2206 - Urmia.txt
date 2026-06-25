@@ -36,9 +36,6 @@ controller = U13
 1747.1.1 = {
 } # Shah Nadir is killed, local khanates emerged
 #Khanate Abolished in 1865
-
-1444.11.11 = {
-}
 add_core = U13
 1444.11.11 = {
 	owner = U13

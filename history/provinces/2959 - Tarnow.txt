@@ -32,7 +32,6 @@ discovered_by = ottoman
 	remove_core = Q04
 	add_core = PLC
 } # Union of Lublin
-1580.1.1 = { }
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war
 1589.1.1 = { revolt = {} controller = PLC } # Coronation of Sigismund III
 1606.1.1 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB } # Civil war

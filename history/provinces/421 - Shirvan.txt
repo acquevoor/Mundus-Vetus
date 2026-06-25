@@ -41,9 +41,6 @@ controller = U13
 } #Khanates break free after death of Nadir Shah
 1805.12.25 = {
 } # Khans of Shirvan accept Russian overlordship
-
-1444.11.11 = {
-}
 add_core = U13
 1444.11.11 = {
 	owner = U13

@@ -15,9 +15,6 @@ base_tax = 2
 base_production = 3
 discovered_by = east_african
 discovered_by = muslim
-
-1650.1.1 = {
-}
 1710.1.1 = {
 	owner = ETH
 	controller = ETH

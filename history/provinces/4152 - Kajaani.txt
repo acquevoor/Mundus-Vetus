@@ -28,9 +28,6 @@ controller = U07
 1808.9.14 = { controller = RUS } # The Swedish forces are defeated at the battle Oravais
 1809.9.17 = {
 } # Treaty of Fredrikshamn
-
-1444.11.11 = {
-}
 add_core = U07
 1444.11.11 = {
 	owner = U07

@@ -1,1 +1,0 @@
-1444.11.11 = { celestial_emperor = Z25 } # Beijing as the Empire of China

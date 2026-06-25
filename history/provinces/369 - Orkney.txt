@@ -36,8 +36,6 @@ discovered_by = eastern
 	controller = GBR
 	add_core = GBR
 }
-1750.1.1 = { }
-
 1444.11.11 = {
 	owner = SCO
 	controller = SCO

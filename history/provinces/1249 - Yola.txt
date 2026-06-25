@@ -1,5 +1,4 @@
 #1249 - Yola
-add_core = KWR
 
 culture = jukun
 religion = shamanism #Fetishism
@@ -20,16 +19,7 @@ discovered_by = KBO
 1804.1.1 = { discovered_by = SOK }
 
 1807.1.1 = {
-	owner = KWR
-	controller = KWR
 	add_core = SOK
 	trade_goods = grain
 	is_city = yes
 } # The Fulani Empire
-
-
-1444.11.11 = {
-	owner = KWR
-	controller = KWR
-	add_core = KWR
-}

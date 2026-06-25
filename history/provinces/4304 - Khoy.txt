@@ -37,10 +37,6 @@ controller = U13
 } # Shah Nadir is killed, local khanates emerged
 1796.6.15 = { controller = RUS } # Overran by Russian troops
 1796.11.1 = { controller = TBR }
-1809.1.1 = {
-}
-1444.11.11 = {
-}
 add_core = U13
 1444.11.11 = {
 	owner = U13

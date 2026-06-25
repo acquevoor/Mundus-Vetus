@@ -27,9 +27,6 @@ controller = U02
 base_production = 7 } # Governmental reforms and the absolutism
 1767.1.1 = { base_tax = 8 
 base_production = 8 } # Legislative reform
-
-1444.11.11 = {
-}
 add_core = U02
 1444.11.11 = {
 	owner = U02

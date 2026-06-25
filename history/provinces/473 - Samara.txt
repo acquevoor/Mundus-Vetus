@@ -24,9 +24,6 @@ controller = U00
 1671.4.14 = { revolt = { } controller = RUS unrest = 0 } # Razin captured
 1773.9.13 = { revolt = { type = anti_tax_rebels size = 2 name = "Yemelyan Pugachev" } controller = REB unrest = 6 } # Pugachev rebellion
 1775.2.1 = { revolt = {} controller = RUS unrest = 0 } # Pugachev is captured
-
-1444.11.11 = {
-}
 add_core = U00
 1444.11.11 = {
 	owner = U00

@@ -27,8 +27,6 @@ controller = U14
 1488.8.7 = { revolt = { type = revolutionary_rebels size = 2 } controller = REB }
 1488.9.13 = { revolt = {} controller = GEN }
 1495.1.1 = { hre = no }
-1499.1.1 = {
-}
 1507.4.10 = { revolt = { type = nationalist_rebels size = 2 } controller = REB }
 1507.4.27 = { revolt = {} controller = FRA }
 1512.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB }
@@ -41,9 +39,6 @@ controller = U14
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 1814.4.11 = {
 }# Incorporated into the kingdom of Sardinia
-
-1444.11.11 = {
-}
 add_core = U14
 1444.11.11 = {
 	owner = U14

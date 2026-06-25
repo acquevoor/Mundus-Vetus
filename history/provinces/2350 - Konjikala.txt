@@ -3,7 +3,6 @@ add_core = QTL
 
 owner = QTL
 controller = QTL
-add_core = MRV
 culture = turco_iranian
 religion = sunni
 capital = "Konjikala"
@@ -58,9 +57,6 @@ discovered_by = nomad_group
 } # The death of Nadir Shah ends the domination
 
 1444.11.11 = {
-	owner = MRV
-	controller = MRV
-	add_core = MRV
 	trade_goods = livestock
 }
 
