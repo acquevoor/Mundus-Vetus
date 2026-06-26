@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = al_suryah_arabic
 religion = al_ghulat
+religious_school = ghulat_nusayri
 technology_group = muslim
 capital = 4297 # Homs
 

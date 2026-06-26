@@ -31,6 +31,6 @@ add_core = U04
 	owner = U04
 	controller = U04
 	add_core = U04
-	culture = russian
+	culture = merya
 	religion = vajrayana
 }

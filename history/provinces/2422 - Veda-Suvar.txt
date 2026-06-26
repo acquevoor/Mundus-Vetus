@@ -28,6 +28,6 @@ add_core = U05
 	owner = U05
 	controller = U05
 	add_core = U05
-	culture = kazani
+	culture = moksha
 	religion = vajrayana
 }

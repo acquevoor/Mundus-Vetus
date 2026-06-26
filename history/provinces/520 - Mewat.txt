@@ -3,7 +3,7 @@
 owner = MEW
 controller = MEW
 culture = rajput
-religion = sant_mat
+religion = al_batiniyya
 capital = "Alwar"
 trade_goods = glass
 hre = no

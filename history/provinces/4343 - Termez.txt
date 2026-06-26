@@ -3,7 +3,7 @@
 owner = TRS
 controller = TRS
 culture = turco_iranian
-religion = sunni
+religion = al_batiniyya
 capital = "Termez"
 trade_goods = livestock
 hre = no

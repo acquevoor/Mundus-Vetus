@@ -28,6 +28,6 @@ add_core = U11
 	owner = U11
 	controller = U11
 	add_core = U11
-	culture = bulgar
+	culture = chuvash
 	religion = vajrayana
 }

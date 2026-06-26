@@ -31,6 +31,6 @@ add_core = U01
 	owner = U01
 	controller = U01
 	add_core = U01
-	culture = kazani
+	culture = udmurtia
 	religion = vajrayana
 }

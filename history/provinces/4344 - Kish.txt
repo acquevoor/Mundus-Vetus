@@ -3,7 +3,7 @@
 owner = TRS
 controller = TRS
 culture = turco_iranian
-religion = sunni
+religion = al_batiniyya
 capital = "Shahrisabz" #Renamed by Timur, but both names in use for most our era.
 trade_goods = wool
 hre = no

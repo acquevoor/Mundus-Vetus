@@ -103,13 +103,6 @@ ghulat_nusayri_modifier = {
 	discipline = 0.025
 }
 
-ghulat_numayriyya_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	tolerance_own = 1
-}
 
 ghulat_khurramdiniyya_modifier = {
 	religion_sub_modifier = yes

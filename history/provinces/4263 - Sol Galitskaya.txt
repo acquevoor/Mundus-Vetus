@@ -23,6 +23,6 @@ add_core = U03
 	owner = U03
 	controller = U03
 	add_core = U03
-	culture = russian
+	culture = mari
 	religion = vajrayana
 }

@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = persian
 religion = al_mutazila
+religious_school = mutazila_bahshamiyya
 technology_group = muslim
 capital = 427 # Qumis
 

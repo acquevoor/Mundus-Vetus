@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = turkish
-religion = sunni
+religion = bektashi
+religious_school = bektashi_abdalan
 technology_group = ottoman
 capital = 326 # Chepnis
 

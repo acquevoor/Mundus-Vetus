@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = dagestani
-religion = sunni
+religion = hurufiyya
+religious_school = hurufiyya_nuqtawi
 technology_group = muslim
 capital = 2198 # Khundzia
 

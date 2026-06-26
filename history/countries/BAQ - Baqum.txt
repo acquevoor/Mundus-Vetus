@@ -1,7 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = hejazi_culture
-religion = shiite
+religion = al_ghulat
+religious_school = ghulat_khurramdiniyya
 technology_group = muslim
 capital = 386 # Baqum
 

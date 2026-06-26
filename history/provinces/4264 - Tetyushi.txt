@@ -25,6 +25,6 @@ add_core = U06
 	owner = U06
 	controller = U06
 	add_core = U06
-	culture = kazani
+	culture = erzya
 	religion = vajrayana
 }

@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = kurdish
 religion = shiite
+religious_school = shiite_twelver
 technology_group = muslim
 capital = 411 # Afsharids
 

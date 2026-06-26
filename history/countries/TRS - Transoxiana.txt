@@ -3,11 +3,11 @@
 #######################################
 technology_group = muslim
 primary_culture = turco_iranian
-religion = sunni
+religion = al_batiniyya
 government = monarchy
 add_government_reform = iqta
 capital = 454 # Samarkand
-religious_school = hanafi_school
+religious_school = batiniyya_naqshbandiyya
 
 add_army_tradition = 20			#Years of fighting and infighting before the game start.
 add_army_professionalism = 0.05

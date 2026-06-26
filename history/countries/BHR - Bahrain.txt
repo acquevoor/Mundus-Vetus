@@ -2,6 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = al_iraqiya_arabic
 religion = al_batiniyya
+religious_school = batiniyya_qarmati
 technology_group = indian
 capital = 396 # Bahrain
 

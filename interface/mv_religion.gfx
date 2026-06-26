@@ -69,10 +69,6 @@ spriteTypes = {
 		texturefile = "gfx/interface/icon_muslim_school_jafari.dds"
 	}
 	spriteType = {
-		name = "GFX_ghulat_numayriyya"
-		texturefile = "gfx/interface/icon_muslim_school_ismaili.dds"
-	}
-	spriteType = {
 		name = "GFX_ghulat_khurramdiniyya"
 		texturefile = "gfx/interface/icon_muslim_school_zaidi.dds"
 	}
