@@ -2,7 +2,7 @@
 
 capital = "Galich"
 culture = mari
-religion = vajrayana
+religion = ugric
 trade_goods = salt
 hre = no
 base_tax = 4
@@ -28,5 +28,5 @@ add_core = U03
 	controller = U03
 	add_core = U03
 	culture = mari
-	religion = vajrayana
+	religion = ugric
 }

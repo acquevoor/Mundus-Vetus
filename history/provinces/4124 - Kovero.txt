@@ -1,7 +1,7 @@
 #4124 - North Karelia
 
 culture = karelian
-religion = orthodox
+religion = finnic
 hre = no
 base_tax = 1
 base_production = 1
@@ -33,5 +33,5 @@ add_core = U07
 	controller = U07
 	add_core = U07
 	culture = karelian
-	religion = orthodox
+	religion = finnic
 }

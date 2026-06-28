@@ -1,7 +1,7 @@
 #4152 - Kuusamo incl Maanselkä and Kitka
 
 culture = sapmi
-religion = orthodox
+religion = finnic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -34,5 +34,5 @@ add_core = U07
 	controller = U07
 	add_core = U07
 	culture = sapmi
-	religion = orthodox
+	religion = finnic
 }

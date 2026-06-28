@@ -1,7 +1,7 @@
 #2422 - Veda-Suvar
 
 culture = moksha
-religion = vajrayana
+religion = ugric
 capital = "Veda-Suvar"
 trade_goods = grain
 hre = no
@@ -29,5 +29,5 @@ add_core = U05
 	controller = U05
 	add_core = U05
 	culture = moksha
-	religion = vajrayana
+	religion = ugric
 }

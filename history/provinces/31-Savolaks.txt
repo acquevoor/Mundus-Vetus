@@ -1,7 +1,7 @@
 #Savolaks, incl. Nyslott(Olofsborg).
 
 culture = finnish
-religion = orthodox
+religion = finnic
 hre = no
 base_tax = 1 
 base_production = 1
@@ -38,5 +38,5 @@ add_core = U07
 	controller = U07
 	add_core = U07
 	culture = finnish
-	religion = orthodox
+	religion = finnic
 }

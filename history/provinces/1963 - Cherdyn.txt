@@ -2,7 +2,7 @@
 
 capital = "Cherdyn"
 culture = uralic
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = ugric
 trade_goods = salt
 hre = no
 base_tax = 3 
@@ -25,5 +25,5 @@ add_core = U09
 	controller = U09
 	add_core = U09
 	culture = uralic
-	religion = tengri_pagan_reformed
+	religion = ugric
 }

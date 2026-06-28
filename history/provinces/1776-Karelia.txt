@@ -2,7 +2,7 @@
 
 capital = "Kem"
 culture = karelian
-religion = orthodox
+religion = finnic
 hre = no
 is_city = yes
 base_tax = 1 
@@ -27,5 +27,5 @@ add_core = U07
 	controller = U07
 	add_core = U07
 	culture = karelian
-	religion = orthodox
+	religion = finnic
 }

@@ -3,7 +3,7 @@
 owner = Q05
 controller = Q05  
 culture = karelian
-religion = slavic_pagan
+religion = finnic
 hre = no
 base_tax = 3 
 base_production = 3

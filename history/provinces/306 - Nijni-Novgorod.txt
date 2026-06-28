@@ -1,7 +1,7 @@
 #306 - Nijni-Novgorod
 
 culture = mari
-religion = vajrayana
+religion = ugric
 hre = no
 base_tax = 5
 base_production = 5
@@ -37,5 +37,5 @@ add_core = U03
 	controller = U03
 	add_core = U03
 	culture = mari
-	religion = vajrayana
+	religion = ugric
 }

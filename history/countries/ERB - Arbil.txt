@@ -1,13 +1,13 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = kurdish
+primary_culture = aramaic
 religion = ecclesia_assyrica
 technology_group = indian
 capital = 4293 # Arbil
 
 1444.11.11 = {
 	monarch = {
-		name = "Gêlas I"
+		name = "Gï¿½las I"
 		dynasty = "Herki"
 		adm = 2
 		dip = 2

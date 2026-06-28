@@ -3,8 +3,8 @@
 owner = CIS
 controller = CIS
 add_core = CIS
-culture = turkish
-religion = bektashi
+culture = cappadocian_greek
+religion = orthodox
 capital = "Kayseri"
 trade_goods = iron
 hre = no

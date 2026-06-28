@@ -2,7 +2,7 @@
 
 capital = "Elabuga"
 culture = udmurtia
-religion = vajrayana #Sami Shamanism
+religion = ugric
 trade_goods = grain
 hre = no
 base_tax = 2
@@ -31,5 +31,5 @@ add_core = U01
 	controller = U01
 	add_core = U01
 	culture = udmurtia
-	religion = vajrayana
+	religion = ugric
 }

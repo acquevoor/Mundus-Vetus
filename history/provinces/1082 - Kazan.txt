@@ -2,7 +2,7 @@
 
 capital = "Kazan"
 culture = udmurtia
-religion = vajrayana
+religion = ugric
 trade_goods = grain
 hre = no
 base_tax = 6
@@ -32,5 +32,5 @@ add_core = U01
 	controller = U01
 	add_core = U01
 	culture = udmurtia
-	religion = vajrayana
+	religion = ugric
 }

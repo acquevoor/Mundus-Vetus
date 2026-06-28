@@ -3,8 +3,8 @@
 owner = AFS
 controller = AFS
 add_core = AFS
-culture = al_iraqiya_arabic
-religion = shiite
+culture = kurdish
+religion = yazidi
 capital = "Sindjar"
 trade_goods = sugar
 hre = no

@@ -3,8 +3,8 @@
 owner = AFS
 controller = AFS
 add_core = AFS
-culture = al_iraqiya_arabic
-religion = shiite
+culture = aramaic
+religion = marcionismus
 capital = "Tikrit"
 trade_goods = livestock
 hre = no

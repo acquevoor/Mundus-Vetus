@@ -3,8 +3,8 @@
 owner = CIL
 controller = CIL
 add_core = CIL
-culture = turkish
-religion = coptic
+culture = aramaic
+religion = manichaei
 capital = "Malatiya"
 trade_goods = cloth
 hre = no

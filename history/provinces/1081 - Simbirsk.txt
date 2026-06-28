@@ -2,7 +2,7 @@
 
 capital = "Bolgar"
 culture = chuvash
-religion = vajrayana
+religion = ugric
 trade_goods = iron
 hre = no
 base_tax = 1
@@ -32,5 +32,5 @@ add_core = U11
 	controller = U11
 	add_core = U11
 	culture = chuvash
-	religion = vajrayana
+	religion = ugric
 }

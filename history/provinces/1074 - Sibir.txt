@@ -1,7 +1,7 @@
 #1074 - Sibir
 
 culture = kipchak
-religion = tengri_pagan_reformed
+religion = ugric
 capital = "Qashliq"
 trade_goods = fur
 hre = no
@@ -35,5 +35,5 @@ add_core = U00
 	controller = U00
 	add_core = U00
 	culture = ostyaki
-	religion = tengri_pagan_reformed
+	religion = ugric
 }

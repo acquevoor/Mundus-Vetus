@@ -1,7 +1,7 @@
 #1754 - Murom ( formerly Orel)
 
 culture = uralic
-religion = vajrayana 
+religion = ugric
 hre = no
 base_tax = 4 
 base_production = 4
@@ -30,5 +30,5 @@ add_core = U02
 	controller = U02
 	add_core = U02
 	culture = uralic
-	religion = vajrayana
+	religion = ugric
 }

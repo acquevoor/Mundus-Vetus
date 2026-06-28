@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = karelian
-religion = orthodox
+religion = finnic
 technology_group = eastern
 capital = 4124
 

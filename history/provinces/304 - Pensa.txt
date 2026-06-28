@@ -1,7 +1,7 @@
 #304 - Pensa
 
 culture = chuvash
-religion = vajrayana
+religion = ugric
 hre = no
 base_tax = 3 
 base_production = 3
@@ -29,5 +29,5 @@ add_core = U11
 	controller = U11
 	add_core = U11
 	culture = chuvash
-	religion = vajrayana
+	religion = ugric
 }

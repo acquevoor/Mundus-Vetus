@@ -2,7 +2,7 @@
 
 capital = "Usolye Kamskoye"
 culture = uralic
-religion = tengri_pagan_reformed #Sami Shamanism
+religion = ugric
 trade_goods = salt # was center of salt mining
 hre = no
 base_tax = 3 
@@ -26,5 +26,5 @@ add_core = U09
 	controller = U09
 	add_core = U09
 	culture = uralic
-	religion = tengri_pagan_reformed
+	religion = ugric
 }

@@ -1,13 +1,14 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = kurdish
-religion = ecclesia_assyrica
+religion = ahl_e_haqq
+religious_school = ahlehaqq_gurani
 technology_group = muslim
 capital = 4294 # Sulaimaniyah
 
 1444.11.11 = {
 	monarch = {
-		name = "Merîvan I"
+		name = "Merï¿½van I"
 		dynasty = "Herki"
 		adm = 2
 		dip = 2

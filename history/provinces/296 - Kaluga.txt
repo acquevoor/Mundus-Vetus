@@ -1,7 +1,7 @@
 #296 - Kaluga
 
 culture = meshchera
-religion = orthodox
+religion = ugric
 hre = no
 base_tax = 3
 base_production = 3
@@ -31,5 +31,5 @@ add_core = U08
 	controller = U08
 	add_core = U08
 	culture = meshchera
-	religion = orthodox
+	religion = ugric
 }

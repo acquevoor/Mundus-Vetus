@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = uralic
-religion = tengri_pagan_reformed
+religion = ugric
 technology_group = eastern
 capital = 305
 

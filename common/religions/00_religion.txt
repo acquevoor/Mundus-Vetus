@@ -4892,7 +4892,41 @@ pagan = {
 		fetishist_cult = yes
 		heretic = { WAGYLKOOP MOORAMOORA GINGARRURNDE }
 	}
-	
+
+	### --- Mundus Vetus religions (Finno-Ugric) --- ###
+	finnic = {
+		color = { 90 160 200 }
+		icon = 80
+		country = {
+			tolerance_own = 1
+			land_attrition = -0.1
+		}
+		province = {
+			local_defensiveness = 0.1
+			local_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			tolerance_own = 1
+		}
+		heretic = { SUOMENUSKO }
+	}
+	ugric = {
+		color = { 130 100 60 }
+		icon = 81
+		country = {
+			cavalry_power = 0.05
+			tolerance_heathen = 1
+		}
+		province = {
+			local_manpower_modifier = 0.1
+			local_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			manpower_recovery_speed = 0.1
+		}
+		heretic = { ERZYAN }
+	}
+
 	crusade_name = CRUSADE
 	harmonized_modifier = harmonized_pagan
 }
