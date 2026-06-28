@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = circassian
+primary_culture = kabardian
 religion = adyghe_habze
 technology_group = eastern
 capital = 2197 # Kabardia

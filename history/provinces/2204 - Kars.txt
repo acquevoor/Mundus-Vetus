@@ -3,7 +3,7 @@
 owner = KRS
 controller = KRS
 add_core = KRS
-culture = georgian
+culture = tsez
 religion = tsezic_pagan
 capital = "Akhaltsikhe"
 trade_goods = wine

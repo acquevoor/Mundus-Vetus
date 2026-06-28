@@ -3,7 +3,7 @@
 owner = OLT
 controller = OLT
 add_core = OLT
-culture = georgian
+culture = batsbi
 religion = manichaei
 capital = "Oltu"
 trade_goods = livestock

@@ -3,7 +3,7 @@
 owner = MEL
 controller = MEL
 add_core = MEL
-culture = armenian
+culture = tsakhur
 religion = lezgic_pagan
 capital = "Khankendi"
 trade_goods = livestock

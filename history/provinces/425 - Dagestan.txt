@@ -3,7 +3,7 @@
 owner = DAG
 controller = DAG 
 add_core = DAG
-culture = dagestani
+culture = avar
 religion = avar_pagan
 capital = "Derbent"
 trade_goods = fish

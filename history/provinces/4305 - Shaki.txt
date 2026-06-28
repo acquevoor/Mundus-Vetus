@@ -3,7 +3,7 @@
 owner = SKI
 controller = SKI
 add_core = SKI
-culture = azerbaijani
+culture = udi
 religion = coptic
 capital = "Shaki"
 trade_goods = wool

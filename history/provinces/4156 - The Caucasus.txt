@@ -3,7 +3,7 @@
 owner = Z40
 controller = Z40
 add_core = Z40
-culture = circassian
+culture = svan
 religion = manichaei
 capital = "Svaneti"
 trade_goods = wool

@@ -3,7 +3,7 @@
 owner = MNC
 controller = MNC
 add_core = MNC
-culture = kipchak
+culture = andi
 religion = andic_pagan
 capital = "Tarku"
 trade_goods = fish

@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = dagestani
+primary_culture = lak
 religion = lak_pagan
 
 technology_group = muslim

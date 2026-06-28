@@ -1,6 +1,6 @@
 #421 - Shirvan
 
-culture = azerbaijani
+culture = tabasaran
 religion = lezgic_pagan
 capital = "Baku"
 trade_goods = silk #And Salt and Petroleum
@@ -46,6 +46,6 @@ add_core = U13
 	owner = U13
 	controller = U13
 	add_core = U13
-	culture = azerbaijani
+	culture = tabasaran
 	religion = buddhism
 }

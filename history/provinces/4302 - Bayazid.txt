@@ -3,7 +3,7 @@
 owner = BOT #Zahids
 controller = BOT
 add_core = BOT
-culture = georgian
+culture = dargin
 religion = dargin_pagan
 capital = "Bayazid"
 trade_goods = wool

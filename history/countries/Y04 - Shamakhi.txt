@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = azerbaijani
+primary_culture = lezgin
 religion = lezgic_pagan
 
 technology_group = muslim

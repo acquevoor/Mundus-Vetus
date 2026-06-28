@@ -3,7 +3,7 @@
 owner = ODI
 controller = ODI
 add_core = ODI
-culture = laz
+culture = mingrelian
 religion = orthodox
 capital = "Zugdidi"
 trade_goods = wine

@@ -3,7 +3,7 @@
 owner = KKH
 controller = KKH
 add_core = KKH
-culture = georgian
+culture = khinalug
 religion = shahdagh_pagan
 capital = "Telavi"
 trade_goods = wine

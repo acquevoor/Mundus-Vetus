@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = circassian
+primary_culture = abkhazian
 religion = uatsdin
 technology_group = eastern
 capital = 1856 # Abkhazia

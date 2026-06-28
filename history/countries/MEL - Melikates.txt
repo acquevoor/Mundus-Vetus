@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = azerbaijani
+primary_culture = tsakhur
 religion = hurufiyya
 religious_school = hurufiyya_astarabadi
 technology_group = muslim
