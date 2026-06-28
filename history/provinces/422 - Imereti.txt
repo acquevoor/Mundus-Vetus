@@ -6,8 +6,8 @@ latent_trade_goods = {
 
 owner = GEO
 controller = GEO
-culture = georgian
-religion = orthodox
+culture = abazin
+religion = adyghe_habze
 capital = "Kutaisi"
 trade_goods = cloth
 hre = no

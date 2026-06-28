@@ -3,8 +3,8 @@
 owner = KAB
 controller = KAB
 add_core = KAB
-culture = circassian
-religion = orthodox
+culture = kabardian
+religion = adyghe_habze
 capital = "Nalchik"
 trade_goods = wool
 hre = no

@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = armenian
-religion = coptic
+religion = manichaei
 technology_group = eastern
 capital = 4303 # Oltu
 

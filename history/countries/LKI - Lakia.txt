@@ -1,8 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = dagestani
-religion = al_ghulat
-religious_school = ghulat_numayriyya
+religion = lak_pagan
+
 technology_group = muslim
 capital = 4306 # Lakia
 

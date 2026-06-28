@@ -3,8 +3,8 @@
 owner = MEL
 controller = MEL
 add_core = MEL
-culture = azerbaijani
-religion = hurufiyya
+culture = aghul
+religion = lezgic_pagan
 capital = "Ganja"
 trade_goods = cotton
 hre = no

@@ -3,8 +3,8 @@
 owner = KHU
 controller = KHU
 add_core = KHU
-culture = dagestani
-religion = hurufiyya
+culture = chechen
+religion = vainakh_pagan
 capital = "Khunzah"
 trade_goods = livestock
 hre = no

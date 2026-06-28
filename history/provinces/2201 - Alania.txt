@@ -3,8 +3,8 @@
 owner = Z40
 controller = Z40
 add_core = Z40
-culture = circassian
-religion = orthodox
+culture = alan
+religion = manichaei
 capital = "Dzaudzhikau"
 trade_goods = wool
 hre = no

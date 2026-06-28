@@ -3,8 +3,8 @@
 owner = Z10
 controller = Z10
 add_core = Z10
-culture = armenian
-religion = coptic
+culture = akhvakh
+religion = andic_pagan
 capital = "Yerevan"
 trade_goods = wine
 hre = no

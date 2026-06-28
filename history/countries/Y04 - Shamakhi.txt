@@ -1,8 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = azerbaijani
-religion = hurufiyya
-religious_school = hurufiyya_astarabadi
+religion = lezgic_pagan
+
 technology_group = muslim
 capital = 4299 # Shamakhi
 

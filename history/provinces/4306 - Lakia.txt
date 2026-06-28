@@ -3,8 +3,8 @@
 owner = LKI
 controller = LKI
 add_core = LKI
-culture = dagestani
-religion = al_ghulat
+culture = lak
+religion = lak_pagan
 capital = "Kumukh"
 trade_goods = iron
 hre = no

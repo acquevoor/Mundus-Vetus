@@ -3324,6 +3324,32 @@ caucasian = {
 		"Kaerkuys" "Djykkaj" "Godjysa" "Magket" "Paerraesta" "Hetaegkat" "Haedarca" "Tuallaeg" 
 		"Faerniat" "Ephraimid" "Tandelat" "Tsaeykostae" "Sozana" "Maerzoj"
 	}
+	mingrelian = { male_names = { Bidzina Dato Giorgi Levan Luka Mamia Otia Vakhtang Zurab } female_names = { Anna Ketevan Mariam Nino Tamar } dynasty_names = { Dadiani Chikovani Chiladze Gegidze Kvaratskhelia } }
+	svan = { male_names = { Beka Giorgi Jgëræg Levan Mikheil Otar Vakhtang } female_names = { Dali Eteri Mariam Nana Tamar } dynasty_names = { Dadeshkeliani Gelovani Geshelashvili } }
+	laz = { male_names = { Davit Giorgi Iason Konstantine Ramaz } female_names = { Helene Mariam Nino Tamar } dynasty_names = { Lazidze Tughuzi Vardidze } }
+	abkhazian = { male_names = { Aslan Beslan Inal Leon Shervashidze Vladislav } female_names = { Antsva Eteri Lasha Marina Tamar } dynasty_names = { Shervashidze Chachba Inalipa Marshania Achba } }
+	ubykh = { male_names = { Hadji Hassan Kerantukh Saouslan Tazryt } female_names = { Aisha Khazbiika Lamaara Marjam Nuura } dynasty_names = { Berzek Dzaipsh Khasap Tlabghan } }
+	kabardian = { male_names = { Aslan Beslan Idar Inal Kanboulat Temriouk } female_names = { Goshanay Khazbiika Lamaara Marjam Madiina } dynasty_names = { Idarov Kaitokin Cherkasski Atazhukin Misostov } }
+	abazin = { male_names = { Aslanbek Edyg Mahomet Murat Sultan } female_names = { Aisha Fatima Khazbiika Madiina Nuura } dynasty_names = { Loov Bibard Dudaruko Klych Tram } }
+	alan = { male_names = { Aslan Batraz Dzerassae Khetag Saouslan Urusbi Wastyrdzhi } female_names = { Acyruxs Agunda Dali Satana Zalina } dynasty_names = { Tagaurata Aelbeg Tuallaeg Haedarca Hetaegkat } }
+	chechen = { male_names = { Aslan Beslan Diela Imran Khasan Murad Shamil } female_names = { Aisha Iman Khedi Madina Petimat } dynasty_names = { Aldaroi Benoi Gendargenoi Turkhoi Varandoi } }
+	ingush = { male_names = { Aslan Bashir Idris Magomed Tusholi Yusup } female_names = { Aishat Khava Madina Marjam Petimat } dynasty_names = { Borogan Dudarov Evloev Tsechoev Yandiev } }
+	batsbi = { male_names = { Beka Giorgi Khasan Levan Tornike Zurab } female_names = { Dali Mariam Nana Nino Tamar } dynasty_names = { Batsishvili Tsiskarauli } }
+	avar = { male_names = { Becel Eul Khasan Magomed Surkhay Umma } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Avaria Khunzakh Mehtulin Andalal } }
+	andi = { male_names = { Khasan Magomed Said Umar Yusup } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Andiyal Botlikhal Munib } }
+	lak = { male_names = { Barhu Khasan Magomed Surkhay Zal } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Kazikumukh Shamkhal Khosrekh } }
+	tsez = { male_names = { Betsed Khasan Magomed Umar Yusup } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Tsezal Bezhtin Hunzal } }
+	akhvakh = { male_names = { Khasan Magomed Ratlu Said Umar } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Akhvakhal Tlanub Ratlu } }
+	dargin = { male_names = { Bersi Khasan Magomed Umar Zal } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Kaitag Akushin Mekegi Tsudakhar } }
+	lezgin = { male_names = { Alpan Hadji Khasan Magomed Surkhay } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Akhty Kurakh Qazikumukh Samurskoe } }
+	tabasaran = { male_names = { Alpan Hadji Khasan Magomed Said } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Tabasaransk Maysum Qadi } }
+	aghul = { male_names = { Hadji Khasan Magomed Said Umar } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Aghulal Burshag Tpig } }
+	rutul = { male_names = { Hadji Khasan Magomed Said Umar } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Rutulal Mukhad Shinaz } }
+	tsakhur = { male_names = { Hadji Khasan Magomed Said Umar } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Tsakhurli Ilisu Saribash } }
+	budukh = { male_names = { Hadji Khasan Magomed Said Umar } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Budukhal Khinalug Jek } }
+	udi = { male_names = { Aram Bagrat Gevorg Mkrtich Vardan } female_names = { Anna Hripsime Mariam Satenik Zabel } dynasty_names = { Aluank Vartashen Nij } }
+	bagvalal = { male_names = { Khasan Magomed Said Umar Yusup } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Bagvalal Kvanada Tlondoda } }
+	khinalug = { male_names = { Hadji Khasan Magomed Said Umar } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Khinalugal Quz Jek } }
 }
 
 turkish_group = {

@@ -4503,6 +4503,69 @@ pagan = {
 		}
 		heretic = { TENGRI }
 	}
+	adyghe_habze = {
+		color = { 80 130 70 }
+		icon = 81
+		country = { tolerance_own = 1 cavalry_power = 0.1 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { HABZE }
+	}
+	vainakh_pagan = {
+		color = { 110 90 70 }
+		icon = 81
+		country = { tolerance_own = 1 manpower_recovery_speed = 0.1 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { VAINAKH }
+	}
+	andic_pagan = {
+		color = { 170 130 90 }
+		icon = 81
+		country = { tolerance_own = 1 land_morale = 0.05 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { ANDIC }
+	}
+	shahdagh_pagan = {
+		color = { 200 140 60 }
+		icon = 81
+		country = { tolerance_own = 1 fire_damage = 0.05 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { SHAHDAGH }
+	}
+	avar_pagan = {
+		color = { 90 110 130 }
+		icon = 81
+		country = { tolerance_own = 1 shock_damage = 0.05 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { BECEL }
+	}
+	lak_pagan = {
+		color = { 160 100 50 }
+		icon = 81
+		country = { tolerance_own = 1 stability_cost_modifier = -0.1 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { LAK_PAGAN_HERESY }
+	}
+	tsezic_pagan = {
+		color = { 130 150 90 }
+		icon = 81
+		country = { tolerance_own = 1 production_efficiency = 0.05 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { TSEZIC_PAGAN_HERESY }
+	}
+	dargin_pagan = {
+		color = { 110 130 110 }
+		icon = 81
+		country = { tolerance_own = 1 trade_efficiency = 0.05 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { DARGIN_PAGAN_HERESY }
+	}
+	lezgic_pagan = {
+		color = { 180 90 50 }
+		icon = 81
+		country = { tolerance_own = 1 fire_damage_received = -0.1 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { ALPAN }
+	}
 	satsana_phi = {
 		color = { 196 87 52 }
 		icon = 45

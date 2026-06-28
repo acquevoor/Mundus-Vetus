@@ -3,8 +3,8 @@
 owner = ADY
 controller = ADY
 add_core = ADY
-culture = circassian
-religion = orthodox
+culture = ubykh
+religion = adyghe_habze
 capital = "Sochi"
 trade_goods = livestock
 hre = no

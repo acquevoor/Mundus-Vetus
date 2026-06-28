@@ -3,7 +3,7 @@
 owner = CIR
 controller = CIR
 culture = circassian
-religion = orthodox
+religion = adyghe_habze
 capital = "Adyche"
 trade_goods = livestock
 hre = no

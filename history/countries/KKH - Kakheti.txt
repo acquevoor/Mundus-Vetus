@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = circassian
-religion = uatsdin
+religion = shahdagh_pagan
 technology_group = eastern
 capital = 2203 # Kakheti
 
