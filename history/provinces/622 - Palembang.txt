@@ -1,7 +1,7 @@
 #622 - Palembang
 
 culture = sumatran
-religion = hinduism
+religion = vajrayana
 capital = "Palembang"
 trade_goods = unknown
 hre = no
@@ -27,7 +27,7 @@ center_of_trade = 1
 }
 
 1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR religion = sunni }
+1509.1.1 = { discovered_by = POR religion = vajrayana }
 
 1444.11.11 = {
 	owner = PLB

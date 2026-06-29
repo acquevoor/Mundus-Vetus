@@ -1,7 +1,7 @@
 #623 - Tulangbewang
 
 culture = sumatran
-religion = hinduism
+religion = vajrayana
 capital = "Tulangbewang"
 trade_goods = spices
 hre = no

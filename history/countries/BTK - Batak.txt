@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = sumatran
-religion = animism
+religion = vajrayana
 technology_group = chinese
 capital = 619 # Batak
 

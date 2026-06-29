@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = sumatran
-religion = hinduism
+religion = vajrayana
 technology_group = chinese
 capital = 2684 # Nias
 

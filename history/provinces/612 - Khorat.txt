@@ -23,7 +23,7 @@ discovered_by = indian
 
 1550.1.1 = { unrest = 6 } # Khorat revolt
 1551.1.1 = { unrest = 0 }
-1600.1.1 = { culture = central_thai }
+1600.1.1 = { culture = mon }
 1675.1.1 = {
 	owner = AYU
 	controller = AYU

@@ -4,7 +4,7 @@ controller = NIA
 add_core = NIA
 
 culture = sumatran
-religion = hinduism
+religion = vajrayana
 capital = "Nias"
 trade_goods = unknown
 hre = no

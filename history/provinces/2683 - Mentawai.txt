@@ -4,7 +4,7 @@ controller = MNT
 add_core = MNT
 
 culture = sumatran
-religion = hinduism
+religion = vajrayana
 capital = "Mentawai"
 trade_goods = unknown
 hre = no

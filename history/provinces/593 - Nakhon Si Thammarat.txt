@@ -3,7 +3,7 @@
 owner = CAI
 controller = CAI
 add_core = CAI
-culture = central_thai
+culture = mon
 religion = buddhism
 capital = "Nakhon Si Thammarat"
 trade_goods = tropical_wood

@@ -2,7 +2,7 @@
 owner = TUW
 controller = TUW
 add_core = TUW
-culture = central_thai
+culture = mon
 religion = buddhism
 capital = "Rayong"
 trade_goods = grain

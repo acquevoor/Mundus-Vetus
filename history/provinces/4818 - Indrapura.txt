@@ -1,7 +1,7 @@
 owner = IND
 controller = IND
 culture = sumatran
-religion = hinduism
+religion = vajrayana
 capital = "Indrapura"
 trade_goods = grain
 hre = no

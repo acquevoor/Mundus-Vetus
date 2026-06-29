@@ -4,7 +4,7 @@ controller = SIN
 add_core = SIN
 
 culture = sumatran
-religion = hinduism
+religion = vajrayana
 capital = "Bangka"
 trade_goods = unknown
 hre = no
@@ -30,7 +30,7 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1405.1.1 = { discovered_by = MNG }
-1509.1.1 = { discovered_by = POR religion = sunni }
+1509.1.1 = { discovered_by = POR religion = vajrayana }
 
 1444.11.11 = {
 	owner = SIN
