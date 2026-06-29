@@ -17,10 +17,6 @@ spriteTypes = {
 	}
 	### School icons
 	spriteType = {
-		name = "GFX_antinomiani_amalrician"
-		texturefile = "gfx/interface/icon_christian_rite_lyonese.dds"
-	}
-	spriteType = {
 		name = "GFX_antinomiani_adamite"
 		texturefile = "gfx/interface/icon_christian_rite_aurora.dds"
 	}

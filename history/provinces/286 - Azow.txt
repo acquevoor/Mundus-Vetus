@@ -3,7 +3,7 @@
 owner = Q15
 controller = Q15
 add_core = Q15
-culture = crimean
+culture = kipchak
 religion = sunni
 hre = no
 base_tax = 3

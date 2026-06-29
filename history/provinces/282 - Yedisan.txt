@@ -3,7 +3,7 @@
 owner = BUL
 controller = BUL
 add_core = BUL
-culture = crimean
+culture = kipchak
 religion = sunni
 hre = no
 base_tax = 2

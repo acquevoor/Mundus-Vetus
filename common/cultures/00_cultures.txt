@@ -10535,4 +10535,10 @@ ugric = {
 			Kaise Saiva
 		}
 	}
+	murom = {
+		primary = U02
+		male_names = { Murom Boris Gleb Yan Sigir Tugar Ulrab Voraga Kuy Murat Pelga Setyu Veksha Vyshemir Volodar Ratibor }
+		female_names = { Murza Signa Tola Veksa Yana Olota Pemka Pokshava Vergava }
+		dynasty_names = { Muromid Tyvertsky Klyazminid Okid Nerlid }
+	}
 }

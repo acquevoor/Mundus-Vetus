@@ -28,6 +28,6 @@ add_core = U00
 	owner = U00
 	controller = U00
 	add_core = U00
-	culture = siberian
+	culture = kipchak
 	religion = tengri_pagan_reformed
 }

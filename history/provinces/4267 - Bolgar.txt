@@ -31,6 +31,6 @@ add_core = U20
 	owner = U20
 	controller = U20
 	add_core = U20
-	culture = kazani
+	culture = kipchak
 	religion = ugric
 }

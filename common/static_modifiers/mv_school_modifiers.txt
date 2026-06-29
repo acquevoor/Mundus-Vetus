@@ -1,12 +1,4 @@
 # Mundus Vetus religious-school scholar modifiers
-antinomiani_amalrician_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	prestige_decay = -0.005
-}
-
 antinomiani_adamite_modifier = {
 	religion_sub_modifier = yes
 	religion = yes
