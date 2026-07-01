@@ -3748,19 +3748,3 @@ iceland_area = { }
 
 south_laos_area = { }
 
-# MV split-wasteland areas
-el_djouf_area = {
-	1793 4942 4943 4944 4945 4946 4947 4948
-}
-central_sahara_interior_area = {
-	1794 4949 4950 4951 4952 4953 4954 4955 4956
-}
-east_sahara_interior_area = {
-	1795 4957 4958 4959 4960 4961 4962 4963 4964 4965
-}
-bagoe_area = {
-	2251 4966 4967 4968
-}
-sumatra_interior_area = {
-	4808 4969 4970
-}

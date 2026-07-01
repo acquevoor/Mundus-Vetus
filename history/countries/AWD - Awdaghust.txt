@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = berber
 religion = sunni
 technology_group = east_african
-capital = 4948 # Awdaghust
+capital = 1112 # Trarza
 
 1444.11.11 = {
 	monarch = {
