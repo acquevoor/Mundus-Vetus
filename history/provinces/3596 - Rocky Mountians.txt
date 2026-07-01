@@ -1,0 +1,3 @@
+#3596 - Rocky Mountains
+
+discovered_by = north_american

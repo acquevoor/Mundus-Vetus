@@ -309,8 +309,6 @@ egypt_region = {
 
 maghreb_region = {
 	areas = {
-		east_sahara_interior_area
-		central_sahara_interior_area
 		fezzan_area
 		tunisia_area
 		djerba_area
@@ -471,8 +469,6 @@ guinea_region = {
 
 sahel_region = {
 	areas = {
-		bagoe_area
-		el_djouf_area
 		darfur_central_sahara_area
 		kanem_area
 		bornu_area
@@ -628,7 +624,6 @@ west_siberia_region = {
 		ob_area
 		central_siberia_area
 		tunguska_area
-		irkutsk_area
 		ishim_area
 		kara_area
 		aqmola_area
@@ -643,6 +638,7 @@ east_siberia_region = {
 		kamchatka_area
 		buryatia_area
 		kolyma_area
+		irkutsk_area
 	}
 }
 
@@ -1033,7 +1029,6 @@ upper_peru_region = {
 
 malaya_region = {	#Western Indonesia Malaya.
 	areas = {
-		sumatra_interior_area
 		north_sumatra_area
 		central_sumatra_area
 		south_sumatra_area
@@ -1484,6 +1479,7 @@ east_china_sea_region = {
 north_west_pacific_region = {
 	areas = {
 		east_pacific_ocean_area
+		berring_sea_area
 	}
 }
 
@@ -1506,7 +1502,6 @@ north_east_pacific_region = {
 	areas = {
 		north_pacific_area
 		north_pacific_coast_area
-		berring_sea_area
 		gulf_of_alaska_area
 	}
 }
