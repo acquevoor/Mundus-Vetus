@@ -1,8 +1,5 @@
 #4156 - The Caucasus
 
-owner = Z40
-controller = Z40
-add_core = Z40
 culture = svan
 religion = manichaei
 capital = "Svaneti"
@@ -11,7 +8,6 @@ hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
-is_city = yes
 
 discovered_by = muslim
 discovered_by = ottoman

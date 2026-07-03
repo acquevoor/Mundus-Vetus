@@ -1,8 +1,4 @@
 #1793 - El Djouf
-owner = AWD
-controller = AWD
-add_core = AWD
-is_city = yes
 
 culture = berber
 religion = sunni
@@ -16,11 +12,8 @@ native_size = 2
 native_ferocity = 2
 native_hostileness = 3
 
-
 1444.11.11 = {
-	owner = AWD
-	controller = AWD
-	add_core = AWD
+
 	culture = berber
 	religion = sunni
 }

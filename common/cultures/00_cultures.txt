@@ -244,6 +244,30 @@ germanic = {
 		#Hannoveran
 		"von Schack" "von Fabrice" "von Hardenberg" "von Welf" "von Schauenburg" "von Holstein-Gottorp" "Askanier" "von Oldenburg"
 	}
+	prussian = {
+		primary = PRU
+		male_names = {
+			Albrecht Friedrich August Emil Ferdinand Karl Ludwig Wilhelm Adolf Alfred Anton Benedikt
+			Benjamin Denis Diederick Eckbert Erwin Florian Franz Gebhard Gottfried Hartmann Heinrich Helmut
+			Horst Joachim Kaspar Kurt Leo Lukas Manfred Michael Nikolaus Oskar Otto Philipp Reiner Rudolf
+			Rupprecht Siegfried Siegmund Thomas Urs Viktor Werner
+		}
+		female_names = {
+			Raphaela Sabine Vera Betten Dagas Gelennis Gerkus Grasus Gulbis Mila Milyuns Weslikan Ziedas
+		}
+	}
+	baltic_german = {
+		primary = RIG
+		male_names = {
+			Albrecht Friedrich August Emil Ferdinand Karl Ludwig Wilhelm Adolf Alfred Anton Benedikt
+			Benjamin Denis Diederick Eckbert Erwin Florian Franz Gebhard Gottfried Hartmann Heinrich Helmut
+			Horst Joachim Kaspar Kurt Leo Lukas Manfred Michael Nikolaus Oskar Otto Philipp Reiner Rudolf
+			Jens Johann Engelbert Fromhold Johannes Henning Silvester Dietrich
+		}
+		female_names = {
+			Raphaela Sabine Vera Gertrud Ida
+		}
+	}
 }
 
 scandinavian = { #Nordic
@@ -6423,6 +6447,22 @@ east_asian = {	# Chinese Group
 		Feng Deng Hua Gu Fei Fu Hu Mei Xue Liao Jin Ye He Lan Du Fang Mao Hao 
 		Kong Jiao Si Pan Zuo Ding Bao Yan Tan Han Luo Xie Yuan Qin Ruan	Niu Zeng
 		Dong Lin Shen Ouyang Su Yu Ren Chai Xia Mo Dai Jiang Yue Jia Xiong Cui
+	}
+	altaic_new = {
+		country = { has_banners = yes }
+		province = { local_has_banners = yes }
+		primary = YUA
+		male_names = {
+			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bahamu Bars Buyan Dayan
+			Delbeg Ejei Elbeg Engke Guyuk Kublai Ligdan Manduulun Ogodei Temujin Temur Toghun
+			Tolui Uskhal Yesun Batu Eljigidei Joichi Tumen
+		}
+		female_names = {
+			Temulen Borte Mandukhai Samar Aigiarn Chabi Conchaka Ho'elun Khultulun Mandughai Toregene
+		}
+		dynasty_names = {
+			"Onggirat" "Naiman" "Kereyid" "Borjigin" "Toluid" "Jochid" "Chagatayid"
+		}
 	}
 }
 
