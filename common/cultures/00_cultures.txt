@@ -3236,6 +3236,43 @@ byzantine = {
 	dynasty_names = { 
 		Kantakouzenos Doukas Komnenos Palaiologos Laskaris Angelos Phokas
 	}
+
+	turkish = {
+		province = { local_has_qizilbash = yes }
+		primary = TUR
+		dynasty_names = {
+			"Osmanoglu" "Karamanoglu" "Menteseoglu" "Ramazanoglu" "Saruhanoglu"
+			"Dulkadiroglu" "Candaroglu" "Germiyanoglu" "Aydinoglu" "Eretnaoglu"
+			"Artukoglu" "Mutahhartenoglu" "Tekeoglu" "Hamidoglu" "Tacettinoglu"
+			"Oguzoglu" "Haciemiroglu" "Kubatoglu" "Bafraoglu" "Alaiyeoglu"
+		}
+		male_names = {
+			Mehmet Mustafa Murat Ahmet Selim Osman Mahmut S�leyman Bayezid Orhan Abdulaziz Abd�lhamit Ibrahim 
+			Abd�lmecit Abdullah Cem Cihangir Alaattin Isa Musa �mer Seyfettin Yakup Yusuf Giyasettin Numan 
+			Ali Davut Hasan H�seyin Ishak Kamer Kasim Korkut Emin Iskender Halil Sait Hamit Ertugrul Izzettin 
+			Nizamettin Sinan Ferhat Salih Ismail C�neyt Bahadir Hizir Harun Cemal Inal Celalettin Ilyas 
+			Dursun Ramazan Recep Abdulrahman Hayrettin
+			�agri �aka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp�Arslan" "Alp�Yurek" Alptigin Artuk Ayaz 
+			Aydin Aydogan Aydogdu Aytekin B�ru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars 
+			Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend Davud David 
+			Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan Hasan Hizir Ibrahim Ilgazi 
+			Inal Iskender Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun 
+			Kemal Kili� Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad 
+			Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan S�buk S�kmen S�nmez Suleyman Saim Saltuk 
+			Saruca Savtekin Savur Sehinsah Sel�uk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay 
+			Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Ulu� Umur Yakut Yaman Yinal 
+			Yunus
+		}
+		female_names = {
+			�i�ek �ilen �iltanesi �zgul �zlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu 
+			Boz�in Canan Ceylan Dunya Dilber Dilek Emine Esin Fatma Firuze Gul�i�ek Gulay Gulbahar Gulfem 
+			Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge Karacik Lale 
+			Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica 
+			Sati Sehnaz Serap Serife Sevilay Sevindik Sibel Sibylla Sirin Sirma Songul Sumru Tek�e Tura 
+			Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Hatice Safiye Zeynep H�rrem Mihrimah Nurbanu 
+			Handan Alime K�sem H�ma 
+		}
+	}
 }
 
 caucasian = {
@@ -3376,46 +3413,6 @@ caucasian = {
 	khinalug = { male_names = { Hadji Khasan Magomed Said Umar } female_names = { Aisha Fatima Khava Madina Patimat } dynasty_names = { Khinalugal Quz Jek } }
 }
 
-turkish_group = {
-	graphical_culture = muslimgfx
-
-	turkish = {
-		province = { local_has_qizilbash = yes }
-		primary = TUR
-		dynasty_names = {
-			"Osmanoglu" "Karamanoglu" "Menteseoglu" "Ramazanoglu" "Saruhanoglu"
-			"Dulkadiroglu" "Candaroglu" "Germiyanoglu" "Aydinoglu" "Eretnaoglu"
-			"Artukoglu" "Mutahhartenoglu" "Tekeoglu" "Hamidoglu" "Tacettinoglu"
-			"Oguzoglu" "Haciemiroglu" "Kubatoglu" "Bafraoglu" "Alaiyeoglu"
-		}
-		male_names = {
-			Mehmet Mustafa Murat Ahmet Selim Osman Mahmut S�leyman Bayezid Orhan Abdulaziz Abd�lhamit Ibrahim 
-			Abd�lmecit Abdullah Cem Cihangir Alaattin Isa Musa �mer Seyfettin Yakup Yusuf Giyasettin Numan 
-			Ali Davut Hasan H�seyin Ishak Kamer Kasim Korkut Emin Iskender Halil Sait Hamit Ertugrul Izzettin 
-			Nizamettin Sinan Ferhat Salih Ismail C�neyt Bahadir Hizir Harun Cemal Inal Celalettin Ilyas 
-			Dursun Ramazan Recep Abdulrahman Hayrettin
-			�agri �aka Afsin Ahmet Aksonqor Alaeddin Ali Alkan "Alp�Arslan" "Alp�Yurek" Alptigin Artuk Ayaz 
-			Aydin Aydogan Aydogdu Aytekin B�ru Bulend Bahadir Balaban Basbuga Batuhan Baturay Baybars 
-			Bayezid Baytas Belek Berkan Berkiyaruk Bozan Bugra Burak Cuneyd Dundar Danismend Davud David 
-			Demir Dogan Dogukan Dukak Erdem Ertan Ertekin Ertugrul Gunduz Hasan Hasan Hizir Ibrahim Ilgazi 
-			Inal Iskender Alexander Kurboga Kaikaus Kaikhusraw Kaiqobad Kara Karatay Kasim Kaya Kaytun 
-			Kemal Kili� Korkut Kutalmis Kutay Kutlug Mursel Mahmud Mehmed Meliksah Mengucek Mesud Murad 
-			Mustafa Orhan Osman Porsuk Rustem Ramazan Ridvan S�buk S�kmen S�nmez Suleyman Saim Saltuk 
-			Saruca Savtekin Savur Sehinsah Sel�uk Selim Sencer Sinan Tanrivermis Tekin Timurtas Togay 
-			Togtekin Toktamis Tolun Toruntay Tugrul Tunga Turgut Turhan Tutus Ulu� Umur Yakut Yaman Yinal 
-			Yunus
-		}
-		female_names = {
-			�i�ek �ilen �iltanesi �zgul �zlem Akgul Asli Aslihan Ayasun Ayla Ayse Ayten Azize Bahar Banu 
-			Boz�in Canan Ceylan Dunya Dilber Dilek Emine Esin Fatma Firuze Gul�i�ek Gulay Gulbahar Gulfem 
-			Gulsum Gumus Gunduz Gundes Gunes Hatice Hayat Huriye Ilkay Ilknur Ipek Ipekel Irge Karacik Lale 
-			Leyla Mala Mansure Merve Mutlu Nagihan Nergis Neslihan Nilufer Nur Peksen Terkhen Samur Sarica 
-			Sati Sehnaz Serap Serife Sevilay Sevindik Sibel Sibylla Sirin Sirma Songul Sumru Tek�e Tura 
-			Umay Usunbike Vahide Yasar Yeldem Yildiz Zehra Zuhal Hatice Safiye Zeynep H�rrem Mihrimah Nurbanu 
-			Handan Alime K�sem H�ma 
-		}
-	}
-}
 
 turko_semitic = { #Levantine
 	graphical_culture = muslimgfx
@@ -9562,6 +9559,12 @@ tartar	= {
 	dynasty_names = {
 		"Chagatay" "Edig�id" "Giray" "Borjigin" "Shaybanid" "Janid" "Mangit"
 	}
+
+	kipchak = {
+		male_names = { Bulan Obadiah Zachariah Benjamin Aaron Joseph Manasseh Nisi Menahem Tarkhan Bagatur Bihar Karadach Pesakh Alp }
+		female_names = { Sarah Serakh Atika Chichak Parsbit }
+		dynasty_names = { Ashina Bulanid Tarkhan }
+	}
 }
 
 #Cultures for use with the nation designer:
@@ -10227,50 +10230,8 @@ north_chinese = {
 	}
 }
 
-oghuric = {
-	graphical_culture = muslimgfx
 
-	bulgar = {
-		male_names = { Almush Almish Talib Mumin Ahmad Mikail Ibrahim Yusuf Bulan Khaydar Aydar Shilki Iltutmish Tukhchi }
-		female_names = { Aysylu Gulnara Suyumbike Altynchach Chulpan Banu }
-		dynasty_names = { Baranjar Bilar Suvar Esegel Almushid }
-	}
-}
 
-kipchak_group = {
-	graphical_culture = muslimgfx
-
-	kipchak = {
-		male_names = { Bulan Obadiah Zachariah Benjamin Aaron Joseph Manasseh Nisi Menahem Tarkhan Bagatur Bihar Karadach Pesakh Alp }
-		female_names = { Sarah Serakh Atika Chichak Parsbit }
-		dynasty_names = { Ashina Bulanid Tarkhan }
-	}
-}
-
-kipchak = {
-	graphical_culture = muslimgfx
-
-	cuman = {
-		male_names = { Konchak Sharukan Bonyak Tugorkan Kobyak Kotyan Bachman Koten Sokur Atrak Syrchan Begubars Aepa Danylo }
-		female_names = { Gurandukht Sevinch Aepa }
-		dynasty_names = { Sharukanid Terteroba Toksoba Yeti }
-	}
-	nogai = {
-		male_names = { Nogai Edigu Yusuf Ismail Tinakhmat Urus Kasai Sheidyak Musa Alchagir Agysh Mamai Mansur Shih }
-		female_names = { Yanbike Chichak Saadat }
-		dynasty_names = { Mansur Manghit Ediguid Yusufid }
-	}
-	kimek = {
-		male_names = { Shad Tutuk Yinal Bayghu Tarkhan Yagma Imek Bori Tegin Eltebir Kulerkin Atrak Bashqird }
-		female_names = { Yinal Ay Kun }
-		dynasty_names = { Bayandur Imur Kipchak Lanikaz }
-	}
-	kangly = {
-		male_names = { Kadyr Bukhan Tukhta Alp Kara Bori Sevinch Aytegin Inanch Kulug Tegin Yagan }
-		female_names = { Terken Aybike Khatun }
-		dynasty_names = { Kangli Terken Inanch }
-	}
-}
 
 karluk = {
 	graphical_culture = muslimgfx
@@ -10303,25 +10264,6 @@ karluk = {
 	}
 }
 
-siberian = {
-	graphical_culture = inuitgfx
-
-	yenisei = {
-		male_names = { Ediger Bekbulat Kulchuk Numan Itkar Saglar Inal Aba Tuba Sagai Beltir Kachin }
-		female_names = { Abakai Saglar Tan }
-		dynasty_names = { Yenisei Sagai Beltir Kachin }
-	}
-	sayan = {
-		male_names = { Oygur Kongar Soyan Mongush Khertek Salchak Tulush Kuular Mongun Aldyn Demir Bayan Tos }
-		female_names = { Saiyna Cheinesh Aylana }
-		dynasty_names = { Soyan Tulush Salchak Oyun }
-	}
-	sakha = {
-		male_names = { Ellei Omogoy Tygyn Mymak Maappa Logoy Sahaiar Dygyn Bert Khara Njurgun Uolan }
-		female_names = { Saisary Kustuk Tuyaaryma Nurguyaana }
-		dynasty_names = { Khangalas Borogon Megino Namsky }
-	}
-}
 
 
 ugric = {
