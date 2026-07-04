@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = tibetan
-religion = vajrayana
-technology_group = chinese
-capital = 4205
-religious_school = chos_jonang

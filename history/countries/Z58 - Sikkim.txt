@@ -1,7 +1,0 @@
-government = monarchy
-add_government_reform = feudalism_reform
-primary_culture = nepali
-religion = adivasi
-technology_group = indian
-capital = 4482
-religious_school = adivasi_kirati
