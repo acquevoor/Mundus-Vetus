@@ -1,7 +1,7 @@
 #1207 - Ogaden
-owner = OGA
-controller = OGA
-add_core = OGA
+owner = OGD
+controller = OGD
+add_core = OGD
 add_core = OGD
 culture = somali
 religion = sunni
@@ -21,7 +21,7 @@ discovered_by = east_african
 1550.1.1 = { discovered_by = TUR }
 
 1444.11.11 = {
-	owner = OGA
-	controller = OGA
-	add_core = OGA
+	owner = OGD
+	controller = OGD
+	add_core = OGD
 }

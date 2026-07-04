@@ -1,8 +1,8 @@
 #2764 - Aussa
 
-owner = HRE
-controller = HRE
-add_core = HRE
+owner = HAR
+controller = HAR
+add_core = HAR
 add_core = ADA
 add_core = AFA
 culture = afar
@@ -29,7 +29,7 @@ discovered_by = indian
 1649.1.1 = { unrest = 0 }
 
 1444.11.11 = {
-	owner = HRE
-	controller = HRE
-	add_core = HRE
+	owner = HAR
+	controller = HAR
+	add_core = HAR
 }

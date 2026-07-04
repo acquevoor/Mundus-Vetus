@@ -1,8 +1,8 @@
 #2761 - Arsi
 
-owner = HRE
-controller = HRE
-add_core = HRE
+owner = HAR
+controller = HAR
+add_core = HAR
 add_core = HDY
 culture = amhara 
 religion = sunni
@@ -37,7 +37,7 @@ discovered_by = indian
 } # Adal collapse in highlands in wake of Ahmad Gran's death
 
 1444.11.11 = {
-	owner = HRE
-	controller = HRE
-	add_core = HRE
+	owner = HAR
+	controller = HAR
+	add_core = HAR
 }

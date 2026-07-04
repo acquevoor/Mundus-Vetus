@@ -1,8 +1,8 @@
 #1208 - Degehabur
 
-owner = OGA
-controller = OGA
-add_core = OGA
+owner = OGD
+controller = OGD
+add_core = OGD
 add_core = ADA
 add_core = OGD
 culture = somali
@@ -24,7 +24,7 @@ discovered_by = indian
 1577.1.1 = { owner = WAR controller = WAR add_core = WAR}
 
 1444.11.11 = {
-	owner = OGA
-	controller = OGA
-	add_core = OGA
+	owner = OGD
+	controller = OGD
+	add_core = OGD
 }

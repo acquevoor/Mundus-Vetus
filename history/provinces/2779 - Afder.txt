@@ -1,7 +1,7 @@
 #2779 - Afder
-owner = OGA
-controller = OGA
-add_core = OGA
+owner = OGD
+controller = OGD
+add_core = OGD
 add_core = OGD
 culture = somali
 religion = sunni
@@ -23,7 +23,7 @@ discovered_by = east_african
 1730.1.1 = { owner = GLE controller = GLE }
 
 1444.11.11 = {
-	owner = OGA
-	controller = OGA
-	add_core = OGA
+	owner = OGD
+	controller = OGD
+	add_core = OGD
 }

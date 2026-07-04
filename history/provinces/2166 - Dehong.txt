@@ -1,8 +1,8 @@
 # 2166 - Dehong
 
-owner = MMO
-controller = MMO
-add_core = MMO
+owner = MMA
+controller = MMA
+add_core = MMA
 add_core = MMA
 culture = shan
 religion = buddhism
@@ -39,7 +39,7 @@ discovered_by = indian
 }
 
 1444.11.11 = {
-	owner = MMO
-	controller = MMO
-	add_core = MMO
+	owner = MMA
+	controller = MMA
+	add_core = MMA
 }

@@ -1,8 +1,8 @@
 #2778 - Werder
 
-owner = OGA
-controller = OGA
-add_core = OGA
+owner = OGD
+controller = OGD
+add_core = OGD
 add_core = MRE
 add_core = OGD
 culture = somali
@@ -38,7 +38,7 @@ discovered_by = ottoman
 #} # Majeerteen takes over Marehan
 
 1444.11.11 = {
-	owner = OGA
-	controller = OGA
-	add_core = OGA
+	owner = OGD
+	controller = OGD
+	add_core = OGD
 }

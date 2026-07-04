@@ -1,8 +1,8 @@
 #1210 - Dawaro
 
-owner = HRE
-controller = HRE
-add_core = HRE
+owner = HAR
+controller = HAR
+add_core = HAR
 add_core = ETH
 culture = harari 
 religion = sunni
@@ -64,7 +64,7 @@ discovered_by = indian
 1588.1.1 = { unrest = 5 } #Invasion by Oromo
 
 1444.11.11 = {
-	owner = HRE
-	controller = HRE
-	add_core = HRE
+	owner = HAR
+	controller = HAR
+	add_core = HAR
 }
