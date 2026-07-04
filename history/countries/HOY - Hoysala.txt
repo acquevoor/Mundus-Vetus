@@ -1,8 +1,8 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = kannada
-religion = hinduism
-religious_school = vaidika_agama
+religion = jain
+religious_school = jain_digambara
 technology_group = indian
 capital = 4421 # Hoysala
 

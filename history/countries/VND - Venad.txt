@@ -2,8 +2,8 @@ government = monarchy
 add_government_reform = nayankara_reform
 government_rank = 1
 technology_group = indian
-religion = hinduism
-religious_school = vaidika_agama
+religion = ecclesia_assyrica
+religious_school = assyrica_indian
 primary_culture = malayalam
 capital = 537	# Padmanabhapuram
 
