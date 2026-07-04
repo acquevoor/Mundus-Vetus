@@ -1,7 +1,7 @@
 #Fyn-Langeland
-add_core = Q00
-owner = Q00
-controller = Q00
+add_core = DAN
+owner = DAN
+controller = DAN
 culture = danish
 religion = catholic
 hre = no
@@ -18,11 +18,11 @@ discovered_by = ottoman
 
 
 1536.1.1 = { religion = protestant }
-1658.1.31 = { controller = Q01 } # Karl X Gustavs First Danish War-Captured by Karl X Gustav
-1658.2.26 = { controller = Q00 } # The Peace of Roskilde
+1658.1.31 = { controller = SWE } # Karl X Gustavs First Danish War-Captured by Karl X Gustav
+1658.2.26 = { controller = DAN } # The Peace of Roskilde
 
 1444.11.11 = {
-	owner = Q00
-	controller = Q00
-	add_core = Q00
+	owner = DAN
+	controller = DAN
+	add_core = DAN
 }

@@ -16,7 +16,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = Q04
+add_core = POL
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -36,7 +36,7 @@ center_of_trade = 2
 1569.7.1 = {
 	owner = PLC
 	controller = PLC
-	remove_core = Q04
+	remove_core = POL
 	add_core = PLC
 } # Union of Lublin
 1588.1.1 = { revolt = { type = revolutionary_rebels size = 0 } controller = REB } # Civil war
@@ -56,9 +56,9 @@ center_of_trade = 2
 	add_core = HAB
 } # Third partition of Poland
 1807.7.9 = {
-	owner = Q04
-	controller = Q04
-	add_core = Q04
+	owner = POL
+	controller = POL
+	add_core = POL
 	remove_core = HAB
 } # The Duchy of Warsaw is established after the treaty of Tilsit, ruled by Frederick Augustus I of Saxony
 1812.12.12 = { controller = RUS }

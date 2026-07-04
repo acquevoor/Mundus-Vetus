@@ -3,7 +3,7 @@
 owner = VEL
 controller = VEL
 add_core = VEL
-add_core = Q06
+add_core = BRA
 add_core = RUP
 culture = saxon
 religion = catholic
@@ -25,7 +25,7 @@ discovered_by = ottoman
 	owner = PRU
 	controller = PRU
 	add_core = PRU
-	remove_core = Q06
+	remove_core = BRA
 } # Friedrich III becomes king of Prussia
 1725.1.1 = { base_manpower = 3 base_tax = 6 base_production = 6 }
 1730.1.1 = { base_manpower = 4 }

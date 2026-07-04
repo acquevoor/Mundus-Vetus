@@ -1,7 +1,7 @@
 #123 - Calabria
 
-owner = Q15
-controller = Q15
+owner = NAP
+controller = NAP
 culture = sicilian 
 religion = catholic 
 hre = no 
@@ -11,7 +11,7 @@ trade_goods = fish
 base_manpower = 2
 capital = "Reggio di Calabria"
 is_city = yes 
-add_core = Q15
+add_core = NAP
 
 
 
@@ -23,7 +23,7 @@ discovered_by = ottoman
 
 1494.1.1 = { add_core = FRA } # Angevine claims
 1495.2.22 = { controller = FRA } # Charles VIII invades Naples
-1495.7.7 = { controller = Q15 } # Charles VIII leaves Italy
+1495.7.7 = { controller = NAP } # Charles VIII leaves Italy
 1502.1.1 = { owner = FRA controller = FRA } # France and Aragon partitions Naples
 1503.6.1 = { owner = ARA controller = ARA add_core = ARA } # France forced to withdraw
 1504.1.31 = { remove_core = FRA } # Treaty of Lyon
@@ -39,10 +39,10 @@ discovered_by = ottoman
 	add_core = HAB
 	remove_core = SPA
 }
-1734.6.2 = { owner = Q15 controller = Q15 remove_core = HAB }
+1734.6.2 = { owner = NAP controller = NAP remove_core = HAB }
 
 1444.11.11 = {
-	owner = Q15
-	controller = Q15
-	add_core = Q15
+	owner = NAP
+	controller = NAP
+	add_core = NAP
 }

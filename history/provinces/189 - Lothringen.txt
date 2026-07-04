@@ -1,8 +1,8 @@
 # 189 Lothringen - Principal cities: Nancy
 
-owner = Q11
-controller = Q11 
-add_core = Q11
+owner = LUX
+controller = LUX 
+add_core = LUX
 capital = "Nancy"
 is_city = yes
 culture = burgundian
@@ -38,7 +38,7 @@ discovered_by = ottoman
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = Q11
-	controller = Q11
-	add_core = Q11
+	owner = LUX
+	controller = LUX
+	add_core = LUX
 }

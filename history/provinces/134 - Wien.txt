@@ -1,8 +1,8 @@
 #134 - Wien
 
-owner = Q14
-controller = Q14
-add_core = Q14
+owner = MVA
+controller = MVA
+add_core = MVA
 add_core = HAB
 culture = austrian
 religion = catholic
@@ -32,7 +32,7 @@ center_of_trade = 2
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = Q14
-	controller = Q14
-	add_core = Q14
+	owner = MVA
+	controller = MVA
+	add_core = MVA
 }

@@ -1,7 +1,7 @@
 #4534 - Upita
 
-owner = Q03
-controller = Q03
+owner = LIT
+controller = LIT
 culture = lithuanian
 religion = baltic_pagan
 capital = "Upyte"
@@ -11,7 +11,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = Q03
+add_core = LIT
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -29,7 +29,7 @@ discovered_by = ottoman
 	controller = PLC
 	add_core = PLC
 } # Union of Lublin
-1701.1.1 = { controller = Q01 } # Swedish occupation
+1701.1.1 = { controller = SWE } # Swedish occupation
 1706.9.24 = { controller = PLC } # Treaty of Altranstadt
  # Great plague, lost almost two thirds of its population
 1794.3.24 = { unrest = 6 } # Kosciuszko uprising
@@ -39,7 +39,7 @@ discovered_by = ottoman
 1812.12.10 = { controller = RUS }
 
 1444.11.11 = {
-	owner = Q03
-	controller = Q03
-	add_core = Q03
+	owner = LIT
+	controller = LIT
+	add_core = LIT
 }

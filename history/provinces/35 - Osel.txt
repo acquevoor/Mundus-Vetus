@@ -1,8 +1,8 @@
 #Ösel and Dagö, incl. Sonnenburg and Arensburg.
 
-owner = Q01
-controller = Q01
-add_core = Q01
+owner = SWE
+controller = SWE
+add_core = SWE
 add_core = LIV
 add_core = EST
 culture = estonian
@@ -23,28 +23,28 @@ discovered_by = eastern
 
 1542.1.1 = { religion = protestant} # Unknown date
 1559.1.1 = {
-	owner = Q00
-	controller = Q00
-	add_core = Q00
+	owner = DAN
+	controller = DAN
+	add_core = DAN
 	remove_core = LIV
 } # Danish purchase
-1568.7.25 = { controller = Q01 } # Nordic Seven-year War
-1570.12.13 = { controller = Q00 } # The Peace of Stettin
+1568.7.25 = { controller = SWE } # Nordic Seven-year War
+1570.12.13 = { controller = DAN } # The Peace of Stettin
 1645.8.13 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
-	remove_core = Q00
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+	remove_core = DAN
 	} # The Peace of Brömsebro
 1710.9.20 = { controller = RUS }
 1721.8.30 = {
 	owner = RUS
 	add_core = RUS 
-	remove_core = Q01
+	remove_core = SWE
 } # The Peace of Nystad
 
 1444.11.11 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
+	owner = SWE
+	controller = SWE
+	add_core = SWE
 }

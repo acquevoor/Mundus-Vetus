@@ -1,8 +1,8 @@
 #1745 - Cantabria
 
-owner = Q07		#Enrique III of Castille
-controller = Q07
-add_core = Q07
+owner = CAS		#Enrique III of Castille
+controller = CAS
+add_core = CAS
 add_core = ASU
 culture = castillian
 religion = catholic
@@ -22,13 +22,13 @@ center_of_trade = 1
 
 
 1475.6.2 = { controller = POR }
-1476.3.2 = { controller = Q07 }
+1476.3.2 = { controller = CAS }
 1516.1.23  = {
 	controller = SPA
 	owner = SPA
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
-1713.4.11  = { remove_core = Q07 }
+1713.4.11  = { remove_core = CAS }
 1808.6.6 = { revolt = { type = pretender_rebels size = 0 } controller = REB }
 1809.1.1 = { revolt = {} controller = SPA }
 1812.10.1  = { revolt = { type = pretender_rebels size = 0 } controller = REB }
@@ -36,7 +36,7 @@ center_of_trade = 1
 
 
 1444.11.11 = {
-	owner = Q07
-	controller = Q07
-	add_core = Q07
+	owner = CAS
+	controller = CAS
+	add_core = CAS
 }

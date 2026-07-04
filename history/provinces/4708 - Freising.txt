@@ -1,5 +1,5 @@
-owner = Q10
-controller = Q10
+owner = LBV
+controller = LBV
 capital = "Freising"
 is_city = yes
 culture = bavarian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 trade_goods = grain #Weihenstephaner beer
-add_core = Q10
+add_core = LBV
 
 discovered_by = eastern
 discovered_by = western

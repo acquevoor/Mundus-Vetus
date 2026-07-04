@@ -1,8 +1,8 @@
 #64 - Landshut
 
-owner = Q10
-controller = Q10
-add_core = Q10
+owner = LBV
+controller = LBV
+add_core = LBV
 culture = bavarian
 religion = catholic
 base_tax = 5

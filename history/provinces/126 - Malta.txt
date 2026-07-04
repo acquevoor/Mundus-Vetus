@@ -21,7 +21,7 @@ discovered_by = ottoman
 	# owner = ARA
 	# controller = ARA
 	# add_core = ARA
-	# add_core = Q15
+	# add_core = NAP
 # } # Martin I inherits Sicily from his son
 1516.1.23 = {
 	owner = SPA

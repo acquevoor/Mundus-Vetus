@@ -1,7 +1,7 @@
 #4147 - Rostov (includes Uglich)
 
-owner = Q19
-controller = Q19  
+owner = RSO
+controller = RSO  
 culture = russian
 religion = orthodox
 hre = no
@@ -11,7 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Rostov"
 is_city = yes
-add_core = Q19
+add_core = RSO
 #add_core = MOS #Owns half of this province already
 discovered_by = eastern
 discovered_by = western
@@ -28,7 +28,7 @@ discovered_by = KAZ
 	controller = RUS
 	add_core = RUS
 	remove_core = MOS
-	remove_core = Q19
+	remove_core = RSO
 }
 1560.1.1 = { base_tax = 4 
 base_production = 4 } # Treasury reforms
@@ -38,7 +38,7 @@ base_production = 4 } # Treasury reforms
 1767.1.1 = { base_tax = 8 base_production = 8 } # Legislative reform
 
 1444.11.11 = {
-	owner = Q19
-	controller = Q19
-	add_core = Q19
+	owner = RSO
+	controller = RSO
+	add_core = RSO
 }

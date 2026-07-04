@@ -28,15 +28,15 @@ discovered_by = western
 }
 1465.1.1 = { unrest = 5 } #Marinid Sultan killed by mob. Mohammed ibn Ali Amrani-Joutey (Idrisid) proclaims himself Sultan. Unrest in the entire country. 
 1472.1.1 = { owner = SOS controller = SOS unrest = 0 } #Wattasids take control over Fez, nominal ruler over much of Morocco.
-1476.1.1 = {	owner = Q07
-	controller = Q07
-	add_core = Q07
+1476.1.1 = {	owner = CAS
+	controller = CAS
+	add_core = CAS
 } # Conquered by Spain
 1500.1.1 = { discovered_by = eastern }
 1516.1.23 = {	owner = SPA
 	controller = SPA
 	add_core = SPA
-	remove_core = Q07
+	remove_core = CAS
 } # Ferdinand the Catholic dies, Charles inherits Aragon and becomes regent of Castille
 1524.1.1 = { owner = TFL controller = TFL add_core = TFL remove_core = SPA } # Expelled by Berbers
 1549.1.1 = {

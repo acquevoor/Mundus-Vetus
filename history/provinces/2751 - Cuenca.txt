@@ -3,7 +3,7 @@ add_core = TLD
 
 owner = TLD		#Juan II of Castille
 controller = TLD
-add_core = Q07
+add_core = CAS
 culture = castillian
 religion = catholic
 hre = no
@@ -35,7 +35,7 @@ discovered_by = ottoman
 1706.8.4 = { controller = SPA } # Troops loyal to Felipe V recover the city
 1710.9.27 = { controller = HAB } # Archduke Carlos takes the city
 1710.11.9 = { controller = SPA } # Archduke Carlos leaves the city due to the pressure of partidaries of Felipe V
-1713.4.11 = { remove_core = Q07 }
+1713.4.11 = { remove_core = CAS }
 1808.6.6 = { revolt = { type = pretender_rebels size = 1 } controller = REB }
 1809.1.1 = { revolt = {} controller = SPA }
 1812.10.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB }

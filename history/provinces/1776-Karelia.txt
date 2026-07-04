@@ -19,7 +19,7 @@ add_local_autonomy = 25
 owner = U07
 controller = U07
 
-1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = Q05 }
+1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV }
 1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }
 add_core = U07
 1444.11.11 = {

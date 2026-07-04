@@ -1,8 +1,8 @@
 #Narva
 
-owner = Q01
-controller = Q01
-add_core = Q01
+owner = SWE
+controller = SWE
+add_core = SWE
 add_core = LIV
 add_core = EST
 culture = estonian
@@ -31,20 +31,20 @@ discovered_by = eastern
 	remove_core = LIV
 } # Russian conquest
 1581.1.1 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
+	owner = SWE
+	controller = SWE
+	add_core = SWE
 	remove_core = RUS
 } # Swedish conquest
 1704.8.9 = { controller = RUS } # Second Battle of Narva
 1721.8.30 = {
 	owner = RUS
 	add_core = RUS
-	remove_core = Q01
+	remove_core = SWE
 } # The Peace of Nystad
 
 1444.11.11 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
+	owner = SWE
+	controller = SWE
+	add_core = SWE
 }

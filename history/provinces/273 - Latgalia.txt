@@ -1,9 +1,9 @@
 #273 - Latgalia / Inflanty Duchy
 
-owner = Q02
-controller = Q02
+owner = LTG
+controller = LTG
 add_core = LIV
-add_core = Q02
+add_core = LTG
 culture = latvian
 religion = baltic_pagan
 capital = "Dünaburg"
@@ -24,9 +24,9 @@ discovered_by = eastern
 
 
 1561.1.1 = {
-	owner = Q03
-	controller = Q03
-	add_core = Q03
+	owner = LIT
+	controller = LIT
+	add_core = LIT
 	remove_core = LIV
 	} # Conquered by Lithuania
 1569.7.1 = {
@@ -41,7 +41,7 @@ discovered_by = eastern
 } # First partition of Poland
 
 1444.11.11 = {
-	owner = Q02
-	controller = Q02
-	add_core = Q02
+	owner = LTG
+	controller = LTG
+	add_core = LTG
 }

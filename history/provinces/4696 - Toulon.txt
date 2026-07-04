@@ -1,7 +1,7 @@
 # Forcalquier
 
-owner = Q18
-controller = Q18 
+owner = PRO
+controller = PRO 
 capital = "Toulon"
 is_city = yes
 culture = occitain
@@ -11,7 +11,7 @@ base_tax = 4
 base_production = 4
 trade_goods = naval_supplies
 base_manpower = 3
-add_core = Q18
+add_core = PRO
 
 
 
@@ -44,7 +44,7 @@ discovered_by = ottoman
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = Q18
-	controller = Q18
-	add_core = Q18
+	owner = PRO
+	controller = PRO
+	add_core = PRO
 }

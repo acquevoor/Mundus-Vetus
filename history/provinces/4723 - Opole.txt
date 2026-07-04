@@ -1,6 +1,6 @@
-owner = Q04
-controller = Q04
-add_core = Q04
+owner = POL
+controller = POL
+add_core = POL
 culture = schlesian
 religion = slavic_pagan
 hre = yes
@@ -42,7 +42,7 @@ base_production = 5 base_manpower = 3}
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = Q04
-	controller = Q04
-	add_core = Q04
+	owner = POL
+	controller = POL
+	add_core = POL
 }

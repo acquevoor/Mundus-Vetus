@@ -1,8 +1,8 @@
 #Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
 
-add_core = Q01
-owner = Q01
-controller = Q01
+add_core = SWE
+owner = SWE
+controller = SWE
 culture = swedish
 religion = catholic
 hre = no
@@ -19,7 +19,7 @@ discovered_by = western
 1527.6.1 = { religion = protestant}
 
 1444.11.11 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
+	owner = SWE
+	controller = SWE
+	add_core = SWE
 }

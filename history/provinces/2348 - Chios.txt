@@ -1,8 +1,8 @@
 #2348 - Chios
 
-owner = Q15
-controller = Q15
-add_core = Q15
+owner = NAP
+controller = NAP
+add_core = NAP
 culture = greek
 religion = catholic
 capital = "Chio"
@@ -32,7 +32,7 @@ discovered_by = western
 1740.1.1 = { base_tax = 1 base_production = 1 } # The decentralizing effect of the provincial system
 
 1444.11.11 = {
-	owner = Q15
-	controller = Q15
-	add_core = Q15
+	owner = NAP
+	controller = NAP
+	add_core = NAP
 }

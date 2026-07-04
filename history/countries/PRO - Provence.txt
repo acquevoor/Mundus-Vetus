@@ -4,9 +4,9 @@ government_rank = 1
 primary_culture = occitain
 add_accepted_culture = cosmopolitan_french
 religion = catholic
-religious_school = catholic_dominican
 technology_group = western
-capital = 2991 # Forcalquier (relocated; Aix/201 ceded to Farakshat)
+capital = 2991 # Draguignan (MV override; base cap reassigned)
+
 
 1399.8.1 = {
 	monarch = {
@@ -45,8 +45,8 @@ capital = 2991 # Forcalquier (relocated; Aix/201 ceded to Farakshat)
 
 1417.1.1 = {
 	heir = {
-		name = "Renï¿½"
-		monarch_name = "Renï¿½ I"
+		name = "René"
+		monarch_name = "René I"
 		dynasty = "de Valois"
 		birth_date = 1409.1.16
 		death_date = 1480.7.10
@@ -59,7 +59,7 @@ capital = 2991 # Forcalquier (relocated; Aix/201 ceded to Farakshat)
 
 1434.11.16 = {
 	monarch = {
-		name = "Renï¿½ I"
+		name = "René I"
 		dynasty = "de Valois"
 		birth_date = 1409.1.16
 		adm = 3
@@ -100,3 +100,55 @@ capital = 2991 # Forcalquier (relocated; Aix/201 ceded to Farakshat)
 1444.1.1 = {
 	capital = 178 #Anjou
 }
+
+1454.9.10 = {
+	queen = {
+		country_of_origin = BRI #Count of Laval
+		name = "Jeanne"
+		dynasty = "de Laval"
+		birth_date = 1433.11.10
+		death_date = 1498.12.19
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+}
+
+1470.1.1 = {
+	capital = 201 # Aix-en-Provence
+}
+
+1480.7.10 = {
+	monarch = {
+		name = "Charles III"
+		dynasty = "de Valois"
+		birth_date = 1436.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+	queen = {
+		country_of_origin = LOR
+		name = "Jeanne"
+		dynasty = "de Vaudémont"
+		birth_date = 1458.1.1
+		death_date = 1480.12.1
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+1515.1.1 = {
+	government = monarchy
+add_government_reform = autocracy_reform
+}
+
+1560.1.1 = { religion = reformed }
+
+1589.8.3 = { set_legacy_government = administrative_monarchy }
+
+1661.3.9 = { government = monarchy
+add_government_reform = autocracy_reform }

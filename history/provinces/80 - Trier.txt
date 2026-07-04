@@ -1,5 +1,5 @@
-owner = Q21
-controller = Q21
+owner = TRI
+controller = TRI
 culture = hessian
 religion = catholic
 trade_goods = grain
@@ -7,7 +7,7 @@ capital = "Trier"
 base_tax = 5
 base_production = 5
 is_city = yes
-add_core = Q21
+add_core = TRI
 base_manpower = 2
 hre = yes
 discovered_by = eastern

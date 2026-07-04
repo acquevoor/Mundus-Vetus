@@ -1,7 +1,7 @@
 #Ume, Åsele, Piteå Lappmarks
-owner = Q01
-controller = Q01
-add_core = Q01
+owner = SWE
+controller = SWE
+add_core = SWE
 
 capital = "Arvidsjaur"
 add_core = SMI
@@ -21,9 +21,9 @@ is_city = yes
 
 
 1440.1.1 = {
-	owner = Q01
-	controller = Q01 
-	add_core = Q01
+	owner = SWE
+	controller = SWE 
+	add_core = SWE
 	is_city = yes
 	add_local_autonomy = 70
 	trade_goods = fur
@@ -33,7 +33,7 @@ is_city = yes
 1640.1.2 = { religion = protestant }
 
 1444.11.11 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
+	owner = SWE
+	controller = SWE
+	add_core = SWE
 }

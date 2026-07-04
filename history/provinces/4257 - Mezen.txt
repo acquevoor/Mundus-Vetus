@@ -1,7 +1,7 @@
 #4257 - Mezen
 
-owner = Q05 
-controller = Q05 
+owner = NOV 
+controller = NOV 
 culture = novgorodian
 religion = slavic_pagan
 hre = no
@@ -11,7 +11,7 @@ trade_goods = fish
 base_manpower = 1
 capital = "Okladnikova Sloboda"
 is_city = yes
-add_core = Q05
+add_core = NOV
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL
@@ -24,7 +24,7 @@ discovered_by = western
 	owner = MOS
 	controller = MOS
 	add_core = MOS
-	remove_core = Q05 
+	remove_core = NOV 
 } # Passed to Muscovy with the rest of Novgorod republic
 1503.4.1 = {
 	owner = RUS

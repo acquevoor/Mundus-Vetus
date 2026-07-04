@@ -1,10 +1,10 @@
 #Gotland- Visby etc
 
-owner = Q00 
-controller = Q00
+owner = DAN 
+controller = DAN
 add_core = GOT
-add_core = Q00
-add_core = Q01
+add_core = DAN
+add_core = SWE
 culture = swedish
 religion = catholic
 hre = no
@@ -25,19 +25,19 @@ center_of_trade = 1
 
 
 #1439.9.24 = { revolt = { type = pretender_rebels size = 1 leader = "Eric Gryf" } controller = REB } # Eric settles at Visborg Castle, living off piracy
-1449.1.1 = { controller = Q00 owner = Q00 } # Eric surrenders the Castle to Denmark
+1449.1.1 = { controller = DAN owner = DAN } # Eric surrenders the Castle to Denmark
 1523.4.14 = { revolt = { type = revolutionary_rebels size = 1 } controller = REB } # Prelude to 'Grevefejden'(Sören Norrby)
-1525.6.1 = { revolt = {} controller = Q00 } # Recaptured after Sören Norrby left (date unknown)
+1525.6.1 = { revolt = {} controller = DAN } # Recaptured after Sören Norrby left (date unknown)
 1536.1.1 = { religion = protestant} # Unknown date
-1644.7.1 = { controller = Q01 } # Torstenssons War-Captured by Erik Ryning
-1645.8.13 = { owner = Q01 fort_15th = no } # The Peace of Brömsebro
-1676.5.1 = { owner = Q00 controller = Q00 } # 1st Pommeranian War-Captured by Niels Juel
-1679.9.23 = { owner = Q01 controller = Q01 } # The Peace of Fontainbleau
+1644.7.1 = { controller = SWE } # Torstenssons War-Captured by Erik Ryning
+1645.8.13 = { owner = SWE fort_15th = no } # The Peace of Brömsebro
+1676.5.1 = { owner = DAN controller = DAN } # 1st Pommeranian War-Captured by Niels Juel
+1679.9.23 = { owner = SWE controller = SWE } # The Peace of Fontainbleau
 1808.3.1 = { controller = RUS } # Conquered by Russian troops
-1808.5.1 = { controller = Q01 } # The Russians are defeated
+1808.5.1 = { controller = SWE } # The Russians are defeated
 
 1444.11.11 = {
-	owner = Q00
-	controller = Q00
-	add_core = Q00
+	owner = DAN
+	controller = DAN
+	add_core = DAN
 }

@@ -1,8 +1,8 @@
 #320 - Rhodes
 
-owner = Q15 		# Knights of St. John Hospitaler of Jerusalem
-controller = Q15
-add_core = Q15
+owner = NAP 		# Knights of St. John Hospitaler of Jerusalem
+controller = NAP
+add_core = NAP
 culture = greek
 religion = catholic
 capital = "Rhodes"
@@ -28,7 +28,7 @@ discovered_by = ottoman
 } # Part of the Ottoman Empire
 
 1444.11.11 = {
-	owner = Q15
-	controller = Q15
-	add_core = Q15
+	owner = NAP
+	controller = NAP
+	add_core = NAP
 }

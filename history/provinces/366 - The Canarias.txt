@@ -19,9 +19,9 @@ native_hostileness = 0
 	discovered_by = ottoman
 	discovered_by = CAS
 
-	owner = Q07
-	controller = Q07
-	add_core = Q07
+	owner = CAS
+	controller = CAS
+	add_core = CAS
 	is_city = yes
 	trade_goods = sugar
 } # Castilian control
@@ -31,4 +31,4 @@ native_hostileness = 0
 	owner = SPA
 	add_core = SPA
 } # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
-1713.4.11 = { remove_core = Q07 }
+1713.4.11 = { remove_core = CAS }

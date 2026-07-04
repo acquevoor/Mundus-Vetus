@@ -1,8 +1,8 @@
 # 187 Barrois - Principal cities: Verdun
 
-owner = Q11
-controller = Q11
-add_core = Q11
+owner = LUX
+controller = LUX
+add_core = LUX
 capital = "Bar-le-Duc"
 is_city = yes
 culture = burgundian
@@ -22,12 +22,12 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-1430.6.26 = { owner = Q18 controller = Q18 add_core = Q18 }
+1430.6.26 = { owner = PRO controller = PRO add_core = PRO }
 1467.6.15 = { add_core = BUR } # Charles the Bold ascends and lays claims on Bar
 1475.11.30 = { owner = BUR controller = BUR unrest = 5 } # Charles the Bold annexes Bar
 1476.1.1 = { unrest = 0 revolt = { type = nationalist_rebels size = 2 } controller = REB } # Bar revolts against Charles the Bold during the Burgundian-Swiss War
-1477.1.5 = { revolt = {} owner = Q18 controller = Q18 remove_core = BUR } # Charles the Bold dies and Lorraine is re-established
-1480.7.10 = { owner = BAR controller = BAR remove_core = Q18 }
+1477.1.5 = { revolt = {} owner = PRO controller = PRO remove_core = BUR } # Charles the Bold dies and Lorraine is re-established
+1480.7.10 = { owner = BAR controller = BAR remove_core = PRO }
 1483.3.23 = { owner = LOR controller = LOR add_core = LOR remove_core = BAR }
 1634.1.19 = { owner = FRA controller = FRA add_core = FRA }
 1661.2.28 = { owner = LOR controller = LOR }
@@ -37,7 +37,7 @@ discovered_by = ottoman
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = Q11
-	controller = Q11
-	add_core = Q11
+	owner = LUX
+	controller = LUX
+	add_core = LUX
 }

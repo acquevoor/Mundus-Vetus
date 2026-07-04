@@ -1,8 +1,8 @@
 #142 - Corfu
 
-owner = Q15
-controller = Q15
-add_core = Q15
+owner = NAP
+controller = NAP
+add_core = NAP
 culture = greek
 religion = orthodox
 capital = "Corfu"
@@ -52,7 +52,7 @@ discovered_by = ottoman
 } # The Second Treaty of Paris
 
 1444.11.11 = {
-	owner = Q15
-	controller = Q15
-	add_core = Q15
+	owner = NAP
+	controller = NAP
+	add_core = NAP
 }

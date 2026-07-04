@@ -1,7 +1,7 @@
 #1979 - Färöarna
 
-owner = Q16
-controller = Q16 
+owner = NOR
+controller = NOR 
 culture = icelandic
 religion = norse_pagan_reformed
 hre = no
@@ -11,7 +11,7 @@ base_manpower = 1
 trade_goods = fish
 capital = "Torshavn"
 is_city = yes
-add_core = Q16
+add_core = NOR
 
 
 
@@ -19,13 +19,13 @@ discovered_by = western
 
 
 1536.1.1 = {
-	owner = Q00
-	controller = Q00
-	add_core = Q00
+	owner = DAN
+	controller = DAN
+	add_core = DAN
 }
 
 1444.11.11 = {
-	owner = Q16
-	controller = Q16
-	add_core = Q16
+	owner = NOR
+	controller = NOR
+	add_core = NOR
 }

@@ -14,7 +14,7 @@ trade_goods = cloth
 base_manpower = 4
 add_local_autonomy = 80
 add_core = ENG
-add_core = Q18
+add_core = PRO
 add_core = FRA
 discovered_by = eastern
 discovered_by = western
@@ -27,7 +27,7 @@ discovered_by = ottoman
 	add_local_autonomy = -80
 }
 1474.8.1 = { controller = FRA } # Louis XI occupies Anjou because of being excluded of the Anjou inheritance
-1476.1.1 = { controller = Q18 } # Louis XI is reconciled, and Anjou is restored to Duke Ren�
+1476.1.1 = { controller = PRO } # Louis XI is reconciled, and Anjou is restored to Duke Ren�
 1480.1.1 = { owner = FRA controller = FRA add_core = FRA } # Anjou ceded to France after the death of Ren�, Duke of Anjou & Provence
 1560.1.1 = { religion = reformed }
 1562.3.1 = { unrest = 3 } # Huguenots organise themselves along the Loire

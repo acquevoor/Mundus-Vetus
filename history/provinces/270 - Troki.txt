@@ -1,7 +1,7 @@
 #270 Troki
 
-owner = Q03
-controller = Q03
+owner = LIT
+controller = LIT
 religion = baltic_pagan
 culture = lithuanian
 capital = "Trakai"
@@ -12,7 +12,7 @@ base_production = 3
 base_manpower = 2 
 is_city = yes
 #fort_15th = yes #Trakai Castles "Little Marienburg"
-add_core = Q03
+add_core = LIT
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -33,7 +33,7 @@ discovered_by = nomad_group
 } # Third Partition of Poland, tightened ice regime
 
 1444.11.11 = {
-	owner = Q03
-	controller = Q03
-	add_core = Q03
+	owner = LIT
+	controller = LIT
+	add_core = LIT
 }

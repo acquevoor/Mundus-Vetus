@@ -1,8 +1,8 @@
 #1757 - Oberpfalz
 
-owner = Q17
-controller = Q17
-add_core = Q17
+owner = PAL
+controller = PAL
+add_core = PAL
 culture = bavarian
 religion = catholic
 base_tax = 3

@@ -1,8 +1,8 @@
 #Skaraborg, contains Skara, Skövde etc.
 
-add_core = Q01
-owner = Q01
-controller = Q01
+add_core = SWE
+owner = SWE
+controller = SWE
 culture = swedish
 religion = catholic
 hre = no
@@ -21,13 +21,13 @@ discovered_by = ottoman
 
 1527.6.1 = { religion = protestant}
 1598.8.15 = { controller = PLC } # Sigismund tries to reconquer his crown
-1598.12.15 = { controller = Q01 } # Duke Karl get it back
-1612.5.24 = { controller = Q00 } # The War of Kalmar-Captured by Christian IV
-1613.1.20 = { controller = Q01 }# The Peace of Knäred
+1598.12.15 = { controller = SWE } # Duke Karl get it back
+1612.5.24 = { controller = DAN } # The War of Kalmar-Captured by Christian IV
+1613.1.20 = { controller = SWE }# The Peace of Knäred
 1621.1.1 = { capital = "Göteborg" }
 
 1444.11.11 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
+	owner = SWE
+	controller = SWE
+	add_core = SWE
 }

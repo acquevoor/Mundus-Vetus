@@ -1,8 +1,8 @@
 #85 - Köln
 
-owner = Q09
-controller = Q09
-add_core = Q09
+owner = KOL
+controller = KOL
+add_core = KOL
 culture = hessian
 religion = catholic
 trade_goods = paper

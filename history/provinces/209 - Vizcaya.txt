@@ -2,7 +2,7 @@
 
 owner = NAV		#Juan II de Castilla
 controller = NAV
-add_core = Q07
+add_core = CAS
 add_core = ASU
 culture = basque
 religion = catholic
@@ -30,7 +30,7 @@ discovered_by = ottoman
 } # King Fernando dies, Carlos inherits Aragon and becames co-regent of Castille
 1630.1.1 = { unrest = 3 } # Riots in Vizcaya against the imposition of war taxes by the Count of Olivares
 1631.1.3 = { unrest = 0 } # End of the rioting
-1713.4.11 = { remove_core = Q07 }
+1713.4.11 = { remove_core = CAS }
 1813.6.21 = { revolt = { type = pretender_rebels size = 2 } controller = REB }
 1813.12.11 = { revolt = {} controller = SPA }
 

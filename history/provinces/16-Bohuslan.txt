@@ -1,9 +1,9 @@
 #Bohuslän, contains Marstrand, Uddevalla, Strömstad.
 
-owner = Q01
-controller = Q01
-add_core = Q01
-add_core = Q16
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = NOR
 culture = norwegian
 religion = catholic
 hre = no
@@ -19,25 +19,25 @@ discovered_by = muslim
 discovered_by = ottoman
 
 
-1523.3.15 = { owner = Q01 controller = Q01 } # Gustav Wasas invasion of Norway
-1532.5.17 = { owner = Q16 controller = Q16 } # Malmö Recess & the Meeting in Varberg
+1523.3.15 = { owner = SWE controller = SWE } # Gustav Wasas invasion of Norway
+1532.5.17 = { owner = NOR controller = NOR } # Malmö Recess & the Meeting in Varberg
 1536.1.1 = {
-	owner = Q00
-	controller = Q00
-	add_core = Q00
+	owner = DAN
+	controller = DAN
+	add_core = DAN
 }
 1658.2.26 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
+	owner = SWE
+	controller = SWE
+	add_core = SWE
 } # The Peace of Roskilde. Minor court belonging to Göta Hovrätt
-1677.11.1 = { controller = Q00 } # 1st Pommeranian War-Captured by Gyldenlöwe
-1679.8.23 = { controller = Q01 } # The Peace of Fontainbleau
+1677.11.1 = { controller = DAN } # 1st Pommeranian War-Captured by Gyldenlöwe
+1679.8.23 = { controller = SWE } # The Peace of Fontainbleau
 1680.1.1 = { culture = swedish } # The population had adapted to Swedish custom
 1690.1.1 = { capital = "Uddevalla" }
 
 1444.11.11 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
+	owner = SWE
+	controller = SWE
+	add_core = SWE
 }

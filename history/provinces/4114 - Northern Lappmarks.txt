@@ -1,7 +1,7 @@
 #Lapland, the far north wastelands.
-owner = Q01
-controller = Q01
-add_core = Q01
+owner = SWE
+controller = SWE
+add_core = SWE
 
 capital = "Jokkmokk"
 culture = sapmi
@@ -20,9 +20,9 @@ discovered_by = western
 is_city = yes
 
 1440.1.1 = {
-	owner = Q01
-	controller = Q01 
-	add_core = Q01
+	owner = SWE
+	controller = SWE 
+	add_core = SWE
 	is_city = yes
 	add_local_autonomy = 90
 	trade_goods = fur
@@ -33,7 +33,7 @@ is_city = yes
 1652.1.1 = { capital = "Kiruna" }
 
 1444.11.11 = {
-	owner = Q01
-	controller = Q01
-	add_core = Q01
+	owner = SWE
+	controller = SWE
+	add_core = SWE
 }

@@ -1,7 +1,7 @@
 #272 Lithuania
 
-owner = Q03
-controller = Q03
+owner = LIT
+controller = LIT
 capital = "Vilna"
 is_city = yes
 culture = lithuanian
@@ -12,7 +12,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 fort_15th = yes #Vilnius Castle Complex
-add_core = Q03
+add_core = LIT
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
@@ -40,7 +40,7 @@ center_of_trade = 1
 1812.12.10 = { controller = RUS }
 
 1444.11.11 = {
-	owner = Q03
-	controller = Q03
-	add_core = Q03
+	owner = LIT
+	controller = LIT
+	add_core = LIT
 }

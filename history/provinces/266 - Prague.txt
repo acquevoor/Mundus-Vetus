@@ -1,8 +1,8 @@
 #266 - Bohemia
 
-owner = Q14
-controller = Q14
-add_core = Q14
+owner = MVA
+controller = MVA
+add_core = MVA
 add_core = BOH
 capital = "Praha"
 culture = czech
@@ -57,7 +57,7 @@ add_province_triggered_modifier = religious_center
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
 1444.11.11 = {
-	owner = Q14
-	controller = Q14
-	add_core = Q14
+	owner = MVA
+	controller = MVA
+	add_core = MVA
 }
