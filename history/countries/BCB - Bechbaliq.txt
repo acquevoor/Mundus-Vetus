@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = uyghur
 religion = tengri_pagan_reformed
-technology_group = indian
+technology_group = nomad_group
 capital = 713 # Bechbaliq
 
 1444.11.11 = {

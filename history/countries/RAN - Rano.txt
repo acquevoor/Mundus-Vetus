@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = hausa
 religion = shamanism
-technology_group = muslim
+technology_group = sub_saharan
 capital = 2281 # Rano
 
 1444.11.11 = {

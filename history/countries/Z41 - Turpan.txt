@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = uyghur
 religion = manichaei
-technology_group = muslim
+technology_group = nomad_group
 capital = 4207 # New Turpan
 
 1444.11.11 = {

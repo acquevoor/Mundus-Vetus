@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = dalmatian
 religion = catholic
-technology_group = western
+technology_group = eastern
 capital = 139 # Hum
 
 1444.11.11 = {

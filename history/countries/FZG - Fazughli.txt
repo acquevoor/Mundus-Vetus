@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = sidamo
 religion = coptic
-technology_group = muslim
+technology_group = east_african
 capital = 1217 # Fazughli
 
 1444.11.11 = {

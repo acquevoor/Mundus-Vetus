@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = somali
 religion = sunni
-technology_group = east_african
+technology_group = muslim
 capital = 1099 # Socotra
 
 1444.11.11 = {

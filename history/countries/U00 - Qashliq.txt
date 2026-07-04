@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = kipchak
 religion = tengri_pagan_reformed
-technology_group = eastern
+technology_group = nomad_group
 capital = 1074
 
 1444.11.11 = {

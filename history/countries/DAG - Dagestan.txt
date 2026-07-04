@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = avar
 religion = avar_pagan
 
-technology_group = muslim
+technology_group = eastern
 capital = 425 # Dagestan
 
 1444.11.11 = {

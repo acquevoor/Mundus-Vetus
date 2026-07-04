@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = mali
 religion = shamanism
-technology_group = muslim
+technology_group = sub_saharan
 capital = 1131 # Walata
 
 1444.11.11 = {

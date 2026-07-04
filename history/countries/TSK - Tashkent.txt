@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = turco_iranian
 religion = al_batiniyya
 religious_school = batiniyya_naqshbandiyya
-technology_group = chinese
+technology_group = muslim
 capital = 457 # Tashkent
 
 1444.11.11 = {

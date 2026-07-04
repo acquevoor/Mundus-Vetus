@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = zhongyuan
 religion = confucianism
-technology_group = indian
+technology_group = chinese
 capital = 671 # Ding
 
 1444.11.11 = {

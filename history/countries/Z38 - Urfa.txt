@@ -2,6 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = aramaic
 religion = sabian
-technology_group = muslim
+technology_group = ottoman
 capital = 2308
 religious_school = sabian_school

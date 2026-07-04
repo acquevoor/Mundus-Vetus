@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = greek
 religion = manichaei
-technology_group = western
+technology_group = eastern
 capital = 145 # Mani
 
 1444.11.11 = {

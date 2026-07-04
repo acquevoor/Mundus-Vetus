@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = tsakhur
 religion = hurufiyya
 religious_school = hurufiyya_astarabadi
-technology_group = muslim
+technology_group = eastern
 capital = 2202 # Melikates
 
 1444.11.11 = {

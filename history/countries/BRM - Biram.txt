@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = hausa
 religion = sunni
-technology_group = east_african
+technology_group = sub_saharan
 capital = 2280 # Biram
 
 1444.11.11 = {

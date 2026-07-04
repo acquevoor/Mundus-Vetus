@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = nubian
 religion = coptic
-technology_group = muslim
+technology_group = east_african
 capital = 1222 # Aroua
 
 1444.11.11 = {

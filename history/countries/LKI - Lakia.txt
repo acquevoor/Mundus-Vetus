@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = lak
 religion = lak_pagan
 
-technology_group = muslim
+technology_group = eastern
 capital = 4306 # Lakia
 
 1444.11.11 = {

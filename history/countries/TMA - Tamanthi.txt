@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = chin
 religion = adivasi
-technology_group = indian
+technology_group = chinese
 capital = 2397 # Tamanthi
 
 1444.11.11 = {

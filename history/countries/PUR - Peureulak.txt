@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = acehnese
 religion = al_batiniyya
 religious_school = batiniyya_shadhiliyya
-technology_group = muslim
+technology_group = chinese
 capital = 2674 # Peureulak
 
 1444.11.11 = {

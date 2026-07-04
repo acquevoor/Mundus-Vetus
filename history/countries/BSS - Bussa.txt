@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = mossi
 religion = shamanism
-technology_group = east_african
+technology_group = sub_saharan
 capital = 1143 # Bussa
 
 1444.11.11 = {

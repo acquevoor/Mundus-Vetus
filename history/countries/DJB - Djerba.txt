@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = maltese
 religion = catholic
-technology_group = east_african
+technology_group = muslim
 capital = 2954 # Djerba
 
 1444.11.11 = {

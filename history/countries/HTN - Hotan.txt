@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = turco_iranian
 religion = vajrayana
-technology_group = chinese
+technology_group = muslim
 capital = 710 # Hotan
 
 1444.11.11 = {

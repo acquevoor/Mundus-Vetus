@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = lezgin
 religion = lezgic_pagan
 
-technology_group = muslim
+technology_group = eastern
 capital = 4299 # Shamakhi
 
 1444.11.11 = {

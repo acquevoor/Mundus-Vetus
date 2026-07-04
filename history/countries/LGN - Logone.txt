@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = kanuri
 religion = sunni
-technology_group = muslim
+technology_group = sub_saharan
 capital = 2286 # Logone
 
 1444.11.11 = {

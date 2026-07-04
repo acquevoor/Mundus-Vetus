@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = yorumba
 religion = shamanism
-technology_group = east_african
+technology_group = sub_saharan
 capital = 1152 # Igala
 
 1444.11.11 = {
