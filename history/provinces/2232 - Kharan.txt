@@ -1,8 +1,8 @@
 #2232 - Kharan
 
-owner = BLC
-controller = BLC
-add_core = BLC
+owner = BAL
+controller = BAL
+add_core = BAL
 culture = baluchi
 religion = sunni
 capital = "Kharan"
@@ -34,7 +34,7 @@ add_local_autonomy = 75
 1707.5.12 = { discovered_by = GBR }
 
 1444.11.11 = {
-	owner = BLC
-	controller = BLC
-	add_core = BLC
+	owner = BAL
+	controller = BAL
+	add_core = BAL
 }
