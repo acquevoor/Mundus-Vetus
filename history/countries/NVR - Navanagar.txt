@@ -3,6 +3,7 @@ add_government_reform = tribal_kingdom
 government_rank = 1
 technology_group = indian
 religion = jain
+religious_school = jain_svetambara
 primary_culture = gujarati
 capital = 2052	# Navanagar
 

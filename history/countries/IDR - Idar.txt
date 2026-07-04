@@ -3,6 +3,7 @@ add_government_reform = rajput_kingdom
 government_rank = 1
 primary_culture = gujarati
 religion = jain
+religious_school = jain_svetambara
 technology_group = indian
 capital = 4480	# Mahi Kantha - Idar
 

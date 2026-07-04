@@ -3,6 +3,7 @@ add_government_reform = rajput_kingdom
 government_rank = 1
 technology_group = indian
 religion = jain
+religious_school = jain_svetambara
 primary_culture = saurashtri
 capital = 2051	# Gohilvad
 
