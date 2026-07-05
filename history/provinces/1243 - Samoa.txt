@@ -1,0 +1,17 @@
+#1243 - Samoa
+
+culture = polynesian
+religion = animism
+hre = no
+capital = "Falealupo"
+trade_goods = cloth
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+discovered_by = polynesian_tech
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+1722.1.1 = { discovered_by = NED } # Jacob Roggeveen
