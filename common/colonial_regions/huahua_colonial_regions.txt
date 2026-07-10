@@ -1,0 +1,326 @@
+huahua_colonial_india = { #印度
+	color = { 200 16 47 } #国旗颜色
+	
+	provinces = {
+		####Madras 马德拉斯管辖区
+			#科罗曼德贸易区
+			2083 4418 4419 4420 #north_carnatic_area
+			539 540 1947 2027 4417 #south_carnatic_area
+			536 2101 #madura_area
+			2100 4408 4409 #lanka_area
+			572 2099 4407 #south_lanka_area
+			574 1101 1248 1998 1999 #indian_ocean_islands_area
+			538 2085 4414 #kongu_area
+			2026 4415 #tanjore_area
+			533 2031 4421 4426 #mysore_area
+			541 1949 2090 #rayalaseema_area
+			534 535 537 4410 4413 #malabar_area
+			531 2029 2030 2032 4427 #kanara_area
+			549 2084 2080 4425 #andhra_area
+			#德干贸易区（有减少）
+			2033 4428 #raichur_doab_area
+			2028 4438 4444 #telingana_area
+			542 2037 4436 4439 #golconda_area
+			569 1948 2035 #maidan_area
+			544 545 4437 #ahmednagar_area
+		####Bomaby 孟买管辖区
+			#印度西部贸易区（有减少）
+			504 2088 4503 4504 #sindh_area
+			505 2072 4505 #northern_sindh_area
+			529 530 2089 4429 #konkan_area
+			515 521 2052 4454 4455 #saurashtra_area
+			517 2036 4430 #tapti_area
+			503 2053 4456 4480 #patan_area
+			516 2051 2054 4512 4457 #ahmedabad_area
+			#其他
+			576 577 2068 #kalat_area
+			575 2231 2232 #巴基斯坦俾路支斯坦
+			1946 2034 #desh_area
+			4432 4433 4434 #孟买城正东三地
+		####Bengal 孟加拉管辖区
+			#德干贸易区（有减少）
+			546 548 2050 4442 4443 #berar_area
+			550 551 2092 4458 4460 #gondwana_area
+			527 4453 #khandesh_area
+			526 2056 2057 2093 4461 #malwa_area
+			#印度东部贸易区
+			553 2082 4447 4451 4452 #upper_mahanadi_area
+			547 2048 4445 4446 4448 #garjat_area
+			561 2081 4476 4477 #west_bengal_area
+			564 2039 4474 4475 4478 #east_bengal_area
+			552 2038 2043 2049 4441 #orissa_area
+			560 2096 4450 4470 4471 #jharkhand_area
+			562 2045 2046 4486 #north_bengal_area
+			563 4479 #gaur_area
+			568 
+			558 4469 4472 4489 #bihar_area
+			2047 4487 4488 #mithila_area
+			
+			#北印度贸易区
+			522 2060 2062 #upper_doab_area
+			2061 4498 4499 #katehar_area
+			519 520 2064 4500 #jaipur_area
+			523 2094 4494 4495 4497 #oudh_area
+			555 2055 4490 #purvanchal_area
+			524 556 2063 #lower_doab_area
+			525 528 740 4465 #gird_area
+			2059 4459 4466 4467 #bundelkhand_area
+			2097 2098 4468 #baghelkhand_area
+			4491 4492 554 #baisi_rajya_area
+			509 511 2069 4493 #himalayan_hills_area
+			#旁遮普贸易区（有减少）
+			508 2073 2074 4449 4521 #kashmir_area
+			507 2075 2076 4510 4513 #lahore_area
+			506 2079 2086 4508 4509 #multan_area
+			2077 2078 4511 #sind_sagar_area
+			510 2065 4411 4463 #sirhind_area
+			6549 6798 6799 578
+
+			#印度东北角
+			570 2041 #naga_hills_area
+			567 2091 4473 #tripura_area
+			566 571 2040 2042 4440 #assam_area
+			#额外
+
+			513 514 2067 4506 #marwar_area
+			518 2058 2087 4462 #mewar_area
+			512 4502 2066 #jangladesh_area
+			6834 6833 6849 6848 6846 6844 6822 
+			6823 6843 6841 6828 6821 6847 6836 6838
+			6837 6832
+	}
+	
+	#Specific 
+	names = {
+		trigger = {
+			primary_culture = dutch
+		}
+		name = "huahua_colonial_dutch_india_name" 
+	}
+	names = {
+		trigger = {
+			tag = POR
+			owns = 2030 #果阿
+			owns = 4430 #达曼
+			owns = 4455 #第乌
+		}
+		name = "huahua_colonial_POR_india_name" 
+	}
+	
+	# Generic
+	names = {
+		name = "huahua_colonial_india_name"
+	}
+}
+
+huahua_colonial_indonesia = {
+	color = { 48 48 48  }
+
+	provinces = { 
+		595 596 597 598 599 617 618 619 620 621 622 623 636 637 638 639 640 659 1361 2392 2393 2394 2673 2674 2675 2676 2677 2678 2679 2680 2681 2682 2683 2684 2685 2686 2703 2704 2705 2706 2707 2708 2709 2710 2711 2712 
+		4799 4800 4801 4802 4803 4804 4805 4806 4809 4810 4811 4812 4813 4814 4815 4816 4817 4818        
+		646 2687 2688 2689 2690 2718 2724 1357 1245 647 645 2717 648 649 650 2696 2695 635 633 634 643 2713 2714 642 2715 641 2716 632 627 2691 631 2693 629 2692 628 626 625 630 624 644
+		1236 2719 # eastern papua
+		2740 4807 4808 1789 # wasteland
+		4790 4791 4792 4793 4794 4795 4796 4797 4798 4845 2720
+		6825 6824
+	}
+
+	# Specific
+	names = {
+		trigger = {
+			primary_culture = dutch
+		}
+		name = "huahua_colonial_dutch_indonesia_name"
+	}
+	names = {
+		trigger = {
+			tag = GBR
+			tag = ENG
+		}
+		name = "huahua_colonial_GBR_indonesia_name"
+	}
+	names = {
+		trigger = {
+			tag = POR
+			owns = 2695 #东帝汶
+		}
+		name = "huahua_colonial_POR_indonesia_name"
+	}
+	names = {
+		trigger = {
+			tag = BYZ
+		}
+		name = "huahua_colonial_BYZ_indonesia_name"
+	}
+	names = { #威廉皇帝地
+		trigger = {
+			culture_group = germanic
+		}
+		name = "huahua_colonial_germanic_indonesia_name"
+	}
+	names = { #昭南
+		trigger = {
+			culture_group = japanese_g
+		}
+		name = "huahua_colonial_japanese_g_indonesia_name"
+	}
+	
+	# Generic
+	names = {
+		name = "huahua_colonial_indonesia_name"
+	}
+	names = {
+		name = "huahua_colonial_indonesia_name_2"
+	}
+	names = {
+		name = "huahua_colonial_indonesia_name_3"
+	}
+	names = {
+		name = "huahua_colonial_indonesia_name_4"
+	}
+	names = {
+		name = "huahua_colonial_indonesia_name_5"
+	}
+}
+
+huahua_colonial_indochina = {
+	color = { 236 190 0 }
+
+	provinces = { 
+		#印度支那贸易区
+		592 600 601 602 603 604 605 606 609 607 608 611 612 614 615 1817 1823 1844 1022 2374 2376 2377 2378 2379 2380 2381 2382 2383 2384 2385 2386 2387 2388 2389 2371 1365 6247 6245 6244
+		589 #Karenni
+		4822 4825 4826 4827 4828 4829 4830 4831 4832 4833 4834 4835 4836 4837 4838 4839 4840 4841 4842 4860
+		#越南北部
+		4821 1016 2373 610 613 2372 4819 4856 6246 4820 616
+		#克拉地峡
+		593 594 2390 2391
+	}
+
+	# Specific
+	
+	# Generic
+	names = {
+		name = "huahua_colonial_indochina_name"
+	}
+}
+
+huahua_colonial_philippines = {
+	color = { 0 200 150 }
+	
+	provinces = {
+		2701 2702 4355 #mindanao_area
+		652 653 4354 #west_mindanao_area
+		654 2700 4351 4352 4353 #visayas_area
+		651 655 4356 #palawan_area
+		657 658 2698 #luzon_area
+		656 2697 2699 4349 4350 #southern_luzon_area
+		1235 1996 1995
+		6057 738 2155 2154 # taiwan
+	}
+
+	# Specific
+	names = { 
+		trigger = {
+			tag = SPA
+		}
+		name = "huahua_colonial_SPA_philippines_name"
+	}
+	names = { 
+		trigger = {
+			culture_group = iberian
+		}
+		name = "huahua_colonial_iberian_philippines_name"
+	}
+	names = {
+		trigger = { #菲律宾群岛岛民政府
+			tag = USA
+		}
+		name = "huahua_colonial_USA_philippines_name"
+	}
+	#鉴于菲律宾是纪念西班牙国王费利佩二世而得名，所以别国殖民菲律宾应该起别的名字，因此我编了一些
+	names = { #扬斯兰 威廉·扬斯，第一次到达澳大利亚
+		trigger = {
+			primary_culture = dutch
+		}
+		name = "huahua_colonial_dutch_philippines_name"
+	}
+	names = { #新诺曼底群岛
+		trigger = {
+			culture_group = french
+		}
+		name = "huahua_colonial_french_philippines_name"
+	}
+	names = { #新诺曼底群岛
+		trigger = {
+			culture_group = british
+		}
+		name = "huahua_colonial_british_philippines_name"
+	}
+	names = { #奥托一世地
+		trigger = {
+			culture_group = germanic
+		}
+		name = "huahua_colonial_germanic_philippines_name"
+	}
+	names = { #新奥兰
+		trigger = {
+			culture_group = scandinavian
+		}
+		name = "huahua_colonial_scandinavian_philippines_name"
+	}
+	names = { #符拉迪尤克 “征服南方”
+		trigger = {
+			culture_group = east_slavic
+		}
+		name = "huahua_colonial_east_slavic_philippines_name"
+	}
+	
+	# Generic
+	names = { #吕宋
+		name = "huahua_colonial_philippines_name"
+	}
+}
+
+
+hf_coloinal_columbia = {
+	color = { 250 250 250 }
+	provinces = {
+		872 873 874 972 973 974 975 1814 2003 2019 2020 2022 
+		2481 2482 2483 2484 2485 2486 2487 2488 2489 2604 2605 2606 2607 2608 2609 2610
+	}
+	# Specific
+	names = {
+		trigger = { owns = 2481 } # Klamath
+		name = "COLONIAL_columbia_Oregon"
+	}
+	# Generic
+	names = {
+		name = "hf_colonial_columbia_name"
+	}
+}
+
+hf_colonial_burma = {
+	color = { 200 16 47 }
+	provinces = {
+		#缅甸贸易区（不含印度东北角）
+		584 2399 581 #upper_burma_area
+		2398 580 4393 2397 #chindwin_area
+		4394 4396 585 4395 #central_burma_area
+		583 588 2400 4397 4406 #shan_hill_area
+		2401 #karenni_area 
+		582 2396 4404 4405 #kachin_area
+		586 590 1815 2403 4399 #lower_burma_area
+		6566 2402 587 6302 6303 
+		579 573 #arakan_area
+		2395 6003 #茶山、孟连 （云贵贸易区边陲二地）
+		591 2404 #德林达依（现代缅甸最南部）
+	}
+	#Specific 
+	
+	# Generic
+	names = {
+		name = "hf_colonial_india_name"
+	}
+}
