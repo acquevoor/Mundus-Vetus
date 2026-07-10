@@ -1,0 +1,24 @@
+
+
+culture = gan
+religion = confucianism
+
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = nomad_group
+1513.1.1 = {
+  unrest = 5
+}
+1514.1.1 = {
+  unrest = 0
+}
+1595.1.1 = {
+  discovered_by = SPA
+}

@@ -1,0 +1,43 @@
+#6539Îý¶ûÕ²
+
+culture = persian
+religion = shiite
+capital = "Sirjan"
+trade_goods = livestock
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+1451.1.1 = {
+
+	remove_core = QOM
+	remove_core = TIM
+} # The Timurid Successor state, ruled by Babur Ibn-Baysunkur
+1469.2.4 = {    remove_core = TIM } #Battle of Qarabagh
+1488.1.1 = { discovered_by = POR } # Pêro da Covilh?
+1496.2.8 = { 
+
+	revolt = { 
+		type = pretender_rebels
+		size = 0
+		name = "Muhammad's Faction"
+		leader = "Muhammad Ak Koyunlu" 
+	} 
+} # Civil war in Ak Koyunlu
+1501.7.1 = {  revolt = { } }
+1504.1.1 = {
+
+	remove_core = KHO
+}# The Safavids take over, Shi'ism becomes the state religion
+1550.1.1 = { discovered_by = TUR }
+1673.1.1 = { discovered_by = ENG }
+1707.5.12 = { discovered_by = GBR }
+1747.1.1 = { unrest = 3 } # Shah Nadir is killed, local khanates emerged
+1748.1.1 = { unrest = 4 } # The empire began to decline
+1779.1.1 = { unrest = 0 } # With the Qajar dynasty the situation stabilized

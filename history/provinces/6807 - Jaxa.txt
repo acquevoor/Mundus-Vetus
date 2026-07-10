@@ -1,0 +1,37 @@
+
+
+latent_trade_goods = {
+	coal
+}
+
+culture = evenk
+religion = tengri_pagan_reformed
+
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = nomad_group
+
+1644.1.1 = {
+
+	religion = tengri_pagan_reformed
+	trade_goods = wool
+
+}
+1665.1.1 = {
+
+	capital = "Jaxa"
+} 
+#波兰贵族Nicefor Czernichowski，早年在俄波战争中被俘，后定居于俄国。因为企图逃回波兰被流放到西伯利亚，
+#又因为于流放期间犯杀人罪应判处死刑，遂流亡到被清军毁坏的俄国殖民据点阿尔巴津，重建城市，建立起了雅克萨。
+#该地成为俄国逃亡者的天堂，于中俄之间保持中立，实际上事实独立。
+#1670年受清军进攻而开始寻求沙俄庇护，成为沙俄侵略黑龙江流域的关键据点。
+#1674年Nicefor Czernichowski没有再出现于文献记载中，可能病逝。
+#Nicefor Czernichowski死后，沙俄接管该地。
+#1687年年底，第二次雅克萨之战结束，清军再次收复雅克萨。

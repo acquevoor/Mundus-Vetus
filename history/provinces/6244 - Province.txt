@@ -1,0 +1,21 @@
+
+
+culture = lao
+religion = buddhism
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = indian
+1482.1.1 = {
+
+	remove_core = DAI
+}
+1655.1.1 = {
+  discovered_by = SPA
+}

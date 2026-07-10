@@ -1,0 +1,16 @@
+
+
+culture = xiang
+religion = animism
+
+trade_goods = tea
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 2
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = nomad_group
+1655.1.1 = { discovered_by = SPA } 

@@ -1,0 +1,20 @@
+#6806
+
+culture = japanese
+religion = shinto
+trade_goods = grain
+hre = no
+base_tax = 3
+base_manpower = 3
+base_production = 3
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+1525.1.1 = {   remove_core = OUC remove_core = AMA remove_core = HSK }
+1525.1.1 = { fort_15th = yes } # Yoshida Koriyama Castle, the # of the Mori clan
+1542.1.1 = { discovered_by = POR }

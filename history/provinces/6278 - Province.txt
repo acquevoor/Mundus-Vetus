@@ -1,0 +1,6 @@
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = nomad_group
+#
+discovered_by = nippon

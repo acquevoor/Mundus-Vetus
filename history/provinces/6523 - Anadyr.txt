@@ -1,0 +1,26 @@
+#Anadyr
+
+culture = yukagyr
+religion = tengri_pagan_reformed
+trade_goods = fur
+hre = no
+
+base_production = 1
+
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+
+discovered_by = HOD
+discovered_by = CHU
+discovered_by = CHV
+discovered_by = KMC
+discovered_by = ALT
+1643.1.1 = {
+	discovered_by = RUS
+
+	culture = russian
+	religion = orthodox
+	trade_goods = fur
+
+}

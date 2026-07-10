@@ -1,0 +1,24 @@
+#6875
+
+culture = togoku
+religion = shinto
+
+trade_goods = gems
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+
+1507.7.1 = { fort_15th = yes } # Kasugayama Castle, the # of the Nagao(Uesugi) clan
+1542.1.1 = { discovered_by = POR }
+1598.1.10 = {    remove_core = UES } # Uesugi Kagekatsu moved from Echigo to Aizu-Yonezawa
+1600.9.13 = {    remove_core = ODA }

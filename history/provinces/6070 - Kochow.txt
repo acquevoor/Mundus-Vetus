@@ -1,0 +1,17 @@
+
+
+culture = cantonese
+religion = confucianism
+trade_goods = sugar
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = nomad_group
+discovered_by = indian
+1514.1.1 = { discovered_by = POR } 
+1540.1.1 = { revolt = { type = dwarf_pirates_rebels size = 0.2 } } 

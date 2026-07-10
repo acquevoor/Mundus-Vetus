@@ -1,0 +1,24 @@
+#6785
+
+culture = togoku
+religion = shinto
+trade_goods = fish
+hre = no
+base_tax = 2
+base_manpower = 1
+base_production = 1
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+
+1542.1.1 = { discovered_by = POR }
+1585.1.1 = {    remove_core = CBA } # The Chiba clan became vassal of the Hojo
+# Battle of Konodai
+1590.8.10 = { remove_core = HJO    }
+# Tokugawa shogunate founded

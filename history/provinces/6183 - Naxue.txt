@@ -1,0 +1,18 @@
+#4205 - Nagchu
+
+culture = tibetan
+religion = vajrayana
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = nomad_group
+discovered_by = indian
+1721.1.1 = { discovered_by = SPA }
+1755.10.4 = { unrest = 7 } # Rebellion aginst the Chinese
+1757.10.4 = { unrest = 0 }

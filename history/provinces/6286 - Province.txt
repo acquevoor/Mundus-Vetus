@@ -1,0 +1,29 @@
+
+
+culture = oirats
+religion = vajrayana
+trade_goods = salt
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = indian
+discovered_by = nomad_group
+
+1516.1.1 = {
+
+  culture = oirats
+}
+1682.1.1 = {
+  discovered_by = SPA
+}
+1755.10.4 = {
+  revolt_risk = 7
+}
+1757.10.4 = {
+  revolt_risk = 0
+}

@@ -1,0 +1,5 @@
+#东非大裂谷
+
+discovered_by = east_african
+discovered_by = central_african
+

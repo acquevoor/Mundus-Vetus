@@ -1,0 +1,41 @@
+#Ã×Ê²¿Æ¶û´ÄMiskolc
+
+culture = hungarian
+religion = catholic
+capital = "Miskolc"
+trade_goods = livestock
+hre = no
+base_tax = 4
+base_production = 3
+base_manpower = 2
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+
+1506.1.1 = { revolt = { type = anti_tax_rebels size = 0 }  } # Szekely rebellion
+1507.1.1 = { revolt = {}  }
+1514.4.1 = { revolt = { type = anti_tax_rebels size = 2 }  } # Peasant rebellion against Hungary's magnates
+1515.1.1 = { revolt = {}  }
+1542.1.1 = {
+
+	remove_core = TRA
+
+}
+1545.8.1 = { remove_core = HAB } # Treaty of Adrianople ends the Ottoman-Habsburg War
+1567.1.1 = { religion = reformed } # Synod of Debrecen
+1678.1.1 = { revolt = { type = nationalist_rebels size = 2 }  } # Kuruc rebellion
+1684.1.1 = { revolt = {}  }
+1699.1.26 = {
+
+	remove_core = TUR
+} # Treaty of Karlowitz
+1703.1.1 = { revolt = { type = nationalist_rebels size = 2 }  } # Kuruc rebellion, led by Francisc Rakoczy
+1705.1.1 = { revolt = {} }
+# The treaty of Szatmar
