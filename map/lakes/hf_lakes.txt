@@ -1,0 +1,51 @@
+#xiyu
+lake = {
+	triangle_strip = { 4586 1829 4583 1855 4850 1805 4895 1896 }
+	height = 21
+}
+#shanxi
+lake = {
+	triangle_strip = { 
+		4950 1723 #1st position
+		4950 1748 #2nd
+		4977 1728 #3rd
+		4977 1750 #4th
+	}
+	height = 20.5
+}
+#yunnan
+lake = {
+	triangle_strip = { 4768 1529 4767 1562 4826 1530 4833 1551 }
+	height = 23
+}
+#hebei
+lake = {
+	triangle_strip = { 5031 1775 5067 1796 5073 1784 5067 1816 }
+	height = 19
+}
+#neimeng
+lake = {
+	triangle_strip = { 5016 1888 5012 1903 5056 1879 5052 1910 }
+	height = 22
+}
+
+
+
+
+#this is how it work
+
+#                   2nd position		         4th position
+#		#########################
+#		#			#
+#		#			#
+#		#    lake-you-want-to-cover      #
+#		#			#
+#		#			#
+#		#			#
+#		#########################
+#	      1st position		         3rd position
+#		
+
+#decide a height like 20 21 or 22 u prefer
+
+#and then the lake will be cover by this water level

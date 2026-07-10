@@ -319,7 +319,7 @@ type={
 		name="Seagulls_north_vietnam"
 		hidden_on_start=no
 		position={
-			4923.000 11.000 1456.000 
+			5023.000 11.000 1483.000 
 		}
 		rotation={
 			0.000 45.000 0.000 
@@ -623,7 +623,17 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			5092.000 0.100 1647.000 
+			4851.000 0.100 1665.000 
+		}
+		rotation={
+			0.000 10.000 0.000 
+		}
+	}
+	object={
+		name="Seagulls_english_channel"
+		hidden_on_start=no
+		position={
+			4832.000 0.100 1647.000 
 		}
 		rotation={
 			0.000 -60.000 0.000 
@@ -633,27 +643,17 @@ type={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			4944.000 0.100 1628.000 
+			4843.000 0.200 1663.000 
 		}
 		rotation={
-			0.000 -60.000 0.000 
+			0.000 90.000 0.000 
 		}
 	}
 	object={
 		name="Seagulls_english_channel"
 		hidden_on_start=no
 		position={
-			5343.000 0.200 2069.000 
-		}
-		rotation={
-			0.000 -60.000 0.000 
-		}
-	}
-	object={
-		name="Seagulls_english_channel"
-		hidden_on_start=no
-		position={
-			5168.000 0.100 2069.000 
+			4861.000 0.100 1680.000 
 		}
 		rotation={
 			0.000 -40.000 0.000 
@@ -2001,13 +2001,23 @@ type={
 type={
 	type="nammi_mount_fuji_entity"
 	use_animation=no
-	scale=0.900000
+	scale=1.500000
 	time_duration=300.000000
 	object={
 		name="mount_fuji"
 		hidden_on_start=no
 		position={
 			5450.000 0.750 1748.000 
+		}
+		rotation={
+			0.000 -110.000 0.000 
+		}
+	}
+	object={
+		name="mount_changbai"
+		hidden_on_start=no
+		position={
+			5272.000 -3.500 1872.000 
 		}
 		rotation={
 			0.000 -110.000 0.000 
@@ -2263,10 +2273,10 @@ type={
 		name="forbidden_city"
 		hidden_on_start=no
 		position={
-			5080.000 -0.020 1842.000 
+			5065.000 -0.020 1827.000 
 		}
 		rotation={
-			0.000 -30.000 0.000 
+			0.000 8.000 0.000 
 		}
 	}
 }
