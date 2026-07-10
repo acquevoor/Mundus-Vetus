@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = kannada
 religion = lingayat
 technology_group = indian
-capital = 532 # Raichur
+capital = 4428 # Raichur
 
 1444.11.11 = {
 	monarch = {

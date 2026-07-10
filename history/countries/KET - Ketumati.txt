@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = bihari
 religion = buddhism
 technology_group = indian
-capital = 2095 # Ketumati
+capital = 555 # Ketumati
 
 1444.11.11 = {
 	monarch = {

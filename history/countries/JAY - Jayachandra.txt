@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = avadhi
 religion = sant_mat
 technology_group = indian
-capital = 4496 # Jayachandra
+capital = 524 # Jayachandra
 
 1444.11.11 = {
 	monarch = {
