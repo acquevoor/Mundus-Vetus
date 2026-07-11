@@ -56,3 +56,12 @@ discovered_by = east_african
 	controller = SLY
 	add_core = SLY
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = SLY
+		controller = SLY
+		add_core = SLY
+		culture = al_misr_arabic
+		religion = coptic
+	}

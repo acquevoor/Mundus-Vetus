@@ -19,3 +19,12 @@ discovered_by = zhonghua
 1622.1.1 = {
   discovered_by = RUS
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KYR
+		controller = KYR
+		add_core = KYR
+		culture = kipchak
+		religion = sunni
+	}

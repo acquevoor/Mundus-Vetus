@@ -21,3 +21,11 @@ discovered_by = zhonghua
 1699.1.1 = { revolt = { type = nationalist_rebels size = 0 }  } # The Shuff Mountain rebellion
 1700.1.1 = { revolt = { }  } 
 1740.1.1 = { base_tax = 1 base_production = 1 } # The decentralizing effect of the provincial system
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = CIL
+		controller = CIL
+		add_core = CIL
+		culture = turkish
+		religion = sunni
+	}

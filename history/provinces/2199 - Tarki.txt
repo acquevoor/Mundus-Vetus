@@ -34,3 +34,12 @@ discovered_by = nomad_group
 	controller = MNC
 	add_core = MNC
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = DAG
+		controller = DAG
+		add_core = DAG
+		culture = andi
+		religion = andic_pagan
+	}

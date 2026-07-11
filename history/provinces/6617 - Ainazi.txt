@@ -30,3 +30,12 @@ discovered_by = eastern
 
 	remove_core = SWE
 } # The Peace of Nystad
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = LTG
+		controller = LTG
+		add_core = LTG
+		culture = latvian
+		religion = catholic
+	}

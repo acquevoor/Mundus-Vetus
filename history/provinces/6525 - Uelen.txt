@@ -25,3 +25,11 @@ discovered_by = ALT
 
 	trade_goods = fish
 }
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KSG
+		controller = KSG
+		add_core = KSG
+		culture = turco_iranian
+		religion = ecclesia_assyrica
+	}

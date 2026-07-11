@@ -25,3 +25,12 @@ discovered_by = east_african
 
 	remove_core = NED
 } # Treaty of Amiens
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KND
+		controller = KND
+		add_core = KND
+		culture = sinhala
+		religion = buddhism
+	}

@@ -24,3 +24,11 @@ discovered_by = ottoman
 1813.1.1 = { revolt = { }  } 
 1815.4.23 = { revolt = { type = nationalist_rebels size = 2 }  } # The Second Serbian uprising
 1817.1.1 = { revolt = { }  } 
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = SER
+		controller = SER
+		add_core = SER
+		culture = serbian
+		religion = orthodox
+	}

@@ -27,3 +27,12 @@ discovered_by = nomad_group
 
 	remove_core = PER
 } # Part of the Ottoman Empire
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = AFS
+		controller = AFS
+		add_core = AFS
+		culture = al_iraqiya_arabic
+		religion = sunni
+	}

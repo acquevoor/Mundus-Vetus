@@ -39,3 +39,12 @@ discovered_by = MOR
 	controller = TMB
 	add_core = TMB
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = AWD
+		controller = AWD
+		add_core = AWD
+		culture = tuareg
+		religion = sunni
+	}

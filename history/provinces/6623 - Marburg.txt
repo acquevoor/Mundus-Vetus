@@ -24,3 +24,12 @@ discovered_by = ottoman
 1525.5.1 = { unrest = 8 } # serious Farmer insurrections 
 1526.1.1 = { unrest = 0 }
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = STY
+		controller = STY
+		add_core = STY
+		culture = austrian
+		religion = catholic
+	}

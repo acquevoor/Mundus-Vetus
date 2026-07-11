@@ -42,3 +42,12 @@ discovered_by = ottoman
 	controller = LON
 	add_core = LON
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = CAS
+		controller = CAS
+		add_core = CAS
+		culture = leonese
+		religion = catholic
+	}

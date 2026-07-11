@@ -64,3 +64,12 @@ center_of_trade = 2
 	controller = AWD
 	add_core = AWD
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TFL
+		controller = TFL
+		add_core = TFL
+		culture = moroccan
+		religion = sunni
+	}

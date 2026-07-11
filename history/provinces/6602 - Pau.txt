@@ -33,3 +33,12 @@ discovered_by = ottoman
 1685.10.18 = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
 1689.1.1 = { unrest = 0 } # War of the Grand Alliance erupts: Louis XIV can't persue his religious policy anymore
 
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = BOR
+		controller = BOR
+		add_core = BOR
+		culture = gascon
+		religion = catholic
+	}

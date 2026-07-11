@@ -54,3 +54,12 @@ discovered_by = east_african
 	controller = ALK
 	add_core = ALK
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = MDA
+		controller = MDA
+		add_core = MDA
+		culture = bedouin_arabic
+		religion = sunni
+	}

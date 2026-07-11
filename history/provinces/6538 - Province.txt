@@ -30,3 +30,12 @@ discovered_by = zhonghua
     remove_core = AKK
 } # The Safavids took over
 1536.1.1 = {   remove_core = PER } # Annexed by the Ottomans
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = AFS
+		controller = AFS
+		add_core = AFS
+		culture = kurdish
+		religion = sunni
+	}

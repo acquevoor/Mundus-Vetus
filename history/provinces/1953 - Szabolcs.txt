@@ -80,3 +80,12 @@ discovered_by = ottoman
 	add_core = JAZ
 	trade_goods = iron
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = HUN
+		controller = HUN
+		add_core = HUN
+		culture = hungarian
+		religion = catholic
+	}

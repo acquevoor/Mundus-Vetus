@@ -18,3 +18,12 @@ discovered_by = nomad_group
 1514.1.1 = {
   discovered_by = POR
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = DIN
+		controller = DIN
+		add_core = DIN
+		culture = cantonese
+		religion = confucianism
+	}

@@ -49,3 +49,12 @@ discovered_by = ottoman
 	controller = SWE
 	add_core = SWE
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = LTG
+		controller = LTG
+		add_core = LTG
+		culture = latvian
+		religion = catholic
+	}

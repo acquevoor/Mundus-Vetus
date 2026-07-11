@@ -22,3 +22,11 @@ latent_trade_goods = { coal }
 
 }
 1662.1.1 = { remove_core = MNG } 
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TIA
+		controller = TIA
+		add_core = TIA
+		culture = zhongyuan
+		religion = mahayana
+	}

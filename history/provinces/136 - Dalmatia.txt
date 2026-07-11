@@ -53,3 +53,12 @@ discovered_by = ottoman
 	controller = CRO
 	add_core = CRO
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = DAL
+		controller = DAL
+		add_core = DAL
+		culture = dalmatian
+		religion = catholic
+	}

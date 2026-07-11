@@ -30,3 +30,12 @@ discovered_by = nomad_group
 	controller = TKS
 	add_core = TKS
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = QTL
+		controller = QTL
+		add_core = QTL
+		culture = kipchak
+		religion = tengri_pagan_reformed
+	}

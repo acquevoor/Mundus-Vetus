@@ -36,3 +36,12 @@ discovered_by = BYZ
 	controller = SUW
 	add_core = SUW
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = SUW
+		controller = SUW
+		add_core = SUW
+		culture = al_suryah_arabic
+		religion = al_ghulat
+	}

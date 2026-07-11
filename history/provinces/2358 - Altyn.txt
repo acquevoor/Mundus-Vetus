@@ -32,3 +32,12 @@ discovered_by = muslim
 	controller = KYR
 	add_core = KYR
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TRS
+		controller = TRS
+		add_core = TRS
+		culture = kipchak
+		religion = al_batiniyya
+	}

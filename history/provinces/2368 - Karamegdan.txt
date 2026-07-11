@@ -47,3 +47,12 @@ discovered_by = KAS
 	controller = KYR
 	add_core = KYR
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = BCB
+		controller = BCB
+		add_core = BCB
+		culture = kipchak
+		religion = tengri_pagan_reformed
+	}

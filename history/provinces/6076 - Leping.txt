@@ -17,3 +17,12 @@ discovered_by = indian
 1595.1.1 = {
   discovered_by = SPA
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = CGS
+		controller = CGS
+		add_core = CGS
+		culture = zhuang
+		religion = animism
+	}

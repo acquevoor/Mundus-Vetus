@@ -22,3 +22,12 @@ extra_cost = 8
 
 1655.1.1 = { discovered_by = SPA } 
 1662.1.1 = { remove_core = MNG } 
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = DIN
+		controller = DIN
+		add_core = DIN
+		culture = sichuanese
+		religion = confucianism
+	}

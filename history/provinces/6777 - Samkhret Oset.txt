@@ -23,3 +23,12 @@ discovered_by = nomad_group
 1630.1.1 = { unrest = 0 }
 1659.1.1 = { unrest = 4 } # Anti-Ottoman revolts
 1665.1.1 = { unrest = 0 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = Z40
+		controller = Z40
+		add_core = Z40
+		culture = alan
+		religion = manichaei
+	}

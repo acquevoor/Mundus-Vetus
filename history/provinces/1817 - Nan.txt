@@ -25,3 +25,12 @@ discovered_by = indian
 	controller = NAM
 	add_core = NAM
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = Y05
+		controller = Y05
+		add_core = Y05
+		culture = northern_thai
+		religion = buddhism
+	}

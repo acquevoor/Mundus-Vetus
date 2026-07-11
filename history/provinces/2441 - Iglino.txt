@@ -30,3 +30,12 @@ add_core = U00
 	culture = kipchak
 	religion = tengri_pagan_reformed
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KYR
+		controller = KYR
+		add_core = KYR
+		culture = kipchak
+		religion = tengri_pagan_reformed
+	}

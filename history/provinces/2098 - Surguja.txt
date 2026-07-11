@@ -42,3 +42,12 @@ discovered_by = chinese
 	controller = KET
 	add_core = KET
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = NGP
+		controller = NGP
+		add_core = NGP
+		culture = jharkhandi
+		religion = adivasi
+	}

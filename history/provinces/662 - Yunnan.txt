@@ -46,3 +46,12 @@ discovered_by = nomad_group
 	controller = YUN
 	add_core = YUN
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = CDL
+		controller = CDL
+		add_core = CDL
+		culture = bai
+		religion = buddhism
+	}

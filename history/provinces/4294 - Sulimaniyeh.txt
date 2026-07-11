@@ -55,3 +55,12 @@ discovered_by = nomad_group
 	controller = SLA
 	add_core = SLA
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = AFS
+		controller = AFS
+		add_core = AFS
+		culture = kurdish
+		religion = ahl_e_haqq
+	}

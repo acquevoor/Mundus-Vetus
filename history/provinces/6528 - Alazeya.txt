@@ -23,3 +23,12 @@ discovered_by = ALT
 	religion = orthodox
 	culture = russian
 } # Conquered by Russia
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = BCB
+		controller = BCB
+		add_core = BCB
+		culture = kamchatkan
+		religion = tengri_pagan_reformed
+	}

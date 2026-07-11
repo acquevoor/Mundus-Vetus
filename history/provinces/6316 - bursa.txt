@@ -26,3 +26,12 @@ discovered_by = zhonghua
 1718.1.1 = { unrest = 3 base_tax = 3 base_production = 3 } # Lale Devri (the tulip age), not appreciated by everyone 
 1720.1.1 = { unrest = 0 }
 1795.1.1 = { unrest = 6 } # Reforms by Sultan Selim III, tried to replace the Janissary corps
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = CIS
+		controller = CIS
+		add_core = CIS
+		culture = turkish
+		religion = bektashi
+	}

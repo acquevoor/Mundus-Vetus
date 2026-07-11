@@ -25,3 +25,12 @@ discovered_by = indian
 
 	remove_core = ADA
 } # Adal collapse in highlands in wake of Ahmad Gran's death
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = HAR
+		controller = HAR
+		add_core = HAR
+		culture = amhara
+		religion = sunni
+	}

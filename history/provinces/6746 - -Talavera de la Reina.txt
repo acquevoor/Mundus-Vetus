@@ -24,3 +24,11 @@ discovered_by = ottoman
 1809.1.1 = { revolt = { }  } 
 1812.10.1 = { revolt = { type = pretender_rebels size = 0 }  } 
 1813.12.11 = { revolt = { }  } 
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TLD
+		controller = TLD
+		add_core = TLD
+		culture = castillian
+		religion = catholic
+	}

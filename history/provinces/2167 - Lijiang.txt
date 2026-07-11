@@ -39,3 +39,12 @@ discovered_by = indian
 	controller = LIJ
 	add_core = LIJ
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = CDL
+		controller = CDL
+		add_core = CDL
+		culture = bai
+		religion = buddhism
+	}

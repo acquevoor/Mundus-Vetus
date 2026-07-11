@@ -82,3 +82,12 @@ discovered_by = ottoman
 	add_core = HUN
 	trade_goods = fur
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TRA
+		controller = TRA
+		add_core = TRA
+		culture = transylvanian
+		religion = orthodox
+	}

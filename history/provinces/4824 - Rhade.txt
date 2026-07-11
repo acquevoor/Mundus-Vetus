@@ -63,3 +63,12 @@ discovered_by = ottoman
 	controller = SAI
 	add_core = SAI
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = CMI
+		controller = CMI
+		add_core = CMI
+		culture = miao
+		religion = animism
+	}

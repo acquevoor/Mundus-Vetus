@@ -30,3 +30,11 @@ discovered_by = BYZ
 
   remove_core = PER
 }
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = AFS
+		controller = AFS
+		add_core = AFS
+		culture = kurdish
+		religion = sunni
+	}

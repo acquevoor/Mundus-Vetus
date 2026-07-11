@@ -32,3 +32,12 @@ discovered_by = ottoman
 	revolt = {}
 
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = WAL
+		controller = WAL
+		add_core = WAL
+		culture = serbian
+		religion = orthodox
+	}

@@ -24,3 +24,12 @@ discovered_by = KMC
 	trade_goods = fur
 
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = OIR
+		controller = OIR
+		add_core = OIR
+		culture = yakut
+		religion = tengri_pagan_reformed
+	}

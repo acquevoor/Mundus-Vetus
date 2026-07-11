@@ -51,3 +51,12 @@ discovered_by = nomad_group
 	controller = ERB
 	add_core = ERB
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = AFS
+		controller = AFS
+		add_core = AFS
+		culture = aramaic
+		religion = ecclesia_assyrica
+	}

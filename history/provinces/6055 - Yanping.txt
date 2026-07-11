@@ -18,3 +18,12 @@ unrest = 6
 1540.1.1 = { revolt = { type = dwarf_pirates_rebels } } 
 1556.1.1 = { unrest = 0 revolt = { }  } 
 1595.1.1 = { discovered_by = SPA } 
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = DIN
+		controller = DIN
+		add_core = DIN
+		culture = chimin
+		religion = confucianism
+	}

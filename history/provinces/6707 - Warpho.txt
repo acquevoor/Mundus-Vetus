@@ -26,3 +26,12 @@ discovered_by = ottoman
 
 	remove_core = DAN
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = WAL
+		controller = WAL
+		add_core = WAL
+		culture = pommeranian
+		religion = catholic
+	}

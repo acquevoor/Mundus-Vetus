@@ -31,3 +31,12 @@ discovered_by = indian
 	remove_core = PER
 	unrest = 0
 } # Shahrokh is allowed to remain as ruler of Khurasan
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = QUM
+		controller = QUM
+		add_core = QUM
+		culture = khorasani
+		religion = al_mutazila
+	}

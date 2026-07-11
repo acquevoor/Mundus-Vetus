@@ -16,3 +16,12 @@ discovered_by = nomad_group
 
 1542.1.1 = { discovered_by = POR }
 1653.1.1 = { discovered_by = NED } # Hendrick Hamel
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KOR
+		controller = KOR
+		add_core = KOR
+		culture = korean
+		religion = confucianism
+	}

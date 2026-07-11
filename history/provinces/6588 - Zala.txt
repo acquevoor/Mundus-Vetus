@@ -27,3 +27,11 @@ discovered_by = ottoman
 # 1570.1.1 = { remove_core = TRA	} #Treaty of Speyer
 ################################################################################
 # Gyor is liberated
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = HUN
+		controller = HUN
+		add_core = HUN
+		culture = hungarian
+		religion = catholic
+	}

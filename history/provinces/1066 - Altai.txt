@@ -48,3 +48,12 @@ discovered_by = KHA
 	controller = KYR
 	add_core = KYR
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = OIR
+		controller = OIR
+		add_core = OIR
+		culture = kipchak
+		religion = tengri_pagan_reformed
+	}

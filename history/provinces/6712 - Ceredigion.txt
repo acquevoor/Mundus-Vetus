@@ -30,3 +30,12 @@ discovered_by = eastern
 	remove_core = ENG
 }
 1750.1.1 = { religion = reformed }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = WLS
+		controller = WLS
+		add_core = WLS
+		culture = welsh
+		religion = catholic
+	}

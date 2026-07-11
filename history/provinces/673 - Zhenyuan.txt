@@ -46,3 +46,12 @@ discovered_by = nomad_group
 	controller = DIN
 	add_core = DIN
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = CMI
+		controller = CMI
+		add_core = CMI
+		culture = miao
+		religion = animism
+	}

@@ -43,3 +43,12 @@ discovered_by = western
 	controller = AWD
 	add_core = AWD
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TFL
+		controller = TFL
+		add_core = TFL
+		culture = berber
+		religion = sunni
+	}

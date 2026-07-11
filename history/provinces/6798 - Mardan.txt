@@ -37,3 +37,11 @@ discovered_by = zhonghua
 
   remove_core = MUG
 }
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KFI
+		controller = KFI
+		add_core = KFI
+		culture = kashmiri
+		religion = buddhism
+	}

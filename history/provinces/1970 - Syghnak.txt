@@ -39,3 +39,12 @@ discovered_by = nomad_group
 	controller = TKS
 	add_core = TKS
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TKS
+		controller = TKS
+		add_core = TKS
+		culture = kipchak
+		religion = al_batiniyya
+	}

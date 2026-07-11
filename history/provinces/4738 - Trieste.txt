@@ -43,3 +43,11 @@ discovered_by = ottoman
 	controller = STY
 	remove_core = FRA
 } # Austria regains Trieste
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = CLI
+		controller = CLI
+		add_core = CLI
+		culture = venetian
+		religion = catholic
+	}

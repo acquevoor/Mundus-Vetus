@@ -17,3 +17,11 @@ discovered_by = indian
 
 	remove_core = TAU
 }
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = ARI
+		controller = ARI
+		add_core = ARI
+		culture = burmese
+		religion = buddhism
+	}

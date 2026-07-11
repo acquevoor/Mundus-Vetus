@@ -17,3 +17,12 @@ center_of_trade = 1
 1519.1.1 = { discovered_by = POR } 
 1540.1.1 = { revolt = { type = dwarf_pirates_rebels }  } 
 1556.1.1 = { revolt = { }  } 
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TIA
+		controller = TIA
+		add_core = TIA
+		culture = shandong_culture
+		religion = confucianism
+	}

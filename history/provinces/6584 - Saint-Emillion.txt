@@ -40,3 +40,12 @@ discovered_by = ottoman
 1702.1.1 = { unrest = 0 revolt = { type = heretic_rebels size = 2 }  } # Camisard rebels in control
 1705.1.1 = { revolt = {}  unrest = 3 } # Camisard rebellion ends, isolated aggression continues until 1710
 1710.1.1 = { unrest = 0 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = BOR
+		controller = BOR
+		add_core = BOR
+		culture = gascon
+		religion = catholic
+	}

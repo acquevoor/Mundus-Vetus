@@ -19,3 +19,12 @@ discovered_by = nomad_group
 1514.1.1 = {
   discovered_by = POR
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = UTL
+		controller = UTL
+		add_core = UTL
+		culture = chimin
+		religion = mahayana
+	}

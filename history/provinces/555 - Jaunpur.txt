@@ -122,3 +122,12 @@ discovered_by = chinese
 	controller = KET
 	add_core = KET
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KNN
+		controller = KNN
+		add_core = KNN
+		culture = avadhi
+		religion = sant_mat
+	}

@@ -16,3 +16,11 @@ discovered_by = ottoman
 1490.1.1 = {   remove_core = BAH } # The Breakup of the Bahmani sultanate
 1498.1.1 = { discovered_by = POR } 
 1600.1.1 = { 1650.1.1 = {  } 1672.1.1 = {         1685.1.1 = {  } # Conquered by the Mughal emperor Aurangzeb         1686.1.1 = {  }          1712.1.1 = {  } # Viceroyalty of the Deccan         1724.1.1 = {   } # Asif Jah declared himself Nizam-al-Mulk         1756.1.1 = {   } # Marathas, aided by General Bussy defeat Nawab of Savanaur         1818.6.3 = {    }  } } 
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = RAI
+		controller = RAI
+		add_core = RAI
+		culture = kannada
+		religion = lingayat
+	}

@@ -16,3 +16,12 @@ discovered_by = sub_saharan
 1481.1.1 = { discovered_by = POR } # Bartolomeu Dias
 
 1580.1.1 = { discovered_by = ENG } # Francis Drake
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = MNC
+		controller = MNC
+		add_core = MNC
+		culture = mbundu
+		religion = shamanism
+	}

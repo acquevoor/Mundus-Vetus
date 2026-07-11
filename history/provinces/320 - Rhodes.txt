@@ -32,3 +32,12 @@ discovered_by = ottoman
 	controller = NAP
 	add_core = NAP
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KNI
+		controller = KNI
+		add_core = KNI
+		culture = greek
+		religion = catholic
+	}

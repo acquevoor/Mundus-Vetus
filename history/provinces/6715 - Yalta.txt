@@ -17,3 +17,11 @@ discovered_by = nomad_group
 
 1475.5.1 = {    remove_core = GEN culture = turkish religion = sunni } # Seized by Gedik Ahmet Pasha, population displaced
 1774.7.21 = {    remove_core = TUR } # Treaty of Kuchuk-Kainarji
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = SCO
+		controller = SCO
+		add_core = SCO
+		culture = scottish
+		religion = catholic
+	}

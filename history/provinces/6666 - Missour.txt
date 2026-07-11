@@ -33,3 +33,12 @@ discovered_by = ottoman
 }
 1672.1.1 = { unrest = 4 } # Oppositions against Ismail, & the idea of a unified state
 1727.1.1 = { unrest = 0 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TFL
+		controller = TFL
+		add_core = TFL
+		culture = berber
+		religion = sunni
+	}

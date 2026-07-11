@@ -30,3 +30,12 @@ latent_trade_goods = { coal }
 
     remove_core = ENG
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = ENL
+		controller = ENL
+		add_core = ENL
+		culture = english
+		religion = catholic
+	}

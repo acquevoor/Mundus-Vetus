@@ -29,3 +29,12 @@ discovered_by = nippon
 
     remove_core = MAR
 } # Treaty of Bassein
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = NVE
+		controller = NVE
+		add_core = NVE
+		culture = gujarati
+		religion = hinduism
+	}

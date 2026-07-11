@@ -19,3 +19,12 @@ discovered_by = KAS
 1622.1.1 = {
   discovered_by = RUS
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TSK
+		controller = TSK
+		add_core = TSK
+		culture = kipchak
+		religion = sunni
+	}

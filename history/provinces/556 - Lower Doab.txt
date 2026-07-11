@@ -102,3 +102,12 @@ center_of_trade = 2
 	controller = KET
 	add_core = KET
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = JAY
+		controller = JAY
+		add_core = JAY
+		culture = avadhi
+		religion = sant_mat
+	}

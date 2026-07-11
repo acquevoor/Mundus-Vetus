@@ -44,3 +44,12 @@ add_core = CHH
 	controller = TIA
 	add_core = TIA
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KHA
+		controller = KHA
+		add_core = KHA
+		culture = mongol
+		religion = vajrayana
+	}

@@ -42,3 +42,12 @@ discovered_by = muslim
 	add_core = TSK
 	trade_goods = livestock
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KSG
+		controller = KSG
+		add_core = KSG
+		culture = turco_iranian
+		religion = al_batiniyya
+	}

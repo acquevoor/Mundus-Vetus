@@ -1,0 +1,36 @@
+#2437 - Seganka
+
+culture = tungus
+religion = tengri_pagan_reformed
+capital = "Seganka"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 2
+native_ferocity = 1
+native_hostileness = 3
+
+
+
+
+1631.1.1 = { discovered_by = RUS }
+
+1632.5.1 = {
+	owner = RUS
+	controller = RUS
+	religion = orthodox
+	culture = russian
+	is_city = yes
+	trade_goods = fur
+}
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KSG
+		controller = KSG
+		add_core = KSG
+		culture = tungus
+		religion = tengri_pagan_reformed
+	}

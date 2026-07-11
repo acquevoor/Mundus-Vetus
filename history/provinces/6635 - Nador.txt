@@ -23,3 +23,11 @@ discovered_by = eastern
 1668.9.7 = {   remove_core = TFL } # Alaouites reunifies the country
 1672.1.1 = { unrest = 4 } # Oppositions against Ismail, & the idea of a unified state
 1727.1.1 = { unrest = 0 } 
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = FEZ
+		controller = FEZ
+		add_core = FEZ
+		culture = berber
+		religion = sunni
+	}

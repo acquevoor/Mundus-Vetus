@@ -25,3 +25,12 @@ extra_cost = 16
 1709.1.1 = {
   discovered_by = SPA
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TIA
+		controller = TIA
+		add_core = TIA
+		culture = oirats
+		religion = vajrayana
+	}

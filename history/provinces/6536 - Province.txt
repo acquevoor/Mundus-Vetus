@@ -33,3 +33,12 @@ discovered_by = zhonghua
 
 	remove_core = PER
 } # Annexed by the Ottomans
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = AFS
+		controller = AFS
+		add_core = AFS
+		culture = al_iraqiya_arabic
+		religion = sunni
+	}

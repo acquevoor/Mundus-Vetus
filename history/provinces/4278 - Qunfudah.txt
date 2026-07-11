@@ -48,3 +48,12 @@ discovered_by = east_african
 	controller = SLY
 	add_core = SLY
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = HED
+		controller = HED
+		add_core = HED
+		culture = hejazi_culture
+		religion = shiite
+	}

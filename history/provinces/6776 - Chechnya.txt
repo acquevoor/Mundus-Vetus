@@ -18,3 +18,12 @@ discovered_by = nomad_group
 
 	remove_core = GAZ
 } # Annexed by Russia
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = KHU
+		controller = KHU
+		add_core = KHU
+		culture = chechen
+		religion = orthodox
+	}

@@ -40,3 +40,12 @@ discovered_by = indian
 1770.1.1 = { revolt = { type = heretic_rebels size = 1 }  } # Ras Mikael begins persecution of sost lidot theology, rebels seize control
 1771.1.1 = { revolt = {}  } # Ras Mikael deposed
 1772.1.1 = { unrest = 0 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = SOA
+		controller = SOA
+		add_core = SOA
+		culture = amhara
+		religion = sunni
+	}

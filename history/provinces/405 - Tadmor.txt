@@ -36,3 +36,12 @@ discovered_by = BYZ
 	controller = TAD
 	add_core = TAD
 }
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = TAD
+		controller = TAD
+		add_core = TAD
+		culture = al_suryah_arabic
+		religion = al_batiniyya
+	}

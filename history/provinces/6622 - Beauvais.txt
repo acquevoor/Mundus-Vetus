@@ -51,3 +51,12 @@ base_production = 15 } # Richelieu
 	revolt = {}
 
 } # The establishment of the First Republic
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = PIC
+		controller = PIC
+		add_core = PIC
+		culture = cosmopolitan_french
+		religion = catholic
+	}

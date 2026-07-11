@@ -25,3 +25,12 @@ discovered_by = ottoman
 1515.1.1 = { revolt = {}  }
 1545.1.1 = { religion = protestant } # Synod of Erdod
 #1570.1.1 = { remove_core = TRA	} #Treaty of Speyer
+
+# MV-sync Tian1444_11_11
+	1444.11.11 = {
+		owner = HUN
+		controller = HUN
+		add_core = HUN
+		culture = hungarian
+		religion = catholic
+	}
