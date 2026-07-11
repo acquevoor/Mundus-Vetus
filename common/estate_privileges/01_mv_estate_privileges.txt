@@ -1,0 +1,376 @@
+# Mundus Vetus custom estate privileges.
+# Template: estate_jains_land_rights in eu4 base/common/estate_privileges/07_jain_privileges.txt.
+# All icon keys and benefit modifier keys verified in-use in vanilla files.
+
+### Sea Nomads ###
+
+estate_sea_nomads_land_rights = {
+	icon = privilege_grant_autonomy
+	land_share = 5
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		governing_capacity = 100
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_sea_nomads_fleet_levies = {
+	icon = privilege_comission_merchant_ships_for_war
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		naval_forcelimit_modifier = 0.1
+		sailors_recovery_speed = 0.1
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_sea_nomads_strait_wardens = {
+	icon = privilege_light_ship
+	loyalty = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		global_ship_trade_power = 0.1
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_sea_nomads_letters_of_marque = {
+	icon = privilege_loot
+	loyalty = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+		global_trade_power = -0.05
+	}
+	benefits = {
+		privateer_efficiency = 0.15
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+### Jats and Banjara ###
+
+estate_jats_banjara_land_rights = {
+	icon = privilege_grant_autonomy
+	land_share = 5
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		governing_capacity = 100
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_jats_banjara_peasant_soldiers = {
+	icon = privilege_peasant
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		global_manpower_modifier = 0.1
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_jats_banjara_banjara_caravans = {
+	icon = privilege_caravans
+	loyalty = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		land_attrition = -0.1
+		caravan_power = 0.1
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_jats_banjara_bullock_trains = {
+	icon = privilege_demand_more_troops
+	loyalty = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		land_forcelimit_modifier = 0.05
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+### Secret Society ###
+
+estate_secret_society_land_rights = {
+	icon = privilege_grant_autonomy
+	land_share = 5
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		governing_capacity = 100
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_secret_society_masked_tribunals = {
+	icon = privilege_royal_authority
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		legitimacy = 0.5
+		harsh_treatment_cost = -0.1
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_secret_society_initiation_rites = {
+	icon = privilege_religious
+	loyalty = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		stability_cost_modifier = -0.1
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_secret_society_taboo_sanctions = {
+	icon = privilege_monopoly
+	loyalty = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		trade_efficiency = 0.05
+		embargo_efficiency = 0.25
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+### Bedouins ###
+
+estate_bedouins_land_rights = {
+	icon = privilege_grant_autonomy
+	land_share = 5
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		governing_capacity = 100
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_bedouins_camel_cavalry = {
+	icon = privilege_military
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		cavalry_cost = -0.1
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_bedouins_desert_guides = {
+	icon = privilege_dev_cost_desert
+	loyalty = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		land_attrition = -0.1
+		movement_speed = 0.05
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_bedouins_caravan_protection = {
+	icon = privilege_caravans
+	loyalty = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		caravan_power = 0.15
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+### Jews ###
+
+estate_jews_land_rights = {
+	icon = privilege_grant_autonomy
+	land_share = 5
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		governing_capacity = 100
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_jews_court_factors = {
+	icon = privilege_recruit_minister
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		advisor_cost = -0.1
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_jews_moneylending_charters = {
+	icon = privilege_loan_interaction
+	max_absolutism = -5
+	influence = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		interest = -0.5
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}
+
+estate_jews_trade_diaspora = {
+	icon = privilege_monopoly
+	loyalty = 0.05
+	can_select = {
+	}
+	on_granted = {
+	}
+	penalties = {
+	}
+	benefits = {
+		global_trade_power = 0.05
+		trade_range_modifier = 0.1
+	}
+	ai_will_do = {
+		factor = 2
+	}
+}

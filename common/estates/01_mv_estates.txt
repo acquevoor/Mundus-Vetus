@@ -1,0 +1,303 @@
+# Mundus Vetus custom estates.
+# Structure mirrors eu4 base/common/estates/07_jains.txt; exclusion block copied verbatim from there.
+
+estate_sea_nomads = {
+	icon = 4
+
+	trigger = {
+		NOT = { has_disabled_estate = { estate = estate_sea_nomads } }
+		OR = {
+			has_enabled_estate = { estate = estate_sea_nomads }
+			has_unlocked_estate = { estate = estate_sea_nomads }
+			AND = {
+				capital_scope = { superregion = east_indies_superregion }
+				NOT = { is_revolutionary_republic_trigger = yes }
+				NOT = { government = native }
+				NOT = { has_reform = siberian_tribe }
+				NOT = { has_government_attribute = is_pirate_republic_reform }
+				is_nomad = no
+				is_colonial_nation = no
+				NOT = { has_reform = celestial_empire }
+				NOT = { has_reform = revolutionary_empire_reform }
+			}
+		}
+	}
+
+	country_modifier_happy = {
+		global_sailors_modifier = 0.1
+		naval_forcelimit_modifier = 0.1
+		global_trade_power = 0.05
+	}
+	country_modifier_neutral = {
+		global_sailors_modifier = 0.1
+	}
+	country_modifier_angry = {
+		global_trade_power = -0.05
+		global_unrest = 2
+	}
+	land_ownership_modifier = {
+		sea_nomads_loyalty_modifier = 0.2
+	}
+
+	province_independence_weight = {
+		factor = 1
+	}
+
+	base_influence = 10
+
+	privileges = {
+		estate_sea_nomads_land_rights
+		estate_sea_nomads_fleet_levies
+		estate_sea_nomads_strait_wardens
+		estate_sea_nomads_letters_of_marque
+	}
+
+	agendas = {
+	}
+
+	influence_from_dev_modifier = 0.5
+
+	color = { 0 130 140 }
+}
+
+estate_jats_banjara = {
+	icon = 13
+
+	trigger = {
+		NOT = { has_disabled_estate = { estate = estate_jats_banjara } }
+		OR = {
+			has_enabled_estate = { estate = estate_jats_banjara }
+			has_unlocked_estate = { estate = estate_jats_banjara }
+			AND = {
+				technology_group = indian
+				NOT = { is_revolutionary_republic_trigger = yes }
+				NOT = { government = native }
+				NOT = { has_reform = siberian_tribe }
+				NOT = { has_government_attribute = is_pirate_republic_reform }
+				is_nomad = no
+				is_colonial_nation = no
+				NOT = { has_reform = celestial_empire }
+				NOT = { has_reform = revolutionary_empire_reform }
+			}
+		}
+	}
+
+	country_modifier_happy = {
+		global_manpower_modifier = 0.1
+		production_efficiency = 0.05
+		land_attrition = -0.1
+	}
+	country_modifier_neutral = {
+		global_manpower_modifier = 0.05
+	}
+	country_modifier_angry = {
+		global_manpower_modifier = -0.05
+		global_unrest = 3
+	}
+	land_ownership_modifier = {
+		jats_banjara_loyalty_modifier = 0.2
+	}
+
+	province_independence_weight = {
+		factor = 1
+	}
+
+	base_influence = 10
+
+	privileges = {
+		estate_jats_banjara_land_rights
+		estate_jats_banjara_peasant_soldiers
+		estate_jats_banjara_banjara_caravans
+		estate_jats_banjara_bullock_trains
+	}
+
+	agendas = {
+	}
+
+	influence_from_dev_modifier = 0.5
+
+	color = { 160 100 30 }
+}
+
+estate_secret_society = {
+	icon = 8
+
+	trigger = {
+		NOT = { has_disabled_estate = { estate = estate_secret_society } }
+		OR = {
+			has_enabled_estate = { estate = estate_secret_society }
+			has_unlocked_estate = { estate = estate_secret_society }
+			AND = {
+				technology_group = sub_saharan
+				NOT = { is_revolutionary_republic_trigger = yes }
+				NOT = { government = native }
+				NOT = { has_reform = siberian_tribe }
+				NOT = { has_government_attribute = is_pirate_republic_reform }
+				is_nomad = no
+				is_colonial_nation = no
+				NOT = { has_reform = celestial_empire }
+				NOT = { has_reform = revolutionary_empire_reform }
+			}
+		}
+	}
+
+	country_modifier_happy = {
+		global_unrest = -1
+		stability_cost_modifier = -0.1
+		legitimacy = 0.5
+	}
+	country_modifier_neutral = {
+		global_unrest = -1
+	}
+	country_modifier_angry = {
+		global_unrest = 3
+		stability_cost_modifier = 0.1
+	}
+	land_ownership_modifier = {
+		secret_society_loyalty_modifier = 0.2
+	}
+
+	province_independence_weight = {
+		factor = 1
+	}
+
+	base_influence = 10
+
+	privileges = {
+		estate_secret_society_land_rights
+		estate_secret_society_masked_tribunals
+		estate_secret_society_initiation_rites
+		estate_secret_society_taboo_sanctions
+	}
+
+	agendas = {
+	}
+
+	influence_from_dev_modifier = 0.5
+
+	color = { 90 40 120 }
+}
+
+estate_bedouins = {
+	icon = 5
+
+	trigger = {
+		NOT = { has_disabled_estate = { estate = estate_bedouins } }
+		OR = {
+			has_enabled_estate = { estate = estate_bedouins }
+			has_unlocked_estate = { estate = estate_bedouins }
+			AND = {
+				technology_group = muslim
+				NOT = { is_revolutionary_republic_trigger = yes }
+				NOT = { government = native }
+				NOT = { has_reform = siberian_tribe }
+				NOT = { has_government_attribute = is_pirate_republic_reform }
+				is_nomad = no
+				is_colonial_nation = no
+				NOT = { has_reform = celestial_empire }
+				NOT = { has_reform = revolutionary_empire_reform }
+			}
+		}
+	}
+
+	country_modifier_happy = {
+		cavalry_cost = -0.1
+		land_attrition = -0.1
+		caravan_power = 0.1
+	}
+	country_modifier_neutral = {
+		cavalry_cost = -0.1
+	}
+	country_modifier_angry = {
+		land_attrition = 0.1
+		global_unrest = 2
+	}
+	land_ownership_modifier = {
+		bedouins_loyalty_modifier = 0.2
+	}
+
+	province_independence_weight = {
+		factor = 1
+	}
+
+	base_influence = 10
+
+	privileges = {
+		estate_bedouins_land_rights
+		estate_bedouins_camel_cavalry
+		estate_bedouins_desert_guides
+		estate_bedouins_caravan_protection
+	}
+
+	agendas = {
+	}
+
+	influence_from_dev_modifier = 0.5
+
+	color = { 210 175 90 }
+}
+
+estate_jews = {
+	icon = 9
+
+	trigger = {
+		NOT = { has_disabled_estate = { estate = estate_jews } }
+		OR = {
+			has_enabled_estate = { estate = estate_jews }
+			has_unlocked_estate = { estate = estate_jews }
+			AND = {
+				capital_scope = {
+					OR = {
+						region = maghreb_region
+						superregion = europe_superregion
+						superregion = eastern_europe_superregion
+					}
+				}
+				NOT = { is_revolutionary_republic_trigger = yes }
+				NOT = { government = native }
+				NOT = { has_reform = siberian_tribe }
+				NOT = { has_government_attribute = is_pirate_republic_reform }
+				is_nomad = no
+				is_colonial_nation = no
+				NOT = { has_reform = celestial_empire }
+				NOT = { has_reform = revolutionary_empire_reform }
+			}
+		}
+	}
+
+	country_modifier_happy = {
+		interest = -0.5
+		global_trade_power = 0.05
+		advisor_cost = -0.05
+	}
+	country_modifier_neutral = {
+		interest = -0.5
+	}
+	country_modifier_angry = {
+		interest = 1
+		global_unrest = 2
+	}
+	land_ownership_modifier = {
+		jews_loyalty_modifier = 0.2
+	}
+
+	province_independence_weight = {
+		factor = 1
+	}
+
+	base_influence = 10
+
+	privileges = {
+		estate_jews_land_rights
+		estate_jews_court_factors
+		estate_jews_moneylending_charters
+		estate_jews_trade_diaspora
+	}
+
+	agendas = {
+	}
+
+	influence_from_dev_modifier = 1.0
+
+	color = { 70 130 180 }
+}

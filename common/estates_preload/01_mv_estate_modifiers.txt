@@ -1,0 +1,132 @@
+# Mundus Vetus custom estate modifier definitions.
+# Mirrors the estate_jains block in eu4 base/common/estates_preload/00_estate_modifiers.txt.
+
+estate_sea_nomads = {
+	modifier_definition = {
+		type = loyalty
+		key = sea_nomads_loyalty_modifier
+		trigger = {
+			has_estate = estate_sea_nomads
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = sea_nomads_influence_modifier
+		trigger = {
+			has_estate = estate_sea_nomads
+		}
+	}
+
+	modifier_definition = {
+		type = privileges
+		key = sea_nomads_privilege_slots
+		trigger = {
+			has_estate = estate_sea_nomads
+		}
+	}
+}
+
+estate_jats_banjara = {
+	modifier_definition = {
+		type = loyalty
+		key = jats_banjara_loyalty_modifier
+		trigger = {
+			has_estate = estate_jats_banjara
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = jats_banjara_influence_modifier
+		trigger = {
+			has_estate = estate_jats_banjara
+		}
+	}
+
+	modifier_definition = {
+		type = privileges
+		key = jats_banjara_privilege_slots
+		trigger = {
+			has_estate = estate_jats_banjara
+		}
+	}
+}
+
+estate_secret_society = {
+	modifier_definition = {
+		type = loyalty
+		key = secret_society_loyalty_modifier
+		trigger = {
+			has_estate = estate_secret_society
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = secret_society_influence_modifier
+		trigger = {
+			has_estate = estate_secret_society
+		}
+	}
+
+	modifier_definition = {
+		type = privileges
+		key = secret_society_privilege_slots
+		trigger = {
+			has_estate = estate_secret_society
+		}
+	}
+}
+
+estate_bedouins = {
+	modifier_definition = {
+		type = loyalty
+		key = bedouins_loyalty_modifier
+		trigger = {
+			has_estate = estate_bedouins
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = bedouins_influence_modifier
+		trigger = {
+			has_estate = estate_bedouins
+		}
+	}
+
+	modifier_definition = {
+		type = privileges
+		key = bedouins_privilege_slots
+		trigger = {
+			has_estate = estate_bedouins
+		}
+	}
+}
+
+estate_jews = {
+	modifier_definition = {
+		type = loyalty
+		key = jews_loyalty_modifier
+		trigger = {
+			has_estate = estate_jews
+		}
+	}
+
+	modifier_definition = {
+		type = influence
+		key = jews_influence_modifier
+		trigger = {
+			has_estate = estate_jews
+		}
+	}
+
+	modifier_definition = {
+		type = privileges
+		key = jews_privilege_slots
+		trigger = {
+			has_estate = estate_jews
+		}
+	}
+}
