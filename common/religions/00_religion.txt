@@ -2595,7 +2595,7 @@ muslim = {
 	}
 
 	shiite = {
-		color = { 59 50 50 }
+		color = { 0 204 0 }
 		icon = 6	
 		allowed_center_conversion = {
 			sunni
@@ -2651,7 +2651,7 @@ eastern = {
 
 	### --- Mundus Vetus religions (eastern) --- ###
 	shendao = {
-		color = { 200 120 60 }
+		color = { 200 0 0 }
 		icon = 76
 		fetishist_cult = yes
 		country = {
@@ -2786,7 +2786,7 @@ eastern = {
 	
 
 	confucianism = {
-		color = { 200 0 0 }
+		color = { 214 229 140 }
 		icon = 9
 		country = {
 			tolerance_heretic = 2
@@ -2920,7 +2920,7 @@ dharmic = {
 	}
 	### Mundus Vetus: Jain + Ajivaka religions ###
 	jain = {
-		color = { 194 69 28 }
+		color = { 143 143 142 }
 		icon = 58
 		misguided_heretic = yes
 		country = {
@@ -4380,7 +4380,7 @@ dharmic = {
 	}
 
 	lingayat = {
-		color = { 143 143 142 }
+		color = { 0 204 204 }
 		icon = 31
 		allowed_conversion = {
 			hinduism
