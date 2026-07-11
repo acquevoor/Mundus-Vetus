@@ -16,6 +16,10 @@ discovered_by = chinese
 discovered_by = zhonghua
 discovered_by = nippon
 discovered_by = east_african
+owner = KND
+controller = KND
+add_core = KND
+
 1505.1.1 = { discovered_by = POR } # Francisco de Almeida
 1658.1.1 = {
 
@@ -26,11 +30,3 @@ discovered_by = east_african
 	remove_core = NED
 } # Treaty of Amiens
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = KND
-		controller = KND
-		add_core = KND
-		culture = sinhala
-		religion = buddhism
-	}

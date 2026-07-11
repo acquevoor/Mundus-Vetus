@@ -14,14 +14,10 @@ discovered_by = zhonghua
 discovered_by = nippon
 discovered_by = nomad_group
 discovered_by = indian
+owner = Y05
+controller = Y05
+add_core = Y05
+
 1655.1.1 = {
   discovered_by = SPA
 }
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = Y05
-		controller = Y05
-		add_core = Y05
-		culture = shan
-		religion = animism
-	}

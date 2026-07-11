@@ -16,6 +16,10 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 discovered_by = ALT
+owner = BCB
+controller = BCB
+add_core = BCB
+
 1645.1.1 = { discovered_by = RUS } 
 
 1645.1.1 = {
@@ -24,11 +28,3 @@ discovered_by = ALT
 	culture = russian
 } # Conquered by Russia
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = BCB
-		controller = BCB
-		add_core = BCB
-		culture = kamchatkan
-		religion = tengri_pagan_reformed
-	}

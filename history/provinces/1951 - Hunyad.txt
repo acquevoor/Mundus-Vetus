@@ -4,8 +4,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = HUN
-controller = HUN 
+owner = TRA
+controller = TRA
 add_core = HUN
 culture = transylvanian
 religion = orthodox
@@ -27,7 +27,6 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
 
 1506.1.1 = { revolt = { type = nationalist_rebels size = 2 } controller = REB } # Szekely rebellion
 1507.1.1 = { revolt = {} controller = HUN } # Estimated
@@ -76,18 +75,3 @@ discovered_by = ottoman
 1784.1.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Peasant rebellion against the nobles
 1785.1.1 = { revolt = {} controller = HAB } # The leaders are arrested and executed
 
-1444.11.11 = {
-	owner = HUN
-	controller = HUN
-	add_core = HUN
-	trade_goods = fur
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = TRA
-		controller = TRA
-		add_core = TRA
-		culture = transylvanian
-		religion = orthodox
-	}

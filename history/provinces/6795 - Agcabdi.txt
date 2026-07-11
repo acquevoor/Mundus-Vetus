@@ -13,6 +13,10 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
+owner = U13
+controller = U13
+add_core = U13
+
 1501.7.1 = {
 
 	remove_core = AKK
@@ -23,11 +27,3 @@ discovered_by = nomad_group
 	remove_core = PER
 } # The Treaty of Gulistan
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = U13
-		controller = U13
-		add_core = U13
-		culture = azerbaijani
-		religion = coptic
-	}

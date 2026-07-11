@@ -1,7 +1,7 @@
 
 
-culture = chagatai
-religion = vajrayana
+culture = uyghur
+religion = manichaei
 
 trade_goods = wine
 hre = no
@@ -15,11 +15,6 @@ discovered_by = nippon
 discovered_by = nomad_group
 add_local_autonomy = 40
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = Z41
-		controller = Z41
-		add_core = Z41
-		culture = uyghur
-		religion = manichaei
-	}
+owner = Z41
+controller = Z41
+add_core = Z41

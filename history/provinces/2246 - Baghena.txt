@@ -1,6 +1,6 @@
 # No previous file for Baghena
 
-culture = soninke 
+culture = soninke
 religion = sunni
 capital = "Koumbi" #Remnants of the Ghana empire. 
 trade_goods = wool
@@ -17,11 +17,6 @@ discovered_by = sub_saharan
 # Conquered by Songhai
 #Songhai collapse after Tondibi
 #Massa establish the Massassi dynasty, Bambara expands
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = AWD
-		controller = AWD
-		add_core = AWD
-		culture = soninke
-		religion = sunni
-	}
+owner = AWD
+controller = AWD
+add_core = AWD

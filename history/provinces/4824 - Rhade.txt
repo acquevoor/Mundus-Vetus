@@ -1,9 +1,9 @@
 #2375 - Tay Nguyen
 
-owner = SAI
-controller = SAI
+owner = CMI
+controller = CMI
 add_core = SAI
-culture = cham
+culture = miao
 religion = animism
 capital = "Rhade"
 trade_goods = copper
@@ -14,13 +14,12 @@ base_manpower = 2
 is_city = yes
 add_core = RHA
 
-
-
 discovered_by = chinese
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
+add_core = CMI
 
 1472.1.1 = {
 	owner = DAI
@@ -58,17 +57,3 @@ discovered_by = ottoman
 	remove_core = DAI
 } # Nguyen Phuc Anh conquered the Tay Son Dynasty
 
-1444.11.11 = {
-	owner = SAI
-	controller = SAI
-	add_core = SAI
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = CMI
-		controller = CMI
-		add_core = CMI
-		culture = miao
-		religion = animism
-	}

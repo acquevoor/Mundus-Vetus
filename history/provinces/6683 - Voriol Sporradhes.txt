@@ -15,11 +15,6 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = DRM
-		controller = DRM
-		add_core = DRM
-		culture = greek
-		religion = orthodox
-	}
+owner = DRM
+controller = DRM
+add_core = DRM

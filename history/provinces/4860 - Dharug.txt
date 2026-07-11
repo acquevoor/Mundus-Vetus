@@ -1,7 +1,7 @@
 #4860 - Dharug
 
 culture = aboriginal
-religion = dreamtime
+religion = satsana_phi
 capital = "Dharug"
 hre = no
 trade_goods = unknown
@@ -13,16 +13,9 @@ native_ferocity = 1
 native_hostileness = 3
 discovered_by = aboriginal_tech
 
-
+owner = NAM
+controller = NAM
+add_core = NAM
 
 1642.11.24 = { discovered_by = NED } # Abel Tasman
 
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = NAM
-		controller = NAM
-		add_core = NAM
-		culture = aboriginal
-		religion = satsana_phi
-	}

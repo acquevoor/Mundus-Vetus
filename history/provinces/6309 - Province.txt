@@ -15,6 +15,10 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
+owner = DRM
+controller = DRM
+add_core = DRM
+
 1402.1.1 = { revolt = { type = nationalist_rebels size = 1 }  } # Interregnum
 1403.1.1 = { revolt = {}   remove_core = TUR }
 1430.3.29 = {	
@@ -29,11 +33,3 @@ base_production = 4 } #The Decentralizing Effect of the Provincial System
 1623.1.1 = { unrest = 7 } # The empire fell into anarchy, Janissaries stormed the palace
 1625.1.1 = { unrest = 0 } # Murad tries to quell the corruption
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = DRM
-		controller = DRM
-		add_core = DRM
-		culture = greek
-		religion = orthodox
-	}

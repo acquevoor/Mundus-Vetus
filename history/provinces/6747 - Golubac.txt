@@ -20,6 +20,10 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+owner = WAL
+controller = WAL
+add_core = WAL
+
 1688.11.7 = { unrest = 12 } # Serb rebellion under D. Brankovic
 1717.8.22 = {
 	unrest = 0
@@ -33,11 +37,3 @@ discovered_by = ottoman
 
 }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = WAL
-		controller = WAL
-		add_core = WAL
-		culture = serbian
-		religion = orthodox
-	}

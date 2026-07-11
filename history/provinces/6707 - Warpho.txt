@@ -13,6 +13,10 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+owner = WAL
+controller = WAL
+add_core = WAL
+
 1648.10.24 = {
 
 	remove_core = BRA
@@ -27,11 +31,3 @@ discovered_by = ottoman
 	remove_core = DAN
 }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = WAL
-		controller = WAL
-		add_core = WAL
-		culture = pommeranian
-		religion = catholic
-	}

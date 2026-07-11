@@ -1,9 +1,9 @@
 #2330 - Ma'din Sulaym
 
-owner = ALK
-controller = ALK
+owner = MDA
+controller = MDA
 add_core = ALK
-culture = hejazi_culture
+culture = bedouin_arabic
 religion = sunni
 capital = "Ma'din Sulaym"
 trade_goods = livestock
@@ -49,17 +49,3 @@ discovered_by = east_african
 	remove_core = NAJ
 } # Mecca is returned to the Ottomans
 
-1444.11.11 = {
-	owner = ALK
-	controller = ALK
-	add_core = ALK
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = MDA
-		controller = MDA
-		add_core = MDA
-		culture = bedouin_arabic
-		religion = sunni
-	}

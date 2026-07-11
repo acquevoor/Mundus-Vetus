@@ -4,7 +4,7 @@ add_core = SLY
 owner = SLY
 controller = SLY
 culture = al_suryah_arabic
-religion = al_batiniyya
+religion = sunni
 capital = "Al Quds"
 trade_goods = grain
 hre = no
@@ -32,18 +32,3 @@ add_province_triggered_modifier = promised_land_modifier
 } # Part of the Ottoman empire
 1750.1.1 = { add_core = SYR }
 
-
-1444.11.11 = {
-	owner = SLY
-	controller = SLY
-	add_core = SLY
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SLY
-		controller = SLY
-		add_core = SLY
-		culture = al_suryah_arabic
-		religion = sunni
-	}

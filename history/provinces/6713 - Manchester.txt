@@ -16,6 +16,10 @@ discovered_by = eastern
 # æ›¼å½»æ–¯ç‰¹6713
 ################################################################################
 latent_trade_goods = { coal }
+owner = ENL
+controller = ENL
+add_core = ENL
+
 1453.1.1 = { unrest = 5 } # Start of the War of the Roses
 1461.6.1 = { unrest = 2 } # Coronation of Edward IV
 1467.1.1 = { unrest = 5 } # Rivalry between Edward IV & Warwick
@@ -31,11 +35,3 @@ latent_trade_goods = { coal }
     remove_core = ENG
 }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = ENL
-		controller = ENL
-		add_core = ENL
-		culture = english
-		religion = catholic
-	}

@@ -1,8 +1,8 @@
 #674 - Guiyang
 add_core = DIN
 
-owner = DIN
-controller = DIN
+owner = CYI
+controller = CYI
 add_core = MNG
 add_core = CYI
 culture = yi
@@ -15,8 +15,6 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = CDL
-
-
 
 discovered_by = chinese
 discovered_by = nomad_group
@@ -39,18 +37,3 @@ discovered_by = nomad_group
 	add_core = QNG
 }
 
-
-1444.11.11 = {
-	owner = DIN
-	controller = DIN
-	add_core = DIN
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = CYI
-		controller = CYI
-		add_core = CYI
-		culture = yi
-		religion = animism
-	}

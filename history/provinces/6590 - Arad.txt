@@ -20,6 +20,10 @@ discovered_by = muslim
 discovered_by = ottoman
 
  # Great plague
+owner = HUN
+controller = HUN
+add_core = HUN
+
 1514.1.1 = { revolt = { type = anti_tax_rebels size = 2 }  } # Rebel peasant troops led by Gheorghe Doja
 1514.6.1 = { revolt = {}  }
 1562.6.1 = { remove_core = HAB } # The end of the Ottoman-Habsburg War
@@ -45,12 +49,3 @@ discovered_by = ottoman
 1769.1.1 = { revolt = { type = nationalist_rebels size = 2 }  } # Anti Habsburg uprisings
 1770.1.1 = { revolt = {}  }
 
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = HUN
-		controller = HUN
-		add_core = HUN
-		culture = transylvanian
-		religion = catholic
-	}

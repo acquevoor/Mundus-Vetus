@@ -18,6 +18,10 @@ discovered_by = nomad_group
 discovered_by = chinese
 discovered_by = zhonghua
 discovered_by = nippon
+owner = NVE
+controller = NVE
+add_core = NVE
+
 1498.1.1 = { discovered_by = POR } 
 1622.3.1 = {  revolt = { type = pretender_rebels size = 0 name = "Khurrams Faction" leader = "Shah Jahan Timurid" } } # Should be named Khurram at this point
 1622.7.1 = {  revolt = { } } # Retaken by Jahangir and Nur Jahan
@@ -30,11 +34,3 @@ discovered_by = nippon
     remove_core = MAR
 } # Treaty of Bassein
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = NVE
-		controller = NVE
-		add_core = NVE
-		culture = gujarati
-		religion = hinduism
-	}

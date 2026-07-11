@@ -1,10 +1,10 @@
 #555 - Jaunpur
 
-owner = KET
-controller = KET
+owner = KNN
+controller = KNN
 add_core = KET
 culture = avadhi
-religion = buddhism
+religion = sant_mat
 capital = "Jaunpur"
 trade_goods = paper #And Carpets
 hre = no
@@ -20,6 +20,7 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+add_core = KNN
 
 1486.1.1 = {
 	owner = DLH
@@ -105,8 +106,6 @@ discovered_by = chinese
 	revolt = { }
 } # Muhammed Shuja routed in surprise raid by Suleiman Shukoh and Raja Jai Singh outside Varanasi
 
-
-
 1690.1.1 = { discovered_by = ENG }
 1707.5.12 = { discovered_by = GBR }
 
@@ -117,17 +116,3 @@ discovered_by = chinese
 	remove_core = MUG
 } # Foundation of the Oudh dynasty
 
-1444.11.11 = {
-	owner = KET
-	controller = KET
-	add_core = KET
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = KNN
-		controller = KNN
-		add_core = KNN
-		culture = avadhi
-		religion = sant_mat
-	}

@@ -16,6 +16,10 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
+owner = OIR
+controller = OIR
+add_core = OIR
+
 1643.1.1 = {
 	discovered_by = RUS
 
@@ -25,11 +29,3 @@ discovered_by = KMC
 
 }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = OIR
-		controller = OIR
-		add_core = OIR
-		culture = yakut
-		religion = tengri_pagan_reformed
-	}

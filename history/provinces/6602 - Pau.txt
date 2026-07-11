@@ -14,6 +14,10 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
+owner = BOR
+controller = BOR
+add_core = BOR
+
 1560.1.1 = { religion = reformed }
 1565.1.1 = { unrest = 8 } # France is restless once again as ultra-catholic intentions become clear
 1568.9.1 = { unrest = 15 } # Catherine de Medici and Charles IX side with the Guise faction, religious intolerance peaks
@@ -33,12 +37,3 @@ discovered_by = ottoman
 1685.10.18 = { unrest = 8 } # Edict of Nantes revoked by Louis XIV
 1689.1.1 = { unrest = 0 } # War of the Grand Alliance erupts: Louis XIV can't persue his religious policy anymore
 
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = BOR
-		controller = BOR
-		add_core = BOR
-		culture = gascon
-		religion = catholic
-	}

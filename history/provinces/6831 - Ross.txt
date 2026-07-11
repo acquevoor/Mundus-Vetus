@@ -12,13 +12,9 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+owner = SCO
+controller = SCO
+add_core = SCO
+
 1560.8.1 = { religion = reformed }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SCO
-		controller = SCO
-		add_core = SCO
-		culture = highland_scottish
-		religion = catholic
-	}

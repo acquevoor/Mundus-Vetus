@@ -1,8 +1,8 @@
 #349 - Figuig
 add_core = AWD
 
-owner = AWD
-controller = AWD
+owner = TFL
+controller = TFL
 culture = berber
 religion = sunni
 capital = "Figuig"
@@ -18,7 +18,6 @@ add_local_autonomy = 25
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
-
 
 1549.1.1 = {
 	owner = MOR
@@ -37,18 +36,3 @@ discovered_by = western
 	controller = MOR
 } #Alaouites reunifies the country
 
-
-1444.11.11 = {
-	owner = AWD
-	controller = AWD
-	add_core = AWD
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = TFL
-		controller = TFL
-		add_core = TFL
-		culture = berber
-		religion = sunni
-	}

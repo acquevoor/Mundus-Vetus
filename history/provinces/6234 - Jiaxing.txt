@@ -15,17 +15,13 @@ discovered_by = nippon
 discovered_by = nomad_group
 extra_cost = 16
 
+owner = DIN
+controller = DIN
+add_core = DIN
+
 1540.1.1 = { revolt = { type = dwarf_pirates_rebels size = 1}  }
 1568.1.1 = { unrest = 0 revolt = {}  }
 1519.1.1 = {
   discovered_by = POR
 }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = DIN
-		controller = DIN
-		add_core = DIN
-		culture = wu
-		religion = mahayana
-	}

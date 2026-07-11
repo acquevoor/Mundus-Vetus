@@ -1,7 +1,7 @@
 #2337 - Buraydeh
 
-owner = ALK
-controller = ALK
+owner = NAJ
+controller = NAJ
 add_core = ALK
 culture = bedouin_arabic
 religion = sunni
@@ -19,6 +19,8 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = east_african
 
+add_core = NAJ
+
 1515.1.1 = { discovered_by = POR }
 1775.1.1 = {
 	owner = NAJ
@@ -31,17 +33,3 @@ discovered_by = east_african
 	add_core = TUR
 } # The end of the Saudi State
 
-1444.11.11 = {
-	owner = ALK
-	controller = ALK
-	add_core = ALK
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = NAJ
-		controller = NAJ
-		add_core = NAJ
-		culture = bedouin_arabic
-		religion = sunni
-	}

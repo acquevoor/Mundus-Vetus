@@ -13,11 +13,6 @@ native_ferocity = 7
 native_hostileness = 5
 discovered_by = aboriginal_tech
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = HTN
-		controller = HTN
-		add_core = HTN
-		culture = gamilaraay
-		religion = dreamtime
-	}
+owner = HTN
+controller = HTN
+add_core = HTN

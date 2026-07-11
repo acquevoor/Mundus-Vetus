@@ -1,6 +1,6 @@
 #阿里什El Arish
 
-culture = al_suryah_arabic
+culture = bedouin_arabic
 religion = sunni
 capital = "El Arish"
 trade_goods = salt
@@ -18,11 +18,6 @@ discovered_by = indian
 discovered_by = east_african
 discovered_by = zhonghua
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SLY
-		controller = SLY
-		add_core = SLY
-		culture = bedouin_arabic
-		religion = sunni
-	}
+owner = SLY
+controller = SLY
+add_core = SLY

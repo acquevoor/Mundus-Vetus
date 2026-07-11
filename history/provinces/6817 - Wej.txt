@@ -1,6 +1,6 @@
 
 
-culture = amhara 
+culture = amhara
 religion = sunni
 
 base_manpower = 1
@@ -14,6 +14,10 @@ discovered_by = east_african
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
+
+owner = SOA
+controller = SOA
+add_core = SOA
 
 1533.1.1 = { unrest = 7 } # Raids by Ahmad Gran
 1534.1.1 = {
@@ -41,11 +45,3 @@ discovered_by = indian
 1771.1.1 = { revolt = {}  } # Ras Mikael deposed
 1772.1.1 = { unrest = 0 }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SOA
-		controller = SOA
-		add_core = SOA
-		culture = amhara
-		religion = sunni
-	}

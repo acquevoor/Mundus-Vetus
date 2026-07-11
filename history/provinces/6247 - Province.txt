@@ -13,6 +13,10 @@ discovered_by = chinese
 discovered_by = zhonghua
 discovered_by = nippon
 discovered_by = indian
+owner = DAI
+controller = DAI
+add_core = DAI
+
 1520.1.1 = {
   unrest = 10
 }
@@ -39,11 +43,3 @@ discovered_by = indian
   remove_core = DAI
 
 }
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = DAI
-		controller = DAI
-		add_core = DAI
-		culture = lao
-		religion = mahayana
-	}

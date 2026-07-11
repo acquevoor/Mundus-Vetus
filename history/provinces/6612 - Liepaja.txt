@@ -16,6 +16,10 @@ discovered_by = AST
 discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
+owner = LTG
+controller = LTG
+add_core = LTG
+
 1542.1.1 = { religion = protestant } # Unknown date
 1561.1.1 = { 
 
@@ -23,11 +27,3 @@ discovered_by = eastern
     religion = protestant
 } # Treaty of Stettin
 # Third partition of Poland
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = LTG
-		controller = LTG
-		add_core = LTG
-		culture = latvian
-		religion = catholic
-	}

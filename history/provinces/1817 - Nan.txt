@@ -1,7 +1,7 @@
 #1817 - Nan
 
-owner = NAM
-controller = NAM
+owner = Y05
+controller = Y05
 add_core = NAM
 culture = northern_thai
 religion = buddhism
@@ -16,21 +16,9 @@ add_core = LNA
 discovered_by = chinese
 discovered_by = indian
 
+add_core = Y05
+
 1535.1.1 = { discovered_by = POR }
 1558.4.2 = { add_core = TAU } # Burmese vassal
 1775.1.1 = { add_core = AYU } # Siamnese vassal
 
-1444.11.11 = {
-	owner = NAM
-	controller = NAM
-	add_core = NAM
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = Y05
-		controller = Y05
-		add_core = Y05
-		culture = northern_thai
-		religion = buddhism
-	}

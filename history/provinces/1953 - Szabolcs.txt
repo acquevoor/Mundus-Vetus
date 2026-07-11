@@ -1,7 +1,7 @@
 #1953 - Szabolcs
 
-owner = JAZ
-controller = JAZ 
+owner = HUN
+controller = HUN
 add_core = JAZ
 culture = hungarian
 religion = catholic
@@ -22,7 +22,6 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-
 
 1506.1.1 = { revolt = { type = anti_tax_rebels size = 1.5 } controller = REB } # Szekely rebellion
 1507.1.1 = { revolt = {} controller = HUN } # Estimated
@@ -74,18 +73,3 @@ discovered_by = ottoman
 1703.1.1 = { unrest = 6 } # Kuruc rebellion, lead by Francisc Rakoczy
 1711.1.1 = { unrest = 0 } # The treaty of Szatmar
 
-1444.11.11 = {
-	owner = JAZ
-	controller = JAZ
-	add_core = JAZ
-	trade_goods = iron
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = HUN
-		controller = HUN
-		add_core = HUN
-		culture = hungarian
-		religion = catholic
-	}

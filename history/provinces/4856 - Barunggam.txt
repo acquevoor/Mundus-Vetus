@@ -1,7 +1,7 @@
 #4656 - Barunggam
 
-culture = gamilaraay
-religion = dreamtime
+culture = vietnamese
+religion = mahayana
 capital = "Barunggam"
 hre = no
 trade_goods = unknown
@@ -13,16 +13,9 @@ native_ferocity = 1
 native_hostileness = 1
 discovered_by = aboriginal_tech
 
-
+owner = DAI
+controller = DAI
+add_core = DAI
 
 1642.11.24 = { discovered_by = NED } # Abel Tasman
 
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = DAI
-		controller = DAI
-		add_core = DAI
-		culture = vietnamese
-		religion = mahayana
-	}

@@ -12,13 +12,15 @@ native_size = 5
 native_ferocity = 1
 native_hostileness = 3
 
-
-
 discovered_by = ANU
 discovered_by = HOD
 discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
+
+owner = OIR
+controller = OIR
+add_core = OIR
 
 1647.1.1 = { discovered_by = RUS } # V. Atlasov
 
@@ -31,11 +33,3 @@ discovered_by = KMC
 } # Conquered by Russia
 1757.1.1 = { add_core = RUS }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = OIR
-		controller = OIR
-		add_core = OIR
-		culture = kamchatkan
-		religion = tengri_pagan_reformed
-	}

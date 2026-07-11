@@ -12,15 +12,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+owner = SCO
+controller = SCO
+add_core = SCO
+
 1560.8.1 = { religion = reformed } 
 1644.9.13 = { revolt = { type = revolutionary_rebels size = 0 }  } 
 1645.9.13 = { revolt = { }  } # Battle of Philiphaugh
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SCO
-		controller = SCO
-		add_core = SCO
-		culture = scottish
-		religion = catholic
-	}

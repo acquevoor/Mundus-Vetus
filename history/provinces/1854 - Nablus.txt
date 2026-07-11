@@ -4,7 +4,7 @@ add_core = SLY
 owner = SLY
 controller = SLY
 culture = al_suryah_arabic
-religion = al_batiniyya
+religion = sunni
 capital = "Nablus"
 trade_goods = sugar
 hre = no
@@ -22,21 +22,5 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 
-
 1517.1.1 = { owner = TUR controller = TUR add_core = TUR } # Conquered by the Ottomans
 
-
-1444.11.11 = {
-	owner = SLY
-	controller = SLY
-	add_core = SLY
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SLY
-		controller = SLY
-		add_core = SLY
-		culture = al_suryah_arabic
-		religion = sunni
-	}

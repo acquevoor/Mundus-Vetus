@@ -3,7 +3,7 @@
 owner = JAF
 controller = JAF
 add_core = JAF
-culture = bedouin_arabic
+culture = al_suryah_arabic
 religion = sunni
 capital = "Maan"
 trade_goods = livestock
@@ -22,7 +22,6 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 
-
 1516.8.24 = {
 	owner = TUR
 	controller = TUR
@@ -33,17 +32,3 @@ discovered_by = east_african
 1670.1.1 = { unrest = 0 }
 1750.1.1 = { add_core = SYR }
 
-1444.11.11 = {
-	owner = JAF
-	controller = JAF
-	add_core = JAF
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = JAF
-		controller = JAF
-		add_core = JAF
-		culture = al_suryah_arabic
-		religion = sunni
-	}

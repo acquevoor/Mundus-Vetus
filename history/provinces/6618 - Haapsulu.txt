@@ -17,6 +17,10 @@ discovered_by = QAS
 discovered_by = western
 discovered_by = eastern
 
+owner = SWE
+controller = SWE
+add_core = SWE
+
 1542.1.1 = { religion = protestant} # Unknown date
 1561.1.1 = {
 
@@ -26,11 +30,3 @@ discovered_by = eastern
 
 	remove_core = SWE
 } # The Peace of Nystad
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SWE
-		controller = SWE
-		add_core = SWE
-		culture = estonian
-		religion = catholic
-	}

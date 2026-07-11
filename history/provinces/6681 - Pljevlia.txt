@@ -18,17 +18,13 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+owner = SER
+controller = SER
+add_core = SER
+
 1688.11.7 = { unrest = 12 } # Serb rebellion under D. Brankovic
 1688.11.7 = { unrest = 12 } # Serb rebellion under D. Brankovic
 1806.1.8 = { revolt = { type = nationalist_rebels size = 2 }  } # Belgrade is occupied by Serbian rebels
 1813.1.1 = { revolt = { }  } 
 1815.4.23 = { revolt = { type = nationalist_rebels size = 2 }  } # The Second Serbian uprising
 1817.1.1 = { revolt = { }  } 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SER
-		controller = SER
-		add_core = SER
-		culture = serbian
-		religion = orthodox
-	}

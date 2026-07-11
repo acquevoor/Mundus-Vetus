@@ -1,10 +1,10 @@
 #556 - Lower Doab
 
-owner = KET
-controller = KET
+owner = JAY
+controller = JAY
 add_core = KET
 culture = avadhi
-religion = buddhism
+religion = sant_mat
 capital = "Allahabad"
 trade_goods = cloth
 hre = no
@@ -21,6 +21,8 @@ discovered_by = nomad_group
 discovered_by = chinese
 extra_cost = 16
 center_of_trade = 2
+
+add_core = JAY
 
 1486.1.1 = {
 	owner = DLH
@@ -97,17 +99,3 @@ center_of_trade = 2
 	remove_core = ODH
 }
 
-1444.11.11 = {
-	owner = KET
-	controller = KET
-	add_core = KET
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = JAY
-		controller = JAY
-		add_core = JAY
-		culture = avadhi
-		religion = sant_mat
-	}

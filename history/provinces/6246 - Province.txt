@@ -14,6 +14,10 @@ discovered_by = nippon
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
+owner = DAI
+controller = DAI
+add_core = DAI
+
 1407.6.1 = {
 
   unrest = 10
@@ -34,11 +38,3 @@ discovered_by = ottoman
 
 }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = DAI
-		controller = DAI
-		add_core = DAI
-		culture = zhuang
-		religion = mahayana
-	}

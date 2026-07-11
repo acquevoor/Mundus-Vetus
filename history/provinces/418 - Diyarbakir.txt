@@ -1,7 +1,7 @@
 #418 - Diyarbakir
 
-owner = Z22
-controller = Z22
+owner = AKK
+controller = AKK
 add_core = Z22
 culture = kurdish
 religion = ahl_e_haqq
@@ -45,17 +45,3 @@ center_of_trade = 1
 1722.1.1 = { unrest = 5 } # Rebellion against the Ottomans
 1730.1.1 = { unrest = 0 }
 
-1444.11.11 = {
-	owner = Z22
-	controller = Z22
-	add_core = Z22
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = AKK
-		controller = AKK
-		add_core = AKK
-		culture = kurdish
-		religion = ahl_e_haqq
-	}

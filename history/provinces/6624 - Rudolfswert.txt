@@ -15,6 +15,10 @@ discovered_by = CRI
 discovered_by = GOL
 discovered_by = AST
 discovered_by = QAS
+owner = CLI
+controller = CLI
+add_core = CLI
+
 1456.11.9 = {
 
 	remove_core = STY
@@ -23,11 +27,3 @@ discovered_by = QAS
 1526.1.1 = { unrest = 0 }
 1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = CLI
-		controller = CLI
-		add_core = CLI
-		culture = slovene
-		religion = catholic
-	}

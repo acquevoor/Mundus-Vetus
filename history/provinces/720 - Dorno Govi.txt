@@ -1,7 +1,7 @@
 #720 - Tshiyet Noyan
 
-owner = KHA
-controller = KHA
+owner = CAG
+controller = CAG
 add_core = KHA
 culture = khalkha
 religion = tengri_pagan_reformed
@@ -16,6 +16,7 @@ add_core = OIR
 discovered_by = chinese
 discovered_by = nomad_group
 
+add_core = CAG
 
 1510.1.1 = {
 	owner = KHA
@@ -41,17 +42,3 @@ discovered_by = nomad_group
 1706.1.1 = { capital = "Khuree" }
 1709.1.1 = { discovered_by = SPA }
 
-1444.11.11 = {
-	owner = KHA
-	controller = KHA
-	add_core = KHA
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = CAG
-		controller = CAG
-		add_core = CAG
-		culture = khalkha
-		religion = tengri_pagan_reformed
-	}

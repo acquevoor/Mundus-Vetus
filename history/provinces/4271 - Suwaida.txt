@@ -3,7 +3,7 @@
 owner = SUW
 controller = SUW
 add_core = SUW
-culture = bedouin_arabic
+culture = al_suryah_arabic
 religion = al_ghulat
 capital = "As-Suwayda"
 trade_goods = livestock
@@ -31,17 +31,3 @@ discovered_by = BYZ
 1669.1.1 = { unrest = 2 } # Ottoman attempts to pacify unruly tribes 
 1670.1.1 = { unrest = 0 }
 
-1444.11.11 = {
-	owner = SUW
-	controller = SUW
-	add_core = SUW
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SUW
-		controller = SUW
-		add_core = SUW
-		culture = al_suryah_arabic
-		religion = al_ghulat
-	}

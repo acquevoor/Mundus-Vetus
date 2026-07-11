@@ -14,11 +14,6 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = NOV
-		controller = NOV
-		add_core = NOV
-		culture = greek
-		religion = orthodox
-	}
+owner = NOV
+controller = NOV
+add_core = NOV

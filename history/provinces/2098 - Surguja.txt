@@ -1,10 +1,10 @@
 #2098 - Surguja
 
-owner = KET
-controller = KET
+owner = NGP
+controller = NGP
 add_core = KET
 culture = jharkhandi
-religion = buddhism
+religion = adivasi
 capital = "Surguja"
 trade_goods = cotton
 hre = no
@@ -37,17 +37,3 @@ discovered_by = chinese
 	controller = SRG
 }
 
-1444.11.11 = {
-	owner = KET
-	controller = KET
-	add_core = KET
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = NGP
-		controller = NGP
-		add_core = NGP
-		culture = jharkhandi
-		religion = adivasi
-	}

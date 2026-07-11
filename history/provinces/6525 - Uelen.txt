@@ -16,6 +16,10 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 discovered_by = ALT
+owner = KSG
+controller = KSG
+add_core = KSG
+
 1648.1.1 = { discovered_by = RUS } # Semyon Dezhnev
 
 1778.1.1 = {
@@ -25,11 +29,3 @@ discovered_by = ALT
 
 	trade_goods = fish
 }
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = KSG
-		controller = KSG
-		add_core = KSG
-		culture = turco_iranian
-		religion = ecclesia_assyrica
-	}

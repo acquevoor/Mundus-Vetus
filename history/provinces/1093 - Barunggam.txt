@@ -13,11 +13,6 @@ native_ferocity = 4
 native_hostileness = 3
 discovered_by = aboriginal_tech
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = CAG
-		controller = CAG
-		add_core = CAG
-		culture = gamilaraay
-		religion = dreamtime
-	}
+owner = CAG
+controller = CAG
+add_core = CAG

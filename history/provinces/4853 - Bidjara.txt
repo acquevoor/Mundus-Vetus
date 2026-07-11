@@ -13,16 +13,9 @@ native_ferocity = 1
 native_hostileness = 3
 discovered_by = aboriginal_tech
 
-
+owner = CAG
+controller = CAG
+add_core = CAG
 
 1642.11.24 = { discovered_by = NED } # Abel Tasman
 
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = CAG
-		controller = CAG
-		add_core = CAG
-		culture = gamilaraay
-		religion = dreamtime
-	}

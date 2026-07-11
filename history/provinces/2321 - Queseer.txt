@@ -4,8 +4,8 @@ add_core = SLY
 owner = SLY
 controller = SLY
 add_core = MAM
-culture = al_misr_arabic
-religion = al_batiniyya
+culture = bedouin_arabic
+religion = sunni
 capital = "Al Qusair"
 is_city = yes
 base_manpower = 1
@@ -28,18 +28,3 @@ discovered_by = east_african
 	remove_core = MAM
 } # Invaded by the Ottomans
 
-
-1444.11.11 = {
-	owner = SLY
-	controller = SLY
-	add_core = SLY
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = SLY
-		controller = SLY
-		add_core = SLY
-		culture = bedouin_arabic
-		religion = sunni
-	}

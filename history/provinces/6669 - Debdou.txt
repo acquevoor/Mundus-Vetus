@@ -13,6 +13,10 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+owner = TFL
+controller = TFL
+add_core = TFL
+
 1465.1.1 = { unrest = 5 } #Marinid Sultan killed by mob. Mohammed ibn Ali Amrani-Joutey (Idrisid) proclaims himself Sultan. Unrest in the entire country. 
 1472.1.1 = {   unrest = 0 } #Wattasids take control over Fez, nominal ruler over much of Morocco.
 1549.1.1 = {
@@ -34,11 +38,3 @@ discovered_by = ottoman
 1672.1.1 = { unrest = 4 } # Oppositions against Ismail, & the idea of a unified state
 1727.1.1 = { unrest = 0 }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = TFL
-		controller = TFL
-		add_core = TFL
-		culture = berber
-		religion = sunni
-	}

@@ -1,9 +1,9 @@
 #2332 - Truba
 
-owner = ALK
-controller = ALK
+owner = HED
+controller = HED
 add_core = ALK
-culture = hejazi_culture
+culture = bedouin_arabic
 religion = sunni
 capital = "Truba"
 trade_goods = livestock
@@ -40,17 +40,3 @@ discovered_by = east_african
 	remove_core = NAJ
 } # Mecca is returned to the Ottomans
 
-1444.11.11 = {
-	owner = ALK
-	controller = ALK
-	add_core = ALK
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = HED
-		controller = HED
-		add_core = HED
-		culture = bedouin_arabic
-		religion = sunni
-	}

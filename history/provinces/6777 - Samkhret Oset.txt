@@ -1,7 +1,7 @@
 #6777南奥塞梯 Samkhret Oset
 
-culture = bagvalal
-religion = orthodox
+culture = alan
+religion = manichaei
 capital = "Samkhret Oset"
 trade_goods = wool
 hre = no
@@ -15,6 +15,10 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
+owner = Z40
+controller = Z40
+add_core = Z40
+
 1458.1.1 = { unrest = 5 } # Safavid campaign against Georgia
 1460.1.1 = { unrest = 0 } # Defeated by Shirwan Shah
 1614.1.1 = { unrest = 6 } # Overrun several times by Persian troops
@@ -24,11 +28,3 @@ discovered_by = nomad_group
 1659.1.1 = { unrest = 4 } # Anti-Ottoman revolts
 1665.1.1 = { unrest = 0 }
 
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = Z40
-		controller = Z40
-		add_core = Z40
-		culture = alan
-		religion = manichaei
-	}

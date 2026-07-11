@@ -1,9 +1,9 @@
 # 4738 - Trieste
 
-owner = STY
-controller = STY
-culture = venetian 
-religion = catholic 
+owner = CLI
+controller = CLI
+culture = venetian
+religion = catholic
 hre = yes
 base_tax = 4
 base_production = 3
@@ -19,6 +19,7 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+add_core = CLI
 
 1508.4.1 = {
 	owner = VEN
@@ -43,11 +44,3 @@ discovered_by = ottoman
 	controller = STY
 	remove_core = FRA
 } # Austria regains Trieste
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = CLI
-		controller = CLI
-		add_core = CLI
-		culture = venetian
-		religion = catholic
-	}

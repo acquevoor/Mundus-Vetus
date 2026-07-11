@@ -1,11 +1,11 @@
 # No previous file for Mema
 
-owner = TMB
-controller = TMB
+owner = AWD
+controller = AWD
 add_core = TMB
 add_core = SOF
 is_city = yes
-culture = bambara 
+culture = bambara
 religion = sunni
 capital = "Tendirma"
 trade_goods = grain
@@ -17,10 +17,9 @@ native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
 
-
-
 discovered_by = sub_saharan
 
+add_core = AWD
 
 1471.1.1 = { owner = SON controller = SON add_core = SON } # Conquered by Sunni Ali Ber of Songhai
 1593.1.1 = { discovered_by = MOR	owner = MOR controller = MOR remove_core = SON } #Moroccan conquest
@@ -50,18 +49,3 @@ discovered_by = sub_saharan
 	remove_core = SOF
 } # The Massina Empire, recylcing the JNN tag
 
-
-1444.11.11 = {
-	owner = TMB
-	controller = TMB
-	add_core = TMB
-}
-
-# MV-sync Tian1444_11_11
-	1444.11.11 = {
-		owner = AWD
-		controller = AWD
-		add_core = AWD
-		culture = bambara
-		religion = sunni
-	}
