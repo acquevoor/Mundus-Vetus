@@ -24,7 +24,7 @@ leader_names = {
 }
 
 ship_names = {
-	Sulyaids
+	Sulayhids
 }
 
 army_names = {
