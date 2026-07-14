@@ -1,7 +1,11 @@
 #6886
+owner = JAL
+controller = JAL
+add_core = JAL
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 trade_goods = grain
 hre = no
 base_tax = 1

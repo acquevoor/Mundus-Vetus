@@ -1,7 +1,11 @@
 #6879
+owner = JAE
+controller = JAE
+add_core = JAE
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 
 trade_goods = grain
 hre = no

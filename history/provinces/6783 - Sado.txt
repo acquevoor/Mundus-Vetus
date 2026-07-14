@@ -1,7 +1,11 @@
 #6783
+owner = JAH
+controller = JAH
+add_core = JAH
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 
 trade_goods = gold
 hre = no

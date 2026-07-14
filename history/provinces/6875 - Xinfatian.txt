@@ -1,7 +1,11 @@
 #6875
+owner = UES
+controller = UES
+add_core = UES
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 
 trade_goods = gems
 hre = no

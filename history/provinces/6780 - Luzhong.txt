@@ -1,7 +1,11 @@
 #6780
+owner = RFR
+controller = RFR
+add_core = RFR
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 
 trade_goods = livestock
 hre = no

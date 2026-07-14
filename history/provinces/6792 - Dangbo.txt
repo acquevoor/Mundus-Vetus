@@ -1,7 +1,11 @@
 #6792
+owner = HSK
+controller = HSK
+add_core = HSK
+is_city = yes
 
 culture = japanese
-religion = shinto
+religion = mahayana
 trade_goods = fish
 hre = no
 base_tax = 2

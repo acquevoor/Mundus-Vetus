@@ -1,0 +1,21 @@
+#4187
+
+owner = HTK
+controller = HTK
+add_core = HTK
+culture = japanese
+religion = vajrayana
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG

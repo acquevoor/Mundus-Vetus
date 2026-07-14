@@ -1,0 +1,21 @@
+#4359
+
+owner = KTB
+controller = KTB
+add_core = KTB
+culture = japanese
+religion = shinto
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG

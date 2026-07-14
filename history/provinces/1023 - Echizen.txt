@@ -1,0 +1,21 @@
+#1023
+
+owner = SBA
+controller = SBA
+add_core = SBA
+culture = japanese
+religion = mahayana
+trade_goods = paper
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG

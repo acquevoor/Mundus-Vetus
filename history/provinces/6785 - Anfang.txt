@@ -1,7 +1,11 @@
 #6785
+owner = JAA
+controller = JAA
+add_core = JAA
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 trade_goods = fish
 hre = no
 base_tax = 2

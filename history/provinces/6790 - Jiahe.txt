@@ -1,7 +1,11 @@
 #6790
+owner = JA6
+controller = JA6
+add_core = JA6
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 trade_goods = grain
 hre = no
 base_tax = 2

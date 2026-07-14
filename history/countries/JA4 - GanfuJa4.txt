@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+primary_culture = kyushuan
+religion = shinto
+technology_group = nippon
+capital = 6812
+1444.11.2 = {
+  monarch = {
+    name = "Kanehisa"  # |QEN
+    dynasty = "Kimotsuki"  # wN
+    adm = 3
+    dip = 4
+    mil = 3
+  }
+}

@@ -1,7 +1,11 @@
 
+owner = YMN
+controller = YMN
+add_core = YMN
+is_city = yes
 
 culture = japanese
-religion = shinto
+religion = mahayana
 trade_goods = iron
 hre = no
 base_tax = 2

@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+primary_culture = togoku
+religion = shinto
+technology_group = nippon
+capital = 6880
+1328.1.1 = {
+  monarch = {
+    name = "Masamichi"  # 
+    dynasty = "Edo"  # ml7b
+    adm = 2
+    dip = 2
+    mil = 2
+  }
+}

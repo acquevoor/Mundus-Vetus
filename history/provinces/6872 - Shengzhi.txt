@@ -1,7 +1,11 @@
 
+owner = JA7
+controller = JA7
+add_core = JA7
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 
 trade_goods = livestock
 hre = no

@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+primary_culture = togoku
+religion = shinto
+technology_group = nippon
+capital = 6785
+1426.7.12 = {
+  monarch = {
+    name = "Yoshimichi"  # IN
+    dynasty = "Satomi"  # 
+    birth_date = 1392.8.10
+    adm = 3
+    dip = 3
+    mil = 3
+  }
+}

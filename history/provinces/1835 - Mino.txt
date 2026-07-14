@@ -1,0 +1,21 @@
+#1835
+
+owner = TKI
+controller = TKI
+add_core = TKI
+culture = togoku
+religion = mahayana
+trade_goods = paper
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG

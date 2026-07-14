@@ -1,7 +1,11 @@
 
+owner = TKI
+controller = TKI
+add_core = TKI
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 trade_goods = paper
 hre = no
 base_tax = 2

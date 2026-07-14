@@ -1,7 +1,11 @@
 #6880
+owner = JAC
+controller = JAC
+add_core = JAC
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 
 trade_goods = fish
 hre = no

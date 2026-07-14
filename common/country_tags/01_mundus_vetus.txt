@@ -244,3 +244,19 @@ U17 = "countries/MV_Amalfi.txt"  # baked from Novgorod1444_11_11.eu4
 U18 = "countries/MV_Cospaia.txt"  # baked from Novgorod1444_11_11.eu4
 U19 = "countries/MV_Gersau.txt"  # baked from Novgorod1444_11_11.eu4
 U20 = "countries/MV_Bolgar.txt"  # baked from Novgorod1444_11_11.eu4
+
+# --- Japan Region daimyos (pax solis port) ---
+JA4 = "countries/Japan/GanfuJa4.txt"  # baked from pax solis Japan
+JA6 = "countries/Japan/FujianJa6.txt"  # baked from pax solis Japan
+JA7 = "countries/Japan/MuzengJa7.txt"  # baked from pax solis Japan
+JAA = "countries/Japan/LijianJa10.txt"  # baked from pax solis Japan
+JAC = "countries/Japan/JianghuJa12.txt"  # baked from pax solis Japan
+JAD = "countries/Japan/ErjietanJa13.txt"  # baked from pax solis Japan
+JAE = "countries/Japan/HumingJa14.txt"  # baked from pax solis Japan
+JAL = "countries/Japan/XiaoyeshiJa21.txt"  # baked from pax solis Japan
+JAO = "countries/Japan/LiqiJa24.txt"  # baked from pax solis Japan
+JAX = "countries/Japan/HuzeJa23.txt"  # baked from pax solis Japan
+JAG = "countries/Japan/DabaoshiJa25.txt"  # baked from pax solis Japan (was JAW)
+JAH = "countries/Japan/BenjianJa18.txt"  # baked from pax solis Japan (was JAY)
+JAK = "countries/Japan/GexiJa19.txt"  # baked from pax solis Japan (was JAZ)
+WOK = "countries/Japan/Wokou.txt"  # baked from pax solis Japan

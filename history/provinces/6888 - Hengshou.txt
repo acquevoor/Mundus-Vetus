@@ -1,7 +1,11 @@
 #6888
+owner = JAG
+controller = JAG
+add_core = JAG
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 trade_goods = grain
 hre = no
 base_tax = 2

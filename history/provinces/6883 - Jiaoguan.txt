@@ -1,7 +1,11 @@
 #6883
+owner = JAX
+controller = JAX
+add_core = JAX
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 trade_goods = paper
 hre = no
 base_tax = 1

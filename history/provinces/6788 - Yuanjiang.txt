@@ -1,7 +1,11 @@
 
+owner = SBA
+controller = SBA
+add_core = SBA
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 trade_goods = tea
 hre = no
 base_tax = 3

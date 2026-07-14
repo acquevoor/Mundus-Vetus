@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+primary_culture = togoku
+religion = shinto
+technology_group = nippon
+capital = 6879
+1425.1.1 = {
+  monarch = {
+    name = "Moritaka"  # v
+    dynasty = "Ashina"  # T
+    birth_date = 1421.1.1
+    adm = 3
+    dip = 3
+    mil = 3
+  }
+}

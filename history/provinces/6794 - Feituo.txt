@@ -1,7 +1,11 @@
 
+owner = AMA
+controller = AMA
+add_core = AMA
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 trade_goods = paper
 hre = no
 base_tax = 2

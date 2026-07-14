@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = daimyo
+government_rank = 1
+primary_culture = togoku
+religion = shinto
+technology_group = nippon
+capital = 4193
+1440.1.1 = {
+  monarch = {
+    name = "Ebisaki"  # IQ^
+    dynasty = "Mitsuru"  # T
+    birth_date = 1420.1.1
+    adm = 1
+    dip = 1
+    mil = 1
+  }
+}

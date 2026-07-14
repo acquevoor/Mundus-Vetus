@@ -1,7 +1,11 @@
 #6878
+owner = JAD
+controller = JAD
+add_core = JAD
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 trade_goods = grain
 hre = no
 base_tax = 1

@@ -1,0 +1,21 @@
+#4191
+
+owner = UTN
+controller = UTN
+add_core = UTN
+culture = togoku
+religion = mahayana
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = zhonghua
+discovered_by = nippon
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG

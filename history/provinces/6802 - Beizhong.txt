@@ -1,7 +1,11 @@
 #6802
+owner = HSK
+controller = HSK
+add_core = HSK
+is_city = yes
 
 culture = japanese
-religion = shinto
+religion = mahayana
 trade_goods = grain
 hre = no
 base_tax = 3

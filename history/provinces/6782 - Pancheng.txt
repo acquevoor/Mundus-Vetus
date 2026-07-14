@@ -1,7 +1,11 @@
 #6782
+owner = DTE
+controller = DTE
+add_core = DTE
+is_city = yes
 
 culture = togoku
-religion = shinto
+religion = mahayana
 
 trade_goods = grain
 hre = no

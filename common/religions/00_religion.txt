@@ -2816,6 +2816,7 @@ eastern = {
 		}
 		heretic = { SHUGENDO }
 		uses_isolationism = yes
+		can_have_secondary_religion = yes  # MV: shinbutsu-shugo syncretism
 		
 		harmonized_modifier = harmonized_shinto
 		
