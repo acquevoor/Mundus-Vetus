@@ -4,4 +4,4 @@ primary_culture = al_suryah_arabic
 religion = shiite
 technology_group = muslim
 capital = 377
-religious_school = shiite_twelver
+religious_school = jafari_school

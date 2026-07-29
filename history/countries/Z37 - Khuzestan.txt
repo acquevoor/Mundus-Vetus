@@ -4,4 +4,3 @@ primary_culture = al_iraqiya_arabic
 religion = mandaiuta
 technology_group = muslim
 capital = 412
-religious_school = mandaiuta_school

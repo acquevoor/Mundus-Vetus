@@ -47,13 +47,6 @@ assyrica_indian_modifier = {
 	caravan_power = 0.1
 }
 
-marcionismus_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	tolerance_heathen = 1
-}
 
 miaphysita_alexandrian_modifier = {
 	religion_sub_modifier = yes
@@ -160,45 +153,10 @@ batiniyya_mevleviyya_modifier = {
 	advisor_cost = -0.1
 }
 
-ahlehaqq_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	land_morale = 0.1
-}
 
-hurufiyya_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	technology_cost = -0.05
-}
 
-bektashi_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	tolerance_heretic = 2
-}
 
-shendao_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	prestige = 0.5
-}
 
-musok_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	manpower_recovery_speed = 0.1
-}
 
 chos_nyingma_modifier = {
 	religion_sub_modifier = yes
@@ -265,133 +223,21 @@ chos_gelug_modifier = {
 }
 
 
-mojia_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	defensiveness = 0.1
-}
 
-mandaiuta_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	development_cost = -0.05
-}
 
-sabian_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	technology_cost = -0.05
-}
 
-yazidi_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	garrison_size = 0.2
-}
 
-uatsdin_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	cavalry_power = 0.1
-}
 
-manichaei_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	tolerance_heathen = 1
-}
 
-satsanaphi_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	land_attrition = -0.1
-}
 
-astika_nyaya_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	technology_cost = -0.05
-}
 
-astika_samkhya_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	monarch_lifespan = 0.1
-}
 
-astika_mimamsa_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	global_tax_modifier = 0.1
-}
 
-nastika_theravada_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	advisor_cost = -0.1
-}
 
-nastika_amitabha_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	tolerance_own = 1
-}
 
-nastika_zen_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	discipline = 0.025
-}
 
-nastika_yogachara_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	idea_cost = -0.05
-}
 
-nastika_madhyamaka_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	technology_cost = -0.05
-}
 
-nastika_tiantai_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	prestige_decay = -0.005
-}
 
 adivasi_naga_modifier = {
 	religion_sub_modifier = yes
@@ -585,13 +431,6 @@ zahiri_school_modifier = {
 	idea_cost = -0.05
 }
 
-mutazila_school_modifier = {
-	religion_sub_modifier = yes
-	religion = yes
-	is_scholar_modifier = yes
-	expire_message_type = "RELIGIOUS_SCHOLAR_EXPIRY"
-	advisor_cost = -0.1
-}
 
 jain_digambara_modifier = {
 	religion_sub_modifier = yes

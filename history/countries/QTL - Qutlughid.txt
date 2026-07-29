@@ -2,7 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = turco_iranian
 religion = al_mutazila
-religious_school = mutazila_husayniyya
 technology_group = muslim
 capital = 4326 # Qutlughid
 

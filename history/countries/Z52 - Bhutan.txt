@@ -4,4 +4,3 @@ primary_culture = tibetan
 religion = buddhism
 technology_group = chinese
 capital = 565
-religious_school = nastika_madhyamaka

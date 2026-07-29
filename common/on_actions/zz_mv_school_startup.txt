@@ -57,10 +57,8 @@ on_startup = {
 	EFR = { set_religious_school = { group = christian school = catholic_benedictine } }
 	ENG = { set_religious_school = { group = christian school = catholic_benedictine } }
 	EPI = { set_religious_school = { group = christian school = catholic_benedictine } }
-	EST = { set_religious_school = { group = christian school = catholic_augustinian } }
 	ETR = { set_religious_school = { group = christian school = catholic_franciscan } }
 	FER = { set_religious_school = { group = christian school = catholic_dominican } }
-	FIN = { set_religious_school = { group = christian school = catholic_benedictine } }
 	FKN = { set_religious_school = { group = christian school = catholic_augustinian } }
 	FLA = { set_religious_school = { group = christian school = catholic_benedictine } }
 	FLO = { set_religious_school = { group = christian school = catholic_franciscan } }
@@ -175,7 +173,6 @@ on_startup = {
 	SLN = { set_religious_school = { group = christian school = catholic_benedictine } }
 	SLO = { set_religious_school = { group = christian school = catholic_augustinian } }
 	SLZ = { set_religious_school = { group = christian school = catholic_augustinian } }
-	SMI = { set_religious_school = { group = christian school = catholic_benedictine } }
 	SNA = { set_religious_school = { group = christian school = catholic_franciscan } }
 	SOR = { set_religious_school = { group = christian school = catholic_augustinian } }
 	SPA = { set_religious_school = { group = christian school = catholic_dominican } }

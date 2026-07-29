@@ -4,4 +4,3 @@ primary_culture = kurdish
 religion = ahl_e_haqq
 technology_group = ottoman
 capital = 418
-religious_school = ahlehaqq_gurani

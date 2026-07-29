@@ -4,4 +4,3 @@ primary_culture = aramaic
 religion = sabian
 technology_group = ottoman
 capital = 2308
-religious_school = sabian_school

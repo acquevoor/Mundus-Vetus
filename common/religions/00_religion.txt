@@ -67,12 +67,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = catholic_dominican_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = catholic_dominican_modifier
 			picture = "GFX_catholic_dominican"
@@ -93,12 +101,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = catholic_franciscan_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = catholic_franciscan_modifier
 			picture = "GFX_catholic_franciscan"
@@ -119,12 +135,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = catholic_jesuit_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = catholic_jesuit_modifier
 			picture = "GFX_catholic_jesuit"
@@ -145,12 +169,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = catholic_benedictine_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = catholic_benedictine_modifier
 			picture = "GFX_catholic_benedictine"
@@ -171,12 +203,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = catholic_augustinian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = catholic_augustinian_modifier
 			picture = "GFX_catholic_augustinian"
@@ -199,12 +239,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = catholic_oratorian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = catholic_oratorian_modifier
 			picture = "GFX_catholic_oratorian"
@@ -227,12 +275,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = catholic_vincentian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = catholic_vincentian_modifier
 			picture = "GFX_catholic_vincentian"
@@ -255,12 +311,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = catholic_piarist_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = catholic_piarist_modifier
 			picture = "GFX_catholic_piarist"
@@ -283,12 +347,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = protestant_philippist_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = protestant_philippist_modifier
 			picture = "GFX_protestant_philippist"
@@ -311,12 +383,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = protestant_flacian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = protestant_flacian_modifier
 			picture = "GFX_protestant_flacian"
@@ -339,12 +419,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = reformed_arminian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = reformed_arminian_modifier
 			picture = "GFX_reformed_arminian"
@@ -367,42 +455,24 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = reformed_gomarist_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = reformed_gomarist_modifier
 			picture = "GFX_reformed_gomarist"
 			global_missionary_strength = 0.02
-		}
-		manichaei_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = manichaei
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = manichaei_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = manichaei_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = manichaei_school_modifier
-			picture = "GFX_manichaei_school"
-			tolerance_heathen = 1
 		}
 		antinomiani_adamite = {
 			potential_invite_scholar = {
@@ -419,12 +489,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = antinomiani_adamite_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = antinomiani_adamite_modifier
 			picture = "GFX_antinomiani_adamite"
@@ -445,12 +523,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = antinomiani_spiritus_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = antinomiani_spiritus_modifier
 			picture = "GFX_antinomiani_spiritus"
@@ -471,12 +557,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = apostolici_pasagian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = apostolici_pasagian_modifier
 			picture = "GFX_apostolici_pasagian"
@@ -497,12 +591,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = apostolici_wycliffe_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = apostolici_wycliffe_modifier
 			picture = "GFX_apostolici_wycliffe"
@@ -523,12 +625,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = apostolici_waldensian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = apostolici_waldensian_modifier
 			picture = "GFX_apostolici_waldensian"
@@ -549,12 +659,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = assyrica_syriac_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = assyrica_syriac_modifier
 			picture = "GFX_assyrica_syriac"
@@ -575,42 +693,24 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = assyrica_indian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = assyrica_indian_modifier
 			picture = "GFX_assyrica_indian"
 			caravan_power = 0.1
-		}
-		marcionismus_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = marcionismus
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = marcionismus_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = marcionismus_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = marcionismus_school_modifier
-			picture = "GFX_marcionismus_school"
-			tolerance_heathen = 1
 		}
 		miaphysita_alexandrian = {
 			potential_invite_scholar = {
@@ -627,12 +727,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = miaphysita_alexandrian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = miaphysita_alexandrian_modifier
 			picture = "GFX_miaphysita_alexandrian"
@@ -653,12 +761,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = miaphysita_syriac_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = miaphysita_syriac_modifier
 			picture = "GFX_miaphysita_syriac"
@@ -679,12 +795,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = miaphysita_armenian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = miaphysita_armenian_modifier
 			picture = "GFX_miaphysita_armenian"
@@ -705,12 +829,20 @@ christian = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = miaphysita_ethiopian_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = miaphysita_ethiopian_modifier
 			picture = "GFX_miaphysita_ethiopian"
@@ -1710,42 +1842,24 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = zahiri_school_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = zahiri_school_modifier
 			picture = "GFX_zahiri_school"
 			idea_cost = -0.05
-		}
-		mutazila_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = al_mutazila
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = mutazila_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = mutazila_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = mutazila_school_modifier
-			picture = "GFX_mutazila_school"
-			advisor_cost = -0.1
 		}
 		ghulat_nusayri = {
 			potential_invite_scholar = {
@@ -1762,12 +1876,20 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = ghulat_nusayri_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = ghulat_nusayri_modifier
 			picture = "GFX_ghulat_nusayri"
@@ -1788,12 +1910,20 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = ghulat_khurramdiniyya_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = ghulat_khurramdiniyya_modifier
 			picture = "GFX_ghulat_khurramdiniyya"
@@ -1888,12 +2018,20 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = batiniyya_qadiriyya_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = batiniyya_qadiriyya_modifier
 			picture = "GFX_batiniyya_qadiriyya"
@@ -1914,12 +2052,20 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = batiniyya_naqshbandiyya_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = batiniyya_naqshbandiyya_modifier
 			picture = "GFX_batiniyya_naqshbandiyya"
@@ -1940,12 +2086,20 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = batiniyya_chishtiyya_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = batiniyya_chishtiyya_modifier
 			picture = "GFX_batiniyya_chishtiyya"
@@ -1966,12 +2120,20 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = batiniyya_shadhiliyya_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = batiniyya_shadhiliyya_modifier
 			picture = "GFX_batiniyya_shadhiliyya"
@@ -1992,12 +2154,20 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = batiniyya_suhrawardiyya_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = batiniyya_suhrawardiyya_modifier
 			picture = "GFX_batiniyya_suhrawardiyya"
@@ -2018,12 +2188,20 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = batiniyya_kubrawiyya_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = batiniyya_kubrawiyya_modifier
 			picture = "GFX_batiniyya_kubrawiyya"
@@ -2044,94 +2222,24 @@ muslim = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = batiniyya_mevleviyya_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = batiniyya_mevleviyya_modifier
 			picture = "GFX_batiniyya_mevleviyya"
 			advisor_cost = -0.1
-		}
-		ahlehaqq_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = ahl_e_haqq
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = ahlehaqq_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = ahlehaqq_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = ahlehaqq_school_modifier
-			picture = "GFX_ahlehaqq_school"
-			land_morale = 0.1
-		}
-		hurufiyya_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = hurufiyya
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = hurufiyya_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = hurufiyya_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = hurufiyya_school_modifier
-			picture = "GFX_hurufiyya_school"
-			technology_cost = -0.05
-		}
-		bektashi_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = bektashi
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = bektashi_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = bektashi_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = bektashi_school_modifier
-			picture = "GFX_bektashi_school"
-			tolerance_heretic = 2
 		}
 		hanafi_school = {
 			potential_invite_scholar = {
@@ -2663,120 +2771,6 @@ eastern = {
 		}
 		heretic = { MAZUISM }
 	}
-	musok = {
-		color = { 150 110 170 }
-		icon = 11
-		ancestors = yes
-		country = {
-			tolerance_own = 1
-			manpower_recovery_speed = 0.1
-		}
-		country_as_secondary = {
-			manpower_recovery_speed = 0.05
-		}
-		heretic = { MAZUISM }
-	}
-	mojia = {
-		color = { 90 90 90 }
-		icon = 46
-		uses_anglican_power = yes
-		aspects = {
-			mojia_universal_love
-			mojia_meritocracy
-			mojia_anti_aggression
-			mojia_frugality
-			mojia_fortification
-			mojia_logic
-		}
-		aspects_name = MOJIA_DOCTRINE
-		country = {
-			fort_maintenance_modifier = -0.1
-		}
-		country_as_secondary = {
-			defensiveness = 0.1
-		}
-		heretic = { CONFUCIAN }
-	}
-	religious_schools = {
-		shendao_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = shendao
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = shendao_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = shendao_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = shendao_school_modifier
-			picture = "GFX_shendao_school"
-			prestige = 0.5
-		}
-		musok_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = musok
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = musok_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = musok_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = musok_school_modifier
-			picture = "GFX_musok_school"
-			manpower_recovery_speed = 0.1
-		}
-		mojia_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = mojia
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = mojia_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = mojia_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = mojia_school_modifier
-			picture = "GFX_mojia_school"
-			defensiveness = 0.1
-		}
-	}
 
 
 	flags_with_emblem_percentage = 33
@@ -2983,12 +2977,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = chos_nyingma_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = chos_nyingma_modifier
 			picture = "GFX_chos_nyingma"
@@ -3009,12 +3011,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = chos_bon_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = chos_bon_modifier
 			picture = "GFX_chos_bon"
@@ -3035,12 +3045,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = chos_kadam_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = chos_kadam_modifier
 			picture = "GFX_chos_kadam"
@@ -3061,12 +3079,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = chos_sakya_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = chos_sakya_modifier
 			picture = "GFX_chos_sakya"
@@ -3087,12 +3113,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = chos_bodong_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = chos_bodong_modifier
 			picture = "GFX_chos_bodong"
@@ -3113,12 +3147,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = chos_kagyu_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = chos_kagyu_modifier
 			picture = "GFX_chos_kagyu"
@@ -3139,12 +3181,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = chos_jonang_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = chos_jonang_modifier
 			picture = "GFX_chos_jonang"
@@ -3165,174 +3215,24 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = chos_gelug_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = chos_gelug_modifier
 			picture = "GFX_chos_gelug"
 			yearly_karma_decay = 0.5
-		}
-		nastika_theravada = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_theravada_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_theravada_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_theravada_modifier
-			picture = "GFX_nastika_theravada"
-			advisor_cost = -0.1
-		}
-		nastika_amitabha = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_amitabha_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_amitabha_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_amitabha_modifier
-			picture = "GFX_nastika_amitabha"
-			tolerance_own = 1
-		}
-		nastika_zen = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_zen_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_zen_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_zen_modifier
-			picture = "GFX_nastika_zen"
-			discipline = 0.025
-		}
-		nastika_yogachara = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_yogachara_modifier }
-				NOT = { has_country_modifier = nastika_madhyamaka_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_yogachara_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_yogachara_modifier
-			picture = "GFX_nastika_yogachara"
-			idea_cost = -0.05
-		}
-		nastika_madhyamaka = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_madhyamaka_modifier }
-				NOT = { has_country_modifier = nastika_yogachara_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_madhyamaka_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_madhyamaka_modifier
-			picture = "GFX_nastika_madhyamaka"
-			technology_cost = -0.05
-		}
-		nastika_tiantai = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = buddhism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = nastika_tiantai_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = nastika_tiantai_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = nastika_tiantai_modifier
-			picture = "GFX_nastika_tiantai"
-			prestige_decay = -0.005
 		}
 		jain_digambara = {
 			potential_invite_scholar = {
@@ -3350,12 +3250,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = jain_digambara_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = jain_digambara_modifier
 			picture = "GFX_jain_digambara"
@@ -3377,94 +3285,24 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = jain_svetambara_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = jain_svetambara_modifier
 			picture = "GFX_jain_svetambara"
 			trade_efficiency = 0.1
-		}
-		astika_nyaya = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = hinduism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = astika_nyaya_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = astika_nyaya_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = astika_nyaya_modifier
-			picture = "GFX_astika_nyaya"
-			technology_cost = -0.05
-		}
-		astika_samkhya = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = hinduism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = astika_samkhya_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = astika_samkhya_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = astika_samkhya_modifier
-			picture = "GFX_astika_samkhya"
-			monarch_lifespan = 0.1
-		}
-		astika_mimamsa = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = hinduism
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = astika_mimamsa_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = astika_mimamsa_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = astika_mimamsa_modifier
-			picture = "GFX_astika_mimamsa"
-			global_tax_modifier = 0.1
 		}
 		adivasi_naga = {
 			potential_invite_scholar = {
@@ -3481,12 +3319,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = adivasi_naga_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = adivasi_naga_modifier
 			picture = "GFX_adivasi_naga"
@@ -3507,12 +3353,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = adivasi_sarna_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = adivasi_sarna_modifier
 			picture = "GFX_adivasi_sarna"
@@ -3533,12 +3387,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = adivasi_gond_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = adivasi_gond_modifier
 			picture = "GFX_adivasi_gond"
@@ -3559,12 +3421,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = adivasi_kirati_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = adivasi_kirati_modifier
 			picture = "GFX_adivasi_kirati"
@@ -3585,12 +3455,20 @@ dharmic = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = adivasi_tani_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = adivasi_tani_modifier
 			picture = "GFX_adivasi_tani"
@@ -3604,12 +3482,20 @@ dharmic = {
 				NOT = { has_country_modifier = vaidika_nigama_modifier }
 				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = vaidika_nigama_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = vaidika_nigama_modifier
 			picture = "GFX_vaidika_nigama"
@@ -3623,12 +3509,20 @@ dharmic = {
 				NOT = { has_country_modifier = vaidika_agama_modifier }
 				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = vaidika_agama_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = vaidika_agama_modifier
 			picture = "GFX_vaidika_agama"
@@ -3642,12 +3536,20 @@ dharmic = {
 				NOT = { has_country_modifier = vaidika_shrauta_modifier }
 				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = vaidika_shrauta_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = vaidika_shrauta_modifier
 			picture = "GFX_vaidika_shrauta"
@@ -3661,12 +3563,20 @@ dharmic = {
 				NOT = { has_country_modifier = vaidika_tantra_modifier }
 				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = vaidika_tantra_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = vaidika_tantra_modifier
 			picture = "GFX_vaidika_tantra"
@@ -3680,12 +3590,20 @@ dharmic = {
 				NOT = { has_country_modifier = vaidika_siddha_modifier }
 				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = vaidika_siddha_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = vaidika_siddha_modifier
 			picture = "GFX_vaidika_siddha"
@@ -3699,12 +3617,20 @@ dharmic = {
 				NOT = { has_country_modifier = vaidika_bhakti_modifier }
 				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = vaidika_bhakti_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = vaidika_bhakti_modifier
 			picture = "GFX_vaidika_bhakti"
@@ -3718,12 +3644,20 @@ dharmic = {
 				NOT = { has_country_modifier = vaidika_smarta_modifier }
 				OR = { alliance_with = FROM is_subject_of = FROM overlord_of = FROM }
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = vaidika_smarta_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = vaidika_smarta_modifier
 			picture = "GFX_vaidika_smarta"
@@ -4598,12 +4532,20 @@ pagan = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = rodnovery_bog_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = rodnovery_bog_modifier
 			picture = "GFX_rodnovery_bog"
@@ -4624,12 +4566,20 @@ pagan = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = rodnovery_rod_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = rodnovery_rod_modifier
 			picture = "GFX_rodnovery_rod"
@@ -4650,12 +4600,20 @@ pagan = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = romuva_dievas_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = romuva_dievas_modifier
 			picture = "GFX_romuva_dievas"
@@ -4676,12 +4634,20 @@ pagan = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = romuva_laima_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = romuva_laima_modifier
 			picture = "GFX_romuva_laima"
@@ -4702,68 +4668,24 @@ pagan = {
 					overlord_of = FROM
 				}
 				hidden_progressive_opinion_for_scholar_trigger = yes
+				if = {
+					limit = { ai = yes }
+					NOT = { has_country_modifier = has_invited_scholar_recently }
+				}
 			}
 			on_invite_scholar = {
 				adm_power_cost = 50
 				clear_religious_scholar_modifiers_effect = yes
 				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
 				add_country_modifier = { name = romuva_peckols_modifier duration = 7300 }
+				if = {	#Keeps the AI from dumping every spare ADM point into scholars
+					limit = { ai = yes }
+					add_country_modifier = { name = has_invited_scholar_recently duration = 7300 hidden = yes }
+				}
 			}
 			invite_scholar_modifier_display = romuva_peckols_modifier
 			picture = "GFX_romuva_peckols"
 			land_morale = 0.1
-		}
-		uatsdin_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = uatsdin
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = uatsdin_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = uatsdin_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = uatsdin_school_modifier
-			picture = "GFX_uatsdin_school"
-			cavalry_power = 0.1
-		}
-		satsanaphi_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = satsana_phi
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = satsanaphi_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = satsanaphi_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = satsanaphi_school_modifier
-			picture = "GFX_satsanaphi_school"
-			land_attrition = -0.1
 		}
 	}
 
@@ -5152,86 +5074,6 @@ zoroastrian_group = {
 			garrison_size = 0.2
 		}
 		heretic = { ZOROASTRIAN }
-	}
-	religious_schools = {
-		mandaiuta_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = mandaiuta
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = mandaiuta_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = mandaiuta_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = mandaiuta_school_modifier
-			picture = "GFX_mandaiuta_school"
-			development_cost = -0.05
-		}
-		sabian_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = sabian
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = sabian_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = sabian_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = sabian_school_modifier
-			picture = "GFX_sabian_school"
-			technology_cost = -0.05
-		}
-		yazidi_school = {
-			potential_invite_scholar = {
-				knows_of_scholar_country_capital_trigger = yes
-				religion = yazidi
-			}
-			can_invite_scholar = {
-				adm_power_cost = 50
-				reverse_has_opinion = { who = FROM value = 150 }
-				NOT = { has_country_modifier = yazidi_school_modifier }
-				OR = {
-					alliance_with = FROM
-					is_subject_of = FROM
-					overlord_of = FROM
-				}
-				hidden_progressive_opinion_for_scholar_trigger = yes
-			}
-			on_invite_scholar = {
-				adm_power_cost = 50
-				clear_religious_scholar_modifiers_effect = yes
-				custom_tooltip = INVITE_SCHOLAR_COUNTRY_TEXT
-				add_country_modifier = { name = yazidi_school_modifier duration = 7300 }
-			}
-			invite_scholar_modifier_display = yazidi_school_modifier
-			picture = "GFX_yazidi_school"
-			garrison_size = 0.2
-		}
 	}
 
 	flag_emblem_index_range = { 110 110 }

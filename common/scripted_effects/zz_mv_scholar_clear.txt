@@ -1,0 +1,77 @@
+# Mundus Vetus: overrides vanilla clear_religious_scholar_modifiers_effect.
+# Vanilla's version (00_scripted_effects.txt) clears only the 7 muslim scholar
+# modifiers, so every MV school's modifier stacked forever. zz_ sorts last, so
+# this definition wins. KEEP IN SYNC with common/static_modifiers/mv_school_modifiers.txt.
+
+clear_religious_scholar_modifiers_effect = {
+	# vanilla muslim schools
+	remove_country_modifier = hanafi_scholar_modifier
+	remove_country_modifier = hanbali_scholar_modifier
+	remove_country_modifier = maliki_scholar_modifier
+	remove_country_modifier = shafii_scholar_modifier
+	remove_country_modifier = ismaili_scholar_modifier
+	remove_country_modifier = jafari_scholar_modifier
+	remove_country_modifier = zaidi_scholar_modifier
+
+	# Mundus Vetus schools (60)
+	remove_country_modifier = antinomiani_adamite_modifier
+	remove_country_modifier = antinomiani_spiritus_modifier
+	remove_country_modifier = apostolici_pasagian_modifier
+	remove_country_modifier = apostolici_wycliffe_modifier
+	remove_country_modifier = assyrica_syriac_modifier
+	remove_country_modifier = assyrica_indian_modifier
+	remove_country_modifier = miaphysita_alexandrian_modifier
+	remove_country_modifier = miaphysita_syriac_modifier
+	remove_country_modifier = miaphysita_armenian_modifier
+	remove_country_modifier = miaphysita_ethiopian_modifier
+	remove_country_modifier = ghulat_nusayri_modifier
+	remove_country_modifier = ghulat_khurramdiniyya_modifier
+	remove_country_modifier = batiniyya_qadiriyya_modifier
+	remove_country_modifier = batiniyya_naqshbandiyya_modifier
+	remove_country_modifier = batiniyya_chishtiyya_modifier
+	remove_country_modifier = batiniyya_shadhiliyya_modifier
+	remove_country_modifier = batiniyya_suhrawardiyya_modifier
+	remove_country_modifier = batiniyya_kubrawiyya_modifier
+	remove_country_modifier = batiniyya_mevleviyya_modifier
+	remove_country_modifier = chos_nyingma_modifier
+	remove_country_modifier = chos_bon_modifier
+	remove_country_modifier = chos_kadam_modifier
+	remove_country_modifier = chos_sakya_modifier
+	remove_country_modifier = chos_bodong_modifier
+	remove_country_modifier = chos_kagyu_modifier
+	remove_country_modifier = chos_jonang_modifier
+	remove_country_modifier = chos_gelug_modifier
+	remove_country_modifier = adivasi_naga_modifier
+	remove_country_modifier = adivasi_sarna_modifier
+	remove_country_modifier = adivasi_gond_modifier
+	remove_country_modifier = adivasi_kirati_modifier
+	remove_country_modifier = adivasi_tani_modifier
+	remove_country_modifier = apostolici_waldensian_modifier
+	remove_country_modifier = catholic_dominican_modifier
+	remove_country_modifier = catholic_franciscan_modifier
+	remove_country_modifier = catholic_jesuit_modifier
+	remove_country_modifier = catholic_benedictine_modifier
+	remove_country_modifier = catholic_augustinian_modifier
+	remove_country_modifier = catholic_oratorian_modifier
+	remove_country_modifier = catholic_vincentian_modifier
+	remove_country_modifier = catholic_piarist_modifier
+	remove_country_modifier = protestant_philippist_modifier
+	remove_country_modifier = protestant_flacian_modifier
+	remove_country_modifier = reformed_arminian_modifier
+	remove_country_modifier = reformed_gomarist_modifier
+	remove_country_modifier = rodnovery_bog_modifier
+	remove_country_modifier = rodnovery_rod_modifier
+	remove_country_modifier = romuva_dievas_modifier
+	remove_country_modifier = romuva_laima_modifier
+	remove_country_modifier = romuva_peckols_modifier
+	remove_country_modifier = zahiri_school_modifier
+	remove_country_modifier = jain_digambara_modifier
+	remove_country_modifier = jain_svetambara_modifier
+	remove_country_modifier = vaidika_nigama_modifier
+	remove_country_modifier = vaidika_agama_modifier
+	remove_country_modifier = vaidika_shrauta_modifier
+	remove_country_modifier = vaidika_tantra_modifier
+	remove_country_modifier = vaidika_siddha_modifier
+	remove_country_modifier = vaidika_bhakti_modifier
+	remove_country_modifier = vaidika_smarta_modifier
+}

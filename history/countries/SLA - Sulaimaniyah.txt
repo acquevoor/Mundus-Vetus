@@ -2,7 +2,6 @@ government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = kurdish
 religion = ahl_e_haqq
-religious_school = ahlehaqq_gurani
 technology_group = muslim
 capital = 4294 # Sulaimaniyah
 
