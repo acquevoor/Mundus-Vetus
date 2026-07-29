@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = turkish
 religion = bektashi
 technology_group = ottoman
-capital = 326 # Chepnis
+capital = 326 # Guvenchli
 
 1444.11.11 = {
 	monarch = {

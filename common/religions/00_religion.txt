@@ -3688,6 +3688,7 @@ dharmic = {
 		}
 		
 		personal_deity = yes
+		can_have_secondary_religion = yes  # MV: Hindu syncretism
 		
 		on_convert = {
 			change_religion = hinduism

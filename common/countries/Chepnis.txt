@@ -24,7 +24,7 @@ leader_names = {
 }
 
 ship_names = {
-	Chepnis
+	Guvenchli
 }
 
 army_names = {
