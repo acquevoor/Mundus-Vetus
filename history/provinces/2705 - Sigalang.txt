@@ -1,7 +1,7 @@
 #2705 - Sigalang
 
 culture = bornean
-religion = sunni
+religion = haring
 capital = "Sigalang"
 trade_goods = gems
 hre = no

@@ -1,0 +1,57 @@
+### Mundus Vetus: block vanilla Java/Borneo Islamization flavor events.
+### Overrides vanilla by id — mod load order wins. Loc keys reference
+### vanilla strings; they never render because trigger is impossible.
+
+namespace = majapahit
+
+country_event = {
+	id = majapahit.5
+	title = "majapahit.5.t"
+	desc = "majapahit.5.d"
+	picture = RELIGIOUS_TURMOIL_eventPicture
+	is_triggered_only = yes
+	trigger = { always = no }
+	option = { name = "majapahit.5.a" }
+}
+
+country_event = {
+	id = majapahit.6
+	title = "majapahit.6.t"
+	desc = "majapahit.6.d"
+	picture = RELIGIOUS_TURMOIL_eventPicture
+	is_triggered_only = yes
+	trigger = { always = no }
+	option = { name = "majapahit.6.a" }
+}
+
+country_event = {
+	id = majapahit.9
+	title = "majapahit.9.t"
+	desc = "majapahit.9.d"
+	picture = RELIGIOUS_TURMOIL_eventPicture
+	is_triggered_only = yes
+	trigger = { always = no }
+	option = { name = "majapahit.9.a" }
+}
+
+country_event = {
+	id = majapahit.10
+	title = "majapahit.10.t"
+	desc = "majapahit.10.d"
+	picture = RELIGIOUS_TURMOIL_eventPicture
+	is_triggered_only = yes
+	trigger = { always = no }
+	option = { name = "majapahit.10.a" }
+}
+
+namespace = flavor_sun
+
+country_event = {
+	id = flavor_sun.1
+	title = "flavor_sun.1.t"
+	desc = "flavor_sun.1.d"
+	picture = RELIGIOUS_TURMOIL_eventPicture
+	is_triggered_only = yes
+	trigger = { always = no }
+	option = { name = "flavor_sun.1.a" }
+}

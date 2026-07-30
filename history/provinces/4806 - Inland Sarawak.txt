@@ -1,5 +1,5 @@
 culture = bornean
-religion = sunni
+religion = haring
 capital = "Kapit"
 trade_goods = tropical_wood
 hre = no

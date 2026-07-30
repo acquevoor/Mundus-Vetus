@@ -1,7 +1,7 @@
 #637 - Api-Api
 
 culture = bornean
-religion = sunni
+religion = haring
 capital = "Api-Api"
 trade_goods = spices
 hre = no

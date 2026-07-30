@@ -1,7 +1,7 @@
 #2704 - Sibu
 
 culture = bornean
-religion = sunni
+religion = haring
 capital = "Sibu"
 trade_goods = spices
 hre = no

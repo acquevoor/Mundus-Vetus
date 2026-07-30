@@ -5013,6 +5013,22 @@ pagan = {
 		heretic = { ERZYAN }
 	}
 
+	### --- Mundus Vetus religions (Nusantara pagan) --- ###
+	hyang = {
+		color = { 15 20 70 }
+		icon = 81
+		country = { tolerance_own = 1 cavalry_power = 0.1 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { HYANG_HERETIC }
+	}
+	haring = {
+		color = { 30 60 160 }
+		icon = 81
+		country = { tolerance_own = 1 land_morale = 0.05 }
+		country_as_secondary = { tolerance_own = 1 }
+		heretic = { HARING_HERETIC }
+	}
+
 	crusade_name = CRUSADE
 	harmonized_modifier = harmonized_pagan
 }

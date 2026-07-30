@@ -4,7 +4,7 @@ controller = BNJ
 add_core = BNJ
 
 culture = bornean
-religion = hinduism
+religion = haring
 capital = "Banjar"
 trade_goods = unknown
 hre = no

@@ -1,5 +1,5 @@
 culture = bornean
-religion = sunni
+religion = haring
 capital = "Bintulu"
 trade_goods = fish
 hre = no
