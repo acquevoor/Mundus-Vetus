@@ -1,7 +1,7 @@
 
 
 culture = gan
-religion = sanjiao
+religion = jingtu
 
 trade_goods = copper
 hre = no

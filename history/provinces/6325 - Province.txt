@@ -1,7 +1,7 @@
 
 
 culture = korean
-religion = confucianism
+religion = jingtu
 
 trade_goods = fish
 hre = no

@@ -1,7 +1,7 @@
 
 
 culture = gan
-religion = sanjiao
+religion = chan
 
 trade_goods = grain
 hre = no

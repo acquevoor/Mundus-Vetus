@@ -3,7 +3,7 @@
 owner = MJZ
 controller = MJZ
 culture = manchu
-religion = wudaxian
+religion = jingtu
 capital = "Gyeongseong"
 trade_goods = fur
 hre = no

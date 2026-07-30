@@ -3,7 +3,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = confucianism
+religion = jingtu
 capital = "Jeonju"
 trade_goods = chinaware
 hre = no

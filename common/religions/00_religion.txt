@@ -2758,8 +2758,9 @@ muslim = {
 eastern = {
 
 	### --- Mundus Vetus Chinese religions (eastern) --- ###
-	# Eight region-scoped Chinese religions: confucianism (loc'd as Lijiao),
-	# shendao, mazujiao, fajiao, sanjiao, chuanzhujiao, nuojiao, wudaxian.
+	# Seven region-scoped Chinese religions: confucianism (loc'd as Lijiao),
+	# shendao, mazujiao, fajiao, chuanzhujiao, nuojiao, wudaxian.
+	# (sanjiao slot recycled as `chan` and moved to the dharmic group.)
 	# Icons reuse existing painted frames; ponytail: paint dedicated tiles later.
 
 	shendao = {
@@ -2802,19 +2803,6 @@ eastern = {
 			land_forcelimit_modifier = 0.05
 		}
 		heretic = { MEISHAN }
-	}
-
-	sanjiao = {
-		color = { 190 170 90 }
-		icon = 24   # ponytail: reuses buddhism tile (literati/Chan); repaint later
-		country = {
-			idea_cost = -0.05
-			tolerance_heretic = 2
-		}
-		country_as_secondary = {
-			production_efficiency = 0.05
-		}
-		heretic = { WUTONG }
 	}
 
 	chuanzhujiao = {
@@ -3002,6 +2990,41 @@ dharmic = {
 		harmonized_modifier = harmonized_buddhism
 		
 		uses_karma = yes
+	}
+	### Mundus Vetus: Chan (recycled sanjiao slot, Jiangnan Chan/literati Buddhism) ###
+	chan = {
+		color = { 190 170 90 }
+		icon = 26   # ponytail: repaint dedicated Chan tile later
+		allowed_conversion = {
+			buddhism
+			mahayana
+			jingtu
+		}
+		country = {
+			idea_cost = -0.05
+			tolerance_heretic = 2
+		}
+		country_as_secondary = {
+			production_efficiency = 0.05
+		}
+		heretic = { WUTONG }
+	}
+	### Mundus Vetus: Jingtu (Pure Land — autonomous lay-congregation Buddhism) ###
+	jingtu = {
+		color = { 230 200 120 }
+		icon = 28   # ponytail: repaint dedicated Jingtu tile later
+		allowed_conversion = {
+			mahayana
+			chan
+		}
+		country = {
+			tolerance_heretic = 2
+			global_missionary_strength = 0.02
+		}
+		country_as_secondary = {
+			legitimacy = 1
+		}
+		heretic = { IKKO }
 	}
 	### Mundus Vetus: Jain + Ajivaka religions ###
 	jain = {

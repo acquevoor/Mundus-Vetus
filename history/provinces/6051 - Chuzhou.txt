@@ -1,7 +1,7 @@
 
 
 culture = wu
-religion = sanjiao
+religion = chan
 trade_goods = chinaware
 hre = no
 base_tax = 3

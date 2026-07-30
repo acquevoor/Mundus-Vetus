@@ -1,7 +1,7 @@
 
 
 culture = zhongyuan
-religion = sanjiao
+religion = chan
 trade_goods = silk
 hre = no
 base_tax = 3

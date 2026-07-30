@@ -1,7 +1,7 @@
 
 
 culture = manchu
-religion = wudaxian
+religion = jingtu
 trade_goods = fur
 hre = no
 base_tax = 1

@@ -3,7 +3,7 @@
 owner = KOR
 controller = KOR
 culture = korean
-religion = confucianism
+religion = jingtu
 capital = "Naju"
 trade_goods = paper #And Silk
 hre = no

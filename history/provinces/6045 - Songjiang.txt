@@ -1,7 +1,7 @@
 
 
 culture = wu
-religion = sanjiao
+religion = chan
 
 trade_goods = naval_supplies
 hre = no
