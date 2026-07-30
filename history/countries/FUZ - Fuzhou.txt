@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = cantonese
-religion = confucianism
+religion = mazujiao
 technology_group = chinese
 capital = 669 # Fuzhou
 

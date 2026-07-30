@@ -1,7 +1,7 @@
 
 
 culture = miao
-religion = animism
+religion = nuojiao
 trade_goods = tea
 hre = no
 base_tax = 2

@@ -1,7 +1,7 @@
 # 4201 - Jianzhou
 
 culture = manchu
-religion = confucianism
+religion = wudaxian
 
 trade_goods = fur
 hre = no

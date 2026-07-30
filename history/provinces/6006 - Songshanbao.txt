@@ -1,7 +1,7 @@
 #6006 - Songshanbao
 
 culture = xibei
-religion = confucianism
+religion = shendao
 
 trade_goods = grain
 
@@ -20,7 +20,7 @@ add_core = TIA
 
 1450.1.1 = {
 
-	religion = tengri_pagan_reformed
+	religion = shendao
 	culture = mongol
 }
 1511.1.1 = {
@@ -28,11 +28,11 @@ add_core = TIA
   remove_core = CHH
 }
 1578.1.1 = {
-	religion = vajrayana
+	religion = shendao
 }
 1598.1.1 = {
 
-  religion = confucianism
+  religion = shendao
   culture = zhongyuan
 }
 1655.5.15 = {

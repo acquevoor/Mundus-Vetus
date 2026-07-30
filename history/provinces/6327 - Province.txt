@@ -1,7 +1,7 @@
 
 
 culture = sichuanese
-religion = confucianism
+religion = chuanzhujiao
 trade_goods = grain
 hre = no
 base_tax = 4

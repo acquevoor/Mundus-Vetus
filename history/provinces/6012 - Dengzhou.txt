@@ -1,7 +1,7 @@
 
 
 culture = shandong_culture
-religion = confucianism
+religion = shendao
 trade_goods = fish
 hre = no
 base_tax = 2

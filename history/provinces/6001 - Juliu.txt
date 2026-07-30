@@ -1,7 +1,7 @@
 #6001 - Juliu
 
 culture = chihan
-religion = confucianism
+religion = wudaxian
 
 trade_goods = grain
 hre = no
@@ -16,7 +16,7 @@ discovered_by = nomad_group
 1449.8.15 = {
   remove_core = MNG
   culture = chahar
-  religion = tengri_pagan_reformed
+  religion = wudaxian
 }
 1621.1.1 = {
 

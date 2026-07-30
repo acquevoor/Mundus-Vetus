@@ -1,7 +1,7 @@
 
 
 culture = gan
-religion = confucianism
+religion = mazujiao
 trade_goods = tea
 hre = no
 base_tax = 2

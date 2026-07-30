@@ -1,7 +1,7 @@
 
 
 culture = chihan
-religion = confucianism
+religion = shendao
 
 trade_goods = fish
 hre = no

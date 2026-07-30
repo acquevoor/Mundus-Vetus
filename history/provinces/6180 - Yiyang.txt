@@ -1,7 +1,7 @@
 
 
 culture = xiang
-religion = confucianism
+religion = fajiao
 #fort_15th = yes
 trade_goods = grain
 hre = no

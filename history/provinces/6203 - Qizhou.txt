@@ -3,7 +3,7 @@ latent_trade_goods = {
 }
 
 culture = jianghuai
-religion = confucianism
+religion = fajiao
 
 trade_goods = grain
 hre = no

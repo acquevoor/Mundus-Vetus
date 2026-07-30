@@ -1,7 +1,7 @@
 #6000 - Liaoxi
 
 culture = chihan
-religion = confucianism
+religion = shendao
 
 trade_goods = grain
 hre = no

@@ -1,7 +1,7 @@
 
 
 culture = chihan
-religion = confucianism
+religion = wudaxian
 trade_goods = grain
 hre = no
 base_tax = 2

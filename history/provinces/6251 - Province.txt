@@ -1,7 +1,7 @@
 
 
 culture = zhuang
-religion = confucianism
+religion = nuojiao
 # capital = "Tian'Zhou"
 trade_goods = livestock
 hre = no

@@ -5,7 +5,7 @@ latent_trade_goods = {
 }
 
 culture = evenk
-religion = tengri_pagan_reformed
+religion = wudaxian
 
 trade_goods = fur
 hre = no
@@ -20,7 +20,7 @@ discovered_by = nomad_group
 
 1644.1.1 = {
 
-	religion = tengri_pagan_reformed
+	religion = wudaxian
 	trade_goods = wool
 
 }

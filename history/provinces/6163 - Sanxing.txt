@@ -1,7 +1,7 @@
 
 
 culture = manchu
-religion = tengri_pagan_reformed
+religion = wudaxian
 trade_goods = naval_supplies
 hre = no
 base_tax = 1

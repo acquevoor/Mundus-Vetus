@@ -1,7 +1,7 @@
 
 
 culture = hubei
-religion = confucianism
+religion = fajiao
 
 trade_goods = salt
 hre = no

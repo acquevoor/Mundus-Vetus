@@ -1,7 +1,7 @@
 # Maolian
 
 culture = manchu
-religion = confucianism
+religion = wudaxian
 trade_goods = naval_supplies
 hre = no
 base_tax = 1

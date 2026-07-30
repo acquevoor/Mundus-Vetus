@@ -1,7 +1,7 @@
 
 
 culture = bai
-religion = mahayana
+religion = nuojiao
 trade_goods = tea
 hre = no
 base_tax = 1

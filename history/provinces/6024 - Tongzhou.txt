@@ -1,7 +1,7 @@
 
 
 culture = xibei
-religion = confucianism
+religion = shendao
 #fort_15th = yes
 trade_goods = grain
 hre = no

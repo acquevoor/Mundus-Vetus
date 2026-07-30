@@ -1,7 +1,7 @@
 
 
 culture = zhuang
-religion = animism
+religion = nuojiao
 trade_goods = salt
 hre = no
 base_tax = 2

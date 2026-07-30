@@ -3,7 +3,7 @@ latent_trade_goods = {
 }
 
 culture = manchu
-religion = tengri_pagan_reformed
+religion = wudaxian
 
 trade_goods = naval_supplies
 hre = no

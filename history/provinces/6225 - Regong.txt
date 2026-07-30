@@ -1,7 +1,7 @@
 
 
 culture = xibei
-religion = vajrayana
+religion = shendao
 
 trade_goods = fur
 hre = no

@@ -1,7 +1,7 @@
 
 
 culture = zhuang
-religion = animism
+religion = nuojiao
 # capital = "Rong'Zhou"
 trade_goods = grain
 hre = no

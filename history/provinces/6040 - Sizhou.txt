@@ -1,7 +1,7 @@
 
 
 culture = jianghuai
-religion = confucianism
+religion = sanjiao
 
 trade_goods = grain
 hre = no
@@ -18,7 +18,7 @@ controller = TIA
 add_core = TIA
 
 1509.1.1 = {
-	religion = confucianism
+	religion = sanjiao
 }
 1601.1.1 = {
   discovered_by = SPA

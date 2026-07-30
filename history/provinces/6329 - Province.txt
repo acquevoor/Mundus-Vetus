@@ -1,7 +1,7 @@
 
 
 culture = jin
-religion = confucianism # Pingyang
+religion = shendao # Pingyang
 trade_goods = iron
 hre = no
 base_tax = 2

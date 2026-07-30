@@ -1,7 +1,7 @@
 
 
 culture = cantonese
-religion = confucianism
+religion = mazujiao
 trade_goods = fish
 hre = no
 base_tax = 1

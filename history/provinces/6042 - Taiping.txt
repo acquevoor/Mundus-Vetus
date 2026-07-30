@@ -1,7 +1,7 @@
 
 
 culture = jianghuai
-religion = confucianism
+religion = sanjiao
 
 trade_goods = silk
 hre = no

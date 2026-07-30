@@ -1,7 +1,7 @@
 
 
 culture = yi
-religion = animism
+religion = nuojiao
 
 trade_goods = grain
 hre = no

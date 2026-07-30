@@ -1,7 +1,7 @@
 
 
 culture = yi
-religion = confucianism
+religion = nuojiao
 
 trade_goods = livestock
 hre = no

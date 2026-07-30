@@ -1,7 +1,7 @@
 
 
 culture = jin
-religion = mahayana
+religion = shendao
 latent_trade_goods = {
   coal
 }

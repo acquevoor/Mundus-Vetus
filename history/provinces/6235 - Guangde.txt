@@ -1,7 +1,7 @@
 # 2144 - Ningguo
 
 culture = jianghuai
-religion = confucianism
+religion = sanjiao
 capital = "Ningguo"
 trade_goods = chinaware
 hre = no

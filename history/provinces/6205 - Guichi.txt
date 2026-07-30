@@ -1,7 +1,7 @@
 
 
 culture = gan
-religion = mahayana
+religion = sanjiao
 
 trade_goods = cloth
 hre = no

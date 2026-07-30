@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = yi
-religion = vajrayana
+religion = nuojiao
 technology_group = chinese
 capital = 675
 religious_school = chos_sakya

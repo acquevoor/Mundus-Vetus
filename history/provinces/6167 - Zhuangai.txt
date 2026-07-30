@@ -1,6 +1,6 @@
 
 culture = nivkh
-religion = tengri_pagan_reformed
+religion = wudaxian
 
 trade_goods = fish
 hre = no

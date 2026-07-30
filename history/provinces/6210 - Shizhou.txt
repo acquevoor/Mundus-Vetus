@@ -1,7 +1,7 @@
 
 
 culture = xiang
-religion = animism
+religion = fajiao
 
 trade_goods = tea
 hre = no

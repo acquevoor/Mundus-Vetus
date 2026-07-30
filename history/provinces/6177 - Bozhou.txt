@@ -1,7 +1,7 @@
 
 
 culture = zhongyuan
-religion = confucianism
+religion = sanjiao
 trade_goods = grain
 hre = no
 base_tax = 3
