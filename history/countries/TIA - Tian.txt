@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = zhongyuan
-religion = shendao
+religion = lu_wang
 technology_group = chinese
 capital = 688 # Tian
 

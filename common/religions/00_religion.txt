@@ -2850,6 +2850,32 @@ eastern = {
 		heretic = { CHUMASHEN }
 	}
 
+	quanzhen = {
+		color = { 180 180 220 }
+		icon = 25   # ponytail: reuses vajrayana tile (monastic-meditative flavor); repaint later
+		country = {
+			idea_cost = -0.05
+			stability_cost_modifier = -0.1
+		}
+		country_as_secondary = {
+			yearly_corruption = -0.05
+		}
+		heretic = { LONGMEN }
+	}
+
+	lu_wang = {
+		color = { 170 130 210 }
+		icon = 9    # ponytail: reuses confucianism tile (neo-confucian sibling); repaint later
+		country = {
+			legitimacy = 0.5
+			discipline = 0.025
+		}
+		country_as_secondary = {
+			idea_cost = -0.025
+		}
+		heretic = { TAIZHOU }
+	}
+
 
 	flags_with_emblem_percentage = 33
 	flag_emblem_index_range = { 58 80 }
