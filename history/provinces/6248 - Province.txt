@@ -1,7 +1,7 @@
 
 
 culture = zhuang
-religion = nuojiao
+religion = moism
 center_of_trade = 1
 trade_goods = salt
 hre = no

@@ -1,7 +1,7 @@
 
 
 culture = zhuang
-religion = nuojiao
+religion = moism
 trade_goods = grain
 hre = no
 base_tax = 2

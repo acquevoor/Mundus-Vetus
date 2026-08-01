@@ -3,7 +3,7 @@
 owner = DAI
 controller = DAI
 culture = zhuang
-religion = nuojiao
+religion = moism
 capital = "Cao Bang"
 trade_goods = grain
 hre = no

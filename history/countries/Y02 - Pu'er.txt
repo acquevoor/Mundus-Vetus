@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 primary_culture = yi
-religion = nuojiao
+religion = bimoism
 technology_group = chinese
 capital = 2165 # Pu'er
 

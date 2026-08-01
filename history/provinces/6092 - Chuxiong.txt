@@ -1,7 +1,7 @@
 
 
 culture = yi
-religion = nuojiao
+religion = bimoism
 
 trade_goods = tea
 hre = no
