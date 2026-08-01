@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = zhongyuan
 religion = shendao
 technology_group = chinese
-capital = 671 # Ding
+capital = 671 # Kun
 
 1444.11.11 = {
 	monarch = {

@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 primary_culture = zhongyuan
 religion = lu_wang
 technology_group = chinese
-capital = 688 # Tian
+capital = 688 # Qian
 
 1444.11.11 = {
 	monarch = {
