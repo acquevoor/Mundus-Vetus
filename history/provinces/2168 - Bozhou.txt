@@ -1,5 +1,5 @@
 # 2168 - Bozhou
-add_core = DIN
+add_core = KUN
 
 owner = CYI
 controller = CYI

@@ -1,5 +1,5 @@
 # 2163 - Liuzhou
-add_core = DIN
+add_core = KUN
 
 owner = CGS
 controller = CGS

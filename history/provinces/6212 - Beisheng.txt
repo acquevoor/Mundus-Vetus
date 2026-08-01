@@ -1,7 +1,7 @@
 
 
 culture = bai
-religion = nuojiao
+religion = nuo
 trade_goods = tea
 hre = no
 base_tax = 1

@@ -1,12 +1,12 @@
 #1836 - Nanyang
-add_core = TIA
+add_core = QIA
 
 latent_trade_goods = {
 	coal
 }
 
-owner = TIA
-controller = TIA
+owner = QIA
+controller = QIA
 add_core = MNG
 culture = zhongyuan
 religion = shendao
@@ -38,7 +38,7 @@ add_province_triggered_modifier = mahayana_louyang
 
 
 1444.11.11 = {
-	owner = TIA
-	controller = TIA
-	add_core = TIA
+	owner = QIA
+	controller = QIA
+	add_core = QIA
 }

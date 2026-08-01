@@ -13,9 +13,9 @@ discovered_by = chinese
 discovered_by = zhonghua
 discovered_by = nippon
 discovered_by = nomad_group
-owner = DIN
-controller = DIN
-add_core = DIN
+owner = KUN
+controller = KUN
+add_core = KUN
 
 1595.1.1 = {
   discovered_by = SPA

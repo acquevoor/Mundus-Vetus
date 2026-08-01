@@ -1,11 +1,11 @@
 #4199 - Tongren
-add_core = DIN
+add_core = KUN
 
 owner = CMI
 controller = CMI
 add_core = MNG
 culture = miao
-religion = nuojiao
+religion = nuo
 capital = "Tongren"
 trade_goods = tea
 hre = no

@@ -1,5 +1,5 @@
-owner = TIA
-controller = TIA
+owner = QIA
+controller = QIA
 add_core = CAG
 add_core = OIR
 culture = mongol
@@ -14,7 +14,7 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
-add_core = TIA
+add_core = QIA
 
 1510.1.1 = {
 	owner = KHA

@@ -1,5 +1,5 @@
 #664 - Lingyun
-add_core = DIN
+add_core = KUN
 
 owner = CGS
 controller = CGS

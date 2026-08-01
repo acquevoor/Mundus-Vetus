@@ -1,12 +1,12 @@
 #673 - Bozhou
-add_core = DIN
+add_core = KUN
 
 owner = CMI
 controller = CMI
 add_core = MNG
 add_core = CMI
 culture = miao
-religion = nuojiao
+religion = nuo
 capital = "Zhenyuan"
 trade_goods = tea
 hre = no

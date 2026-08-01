@@ -1,8 +1,8 @@
 # 2162 - Ngchow
-add_core = DIN
+add_core = KUN
 
-owner = DIN
-controller = DIN
+owner = KUN
+controller = KUN
 add_core = MNG
 culture = cantonese
 religion = fajiao
@@ -41,7 +41,7 @@ discovered_by = indian
 
 
 1444.11.11 = {
-	owner = DIN
-	controller = DIN
-	add_core = DIN
+	owner = KUN
+	controller = KUN
+	add_core = KUN
 }

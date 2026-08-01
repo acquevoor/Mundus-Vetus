@@ -1,8 +1,8 @@
 #700 - Shaanxi
-add_core = TIA
+add_core = QIA
 
-owner = TIA
-controller = TIA
+owner = QIA
+controller = QIA
 add_core = MNG
 culture = xibei
 religion = jingtu
@@ -37,7 +37,7 @@ center_of_trade = 2
 
 
 1444.11.11 = {
-	owner = TIA
-	controller = TIA
-	add_core = TIA
+	owner = QIA
+	controller = QIA
+	add_core = QIA
 }

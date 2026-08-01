@@ -1,11 +1,11 @@
 #680 - Chongqing
-add_core = DIN
+add_core = KUN
 
-owner = DIN
-controller = DIN
+owner = KUN
+controller = KUN
 add_core = MNG
 culture = sichuanese
-religion = chuanzhujiao
+religion = chuanzhu
 capital = "Chongqing"
 trade_goods = spices
 hre = no
@@ -35,7 +35,7 @@ center_of_trade = 1
 
 
 1444.11.11 = {
-	owner = DIN
-	controller = DIN
-	add_core = DIN
+	owner = KUN
+	controller = KUN
+	add_core = KUN
 }

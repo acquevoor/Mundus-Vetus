@@ -24,7 +24,7 @@ leader_names = {
 }
 
 ship_names = {
-	Ding
+	Kun
 }
 
 army_names = {

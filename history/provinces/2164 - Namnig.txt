@@ -1,5 +1,5 @@
 # 2164 - Namning
-add_core = DIN
+add_core = KUN
 
 owner = CGS
 controller = CGS

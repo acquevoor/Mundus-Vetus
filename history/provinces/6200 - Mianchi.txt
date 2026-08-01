@@ -13,9 +13,9 @@ discovered_by = zhonghua
 discovered_by = nippon
 discovered_by = nomad_group
 latent_trade_goods = { coal }
-owner = TIA
-controller = TIA
-add_core = TIA
+owner = QIA
+controller = QIA
+add_core = QIA
 
 1608.1.1 = { discovered_by = SPA } 
 1628.1.1 = { unrest = 6 } 

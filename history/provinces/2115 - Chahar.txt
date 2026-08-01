@@ -1,5 +1,5 @@
 # 2115 - Chahar
-add_core = TIA
+add_core = QIA
 
 owner = KHA
 controller = KHA

@@ -1,7 +1,7 @@
 
 
 culture = chimin
-religion = mazujiao
+religion = mazu
 
 trade_goods = tea
 hre = no
@@ -15,9 +15,9 @@ discovered_by = nippon
 discovered_by = nomad_group
 extra_cost = 8
 
-owner = DIN
-controller = DIN
-add_core = DIN
+owner = KUN
+controller = KUN
+add_core = KUN
 
 1519.1.1 = {
   discovered_by = POR

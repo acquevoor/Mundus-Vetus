@@ -1,8 +1,8 @@
 #703 - Chengde
-add_core = TIA
+add_core = QIA
 
-owner = TIA
-controller = TIA
+owner = QIA
+controller = QIA
 add_core = KRC
 culture = chahar
 religion = vajrayana
@@ -41,7 +41,7 @@ add_core = CHH
 
 
 1444.11.11 = {
-	owner = TIA
-	controller = TIA
-	add_core = TIA
+	owner = QIA
+	controller = QIA
+	add_core = QIA
 }

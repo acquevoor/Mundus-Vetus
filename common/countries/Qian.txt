@@ -24,7 +24,7 @@ leader_names = {
 }
 
 ship_names = {
-	Tian
+	Qian
 }
 
 army_names = {
