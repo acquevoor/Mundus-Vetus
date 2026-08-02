@@ -1,7 +1,7 @@
 #坎巨提Hunza
 
 culture = kashmiri #Dardic/Shina and Balti
-religion = buddhism
+religion = vajrayana
 capital = "Hunza"
 trade_goods = wool
 hre = no

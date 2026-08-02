@@ -1,7 +1,7 @@
 #4340 - Astara
 
 culture = azerbaijani
-religion = buddhism
+religion = vajrayana
 capital = "Astara"
 trade_goods = fish
 hre = no
@@ -31,5 +31,5 @@ add_core = U13
 	controller = U13
 	add_core = U13
 	culture = azerbaijani
-	religion = buddhism
+	religion = vajrayana
 }

@@ -1,7 +1,7 @@
 #4339 - Rasht
 
 culture = mazandarani
-religion = buddhism
+religion = vajrayana
 capital = "Rasht"
 trade_goods = silk
 hre = no
@@ -32,5 +32,5 @@ add_core = U13
 	controller = U13
 	add_core = U13
 	culture = mazandarani
-	religion = buddhism
+	religion = vajrayana
 }

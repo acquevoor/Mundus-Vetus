@@ -1,7 +1,7 @@
 
 
 culture = kashmiri
-religion = buddhism
+religion = vajrayana
 
 trade_goods = livestock
 hre = no

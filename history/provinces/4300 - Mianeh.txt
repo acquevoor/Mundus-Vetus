@@ -1,7 +1,7 @@
 #2212 - Mianeh
 
 culture = azerbaijani
-religion = buddhism
+religion = vajrayana
 capital = "Mianeh"
 trade_goods = paper
 hre = no
@@ -38,5 +38,5 @@ add_core = U13
 	controller = U13
 	add_core = U13
 	culture = azerbaijani
-	religion = buddhism
+	religion = vajrayana
 }

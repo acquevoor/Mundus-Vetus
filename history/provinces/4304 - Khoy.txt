@@ -1,7 +1,7 @@
 #2035 - Khoy
 
 culture = azerbaijani
-religion = buddhism
+religion = vajrayana
 capital = "Khoy"
 trade_goods = wool
 hre = no
@@ -43,5 +43,5 @@ add_core = U13
 	controller = U13
 	add_core = U13
 	culture = azerbaijani
-	religion = buddhism
+	religion = vajrayana
 }

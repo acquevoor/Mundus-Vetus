@@ -19,7 +19,7 @@ discovered_by = zhonghua
 discovered_by = nippon
 owner = KET
 controller = KET
-religion = buddhism
+religion = mahayana
 add_core = KET
 
 1526.4.21 = {

@@ -1,7 +1,7 @@
 #421 - Shirvan
 
 culture = tabasaran
-religion = lezgic_pagan
+religion = vajrayana
 capital = "Baku"
 trade_goods = silk #And Salt and Petroleum
 hre = no
@@ -47,5 +47,5 @@ add_core = U13
 	controller = U13
 	add_core = U13
 	culture = tabasaran
-	religion = buddhism
+	religion = vajrayana
 }

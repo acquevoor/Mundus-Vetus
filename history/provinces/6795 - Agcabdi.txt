@@ -1,7 +1,7 @@
 #阿格贾贝迪Agcabdi
 
 culture = azerbaijani
-religion = coptic
+religion = vajrayana
 trade_goods = livestock
 hre = no
 base_tax = 1
