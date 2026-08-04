@@ -2183,7 +2183,7 @@ transoxiana_area = { #3
 }
 termez_area = { #3
 
-	1968 2361 4343 6520
+	1968 2361 4343
 }
 khiva_area = { #5
 
@@ -2235,7 +2235,7 @@ merv_area = { #3
 }
 balkh_area = { #4
 
-	450 2227 452 1044
+	450 2227 1044
 }
 kerman_area = { #4 hf
 
@@ -2610,9 +2610,9 @@ champa_area = { #5
 
 	606 607 1022 2374 4822 
 }
-#tay_nguyen_area = { #3
-#	2375 4823 4824
-#}
+tay_nguyen_area = { #3
+	2375
+}
 cambodia_area = { #5
 
 	604 4825 4826 2379 2380 
@@ -3384,6 +3384,8 @@ north_henan_area = { #3
 west_henan_area = { #1.31.1
 
 	6028 6200 1836 
+}
+shanxi_area = {
 }
 south_shanxi_area = { #5
 

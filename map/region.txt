@@ -1,5 +1,7 @@
 # A province can only belong to one region!
 # random_new_world_region is used for RNW. Must be first in this list.
+random_new_world_region = {
+}
 france_region = {
 	areas = {
 		brittany_area normandy_area provence_area guyenne_area languedoc_area massif_central_area lorraine_area picardy_area champagne_area ile_de_france_area
@@ -467,7 +469,7 @@ oceanea_region = {
 indo_china_region = {
 	areas = {
 		north_laos_area central_thai_area northern_thai_area cambodia_area mekong_area angkor_area champa_area khorat_area vientiane_area sukhothai_area
-		champasak_area chuan_kuang_area north_tenasserim_area 
+		champasak_area chuan_kuang_area north_tenasserim_area tay_nguyen_area
 	}
 	monsoon = {
 		 00.05.01
