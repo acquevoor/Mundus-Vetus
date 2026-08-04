@@ -4,5 +4,5 @@ government_rank = 1
 primary_culture = kyushuan
 religion = mahayana
 
-technology_group = nippon
+technology_group = chinese
 capital = 6887

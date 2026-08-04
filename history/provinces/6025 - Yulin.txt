@@ -10,8 +10,8 @@ base_production = 2
 base_manpower = 1
 
 discovered_by = chinese
-discovered_by = zhonghua
-discovered_by = nippon
+discovered_by = chinese
+discovered_by = chinese
 discovered_by = nomad_group
 owner = QIA
 controller = QIA

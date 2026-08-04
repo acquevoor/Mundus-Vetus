@@ -9,8 +9,8 @@ base_production = 4
 base_manpower = 3
 
 discovered_by = chinese
-discovered_by = zhonghua
-discovered_by = nippon
+discovered_by = chinese
+discovered_by = chinese
 discovered_by = indian
 owner = ARI
 controller = ARI
