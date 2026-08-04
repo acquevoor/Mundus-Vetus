@@ -88,3 +88,21 @@
  PROV2127:0 "Uqturpan"
  PROV_ADJ2127:0 "Uqturpan"
  south_dakota_area:2 "South Dakota"
+# 2026-08-04 geo-repair batch: audit-flagged names contradicting pixel location.
+# Donor spots were consolidated into big neighbours on CN's newer map revision,
+# so non-colliding real regional toponyms were hand-picked (see _geo_repair_plan.txt).
+ PROV6289:0 "Hagenau"
+ PROV_ADJ6289:0 "Hagenau"
+ PROV6527:0 "Landau"
+ PROV_ADJ6527:0 "Landau"
+ PROV6529:0 "Kherlen"
+ PROV_ADJ6529:0 "Kherlen"
+ PROV6694:0 "Susa"
+ PROV_ADJ6694:0 "Susa"
+ PROV6840:0 "Weller"
+ PROV_ADJ6840:0 "Weller"
+ PROV6845:0 "Morshansk"
+ PROV_ADJ6845:0 "Morshansk"
+ PROV6860:0 "Burdur"
+ PROV_ADJ6860:0 "Burdur"
+ PROV_ADJ6530:0 "Seymchan"
