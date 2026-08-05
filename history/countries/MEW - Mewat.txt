@@ -1,11 +1,13 @@
 government = monarchy
 add_government_reform = rajput_kingdom
 government_rank = 1
-primary_culture = Mewari
-religion = al_batiniyya
-religious_school = batiniyya_chishtiyya
+primary_culture = Hindavi
+religion = sunni
 technology_group = indian
-capital = 520	# Mewat
+capital = 520
+religious_school = shafii_school
+# mod-3429447292 (India) initial-block port
+
 fixed_capital = 520 # Cannot move capital away from this province & no power cost to move to it
 #Meo Cheifs
 

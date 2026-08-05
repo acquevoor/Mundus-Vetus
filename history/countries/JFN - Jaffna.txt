@@ -3,9 +3,11 @@ add_government_reform = nayankara_reform
 government_rank = 1
 technology_group = indian
 religion = hinduism
+primary_culture = Eelam
+capital = 2100
+# mod-3429447292 (India) initial-block port
+
 religious_school = vaidika_agama
-primary_culture = Centamil
-capital = 2100	# Jaffna
 fixed_capital = 2100 # Cannot move capital away from this province & no power cost to move to it
 
 1440.1.1 = {

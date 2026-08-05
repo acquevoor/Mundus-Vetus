@@ -1,11 +1,13 @@
+#Sultans of Kashmir
 government = monarchy
 add_government_reform = indian_sultanate_reform
 primary_culture = Kashmiri
-religion = hinduism
-religious_school = vaidika_tantra
+religion = shiite
 technology_group = indian
-capital = 508	# Srinagar
-#Sultans of Kashmir
+capital = 508
+religious_school = ismaili_school
+# mod-3429447292 (India) initial-block port
+
 1389.1.1 = {
 	monarch = {
 		name = "Sikandar"

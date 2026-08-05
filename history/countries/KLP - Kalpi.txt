@@ -1,11 +1,14 @@
+#Malikzadas of Kalpi
 government = monarchy
 add_government_reform = indian_sultanate_reform
 government_rank = 1
 technology_group = indian
-religion = sant_mat
+religion = sunni
 primary_culture = Vindhyan
-capital = 2059	# Kalpi
-#Malikzadas of Kalpi
+capital = 2059
+religious_school = shafii_school
+# mod-3429447292 (India) initial-block port
+
 1399.1.1 = {
 	monarch = {
 		name = "Nasir al-Din Mahmud Shah"

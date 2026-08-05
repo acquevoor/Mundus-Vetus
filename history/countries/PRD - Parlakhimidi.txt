@@ -3,9 +3,11 @@ add_government_reform = tribal_kingdom
 government_rank = 1
 technology_group = indian
 religion = hinduism
+primary_culture = Berhampuria
+capital = 4448
+# mod-3429447292 (India) initial-block port
+
 religious_school = vaidika_agama
-primary_culture = Kataki
-capital = 4448	# Parlakhimidi
 
 # Founder 
 1444.1.1 = { # Younger son of Kapilendra of Orissa

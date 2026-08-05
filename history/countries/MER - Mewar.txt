@@ -2,9 +2,11 @@ government = monarchy
 add_government_reform = rajput_kingdom
 primary_culture = Mewari
 religion = hinduism
-religious_school = vaidika_nigama
 technology_group = indian
-capital = 518	# Chittogarh
+capital = 518
+# mod-3429447292 (India) initial-block port
+
+religious_school = vaidika_nigama
 
 1382.1.1 = {
 	if = {

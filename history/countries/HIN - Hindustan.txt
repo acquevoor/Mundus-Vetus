@@ -1,0 +1,9 @@
+
+government = monarchy
+add_government_reform = iqta
+technology_group = indian
+religion = hinduism
+primary_culture = Hindavi
+capital = 522
+government_rank = 3
+# mod-3429447292 (India) initial-block port

@@ -3,8 +3,10 @@ add_government_reform = feudalism_reform
 technology_group = indian
 primary_culture = Nepali
 religion = hinduism
+capital = 557
+# mod-3429447292 (India) initial-block port
+
 religious_school = vaidika_smarta
-capital = 557	# Kathmandu
 
 1395.6.1 = {
 	monarch = {

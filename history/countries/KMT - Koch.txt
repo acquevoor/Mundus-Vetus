@@ -1,12 +1,14 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-primary_culture = Malayali
+primary_culture = Rangpuri
 religion = hinduism
-religious_school = vaidika_tantra
 technology_group = indian
-capital = 562	# Koch
-add_accepted_culture = bengali
+capital = 562
+# mod-3429447292 (India) initial-block port
+
+religious_school = vaidika_tantra
+add_accepted_culture = Rarhi
 
 #Khen Dynasty
 

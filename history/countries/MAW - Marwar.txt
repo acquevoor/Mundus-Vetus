@@ -1,10 +1,12 @@
 government = monarchy
 add_government_reform = autocracy_reform
-primary_culture = Mewari
+primary_culture = Marwari
 religion = hinduism
-religious_school = vaidika_nigama
 technology_group = indian
-capital = 514	# Jodphur
+capital = 514
+# mod-3429447292 (India) initial-block port
+
+religious_school = vaidika_nigama
 
 1383.1.1 = {
 	monarch = {
