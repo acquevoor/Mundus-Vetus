@@ -1,6 +1,6 @@
 #561 - Bengal Delta
 
-culture = bengali
+culture = Rarhi
 religion = hinduism
 capital = "Howrah"
 trade_goods = silk

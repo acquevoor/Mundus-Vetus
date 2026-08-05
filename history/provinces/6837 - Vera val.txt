@@ -1,6 +1,6 @@
 #韦拉沃尔Vera val
 
-culture = saurashtri
+culture = Saurashtrian
 religion = hinduism
 capital = "Vera val"
 trade_goods = iron

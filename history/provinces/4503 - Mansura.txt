@@ -1,6 +1,6 @@
 #4503 - Mansura
 
-culture = sindhi
+culture = Vicholi
 religion = hinduism
 capital = "Mansura"
 trade_goods = cloth

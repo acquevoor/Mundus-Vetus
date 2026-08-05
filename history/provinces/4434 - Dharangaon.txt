@@ -1,6 +1,6 @@
 #4434 - Dharangaon
 
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Dharangaon"
 trade_goods = cotton

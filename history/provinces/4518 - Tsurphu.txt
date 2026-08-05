@@ -1,6 +1,6 @@
 #4518 - Tsurphu 
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Tsurphu"
 trade_goods = unknown

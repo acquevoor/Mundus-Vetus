@@ -1,6 +1,6 @@
 #2027 - Arcot
 
-culture = tamil
+culture = Centamil
 religion = hinduism
 capital = "Arcot"
 trade_goods = iron

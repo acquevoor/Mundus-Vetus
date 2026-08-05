@@ -1,6 +1,6 @@
 #阿努拉德普勒Anuradhapura
 
-culture = sinhala
+culture = Sinhalese
 religion = buddhism
 capital = "Anuradhapura"
 trade_goods = gems

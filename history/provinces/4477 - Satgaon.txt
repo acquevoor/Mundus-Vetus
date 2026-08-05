@@ -1,6 +1,6 @@
 #4477 - Satgaon
 
-culture = bengali
+culture = Rarhi
 religion = hinduism
 capital = "Satgaon"
 trade_goods = spices

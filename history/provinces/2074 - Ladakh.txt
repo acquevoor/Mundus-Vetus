@@ -2,7 +2,7 @@
 
 owner = LDK
 controller = LDK
-culture = tibetan
+culture = Ngalop
 religion = hinduism
 capital = "Leh"
 trade_goods = wool

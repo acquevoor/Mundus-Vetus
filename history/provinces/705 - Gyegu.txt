@@ -1,6 +1,6 @@
 #705 - Dangla
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Gyegu"
 trade_goods = unknown

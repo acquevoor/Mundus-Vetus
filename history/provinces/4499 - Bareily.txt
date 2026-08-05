@@ -1,6 +1,6 @@
 #4499 - Bareily
 
-culture = kanauji
+culture = Hindavi
 religion = sant_mat
 capital = "Bareily"
 trade_goods = cotton #Calicoes

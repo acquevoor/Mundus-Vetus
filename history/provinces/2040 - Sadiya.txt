@@ -1,6 +1,6 @@
 #2040 - Sadiya
 
-culture = assamese
+culture = Assamese
 religion = adivasi
 capital = "Sadiya"
 trade_goods = tea

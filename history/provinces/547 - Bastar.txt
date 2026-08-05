@@ -1,6 +1,6 @@
 #547 - Bastar
 
-culture = gondi
+culture = Koitur
 religion = adivasi
 capital = "Jagdalpur"
 trade_goods = tropical_wood

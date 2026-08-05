@@ -1,6 +1,6 @@
 #536 - Madurai
 
-culture = tamil
+culture = Centamil
 religion = hinduism
 capital = "Madurai"
 trade_goods = silk

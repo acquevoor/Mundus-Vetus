@@ -1,6 +1,6 @@
 #4435 - Sholhapur
 
-culture = marathi
+culture = Marathi
 religion = lingayat
 capital = "Sholhapur"
 trade_goods = cotton

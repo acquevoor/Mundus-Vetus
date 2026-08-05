@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = hinduism
 religious_school = vaidika_nigama
-primary_culture = gujarati
+primary_culture = Gujarati
 capital = 503	# Kutch
 
 #Jadejas

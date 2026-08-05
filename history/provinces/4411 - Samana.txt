@@ -1,6 +1,6 @@
 #4411 - Samana
 
-culture = panjabi
+culture = Doabi
 religion = sant_mat
 capital = "Samana"
 trade_goods = cloth #Samianas

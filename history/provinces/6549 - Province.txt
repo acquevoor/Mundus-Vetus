@@ -1,6 +1,6 @@
 #2074 - Ladakh
 
-culture = kashmiri
+culture = Kashmiri
 religion = vajrayana
 
 trade_goods = wool

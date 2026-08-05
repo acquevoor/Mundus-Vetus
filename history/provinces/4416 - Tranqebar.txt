@@ -2,7 +2,7 @@
 
 owner = TNJ
 controller = TNJ
-culture = tamil
+culture = Centamil
 religion = al_batiniyya
 capital = "Tranqebar"
 trade_goods = cloth

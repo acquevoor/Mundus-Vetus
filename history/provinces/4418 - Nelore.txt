@@ -1,6 +1,6 @@
 #4418 - Nelore
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 capital = "Nellore"
 trade_goods = cotton

@@ -1,6 +1,6 @@
 #2055 - Gorakhpur
 
-culture = bihari
+culture = Bhojpuri
 religion = sant_mat
 capital = "Gorakhpur"
 trade_goods = grain

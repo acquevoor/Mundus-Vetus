@@ -1,6 +1,6 @@
 #4478 - Haibatnagar 
 
-culture = bengali
+culture = Rarhi
 religion = hinduism
 capital = "Haibatnagar"
 trade_goods = cotton

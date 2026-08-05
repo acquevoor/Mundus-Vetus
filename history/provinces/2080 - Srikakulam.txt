@@ -1,6 +1,6 @@
 #2080 - Srikakulam
 
-culture = oriya
+culture = Kataki
 religion = hinduism
 capital = "Srikakulam"
 trade_goods = sugar

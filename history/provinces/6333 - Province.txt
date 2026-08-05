@@ -1,6 +1,6 @@
 #676 - U-Tsang
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 center_of_trade = 1
 trade_goods = incense

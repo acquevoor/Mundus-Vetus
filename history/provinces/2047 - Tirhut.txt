@@ -1,6 +1,6 @@
 #2047 - Tirhut
 
-culture = bihari
+culture = Bhojpuri
 religion = hinduism
 capital = "Sugauna"
 trade_goods = dyes

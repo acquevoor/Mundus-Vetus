@@ -1,6 +1,6 @@
 #2098 - Surguja
 
-culture = jharkhandi
+culture = Sadan
 religion = adivasi
 capital = "Surguja"
 trade_goods = cotton

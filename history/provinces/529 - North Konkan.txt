@@ -1,6 +1,6 @@
 #529 - North Konkan (Thana, Mahim, Bombay, Bassein, up to Daman)
 
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Thana"
 trade_goods = cloth

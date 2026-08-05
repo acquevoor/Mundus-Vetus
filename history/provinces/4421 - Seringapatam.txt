@@ -1,6 +1,6 @@
 #4421 - Seringapatam
 
-culture = kannada
+culture = Aregannada
 religion = jain
 capital = "Seringapatam"
 trade_goods = cotton

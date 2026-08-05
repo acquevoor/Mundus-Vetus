@@ -1,6 +1,6 @@
 #1947 - Gingee
 
-culture = tamil
+culture = Centamil
 religion = ajivaka
 capital = "Gingee"
 trade_goods = cloth

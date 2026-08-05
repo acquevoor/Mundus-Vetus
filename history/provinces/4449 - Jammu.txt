@@ -1,6 +1,6 @@
 #4449 - Jammu
 
-culture = kashmiri
+culture = Kashmiri
 religion = hinduism
 capital = "Jammu"
 trade_goods = silk #

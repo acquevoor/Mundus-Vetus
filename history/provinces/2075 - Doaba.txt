@@ -1,6 +1,6 @@
 #2075 - Doaba
 
-culture = panjabi
+culture = Doabi
 religion = sant_mat
 capital = "Jalandhar"
 trade_goods = dyes

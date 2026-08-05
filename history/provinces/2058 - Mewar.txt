@@ -1,6 +1,6 @@
 #2058 - Mewar (Kotharia/Udaipur)
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Kotharia"
 trade_goods = gold #Silver and Zink mines

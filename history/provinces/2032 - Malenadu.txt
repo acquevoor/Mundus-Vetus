@@ -1,6 +1,6 @@
 #2032 - Malenadu
 
-culture = kannada
+culture = Aregannada
 religion = jain
 capital = "Ikkeri"
 trade_goods = coffee

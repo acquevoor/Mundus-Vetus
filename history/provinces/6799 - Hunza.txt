@@ -1,6 +1,6 @@
 #坎巨提Hunza
 
-culture = kashmiri #Dardic/Shina and Balti
+culture = Kashmiri #Dardic/Shina and Balti
 religion = vajrayana
 capital = "Hunza"
 trade_goods = wool
@@ -35,6 +35,6 @@ discovered_by = chinese
 		owner = KFI
 		controller = KFI
 		add_core = KFI
-		culture = kashmiri
+		culture = Kashmiri
 		religion = buddhism
 	}

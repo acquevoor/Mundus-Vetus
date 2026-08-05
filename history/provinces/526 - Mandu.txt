@@ -1,6 +1,6 @@
 #526 - Mandu
 
-culture = malvi
+culture = Malvi
 religion = hinduism
 capital = "Mandu"
 trade_goods = dyes

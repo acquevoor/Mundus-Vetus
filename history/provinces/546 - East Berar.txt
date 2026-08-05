@@ -1,6 +1,6 @@
 #546 - East Berar / Nagpur
 
-culture = gondi
+culture = Koitur
 religion = hinduism
 capital = "Wairagarh"
 trade_goods = cotton

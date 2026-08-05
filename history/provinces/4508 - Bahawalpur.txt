@@ -1,6 +1,6 @@
 #4508 - Bahawalpur
 
-culture = panjabi
+culture = Doabi
 religion = hinduism
 capital = "Bahawalpur"
 trade_goods = livestock

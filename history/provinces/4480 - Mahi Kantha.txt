@@ -1,6 +1,6 @@
 #2056 - Rewa Kantha
 
-culture = gujarati
+culture = Gujarati
 religion = jain
 capital = "Idar"
 trade_goods = cloth

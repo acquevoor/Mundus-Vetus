@@ -1,6 +1,6 @@
 #4472 - Monghyr
 
-culture = bihari
+culture = Bhojpuri
 religion = mahayana
 capital = "Monghyr"
 trade_goods = silk

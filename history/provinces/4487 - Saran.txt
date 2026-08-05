@@ -1,6 +1,6 @@
 #4487 - Saran
 
-culture = bihari
+culture = Bhojpuri
 religion = mahayana
 capital = "Saran"
 trade_goods = cotton

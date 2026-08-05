@@ -1,6 +1,6 @@
 #676 - U-Tsang
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Shigatse"
 trade_goods = unknown

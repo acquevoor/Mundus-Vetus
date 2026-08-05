@@ -1,6 +1,6 @@
 #2062 - Panipat
 
-culture = kanauji
+culture = Hindavi
 religion = hinduism
 capital = "Panipat"
 trade_goods = cotton

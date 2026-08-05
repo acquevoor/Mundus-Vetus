@@ -1,6 +1,6 @@
 #4424 - Adavani
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 capital = "Adavani"
 trade_goods = grain

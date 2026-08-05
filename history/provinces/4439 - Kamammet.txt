@@ -1,6 +1,6 @@
 #4439 - Khamammet
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 capital = "Khamammet"
 trade_goods = dyes

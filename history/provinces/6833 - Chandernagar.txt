@@ -1,6 +1,6 @@
 #昌德尔纳戈尔Chandernagar
 
-culture = bengali
+culture = Rarhi
 religion = hinduism
 trade_goods = silk
 hre = no

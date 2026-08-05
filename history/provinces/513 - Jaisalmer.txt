@@ -1,6 +1,6 @@
 #513 - Jaisalmer
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Jaisalmer"
 trade_goods = wool

@@ -1,6 +1,6 @@
 # 2128 - Ngari
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 #capital = "Ngari"
 trade_goods = unknown

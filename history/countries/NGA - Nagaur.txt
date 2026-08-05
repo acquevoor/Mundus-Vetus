@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = indian_sultanate_reform
-primary_culture = rajput
+primary_culture = Mewari
 religion = hinduism
 religious_school = vaidika_nigama
 technology_group = indian

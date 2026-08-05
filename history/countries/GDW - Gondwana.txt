@@ -3,7 +3,7 @@ add_government_reform = gond_kingdom
 government_rank = 1
 technology_group = indian
 religion = adivasi
-primary_culture = gondi
+primary_culture = Koitur
 capital = 550	# Garha
 
 #Rajas of Garha-Mandla/Katanga

@@ -1,6 +1,6 @@
 #4501 - Bhilwara
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Bhilwara"
 trade_goods = grain

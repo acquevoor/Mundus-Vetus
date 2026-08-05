@@ -1,6 +1,6 @@
 #2054 - Ahmadabad
 
-culture = gujarati
+culture = Gujarati
 religion = hinduism
 capital = "Ahmadabad"
 trade_goods = paper

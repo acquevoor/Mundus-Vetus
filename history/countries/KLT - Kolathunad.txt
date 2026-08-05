@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = hinduism
 religious_school = vaidika_agama
-primary_culture = malayalam
+primary_culture = Malayali
 capital = 4413	# Cannanore
 
 1444.1.1 = {

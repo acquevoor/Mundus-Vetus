@@ -1,6 +1,6 @@
 government = tribal
 add_government_reform = tribal_kingdom
-primary_culture = tibetan
+primary_culture = Ngalop
 add_accepted_culture = kashmiri
 religion = hinduism
 religious_school = vaidika_smarta

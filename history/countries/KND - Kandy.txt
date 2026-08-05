@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = nayankara_reform
 technology_group = indian
 religion = buddhism
-primary_culture = sinhala
+primary_culture = Sinhalese
 capital = 2099 #Kandy
 
 1444.1.1 = {

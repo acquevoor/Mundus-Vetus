@@ -1,6 +1,6 @@
 # 2132 - Markam
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Markam"
 trade_goods = unknown

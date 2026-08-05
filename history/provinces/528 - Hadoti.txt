@@ -1,6 +1,6 @@
 #528 - Hadoti
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Kota"
 trade_goods = cotton

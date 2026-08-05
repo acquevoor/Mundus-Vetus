@@ -3,7 +3,7 @@
 owner = KET
 controller = KET
 add_core = KET
-culture = jharkhandi
+culture = Sadan
 religion = mahayana
 capital = "Soumelpur"
 trade_goods = iron

@@ -1,6 +1,6 @@
 #550 - Mahakoshal
 
-culture = gondi
+culture = Koitur
 religion = adivasi
 capital = "Garha"
 trade_goods = grain

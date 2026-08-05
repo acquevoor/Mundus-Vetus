@@ -1,6 +1,6 @@
 #4408 - Salavata
 
-culture = sinhala
+culture = Sinhalese
 religion = buddhism
 capital = "Salavata"
 trade_goods = spices	#Cinnamon

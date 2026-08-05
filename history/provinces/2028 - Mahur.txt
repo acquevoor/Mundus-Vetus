@@ -1,6 +1,6 @@
 #2028 - Mahur
 
-culture = telegu
+culture = Andhran
 religion = lingayat
 capital = "Mahur"
 trade_goods = tropical_wood

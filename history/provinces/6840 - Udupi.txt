@@ -1,6 +1,6 @@
 # ä¹Œè¿ªæ¯”Udupi
 
-culture = kannada
+culture = Aregannada
 religion = hinduism
 trade_goods = tropical_wood
 hre = no

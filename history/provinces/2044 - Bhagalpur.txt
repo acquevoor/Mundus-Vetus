@@ -3,7 +3,7 @@
 owner = GAU
 controller = GAU
 add_core = GAU
-culture = bengali
+culture = Rarhi
 religion = hinduism
 capital = "Bhagalpur"
 trade_goods = silk

@@ -1,6 +1,6 @@
 #4410 - Kumari
 
-culture = malayalam
+culture = Malayali
 religion = ecclesia_assyrica
 capital = "Kumari"
 trade_goods = spices

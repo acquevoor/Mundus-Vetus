@@ -1,6 +1,6 @@
 #553 - Sambalpur
 
-culture = garjati
+culture = Kataki
 religion = hinduism
 capital = "Sambalpur"
 trade_goods = cloth

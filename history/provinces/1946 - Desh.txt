@@ -1,6 +1,6 @@
 #1946 - (Southern) Desh
 
-culture = marathi
+culture = Marathi
 religion = lingayat
 capital = "Satara"
 trade_goods = naval_supplies

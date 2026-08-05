@@ -1,6 +1,6 @@
 #4459 - Saugor
 
-culture = gondi
+culture = Koitur
 religion = adivasi
 capital = "Saugor"
 trade_goods = grain

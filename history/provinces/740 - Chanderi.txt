@@ -1,6 +1,6 @@
 #740 - Chanderi
 
-culture = malvi
+culture = Malvi
 religion = hinduism
 capital = "Chanderi"
 trade_goods = cloth #Chintz

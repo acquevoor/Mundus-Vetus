@@ -1,6 +1,6 @@
 # 2130 - Nyingchi
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 trade_goods = fur
 hre = no

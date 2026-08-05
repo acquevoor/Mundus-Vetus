@@ -1,6 +1,6 @@
 # 2131 - Qamdo
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Qamdo"
 trade_goods = unknown

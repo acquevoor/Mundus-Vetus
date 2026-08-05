@@ -1,6 +1,6 @@
 #4500 - Bharatpur
 
-culture = rajput
+culture = Mewari
 religion = al_batiniyya
 capital = "Bharatpur"
 trade_goods = livestock

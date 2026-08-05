@@ -1,6 +1,6 @@
 #2056 - Rewa Kantha
 
-culture = gujarati
+culture = Gujarati
 religion = hinduism
 capital = "Champaner"
 trade_goods = wool

@@ -1,6 +1,6 @@
 #517 - Surat (Surat, Rander)
 
-culture = gujarati
+culture = Gujarati
 religion = hinduism
 capital = "Surat"
 trade_goods = silk

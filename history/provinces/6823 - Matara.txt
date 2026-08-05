@@ -1,6 +1,6 @@
 #马特勒Matara
 
-culture = sinhala
+culture = Sinhalese
 religion = buddhism
 capital = "Matara"
 trade_goods = gems

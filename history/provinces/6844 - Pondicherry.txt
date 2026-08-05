@@ -1,6 +1,6 @@
 # æœ¬åœ°æ²»é‡ŒPondicherry
 
-culture = tamil
+culture = Centamil
 religion = hinduism
 trade_goods = cloth
 hre = no

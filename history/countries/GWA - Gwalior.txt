@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = rajput_kingdom
 government_rank = 1
-primary_culture = vindhyan
+primary_culture = Vindhyan
 religion = hinduism
 religious_school = vaidika_nigama
 technology_group = indian
@@ -56,12 +56,12 @@ fixed_capital = 525 # Cannot move capital away from this province & no power cos
 	monarch = {
 		name = "Ranojirao"
 		dynasty = "Sindhia"
-		culture = marathi
+		culture = Marathi
 		DIP = 4
 		MIL = 5
 		ADM = 2
 	}
-	primary_culture = marathi
+	primary_culture = Marathi
 	government_rank = 2
 }
 

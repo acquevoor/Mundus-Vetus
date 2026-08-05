@@ -1,6 +1,6 @@
 #2095 - Varanasi
 
-culture = bihari
+culture = Bhojpuri
 religion = buddhism
 capital = "Varanasi"
 trade_goods = silk

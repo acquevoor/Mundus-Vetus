@@ -1,6 +1,6 @@
 #510 - Sirhind
 
-culture = panjabi
+culture = Doabi
 religion = sant_mat
 capital = "Sirhind"
 trade_goods = cotton

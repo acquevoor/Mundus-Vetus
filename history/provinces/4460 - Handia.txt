@@ -1,6 +1,6 @@
 #4460 - Handia
 
-culture = malvi
+culture = Malvi
 religion = hinduism
 capital = "Handia"
 trade_goods = cotton

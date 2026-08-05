@@ -1,6 +1,6 @@
 #512 - Jangladesh
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Churu"
 trade_goods = livestock

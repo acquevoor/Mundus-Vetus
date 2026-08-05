@@ -1,6 +1,6 @@
 #558 - Patna
 
-culture = bihari
+culture = Bhojpuri
 religion = mahayana
 capital = "Patna"
 trade_goods = paper #And Silk and Saltpetre

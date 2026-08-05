@@ -1,6 +1,6 @@
 #2058 - Vagad
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Dungarpur"
 trade_goods = copper

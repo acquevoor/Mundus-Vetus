@@ -1,6 +1,6 @@
 #2051 - Bhavnagar
 
-culture = saurashtri
+culture = Saurashtrian
 religion = jain
 capital = "Bhavnagar"
 trade_goods = salt

@@ -1,6 +1,6 @@
 #4412 - Dindigul
 
-culture = tamil
+culture = Centamil
 religion = hinduism
 capital = "Dindigul"
 trade_goods = naval_supplies

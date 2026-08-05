@@ -1,6 +1,6 @@
 #2057 - Bhelsa
 
-culture = malvi
+culture = Malvi
 religion = hinduism
 capital = "Bhelsa"
 trade_goods = cloth

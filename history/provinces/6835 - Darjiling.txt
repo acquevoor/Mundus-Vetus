@@ -1,6 +1,6 @@
 #大吉岭Darjiling
 
-culture = nepali
+culture = Nepali
 religion = vajrayana
 
 trade_goods = wool

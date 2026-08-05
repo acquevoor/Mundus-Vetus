@@ -1,6 +1,6 @@
 #4437 - Paithre
 
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Paithre"
 trade_goods = cloth

@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = hinduism
 religious_school = vaidika_agama
-primary_culture = garjati
+primary_culture = Kataki
 capital = 2049	# Khurda
 
 # Bhanj rulers of nearby Orissan feudatories

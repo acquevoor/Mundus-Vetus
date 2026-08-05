@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = rajput_kingdom
 government_rank = 1
-primary_culture = gujarati
+primary_culture = Gujarati
 religion = jain
 religious_school = jain_svetambara
 technology_group = indian

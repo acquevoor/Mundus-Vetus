@@ -1,6 +1,6 @@
 #549 - Kalingandhra
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 capital = "Vizianagaram"
 trade_goods = cotton

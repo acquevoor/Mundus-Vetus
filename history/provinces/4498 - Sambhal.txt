@@ -1,6 +1,6 @@
 #4498 - Sambhal
 
-culture = kanauji
+culture = Hindavi
 religion = sant_mat
 capital = "Sambhal"
 trade_goods = cotton #Calicoes

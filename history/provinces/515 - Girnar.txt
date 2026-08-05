@@ -1,6 +1,6 @@
 #515 - Girnar
 
-culture = saurashtri
+culture = Saurashtrian
 religion = jain
 capital = "Girnar"
 trade_goods = iron

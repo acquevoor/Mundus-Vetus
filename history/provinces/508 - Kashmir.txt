@@ -1,6 +1,6 @@
 #508 - Kashmir
 
-culture = kashmiri
+culture = Kashmiri
 religion = hinduism
 capital = "Srinagar"
 trade_goods = paper

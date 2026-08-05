@@ -1,6 +1,6 @@
 #2050 - Chanda
 
-culture = gondi
+culture = Koitur
 religion = adivasi
 capital = "Ballarsah"
 trade_goods = tropical_wood

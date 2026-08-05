@@ -1,6 +1,6 @@
 #4417 - Kanchipuram
 
-culture = tamil
+culture = Centamil
 religion = hinduism
 capital = "Kanchipuram"
 trade_goods = cloth

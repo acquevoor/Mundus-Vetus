@@ -1,6 +1,6 @@
 # ç‘™è�¨é‡ŒNavsan
 
-culture = gujarati
+culture = Gujarati
 religion = hinduism
 capital = "Navsan"
 trade_goods = silk

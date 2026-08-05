@@ -1,6 +1,6 @@
 #2094 - Bahreich
 
-culture = avadhi
+culture = Awadhi
 religion = sant_mat
 capital = "Bahreich"
 trade_goods = cotton

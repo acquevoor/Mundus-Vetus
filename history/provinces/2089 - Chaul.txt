@@ -1,6 +1,6 @@
 #2089 - Chaul (Chaul+Janjira+Kolaba)
 
-culture = marathi
+culture = Marathi
 religion = lingayat
 capital = "Chaul"
 trade_goods = cloth

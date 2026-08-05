@@ -1,6 +1,6 @@
 #4447 - Patna
 
-culture = garjati
+culture = Kataki
 religion = sant_mat
 capital = "Patna"
 trade_goods = cotton

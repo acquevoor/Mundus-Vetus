@@ -1,6 +1,6 @@
 #2031 - Morasanadu
 
-culture = kannada
+culture = Aregannada
 religion = jain
 capital = "Devarayanagara"
 trade_goods = grain

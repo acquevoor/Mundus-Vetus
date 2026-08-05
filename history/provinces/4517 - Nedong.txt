@@ -1,6 +1,6 @@
 #4517 - Nedong
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Nedong"
 trade_goods = unknown

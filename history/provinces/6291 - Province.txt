@@ -1,6 +1,6 @@
 # 2135 - Garze
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 trade_goods = grain
 hre = no

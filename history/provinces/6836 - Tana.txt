@@ -1,6 +1,6 @@
 # å¡”é‚£Tana
 
-culture = gujarati
+culture = Gujarati
 religion = hinduism
 capital = "Tana"
 trade_goods = silk

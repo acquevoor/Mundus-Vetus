@@ -1,6 +1,6 @@
 #535 - Kochin
 
-culture = malayalam
+culture = Malayali
 religion = jewish
 capital = "Kochin"
 trade_goods = spices

@@ -2,7 +2,7 @@
 
 owner = LDK
 controller = LDK
-culture = kashmiri
+culture = Kashmiri
 religion = hinduism
 capital = "Skardu"
 trade_goods = wool

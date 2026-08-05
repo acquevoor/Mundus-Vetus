@@ -1,6 +1,6 @@
 #4436 - Devarakonda
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 capital = "Devarakonda"
 trade_goods = iron

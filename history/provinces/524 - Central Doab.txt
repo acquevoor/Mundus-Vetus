@@ -1,6 +1,6 @@
 #524 - Central Doab
 
-culture = kanauji
+culture = Hindavi
 religion = sant_mat
 capital = "Mathura"
 trade_goods = silk

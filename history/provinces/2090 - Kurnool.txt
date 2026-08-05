@@ -1,6 +1,6 @@
 #2090 - Kurnool, Srisailam
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 capital = "Srisailam"
 trade_goods = iron

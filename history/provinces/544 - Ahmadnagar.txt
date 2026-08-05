@@ -1,6 +1,6 @@
 #544 - Ahmednagar
 
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Ahmednagar"
 trade_goods = cotton

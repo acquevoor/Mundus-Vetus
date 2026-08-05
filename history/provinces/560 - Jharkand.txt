@@ -1,6 +1,6 @@
 #560 - Palamau
 
-culture = jharkhandi
+culture = Sadan
 religion = adivasi
 capital = "Palamau"
 trade_goods = iron

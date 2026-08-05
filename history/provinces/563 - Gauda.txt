@@ -1,6 +1,6 @@
 #563 - Gauda
 
-culture = bengali
+culture = Rarhi
 religion = hinduism
 capital = "Pandua"
 trade_goods = paper #And Silk

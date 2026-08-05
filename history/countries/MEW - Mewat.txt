@@ -1,7 +1,7 @@
 government = monarchy
 add_government_reform = rajput_kingdom
 government_rank = 1
-primary_culture = rajput
+primary_culture = Mewari
 religion = al_batiniyya
 religious_school = batiniyya_chishtiyya
 technology_group = indian

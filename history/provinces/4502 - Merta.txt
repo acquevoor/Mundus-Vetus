@@ -1,6 +1,6 @@
 #4502 - Merta
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Merta"
 trade_goods = livestock

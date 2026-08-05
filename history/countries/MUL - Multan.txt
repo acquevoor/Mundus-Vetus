@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = indian_sultanate_reform
-primary_culture = panjabi
+primary_culture = Doabi
 religion = hinduism
 religious_school = vaidika_agama
 technology_group = indian

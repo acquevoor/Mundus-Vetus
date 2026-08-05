@@ -1,6 +1,6 @@
 #2043 - Balasore
 
-culture = oriya
+culture = Kataki
 religion = hinduism
 capital = "Balasore"
 trade_goods = cloth

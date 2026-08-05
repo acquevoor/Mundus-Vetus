@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = hinduism
 religious_school = vaidika_nigama
-primary_culture = malayalam
+primary_culture = Malayali
 capital = 534	# Calicut
 
 1415.1.1 = {

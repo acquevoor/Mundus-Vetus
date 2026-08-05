@@ -1,6 +1,6 @@
 #2030 - Goa
 
-culture = marathi
+culture = Marathi
 religion = lingayat
 capital = "Goa"
 trade_goods = spices

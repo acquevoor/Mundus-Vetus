@@ -1,6 +1,6 @@
 #552 - Cuttack
 
-culture = oriya
+culture = Kataki
 religion = hinduism
 capital = "Cuttack"
 trade_goods = cloth

@@ -1,7 +1,7 @@
 #538 - Karur
 
 capital = "Karur"
-culture = tamil
+culture = Centamil
 religion = jain
 trade_goods = incense #Sandalwood
 hre = no

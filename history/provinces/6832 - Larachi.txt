@@ -1,6 +1,6 @@
 #卡拉奇Larachi
 
-culture = sindhi
+culture = Vicholi
 religion = sunni
 trade_goods = cloth
 hre = no

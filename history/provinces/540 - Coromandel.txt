@@ -1,6 +1,6 @@
 #540 - Coromandel 
 
-culture = tamil
+culture = Centamil
 religion = ajivaka
 capital = "Kuddaluru"
 trade_goods = cloth

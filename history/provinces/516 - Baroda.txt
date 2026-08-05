@@ -1,6 +1,6 @@
 #516 - Baroda (Baroda)
 
-culture = gujarati
+culture = Gujarati
 religion = hinduism
 capital = "Baroda"
 trade_goods = dyes

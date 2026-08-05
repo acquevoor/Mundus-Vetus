@@ -1,6 +1,6 @@
 #4438 - Nander
 
-culture = marathi
+culture = Marathi
 religion = lingayat
 capital = "Nander"
 trade_goods = silk

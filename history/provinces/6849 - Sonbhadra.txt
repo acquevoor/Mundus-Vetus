@@ -1,6 +1,6 @@
 #松巴得拉Sonbhadra
 
-culture = bihari
+culture = Bhojpuri
 
 capital = "Varanasi"
 trade_goods = silk

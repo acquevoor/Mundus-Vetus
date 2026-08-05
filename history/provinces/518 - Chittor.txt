@@ -1,6 +1,6 @@
 #518 - Chittor
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Chittor"
 trade_goods = grain

@@ -1,6 +1,6 @@
 #531 - North Kanara
 
-culture = kannada
+culture = Aregannada
 religion = lingayat
 capital = "Bhatkal"
 trade_goods = spices

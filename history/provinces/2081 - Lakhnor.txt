@@ -4,7 +4,7 @@ latent_trade_goods = {
 	coal
 }
 
-culture = bengali
+culture = Rarhi
 religion = hinduism
 capital = "Lakhnor"
 trade_goods = naval_supplies

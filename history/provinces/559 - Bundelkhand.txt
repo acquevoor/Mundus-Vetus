@@ -1,6 +1,6 @@
 #559 - Bundelkhand
 
-culture = vindhyan
+culture = Vindhyan
 religion = sant_mat
 capital = "Jhansi"
 trade_goods = iron

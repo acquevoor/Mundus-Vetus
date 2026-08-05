@@ -3,7 +3,7 @@ add_government_reform = plutocratic_reform
 government_rank = 1
 technology_group = indian
 religion = jewish
-primary_culture = malayalam
+primary_culture = Malayali
 capital = 535	# Kochin
 fixed_capital = 535 # Cannot move capital away from this province & no power cost to move to it
 

@@ -1,6 +1,6 @@
 #4469 - Rohtas
 
-culture = bihari
+culture = Bhojpuri
 religion = mahayana
 capital = "Rohtasgarh"
 trade_goods = salt

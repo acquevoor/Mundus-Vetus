@@ -1,6 +1,6 @@
 #4497 - Qannauj
 
-culture = avadhi
+culture = Awadhi
 religion = sant_mat
 capital = "Qannauj"
 trade_goods = grain

@@ -1,6 +1,6 @@
 #564 - Dakha
 
-culture = bengali
+culture = Rarhi
 religion = hinduism
 capital = "Dakha"
 trade_goods = cloth

@@ -1,6 +1,6 @@
 #4496 - Kora
 
-culture = avadhi
+culture = Awadhi
 religion = sant_mat
 capital = "Kora"
 trade_goods = cotton

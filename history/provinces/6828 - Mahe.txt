@@ -1,6 +1,6 @@
 #马埃Mahe
 
-culture = malayalam
+culture = Malayali
 religion = hinduism
 capital = "Mahe"
 trade_goods = spices

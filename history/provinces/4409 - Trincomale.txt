@@ -1,6 +1,6 @@
 #4409 - Trincomale
 
-culture = sinhala
+culture = Sinhalese
 religion = buddhism
 capital = "Trincomale"
 trade_goods = spices #Cinnamon

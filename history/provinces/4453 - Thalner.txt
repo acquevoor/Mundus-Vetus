@@ -2,7 +2,7 @@
 
 owner = KHD
 controller = KHD
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Thalner"
 trade_goods = cotton

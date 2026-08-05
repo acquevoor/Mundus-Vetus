@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 technology_group = indian
 religion = al_batiniyya
 religious_school = batiniyya_chishtiyya
-primary_culture = tamil
+primary_culture = Centamil
 capital = 2026 #Tanjore
 fixed_capital = 2026 # Cannot move capital away from this province & no power cost to move to it
 

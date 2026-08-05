@@ -1,6 +1,6 @@
 #4465 - Ranthambore
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Ranthambore"
 trade_goods = dyes

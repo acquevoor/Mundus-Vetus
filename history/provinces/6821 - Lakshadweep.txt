@@ -1,6 +1,6 @@
 #拉克沙群岛Lakshadweep
 
-culture = malayalam
+culture = Malayali
 religion = hinduism
 capital = "Lakshadweep"
 trade_goods = spices

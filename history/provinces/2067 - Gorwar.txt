@@ -1,6 +1,6 @@
 #2067 - Gorwar
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Jalor"
 trade_goods = cotton

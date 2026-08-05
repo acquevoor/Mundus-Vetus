@@ -1,6 +1,6 @@
 #4506 - Barmer
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Barmer"
 trade_goods = livestock

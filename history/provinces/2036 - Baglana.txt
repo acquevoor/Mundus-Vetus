@@ -1,6 +1,6 @@
 #2036 - Baglana
 
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Mayuragiri"
 trade_goods = grain	#Millet

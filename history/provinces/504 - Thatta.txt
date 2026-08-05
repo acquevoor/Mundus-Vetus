@@ -1,6 +1,6 @@
 #504 - Thatta
 
-culture = sindhi
+culture = Vicholi
 religion = hinduism
 capital = "Thatta"
 trade_goods = cloth

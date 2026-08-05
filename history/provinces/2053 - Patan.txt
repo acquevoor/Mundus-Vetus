@@ -1,6 +1,6 @@
 #2053 - Patan
 
-culture = gujarati
+culture = Gujarati
 religion = hinduism
 capital = "Patan"
 trade_goods = cloth

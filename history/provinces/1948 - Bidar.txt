@@ -1,6 +1,6 @@
 #1948 - Bidar
 
-culture = kannada
+culture = Aregannada
 religion = lingayat
 capital = "Bidar"
 trade_goods = silk

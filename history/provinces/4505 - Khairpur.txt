@@ -1,6 +1,6 @@
 #4505 - Khairpur
 
-culture = sindhi
+culture = Vicholi
 religion = hinduism
 capital = "Khairpur"
 trade_goods = livestock

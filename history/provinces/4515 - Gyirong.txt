@@ -1,6 +1,6 @@
 #4515 - Gyirong
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Gyirong"
 trade_goods = unknown

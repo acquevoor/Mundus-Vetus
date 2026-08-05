@@ -1,6 +1,6 @@
 #503 - Kutch
 
-culture = saurashtri
+culture = Saurashtrian
 religion = jain
 capital = "Lakhiyarvira"
 trade_goods = salt

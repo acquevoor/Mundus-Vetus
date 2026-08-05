@@ -1,6 +1,6 @@
 #520 - Mewat
 
-culture = rajput
+culture = Mewari
 religion = al_batiniyya
 capital = "Alwar"
 trade_goods = glass

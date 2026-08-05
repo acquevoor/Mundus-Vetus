@@ -1,6 +1,6 @@
 #541 - Vijayanagar
 
-culture = kannada
+culture = Aregannada
 religion = jain
 capital = "Vijayanagar"
 trade_goods = grain

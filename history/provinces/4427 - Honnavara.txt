@@ -1,6 +1,6 @@
 #4427 - Honnavara
 
-culture = kannada
+culture = Aregannada
 religion = lingayat
 capital = "Honnavara"
 trade_goods = spices

@@ -1,6 +1,6 @@
 #4482 - Sikkim
 
-culture = nepali
+culture = Nepali
 religion = vajrayana
 capital = "Yuksom"
 trade_goods = unknown

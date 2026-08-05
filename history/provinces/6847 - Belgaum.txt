@@ -1,6 +1,6 @@
 # è´�å°”é«˜å§†Belgaum
 
-culture = kannada
+culture = Aregannada
 religion = lingayat
 capital = "Dharwar"
 trade_goods = cotton

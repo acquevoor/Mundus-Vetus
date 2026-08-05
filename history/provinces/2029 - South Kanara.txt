@@ -1,6 +1,6 @@
 #2029 - South Kanara
 
-culture = kannada
+culture = Aregannada
 religion = hinduism
 capital = "Mangalore"
 trade_goods = tropical_wood

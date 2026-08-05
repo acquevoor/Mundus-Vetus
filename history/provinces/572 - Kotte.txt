@@ -1,6 +1,6 @@
 #572 - Kotte
 
-culture = sinhala
+culture = Sinhalese
 religion = buddhism
 capital = "Kotte"
 trade_goods = spices	#Cinnamon

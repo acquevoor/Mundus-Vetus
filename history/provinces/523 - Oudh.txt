@@ -1,6 +1,6 @@
 #523 - Oudh
 
-culture = avadhi
+culture = Awadhi
 religion = sant_mat
 capital = "Lucknow"
 trade_goods = glass #Center for the production of "Mughal Glass"

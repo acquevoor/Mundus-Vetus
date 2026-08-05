@@ -2,7 +2,7 @@
 
 owner = PTT
 controller = PTT
-culture = garjati
+culture = Kataki
 religion = sant_mat
 capital = "Sonpur"
 trade_goods = naval_supplies

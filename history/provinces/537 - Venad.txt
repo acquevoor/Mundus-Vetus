@@ -1,6 +1,6 @@
 #537 - Venad
 
-culture = malayalam
+culture = Malayali
 religion = ecclesia_assyrica
 capital = "Quilon"
 trade_goods = spices

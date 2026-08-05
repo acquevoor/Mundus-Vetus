@@ -1,6 +1,6 @@
 #4442 - Washim
 
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Washim"
 trade_goods = cloth

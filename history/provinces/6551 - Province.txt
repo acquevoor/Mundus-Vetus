@@ -1,6 +1,6 @@
 #4516 - Purang
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 
 trade_goods = wool

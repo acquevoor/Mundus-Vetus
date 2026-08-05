@@ -1,6 +1,6 @@
 #556 - Lower Doab
 
-culture = avadhi
+culture = Awadhi
 religion = sant_mat
 capital = "Allahabad"
 trade_goods = cloth

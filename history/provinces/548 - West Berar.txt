@@ -1,6 +1,6 @@
 #548 - Illichpur
 
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Illichpur"
 trade_goods = copper

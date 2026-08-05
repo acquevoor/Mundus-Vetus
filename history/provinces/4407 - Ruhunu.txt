@@ -1,6 +1,6 @@
 #4407 - Ruhunu
 
-culture = sinhala
+culture = Sinhalese
 religion = buddhism
 capital = "Devinuvara"
 trade_goods = gems

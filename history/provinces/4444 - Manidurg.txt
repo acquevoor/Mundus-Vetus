@@ -1,6 +1,6 @@
 #4444 - Manidurg
 
-culture = telegu
+culture = Andhran
 religion = lingayat
 capital = "Manidurg"
 trade_goods = tropical_wood

@@ -1,6 +1,6 @@
 #4516 - Purang
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Purang"
 trade_goods = unknown

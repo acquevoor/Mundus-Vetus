@@ -1,6 +1,6 @@
 #533 - Mysore
 
-culture = kannada
+culture = Aregannada
 religion = jain
 capital = "Ummatur"
 trade_goods = iron

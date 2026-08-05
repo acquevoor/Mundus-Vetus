@@ -1,6 +1,6 @@
 #514 - Marwar
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 add_rajputs_or_marathas_or_nobles_effect = yes
 capital = "Mandore"

@@ -1,6 +1,6 @@
 # 2130 - Nyingchi
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Nyingchi"
 trade_goods = unknown

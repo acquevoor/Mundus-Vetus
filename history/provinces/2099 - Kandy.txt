@@ -1,6 +1,6 @@
 #2099 - Kandy
 
-culture = sinhala
+culture = Sinhalese
 religion = buddhism
 capital = "Gampala"
 trade_goods = gems

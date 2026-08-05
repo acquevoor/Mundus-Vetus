@@ -1,6 +1,6 @@
 #4519 - Damxung
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Damxung"
 trade_goods = unknown

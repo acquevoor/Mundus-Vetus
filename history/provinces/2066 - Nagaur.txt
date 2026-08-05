@@ -1,6 +1,6 @@
 #2066 - Nagaur
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Nagaur"
 trade_goods = livestock

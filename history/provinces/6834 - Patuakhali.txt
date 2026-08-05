@@ -1,6 +1,6 @@
 #博杜阿卡利Patuakhali
 
-culture = bengali
+culture = Rarhi
 religion = hinduism
 trade_goods = grain
 hre = no

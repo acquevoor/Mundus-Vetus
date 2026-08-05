@@ -1,6 +1,6 @@
 #4445 - Kanker
 
-culture = gondi
+culture = Koitur
 religion = adivasi
 capital = "Kanker"
 trade_goods = tropical_wood

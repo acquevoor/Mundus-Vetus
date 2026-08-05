@@ -1,6 +1,6 @@
 #2072 - Bhakkar
 
-culture = sindhi
+culture = Vicholi
 religion = hinduism
 capital = "Bhakkar"
 trade_goods = cotton

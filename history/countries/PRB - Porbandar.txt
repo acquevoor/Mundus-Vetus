@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = jain
 religious_school = jain_svetambara
-primary_culture = saurashtri
+primary_culture = Saurashtrian
 capital = 4454	# Porbandar
 
 #Jethwas of Porbandar

@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = jain
 religious_school = jain_svetambara
-primary_culture = gujarati
+primary_culture = Gujarati
 capital = 2052	# Navanagar
 
 #Navanagar Jadejas

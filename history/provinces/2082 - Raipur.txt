@@ -1,6 +1,6 @@
 #2082 - Raipur
 
-culture = gondi
+culture = Koitur
 religion = adivasi
 capital = "Raipur"
 trade_goods = grain

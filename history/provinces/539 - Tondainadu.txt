@@ -1,6 +1,6 @@
 #539 - Pulicat
 
-culture = tamil
+culture = Centamil
 religion = hinduism
 capital = "Pulicat"
 trade_goods = cloth

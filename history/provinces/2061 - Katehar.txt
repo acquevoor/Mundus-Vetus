@@ -1,6 +1,6 @@
 #2061 - Katehar/Rohilkhand
 
-culture = kanauji
+culture = Hindavi
 religion = sant_mat
 capital = "Badayun"
 trade_goods = cotton #Calicoes

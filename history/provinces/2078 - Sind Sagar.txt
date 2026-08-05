@@ -3,7 +3,7 @@
 owner = KFI
 controller = KFI
 add_core = KFI
-culture = panjabi
+culture = Doabi
 religion = vajrayana
 capital = "Bannu"
 trade_goods = livestock

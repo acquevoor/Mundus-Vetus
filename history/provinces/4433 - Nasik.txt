@@ -1,6 +1,6 @@
 #433 - Nasik
 
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Nasik"
 trade_goods = paper

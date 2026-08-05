@@ -1,6 +1,6 @@
 #569 - Bijapur
 
-culture = kannada
+culture = Aregannada
 religion = lingayat
 capital = "Bijapur"
 trade_goods = cotton

@@ -1,6 +1,6 @@
 #677 - Qamdo
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Lhasa"
 trade_goods = unknown

@@ -1,6 +1,6 @@
 #2096 - Damin
 
-culture = jharkhandi
+culture = Sadan
 religion = hinduism
 capital = "Deogarh"
 trade_goods = ivory

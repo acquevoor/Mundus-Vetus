@@ -1,6 +1,6 @@
 #2026 - Tanjore 
 
-culture = tamil
+culture = Centamil
 religion = al_batiniyya
 capital = "Thanjavur"
 trade_goods = cloth

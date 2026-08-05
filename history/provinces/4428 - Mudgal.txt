@@ -1,6 +1,6 @@
 #4428 - Mudgal
 
-culture = kannada
+culture = Aregannada
 religion = lingayat
 capital = "Mudgal"
 trade_goods = cloth

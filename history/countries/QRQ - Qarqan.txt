@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = tibetan
+primary_culture = Ngalop
 religion = vajrayana
 technology_group = muslim
 capital = 711 # Qarqan

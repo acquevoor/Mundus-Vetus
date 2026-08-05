@@ -1,6 +1,6 @@
 #2060 - Upper Doab
 
-culture = kanauji
+culture = Hindavi
 religion = hinduism
 capital = "Meerut"
 trade_goods = cloth

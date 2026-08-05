@@ -1,6 +1,6 @@
 # è’‚é²�æ²ƒå�¢å°”Thiruvallur
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 trade_goods = cotton
 hre = no

@@ -1,6 +1,6 @@
 #551 - Mandla
 
-culture = gondi
+culture = Koitur
 religion = adivasi
 capital = "Mandla"
 trade_goods = tropical_wood

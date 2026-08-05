@@ -1,6 +1,6 @@
 
 
-culture = kashmiri
+culture = Kashmiri
 religion = vajrayana
 
 trade_goods = livestock

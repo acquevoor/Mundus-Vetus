@@ -1,6 +1,6 @@
 #4486 - Purnia
 
-culture = kochi
+culture = Malayali
 religion = hinduism
 capital = "Purnia"
 trade_goods = silk

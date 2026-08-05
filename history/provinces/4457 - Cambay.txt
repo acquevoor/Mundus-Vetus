@@ -1,6 +1,6 @@
 #4457 - Cambay/Khambhat
 
-culture = gujarati
+culture = Gujarati
 religion = hinduism
 capital = "Khambhat"
 trade_goods = cloth #Chintz

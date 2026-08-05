@@ -1,6 +1,6 @@
 #2045 - Barind
 
-culture = kochi
+culture = Malayali
 religion = hinduism
 capital = "Rangpur"
 trade_goods = cloth

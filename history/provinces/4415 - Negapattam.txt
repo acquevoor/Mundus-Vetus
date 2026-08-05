@@ -1,6 +1,6 @@
 #4415 - Negapatam 
 
-culture = tamil
+culture = Centamil
 religion = al_batiniyya
 capital = "Negapatam"
 trade_goods = cloth

@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = hinduism
 religious_school = vaidika_nigama
-primary_culture = vindhyan
+primary_culture = Vindhyan
 capital = 4467	# Kalinjar/Panna
 
 #Chandellas of Kalinjar

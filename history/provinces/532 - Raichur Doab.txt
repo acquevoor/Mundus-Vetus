@@ -1,6 +1,6 @@
 #532 - Raichur Doab
 
-culture = kannada
+culture = Aregannada
 religion = lingayat
 capital = "Raichur"
 trade_goods = cloth

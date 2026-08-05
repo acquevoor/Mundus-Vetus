@@ -3,7 +3,7 @@
 owner = KFI
 controller = KFI
 add_core = KFI
-culture = rajput
+culture = Mewari
 religion = vajrayana
 capital = "Bhatnair"
 trade_goods = livestock

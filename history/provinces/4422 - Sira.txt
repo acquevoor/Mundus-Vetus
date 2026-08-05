@@ -1,6 +1,6 @@
 #4422 - Sira
 
-culture = kannada
+culture = Aregannada
 religion = jain
 capital = "Sira"
 trade_goods = grain

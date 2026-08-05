@@ -1,6 +1,6 @@
 #4461 - Ujjain
 
-culture = malvi
+culture = Malvi
 religion = hinduism
 capital = "Ujjain"
 trade_goods = spices

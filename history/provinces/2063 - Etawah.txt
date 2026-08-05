@@ -1,6 +1,6 @@
 #2063 - Etawah
 
-culture = kanauji
+culture = Hindavi
 religion = sant_mat
 capital = "Etawah"
 trade_goods = dyes

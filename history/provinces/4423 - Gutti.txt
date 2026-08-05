@@ -1,6 +1,6 @@
 #2090 - Gutti
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 capital = "Gutti"
 trade_goods = iron

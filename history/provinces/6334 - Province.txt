@@ -1,6 +1,6 @@
 #4514 - Sakya
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 
 trade_goods = livestock

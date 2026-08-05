@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = feudalism_reform
-primary_culture = kannada
+primary_culture = Aregannada
 religion = ajivaka
 technology_group = indian
 capital = 1947	# Gingee

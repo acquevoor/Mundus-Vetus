@@ -1,6 +1,6 @@
 #2088 - Umarkot
 
-culture = sindhi
+culture = Vicholi
 religion = hinduism
 capital = "Umarkot"
 trade_goods = wool

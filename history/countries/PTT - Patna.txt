@@ -3,7 +3,7 @@ add_government_reform = tribal_kingdom
 government_rank = 1
 technology_group = indian
 religion = sant_mat
-primary_culture = garjati
+primary_culture = Kataki
 capital = 4447	# Patna
 
 1421.1.1 = {

@@ -1,6 +1,6 @@
 #507 - Lahore
 
-culture = panjabi
+culture = Doabi
 religion = sant_mat
 capital = "Lahore"
 trade_goods = silk

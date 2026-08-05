@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = hinduism
 religious_school = vaidika_agama
-primary_culture = tamil
+primary_culture = Centamil
 capital = 4420
 
 #Nawabs of the Carnatic

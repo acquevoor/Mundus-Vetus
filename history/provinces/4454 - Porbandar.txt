@@ -1,6 +1,6 @@
 #4454 - Porbandar
 
-culture = saurashtri
+culture = Saurashtrian
 religion = jain
 capital = "Porbandar"
 trade_goods = cotton

@@ -1,6 +1,6 @@
 #545 - Marathwada
 
-culture = marathi
+culture = Marathi
 religion = hinduism
 capital = "Daulatabad"
 trade_goods = paper

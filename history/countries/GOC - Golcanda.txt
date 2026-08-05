@@ -3,7 +3,7 @@ add_government_reform = indian_sultanate_reform
 technology_group = indian
 religion = hinduism
 religious_school = vaidika_agama
-primary_culture = telegu
+primary_culture = Andhran
 capital = 542	# Golcanda 
 fixed_capital = 542 # Cannot move capital away from this province & no power cost to move to it
 

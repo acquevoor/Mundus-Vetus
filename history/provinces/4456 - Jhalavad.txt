@@ -1,6 +1,6 @@
 #4456 - Jhalavad
 
-culture = saurashtri
+culture = Saurashtrian
 religion = hinduism
 capital = "Halwad"
 trade_goods = cotton

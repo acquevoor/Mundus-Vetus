@@ -1,6 +1,6 @@
 #455 - Diu
 
-culture = saurashtri
+culture = Saurashtrian
 religion = jain
 capital = "Diu"
 trade_goods = sugar

@@ -1,6 +1,6 @@
 #2059 - Kalpi
 
-culture = vindhyan
+culture = Vindhyan
 religion = sant_mat
 capital = "Kalpi"
 trade_goods = cloth #Carpets

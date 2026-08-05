@@ -1,6 +1,6 @@
 #1949 - Penukonda
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 capital = "Chandragiri"
 trade_goods = cotton

@@ -1,6 +1,6 @@
 #4494 - Khairabad
 
-culture = avadhi
+culture = Awadhi
 religion = sant_mat
 capital = "Khairabad"
 trade_goods = cloth #Khairabadi

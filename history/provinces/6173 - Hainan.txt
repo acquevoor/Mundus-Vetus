@@ -1,6 +1,6 @@
 # 2134 - Rebgong
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 trade_goods = salt
 hre = no
@@ -19,7 +19,7 @@ add_core = QRQ
 
 1516.1.1 = {
 
-  culture = tibetan
+  culture = Ngalop
 }
 1682.1.1 = { discovered_by = SPA } #Ferdinand Verbiest
 

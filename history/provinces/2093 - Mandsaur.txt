@@ -1,6 +1,6 @@
 #2093 - Mandsaur
 
-culture = malvi
+culture = Malvi
 religion = hinduism
 capital = "Mandsaur"
 trade_goods = spices	#Opium

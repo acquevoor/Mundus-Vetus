@@ -1,6 +1,6 @@
 # é¹�è¾¾æ‹‰Bhandara
 
-culture = gondi
+culture = Koitur
 religion = adivasi
 capital = "Bhandara"
 trade_goods = tropical_wood

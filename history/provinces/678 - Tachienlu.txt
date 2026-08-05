@@ -1,6 +1,6 @@
 #678 - Kham
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 capital = "Tachienlu"
 trade_goods = unknown

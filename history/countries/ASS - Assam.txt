@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = autocracy_reform
-primary_culture = assamese
+primary_culture = Assamese
 religion = hinduism
 religious_school = vaidika_tantra
 technology_group = indian

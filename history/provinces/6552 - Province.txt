@@ -1,6 +1,6 @@
 #4515 - Gyirong
 
-culture = tibetan
+culture = Ngalop
 religion = vajrayana
 trade_goods = livestock
 hre = no

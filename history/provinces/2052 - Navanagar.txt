@@ -1,6 +1,6 @@
 #2052 - Navanagar
 
-culture = saurashtri
+culture = Saurashtrian
 religion = jain
 capital = "Nagnes"
 trade_goods = gems

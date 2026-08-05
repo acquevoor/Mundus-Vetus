@@ -1,7 +1,7 @@
 # çš®é»˜æ²ƒå‹’å§†Bhimavaram
  # In custody of Rajamahendri Reddys after the Reddys of Kondavidu were overthrown by Vijayanagar in 1428.
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 trade_goods = cotton
 hre = no

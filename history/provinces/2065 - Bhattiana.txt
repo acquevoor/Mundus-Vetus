@@ -1,6 +1,6 @@
 #2065 - Bhattiana
 
-culture = rajput
+culture = Mewari
 religion = hinduism
 capital = "Hisar"
 trade_goods = livestock

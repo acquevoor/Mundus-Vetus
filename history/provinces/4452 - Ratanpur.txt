@@ -1,6 +1,6 @@
 #4452 - Ratanpur
 
-culture = gondi
+culture = Koitur
 religion = adivasi
 capital = "Ratanpur"
 trade_goods = grain

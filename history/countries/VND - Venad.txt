@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = ecclesia_assyrica
 religious_school = assyrica_indian
-primary_culture = malayalam
+primary_culture = Malayali
 capital = 537	# Padmanabhapuram
 
 # Travancore/Venad #

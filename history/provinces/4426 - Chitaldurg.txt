@@ -1,6 +1,6 @@
 #4426 - Chitradurg
 
-culture = kannada
+culture = Aregannada
 religion = jain
 capital = "Chitradurg"
 trade_goods = cotton

@@ -1,6 +1,6 @@
 #567 - Sylhet
 
-culture = bengali
+culture = Rarhi
 religion = adivasi
 capital = "Sylhet"
 trade_goods = cotton

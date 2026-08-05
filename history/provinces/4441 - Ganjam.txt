@@ -1,6 +1,6 @@
 #4441 - Ganjam
 
-culture = oriya
+culture = Kataki
 religion = hinduism
 capital = "Ganjam"
 trade_goods = salt

@@ -1,6 +1,6 @@
 #4504 - Nasirpur
 
-culture = sindhi
+culture = Vicholi
 religion = hinduism
 capital = "Nasirpur"
 trade_goods = cotton

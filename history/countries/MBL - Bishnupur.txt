@@ -4,7 +4,7 @@ government_rank = 1
 technology_group = indian
 religion = hinduism
 religious_school = vaidika_tantra
-primary_culture = bengali
+primary_culture = Rarhi
 capital = 4471	# Bishnupur
 
 # Mallabhum, Malla Kingdom of Bishnupur

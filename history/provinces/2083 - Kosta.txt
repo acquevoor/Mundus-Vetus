@@ -1,6 +1,6 @@
 #2083 - Kosta
 
-culture = telegu
+culture = Andhran
 religion = hinduism
 capital = "Udayagiri"
 trade_goods = cotton

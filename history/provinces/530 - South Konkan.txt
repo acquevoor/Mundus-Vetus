@@ -1,6 +1,6 @@
 #530 - South Konkan (Dabhol, Rajapur, up to and including Bankot)
 
-culture = marathi
+culture = Marathi
 religion = lingayat
 capital = "Dabhol"
 trade_goods = spices

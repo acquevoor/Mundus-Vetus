@@ -1,6 +1,6 @@
 #522 - Delhi
 
-culture = kanauji
+culture = Hindavi
 religion = hinduism
 capital = "Delhi"
 trade_goods = silk

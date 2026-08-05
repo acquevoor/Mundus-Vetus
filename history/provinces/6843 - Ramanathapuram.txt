@@ -1,6 +1,6 @@
 # æ‹‰é»˜çº³ç‰¹å¸ƒå‹’å§†Ramanathapuram
 
-culture = tamil
+culture = Centamil
 religion = hinduism
 capital = "Ramanathapuram"
 trade_goods = silk
