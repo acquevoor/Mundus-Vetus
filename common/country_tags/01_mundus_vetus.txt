@@ -243,3 +243,13 @@ JAG = "countries/Japan/DabaoshiJa25.txt"  # baked from pax solis Japan (was JAW)
 JAH = "countries/Japan/BenjianJa18.txt"  # baked from pax solis Japan (was JAY)
 JAK = "countries/Japan/GexiJa19.txt"  # baked from pax solis Japan (was JAZ)
 WOK = "countries/Japan/Wokou.txt"  # baked from pax solis Japan
+
+# ==== mod-3429447292 (India) new tags (8/14; 6 skipped for no MV geography) ====
+ALV = "countries/Alvakheda.txt"
+BLT = "countries/Baltistan.txt"
+CER = "countries/Chero.txt"
+DEO = "countries/Deogarh.txt"
+HHY = "countries/Haihaiyavansi.txt"
+JNT = "countries/Jaintia.txt"
+KKR = "countries/Kanker.txt"
+UJJ = "countries/Ujjainiya.txt"

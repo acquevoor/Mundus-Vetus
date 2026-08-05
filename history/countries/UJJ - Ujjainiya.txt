@@ -1,0 +1,28 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+capital = 4490
+primary_culture = Bhojpuri
+
+
+1420.1.1 = { 
+	monarch = { 
+		name = "Raja Harraj"
+		dynasty = "Ujjainiya"
+		adm = 1
+		dip = 1
+		mil = 1
+		leader = { name = "Raja Harraj" type = general fire = 3 shock = 3 manuever = 5 siege = 0 }
+	}
+}
+1460.1.1 = { 
+	monarch = { 
+		name = "Raja Gajpati"
+		dynasty = "Ujjainiya"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

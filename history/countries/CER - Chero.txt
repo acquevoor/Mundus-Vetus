@@ -1,0 +1,53 @@
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+capital = 560
+primary_culture = Santhal
+
+1399.1.1 = { 
+	monarch = { 
+		name = "Sitaram Rai"
+		dynasty = "Chyavana"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1420.1.1 = { 
+	monarch = { 
+		name = "Kumkum Chand Jharap"
+		dynasty = "Chyavana"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1585.1.1 = { 
+	monarch = { 
+		name = "Bhagwant Rai"
+		dynasty = "Chyavana"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1658.1.1 = { 
+	monarch = { 
+		name = "Medini Ray"
+		dynasty = "Chyavana"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1771.1.1 = { 
+	monarch = { 
+		name = "Gopal Rai"
+		dynasty = "Chyavana"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

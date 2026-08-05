@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = indian
+religion = animism
+capital = 546
+primary_culture = Koitur
+
+1420.1.1 = { 
+	monarch = { 
+		name = "Raja Jatba"
+		dynasty = "Deoli"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

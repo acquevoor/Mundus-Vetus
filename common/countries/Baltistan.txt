@@ -1,0 +1,4 @@
+graphical_culture = indiangfx
+color = { 
+	185 153 0 
+}

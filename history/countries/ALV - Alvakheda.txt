@@ -1,0 +1,26 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+capital = 2029
+primary_culture = Tulu
+
+1400.1.1 = { 
+	monarch = { 
+		name = "Kulashekara III"
+		dynasty = "Alupa"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+1420.1.1 = { 
+	monarch = { 
+		name = "Virapandya II"
+		dynasty = "Alupa"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
