@@ -1,7 +1,12 @@
 #2043 - Balasore
 
-culture = Kataki
+owner = ORI
+controller = ORI
 religion = hinduism
+culture = Midnapori
+add_core = ORI
+# mod-3429447292 port
+
 capital = "Balasore"
 trade_goods = cloth
 hre = no
@@ -59,4 +64,13 @@ discovered_by = ottoman
 } # Treaty of Deogaon
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = ORI
+	controller = ORI
+	culture = Midnapori
+	religion = hinduism
+	add_core = ORI
 }

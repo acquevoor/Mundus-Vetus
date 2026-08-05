@@ -1,7 +1,13 @@
 #4430 - Daman
 
-culture = Marathi
+owner = GUJ
+controller = GUJ
 religion = zoroastrian
+culture = Parsi
+add_core = GUJ
+add_core = MAR
+# mod-3429447292 port
+
 capital = "Daman"
 trade_goods = cloth
 hre = no
@@ -38,4 +44,14 @@ add_province_triggered_modifier = religious_center
 1650.1.1 = { add_core = MAR }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = GUJ
+	controller = GUJ
+	culture = Parsi
+	religion = zoroastrian
+	add_core = GUJ
+	add_core = MAR
 }

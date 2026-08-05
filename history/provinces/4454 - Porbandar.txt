@@ -1,7 +1,12 @@
 #4454 - Porbandar
 
+owner = PRB
+controller = PRB
+religion = hinduism
 culture = Saurashtrian
-religion = jain
+add_core = PRB
+# mod-3429447292 port
+
 capital = "Porbandar"
 trade_goods = cotton
 hre = no
@@ -30,4 +35,13 @@ discovered_by = east_african
 }
 1802.1.1 = {
 	remove_core = BDA	
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = PRB
+	controller = PRB
+	culture = Saurashtrian
+	religion = hinduism
+	add_core = PRB
 }

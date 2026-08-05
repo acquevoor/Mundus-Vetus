@@ -1,8 +1,13 @@
 # 2128 - Ngari
 
-culture = Ngalop
-religion = vajrayana
 #capital = "Ngari"
+owner = GUG
+controller = GUG
+culture = Ladakspa
+religion = vajrayana
+add_core = GUG
+# mod-3429447292 port
+
 trade_goods = unknown
 hre = no
 base_tax = 1 
@@ -19,3 +24,12 @@ discovered_by = indian
 native_size = 4
 native_ferocity = 2
 native_hostileness = 4
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = GUG
+	controller = GUG
+	culture = Ladakspa
+	religion = vajrayana
+	add_core = GUG
+}

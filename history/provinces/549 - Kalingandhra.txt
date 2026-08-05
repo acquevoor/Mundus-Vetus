@@ -1,7 +1,13 @@
 #549 - Kalingandhra
 
-culture = Andhran
+owner = ORI
+controller = YOR
 religion = hinduism
+culture = Andhran
+add_core = YOR
+add_core = ORI
+# mod-3429447292 port
+
 capital = "Vizianagaram"
 trade_goods = cotton
 hre = no
@@ -52,4 +58,14 @@ center_of_trade = 1
 1823.1.1 = { remove_core = DEC } #Nizam withdraws his claims
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = ORI
+	controller = YOR
+	culture = Andhran
+	religion = hinduism
+	add_core = YOR
+	add_core = ORI
 }

@@ -1,7 +1,14 @@
 #4497 - Qannauj
 
-culture = Awadhi
-religion = sant_mat
+owner = JNP
+controller = JNP
+religion = hinduism
+culture = Hindavi
+add_core = JNP
+add_core = DLH
+add_core = ODH
+# mod-3429447292 port
+
 capital = "Qannauj"
 trade_goods = grain
 hre = no
@@ -54,4 +61,15 @@ center_of_trade = 1
 } # Foundation of the Oudh dynasty
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JNP
+	controller = JNP
+	culture = Hindavi
+	religion = hinduism
+	add_core = JNP
+	add_core = DLH
+	add_core = ODH
 }

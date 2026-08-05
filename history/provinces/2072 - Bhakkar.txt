@@ -1,7 +1,12 @@
 #2072 - Bhakkar
 
+owner = SND
+controller = SND
+religion = sunni
 culture = Vicholi
-religion = hinduism
+add_core = SND
+# mod-3429447292 port
+
 capital = "Bhakkar"
 trade_goods = cotton
 hre = no
@@ -34,4 +39,13 @@ discovered_by = chinese
 1795.1.1 = { fort_17th = yes }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SND
+	controller = SND
+	culture = Vicholi
+	religion = sunni
+	add_core = SND
 }

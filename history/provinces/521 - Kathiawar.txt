@@ -1,7 +1,12 @@
 #521 - Kathiawar
 
-culture = Saurashtrian
+owner = RJK
+controller = RJK
 religion = hinduism
+culture = Saurashtrian
+add_core = RJK
+# mod-3429447292 port
+
 capital = "Rajkot"
 trade_goods = dyes
 hre = no
@@ -41,4 +46,13 @@ discovered_by = east_african
 }
 1802.1.1 = {
 	remove_core = BDA	
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = RJK
+	controller = RJK
+	culture = Saurashtrian
+	religion = hinduism
+	add_core = RJK
 }

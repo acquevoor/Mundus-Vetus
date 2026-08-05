@@ -1,7 +1,13 @@
 #551 - Mandla
 
+owner = GDW
+controller = GDW
+religion = animism
 culture = Koitur
-religion = adivasi
+add_core = GDW
+add_core = RTT
+# mod-3429447292 port
+
 capital = "Mandla"
 trade_goods = tropical_wood
 hre = no
@@ -28,3 +34,13 @@ discovered_by = chinese
 	remove_core = MUG
 } # Marathas (Bhonsle)
 1783.1.1 = { capital = "Tehri" }
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = GDW
+	controller = GDW
+	culture = Koitur
+	religion = animism
+	add_core = GDW
+	add_core = RTT
+}

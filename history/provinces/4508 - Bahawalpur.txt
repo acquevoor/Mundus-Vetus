@@ -1,7 +1,14 @@
 #4508 - Bahawalpur
 
-culture = Doabi
-religion = hinduism
+owner = MUL
+controller = MUL
+religion = sunni
+culture = Saraiki
+add_core = MUL
+add_core = JSL
+add_core = PUN
+# mod-3429447292 port
+
 capital = "Bahawalpur"
 trade_goods = livestock
 hre = no
@@ -39,4 +46,15 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MUL
+	controller = MUL
+	culture = Saraiki
+	religion = sunni
+	add_core = MUL
+	add_core = JSL
+	add_core = PUN
 }

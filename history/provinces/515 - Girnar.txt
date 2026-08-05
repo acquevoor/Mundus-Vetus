@@ -1,7 +1,12 @@
 #515 - Girnar
 
+owner = JGD
+controller = JGD
+religion = hinduism
 culture = Saurashtrian
-religion = jain
+add_core = JGD
+# mod-3429447292 port
+
 capital = "Girnar"
 trade_goods = iron
 hre = no
@@ -26,3 +31,12 @@ discovered_by = east_african
 } # Vassal of Gaikwads
 
 
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JGD
+	controller = JGD
+	culture = Saurashtrian
+	religion = hinduism
+	add_core = JGD
+}

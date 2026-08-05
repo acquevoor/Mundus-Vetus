@@ -1,7 +1,14 @@
 #2062 - Panipat
 
-culture = Hindavi
+owner = DLH
+controller = DLH
 religion = hinduism
+culture = Hindavi
+add_core = DLH
+add_core = SRH
+add_core = MUL
+# mod-3429447292 port
+
 capital = "Panipat"
 trade_goods = cotton
 hre = no
@@ -42,4 +49,15 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = DLH
+	controller = DLH
+	culture = Hindavi
+	religion = hinduism
+	add_core = DLH
+	add_core = SRH
+	add_core = MUL
 }

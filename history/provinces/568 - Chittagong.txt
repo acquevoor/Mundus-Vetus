@@ -1,10 +1,13 @@
 #568 - Chittagong
 
-owner = DEV
-controller = DEV
+owner = BNG
+controller = BNG
+religion = hinduism
+culture = Chittagongian
+add_core = MKP
+# mod-3429447292 port
+
 add_core = DEV
-culture = Rarhi
-religion = hinduism #A good case could be made that this province was atleast 50% buddhist
 capital = "Chittagong"
 trade_goods = cotton
 hre = no
@@ -56,4 +59,15 @@ center_of_trade = 3
 	owner = DEV
 	controller = DEV
 	add_core = DEV
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BNG
+	controller = BNG
+	culture = Chittagongian
+	religion = hinduism
+	add_core = BNG
+	add_core = ARK
+	add_core = MKP
 }

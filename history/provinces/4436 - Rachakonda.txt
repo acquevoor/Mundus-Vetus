@@ -1,7 +1,14 @@
 #4436 - Devarakonda
 
-culture = Andhran
+owner = BAH
+controller = BAH
 religion = hinduism
+culture = Rayadesam
+add_core = GOC
+add_core = TLG
+add_core = BAH
+# mod-3429447292 port
+
 capital = "Devarakonda"
 trade_goods = iron
 hre = no
@@ -34,3 +41,14 @@ discovered_by = chinese
 1724.1.1 = {
 	remove_core = MUG
 } # Asif Jah declared himself Nizam-al-Mulk
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BAH
+	controller = BAH
+	culture = Rayadesam
+	religion = hinduism
+	add_core = GOC
+	add_core = TLG
+	add_core = BAH
+}

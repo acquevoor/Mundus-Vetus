@@ -1,7 +1,15 @@
 #556 - Lower Doab
 
+owner = JNP
+controller = JNP
+religion = hinduism
 culture = Awadhi
-religion = sant_mat
+add_core = JNP
+add_core = ODH
+add_core = DLH
+add_core = PAN
+# mod-3429447292 port
+
 capital = "Allahabad"
 trade_goods = cloth
 hre = no
@@ -68,3 +76,15 @@ center_of_trade = 2
 	remove_core = ODH
 }
 
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JNP
+	controller = JNP
+	culture = Awadhi
+	religion = hinduism
+	add_core = JNP
+	add_core = ODH
+	add_core = DLH
+	add_core = PAN
+}

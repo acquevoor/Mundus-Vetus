@@ -1,7 +1,12 @@
 #4482 - Sikkim
 
-culture = Nepali
+owner = SKK
+controller = SKK
+culture = Lepcha
 religion = vajrayana
+add_core = SKK
+# mod-3429447292 port
+
 capital = "Yuksom"
 trade_goods = unknown
 hre = no
@@ -19,3 +24,12 @@ discovered_by = NPL
 native_size = 4
 native_ferocity = 2
 native_hostileness = 4
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SKK
+	controller = SKK
+	culture = Lepcha
+	religion = vajrayana
+	add_core = SKK
+}

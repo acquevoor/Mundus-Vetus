@@ -1,7 +1,12 @@
 #533 - Mysore
 
+owner = MYS
+controller = MYS
+religion = hinduism
 culture = Aregannada
-religion = jain
+add_core = MYS
+# mod-3429447292 port
+
 capital = "Ummatur"
 trade_goods = iron
 hre = no
@@ -28,4 +33,13 @@ discovered_by = chinese
 } #Independent
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MYS
+	controller = MYS
+	culture = Aregannada
+	religion = hinduism
+	add_core = MYS
 }

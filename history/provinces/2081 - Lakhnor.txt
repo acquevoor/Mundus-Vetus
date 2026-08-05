@@ -1,11 +1,17 @@
 # 2081 - Lakhnor
 
+owner = MBL
+controller = MBL
+religion = hinduism
+culture = Santhal
+add_core = MBL
+add_core = MKP
+# mod-3429447292 port
+
 latent_trade_goods = {
 	coal
 }
 
-culture = Rarhi
-religion = hinduism
 capital = "Lakhnor"
 trade_goods = naval_supplies
 hre = no
@@ -66,4 +72,14 @@ discovered_by = chinese
 } # Given to GBR by Mughal Empire (was formerly british puppet)
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MBL
+	controller = MBL
+	culture = Santhal
+	religion = hinduism
+	add_core = MBL
+	add_core = MKP
 }

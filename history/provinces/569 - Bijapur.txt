@@ -1,7 +1,13 @@
 #569 - Bijapur
 
-culture = Aregannada
-religion = lingayat
+owner = BIJ
+controller = BIJ
+religion = hinduism
+culture = Deccani
+add_core = BIJ
+add_core = BAH
+# mod-3429447292 port
+
 capital = "Bijapur"
 trade_goods = cotton
 hre = no
@@ -35,4 +41,14 @@ center_of_trade = 1
 } # Battle of Udgir
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BIJ
+	controller = BIJ
+	culture = Deccani
+	religion = hinduism
+	add_core = BIJ
+	add_core = BAH
 }

@@ -1,7 +1,12 @@
 #552 - Cuttack
 
-culture = Kataki
+owner = ORI
+controller = ORI
 religion = hinduism
+culture = Kataki
+add_core = ORI
+# mod-3429447292 port
+
 capital = "Cuttack"
 trade_goods = cloth
 hre = no
@@ -58,4 +63,13 @@ center_of_trade = 1
 } # Treaty of Deogaon
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = ORI
+	controller = ORI
+	culture = Kataki
+	religion = hinduism
+	add_core = ORI
 }

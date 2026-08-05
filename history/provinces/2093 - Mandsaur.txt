@@ -1,7 +1,12 @@
 #2093 - Mandsaur
 
+owner = MLW
+controller = MLW
+religion = animism
 culture = Malvi
-religion = hinduism
+add_core = MLW
+# mod-3429447292 port
+
 capital = "Mandsaur"
 trade_goods = spices	#Opium
 hre = no
@@ -49,4 +54,13 @@ discovered_by = chinese
 } # Marathas
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MLW
+	controller = MLW
+	culture = Malvi
+	religion = animism
+	add_core = MLW
 }

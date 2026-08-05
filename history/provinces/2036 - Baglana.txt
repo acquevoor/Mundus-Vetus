@@ -1,7 +1,13 @@
 #2036 - Baglana
 
-culture = Marathi
-religion = hinduism
+owner = BGA
+controller = BGA
+religion = animism
+culture = Bhil
+add_core = BGA
+add_core = MAR
+# mod-3429447292 port
+
 capital = "Mayuragiri"
 trade_goods = grain	#Millet
 hre = no
@@ -25,4 +31,14 @@ discovered_by = chinese
 	remove_core = MUG
 } # The Maratha Empire
 1818.6.3 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BGA
+	controller = BGA
+	culture = Bhil
+	religion = animism
+	add_core = BGA
+	add_core = MAR
 }

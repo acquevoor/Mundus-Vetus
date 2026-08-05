@@ -1,10 +1,13 @@
 #4513 - Dipalpur
 
-owner = KFI
-controller = KFI
+owner = SRH
+controller = SRH
+religion = hinduism
+culture = Malwai
+add_core = PTA
+# mod-3429447292 port
+
 add_core = KFI
-culture = Doabi
-religion = vajrayana
 capital = "Dipalpur"
 trade_goods = silk
 hre = no
@@ -81,4 +84,17 @@ discovered_by = chinese
 	owner = KFI
 	controller = KFI
 	add_core = KFI
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SRH
+	controller = SRH
+	culture = Malwai
+	religion = hinduism
+	add_core = MUL
+	add_core = DLH
+	add_core = PUN
+	add_core = SRH
+	add_core = PTA
 }

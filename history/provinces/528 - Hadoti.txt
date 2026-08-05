@@ -1,7 +1,12 @@
 #528 - Hadoti
 
-culture = Mewari
+owner = HAD
+controller = HAD
 religion = hinduism
+culture = Malvi
+add_core = HAD
+# mod-3429447292 port
+
 capital = "Kota"
 trade_goods = cotton
 hre = no
@@ -36,3 +41,12 @@ discovered_by = chinese
 1818.2.10 = {
 	remove_core = GWA
 } # Independent (british dependency)
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = HAD
+	controller = HAD
+	culture = Malvi
+	religion = hinduism
+	add_core = HAD
+}

@@ -1,7 +1,12 @@
 #520 - Mewat
 
-culture = Mewari
-religion = al_batiniyya
+owner = MEW
+controller = MEW
+religion = hinduism
+culture = Hindavi
+add_core = MEW
+# mod-3429447292 port
+
 capital = "Alwar"
 trade_goods = glass
 hre = no
@@ -55,4 +60,13 @@ discovered_by = chinese
 } # British dependency
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MEW
+	controller = MEW
+	culture = Hindavi
+	religion = hinduism
+	add_core = MEW
 }

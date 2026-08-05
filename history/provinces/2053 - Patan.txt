@@ -1,7 +1,12 @@
 #2053 - Patan
 
-culture = Gujarati
+owner = GUJ
+controller = GUJ
 religion = hinduism
+culture = Kutchi
+add_core = GUJ
+# mod-3429447292 port
+
 capital = "Patan"
 trade_goods = cloth
 hre = no
@@ -27,4 +32,13 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = GUJ
+	controller = GUJ
+	culture = Kutchi
+	religion = hinduism
+	add_core = GUJ
 }

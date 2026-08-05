@@ -1,7 +1,12 @@
 #4504 - Nasirpur
 
-culture = Vicholi
-religion = hinduism
+owner = SND
+controller = SND
+religion = sunni
+culture = Lari
+add_core = SND
+# mod-3429447292 port
+
 capital = "Nasirpur"
 trade_goods = cotton
 hre = no
@@ -28,4 +33,13 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SND
+	controller = SND
+	culture = Lari
+	religion = sunni
+	add_core = SND
 }

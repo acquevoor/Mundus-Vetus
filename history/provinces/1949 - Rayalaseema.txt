@@ -1,7 +1,14 @@
 #1949 - Penukonda
 
-culture = Andhran
+owner = VIJ
+controller = VIJ
 religion = hinduism
+culture = Aregannada
+add_core = KRK
+add_core = VIJ
+add_core = YOR
+# mod-3429447292 port
+
 capital = "Penukonda"
 trade_goods = cotton
 hre = no
@@ -35,4 +42,15 @@ discovered_by = chinese
 }	#Ceded districts
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VIJ
+	controller = VIJ
+	culture = Aregannada
+	religion = hinduism
+	add_core = KRK
+	add_core = VIJ
+	add_core = YOR
 }

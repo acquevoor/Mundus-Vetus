@@ -1,7 +1,12 @@
 #4460 - Handia
 
-culture = Malvi
+owner = MLW
+controller = MLW
 religion = hinduism
+culture = Malvi
+add_core = MLW
+# mod-3429447292 port
+
 capital = "Handia"
 trade_goods = cotton
 hre = no
@@ -44,4 +49,13 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MLW
+	controller = MLW
+	culture = Malvi
+	religion = hinduism
+	add_core = MLW
 }

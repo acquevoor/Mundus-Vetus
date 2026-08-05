@@ -1,7 +1,14 @@
 #4499 - Bareily
 
+owner = JNP
+controller = JNP
+religion = hinduism
 culture = Hindavi
-religion = sant_mat
+add_core = DLH
+add_core = RMP
+add_core = JNP
+# mod-3429447292 port
+
 capital = "Bareily"
 trade_goods = cotton #Calicoes
 hre = no
@@ -54,4 +61,15 @@ discovered_by = chinese
 } # Great Britain
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JNP
+	controller = JNP
+	culture = Hindavi
+	religion = hinduism
+	add_core = DLH
+	add_core = RMP
+	add_core = JNP
 }

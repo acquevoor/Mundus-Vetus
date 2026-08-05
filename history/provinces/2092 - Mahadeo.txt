@@ -1,7 +1,13 @@
 #2092 - Mahadeo
 
-culture = Koitur
+owner = MLW
+controller = MLW
 religion = hinduism
+culture = Koitur
+add_core = GDW
+add_core = MLW
+# mod-3429447292 port
+
 capital = "Kherla"
 trade_goods = tropical_wood
 hre = no
@@ -40,4 +46,14 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MLW
+	controller = MLW
+	culture = Koitur
+	religion = hinduism
+	add_core = GDW
+	add_core = MLW
 }

@@ -1,7 +1,14 @@
 #529 - North Konkan (Thana, Mahim, Bombay, Bassein, up to Daman)
 
-culture = Marathi
+owner = GUJ
+controller = GUJ
 religion = hinduism
+culture = Konkan
+add_core = AHM
+add_core = GUJ
+add_core = MAR
+# mod-3429447292 port
+
 capital = "Thana"
 trade_goods = cloth
 hre = no
@@ -42,4 +49,15 @@ center_of_trade = 1
 } # Treaty of Salbai
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = GUJ
+	controller = GUJ
+	culture = Konkan
+	religion = hinduism
+	add_core = AHM
+	add_core = GUJ
+	add_core = MAR
 }

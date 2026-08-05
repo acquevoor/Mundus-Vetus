@@ -1,8 +1,14 @@
 #4414 - Salem
 
+owner = VIJ
+controller = VIJ
+religion = hinduism
+culture = Kovai
+add_core = MAD
+add_core = VIJ
+# mod-3429447292 port
+
 capital = "Salem"
-culture = Centamil
-religion = jain
 trade_goods = cotton
 hre = no
 base_tax = 3
@@ -36,4 +42,14 @@ discovered_by = chinese
 } # British
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VIJ
+	controller = VIJ
+	culture = Kovai
+	religion = hinduism
+	add_core = MAD
+	add_core = VIJ
 }

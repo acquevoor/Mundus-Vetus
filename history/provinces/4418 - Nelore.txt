@@ -1,7 +1,14 @@
 #4418 - Nelore
 
-culture = Andhran
+owner = VIJ
+controller = VIJ
 religion = hinduism
+culture = Vengi
+add_core = VIJ
+add_core = YOR
+add_core = KRK
+# mod-3429447292 port
+
 capital = "Nellore"
 trade_goods = cotton
 hre = no
@@ -42,4 +49,15 @@ discovered_by = chinese
 1751.9.1 = { controller = GBR }	#Conquered by Clive
 1754.1.1 = { controller = KRK }
 1801.1.1 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VIJ
+	controller = VIJ
+	culture = Vengi
+	religion = hinduism
+	add_core = VIJ
+	add_core = YOR
+	add_core = KRK
 }

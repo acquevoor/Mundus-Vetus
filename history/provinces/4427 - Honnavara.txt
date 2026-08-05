@@ -1,7 +1,14 @@
 #4427 - Honnavara
 
-culture = Aregannada
-religion = lingayat
+owner = ALV
+controller = ALV
+religion = hinduism
+culture = Havigannada
+add_core = KLN
+add_core = ALV
+add_core = VIJ
+# mod-3429447292 port
+
 capital = "Honnavara"
 trade_goods = spices
 hre = no
@@ -34,3 +41,14 @@ discovered_by = east_african
 1783.1.1 = {
 }
 1818.6.3 = { remove_core = MAR }
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = ALV
+	controller = ALV
+	culture = Havigannada
+	religion = hinduism
+	add_core = KLN
+	add_core = ALV
+	add_core = VIJ
+}

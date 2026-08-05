@@ -2,8 +2,10 @@
 
 owner = PTT
 controller = PTT
-culture = Kataki
-religion = sant_mat
+religion = hinduism
+culture = Sambalpuri
+# mod-3429447292 port
+
 capital = "Sonpur"
 trade_goods = naval_supplies
 hre = no
@@ -42,4 +44,13 @@ discovered_by = chinese
 	owner = GBR
 	controller = GBR
 	remove_core = NAG
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = PTT
+	controller = PTT
+	culture = Sambalpuri
+	religion = hinduism
+	add_core = PTT
 }

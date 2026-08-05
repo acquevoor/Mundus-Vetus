@@ -1,7 +1,12 @@
 #536 - Madurai
 
-culture = Centamil
+owner = MAD
+controller = MAD
 religion = hinduism
+culture = Nellai
+add_core = MAD
+# mod-3429447292 port
+
 capital = "Madurai"
 trade_goods = silk
 hre = no
@@ -69,3 +74,12 @@ center_of_trade = 1
 		investor = GBR
 	}
 } # British
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MAD
+	controller = MAD
+	culture = Nellai
+	religion = hinduism
+	add_core = MAD
+}

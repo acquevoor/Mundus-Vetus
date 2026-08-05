@@ -1,8 +1,15 @@
 #538 - Karur
 
+owner = VIJ
+controller = VIJ
+religion = hinduism
+culture = Kovai
+add_core = MAD
+add_core = MYS
+add_core = VIJ
+# mod-3429447292 port
+
 capital = "Karur"
-culture = Centamil
-religion = jain
 trade_goods = incense #Sandalwood
 hre = no
 base_tax = 2
@@ -37,4 +44,15 @@ discovered_by = chinese
 } # British
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VIJ
+	controller = VIJ
+	culture = Kovai
+	religion = hinduism
+	add_core = MAD
+	add_core = MYS
+	add_core = VIJ
 }

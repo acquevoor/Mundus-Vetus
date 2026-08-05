@@ -1,7 +1,12 @@
 #2054 - Ahmadabad
 
-culture = Gujarati
+owner = GUJ
+controller = GUJ
 religion = hinduism
+culture = Gujarati
+add_core = GUJ
+# mod-3429447292 port
+
 capital = "Ahmadabad"
 trade_goods = paper
 hre = no
@@ -29,4 +34,13 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = GUJ
+	controller = GUJ
+	culture = Gujarati
+	religion = hinduism
+	add_core = GUJ
 }

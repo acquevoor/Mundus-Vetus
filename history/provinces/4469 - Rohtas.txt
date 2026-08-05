@@ -1,7 +1,14 @@
 #4469 - Rohtas
 
-culture = Bhojpuri
-religion = mahayana
+owner = CER
+controller = CER
+religion = hinduism
+culture = Santhal
+add_core = JNP
+add_core = BNG
+add_core = CER
+# mod-3429447292 port
+
 capital = "Rohtasgarh"
 trade_goods = salt
 hre = no
@@ -74,4 +81,15 @@ discovered_by = chinese
 1795.1.1 = { unrest = 6 } # Tamar revolt, Munda revolt
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = CER
+	controller = CER
+	culture = Santhal
+	religion = hinduism
+	add_core = JNP
+	add_core = BNG
+	add_core = CER
 }

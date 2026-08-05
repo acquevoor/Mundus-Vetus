@@ -1,7 +1,15 @@
 #2059 - Kalpi
 
+owner = KLP
+controller = KLP
+religion = hinduism
 culture = Vindhyan
-religion = sant_mat
+add_core = JNP
+add_core = DLH
+add_core = KLP
+add_core = PAN
+# mod-3429447292 port
+
 capital = "Kalpi"
 trade_goods = cloth #Carpets
 hre = no
@@ -40,4 +48,16 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KLP
+	controller = KLP
+	culture = Vindhyan
+	religion = hinduism
+	add_core = JNP
+	add_core = DLH
+	add_core = KLP
+	add_core = PAN
 }

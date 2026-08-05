@@ -1,7 +1,12 @@
 #547 - Bastar
 
-culture = Koitur
-religion = adivasi
+owner = BST
+controller = BST
+religion = animism
+culture = Halbi
+add_core = BST
+# mod-3429447292 port
+
 capital = "Jagdalpur"
 trade_goods = tropical_wood
 hre = no
@@ -20,3 +25,12 @@ discovered_by = chinese
 
 1750.1.1 = {
 } # Marathas (Bhonsle)
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BST
+	controller = BST
+	culture = Halbi
+	religion = animism
+	add_core = BST
+}

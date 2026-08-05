@@ -1,7 +1,12 @@
 #2088 - Umarkot
 
-culture = Vicholi
-religion = hinduism
+owner = SND
+controller = SND
+religion = sunni
+culture = Dhatki
+add_core = SND
+# mod-3429447292 port
+
 capital = "Umarkot"
 trade_goods = wool
 hre = no
@@ -29,4 +34,13 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SND
+	controller = SND
+	culture = Dhatki
+	religion = sunni
+	add_core = SND
 }

@@ -2,9 +2,11 @@
 
 owner = DGL
 controller = DGL
-add_core = DGL
-culture = Malayali
+culture = Dhivehi
 religion = sunni
+# mod-3429447292 port
+
+add_core = DGL
 capital = "Malé"
 trade_goods = gems #Cowrie Shells
 hre = no
@@ -33,5 +35,14 @@ discovered_by = indian
 1444.11.11 = {
 	owner = DGL
 	controller = DGL
+	add_core = DGL
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = DGL
+	controller = DGL
+	culture = Dhivehi
+	religion = sunni
 	add_core = DGL
 }

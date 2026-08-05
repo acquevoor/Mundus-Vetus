@@ -1,7 +1,12 @@
 #537 - Venad
 
+owner = VND
+controller = VND
 culture = Malayali
-religion = ecclesia_assyrica
+religion = jewish
+add_core = VND
+# mod-3429447292 port
+
 capital = "Quilon"
 trade_goods = spices
 hre = no
@@ -23,3 +28,12 @@ discovered_by = east_african
 1663.1.1 = { owner = NED }
 1729.1.1 = { owner = VND controller = VND }#Dutch traders
 1795.1.1 = { capital = "Thiruvananthapuram" } # Rama Varma moved the capital
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VND
+	controller = VND
+	culture = Malayali
+	religion = jewish
+	add_core = VND
+}

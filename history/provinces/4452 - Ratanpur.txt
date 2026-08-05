@@ -1,7 +1,12 @@
 #4452 - Ratanpur
 
+owner = RTT
+controller = RTT
+religion = hinduism
 culture = Koitur
-religion = adivasi
+add_core = RTT
+# mod-3429447292 port
+
 capital = "Ratanpur"
 trade_goods = grain
 hre = no
@@ -20,3 +25,12 @@ discovered_by = chinese
 1707.5.12 = { discovered_by = GBR }
 1740.1.1 = {
 } # Marathas annex the lands of the Haihayas of Ratanpur
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = RTT
+	controller = RTT
+	culture = Koitur
+	religion = hinduism
+	add_core = RTT
+}

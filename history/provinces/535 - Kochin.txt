@@ -1,7 +1,12 @@
 #535 - Kochin
 
+owner = KOC
+controller = KOC
 culture = Malayali
-religion = jewish
+religion = hinduism
+add_core = KOC
+# mod-3429447292 port
+
 capital = "Kochin"
 trade_goods = spices
 hre = no
@@ -32,4 +37,13 @@ discovered_by = east_african
 1773.1.1 = {
 } #Mysore
 1792.1.1 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KOC
+	controller = KOC
+	culture = Malayali
+	religion = hinduism
+	add_core = KOC
 }

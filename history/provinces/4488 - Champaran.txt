@@ -1,7 +1,12 @@
 #4488 - Champaran
 
-culture = Bhojpuri
+owner = TRT
+controller = TRT
 religion = hinduism
+culture = Vajjika
+add_core = TRT
+# mod-3429447292 port
+
 capital = "Simraon"
 trade_goods = grain
 hre = no
@@ -59,4 +64,13 @@ discovered_by = chinese
 } # Given to GBR by Mughal Empire (was formerly british puppet)
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = TRT
+	controller = TRT
+	culture = Vajjika
+	religion = hinduism
+	add_core = TRT
 }

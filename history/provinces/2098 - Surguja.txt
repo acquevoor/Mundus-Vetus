@@ -1,7 +1,13 @@
 #2098 - Surguja
 
+owner = SRG
+controller = SRG
+religion = animism
 culture = Sadan
-religion = adivasi
+add_core = RTT
+add_core = SRG
+# mod-3429447292 port
+
 capital = "Surguja"
 trade_goods = cotton
 hre = no
@@ -24,3 +30,13 @@ discovered_by = chinese
 1818.6.3 = {
 }
 
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SRG
+	controller = SRG
+	culture = Sadan
+	religion = animism
+	add_core = RTT
+	add_core = SRG
+}

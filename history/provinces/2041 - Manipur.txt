@@ -1,7 +1,12 @@
 #2041 - Manipur
 
-culture = chin
-religion = adivasi
+owner = MLB
+controller = MLB
+religion = animism
+culture = Meitei
+add_core = MLB
+# mod-3429447292 port
+
 capital = "Imphal"
 trade_goods = cloth
 hre = no
@@ -32,4 +37,12 @@ discovered_by = chinese
 	remove_core = TAU
 }
 1819.1.1 = {
+}
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MLB
+	controller = MLB
+	culture = Meitei
+	religion = animism
+	add_core = MLB
 }

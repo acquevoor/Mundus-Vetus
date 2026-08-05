@@ -2,8 +2,10 @@
 
 owner = KAC
 controller = KAC
-culture = chin
-religion = adivasi
+religion = hinduism
+culture = Sylheti
+# mod-3429447292 port
+
 capital = "Maibang"
 trade_goods = grain
 hre = no
@@ -26,4 +28,13 @@ discovered_by = chinese
 	owner = GBR
 	controller = GBR
 	add_core = GBR
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KAC
+	controller = KAC
+	culture = Sylheti
+	religion = hinduism
+	add_core = KAC
 }

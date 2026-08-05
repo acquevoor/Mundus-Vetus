@@ -1,7 +1,12 @@
 #2058 - Mewar (Kotharia/Udaipur)
 
-culture = Mewari
+owner = MER
+controller = MER
 religion = hinduism
+culture = Mewari
+add_core = MER
+# mod-3429447292 port
+
 capital = "Kotharia"
 trade_goods = gold #Silver and Zink mines
 #trade_goods = coper #Zink and Silver mines
@@ -21,3 +26,12 @@ discovered_by = chinese
 1690.1.1 = { discovered_by = ENG }
 1707.5.12 = { discovered_by = GBR }
 
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = MER
+	controller = MER
+	culture = Mewari
+	religion = hinduism
+	add_core = MER
+}

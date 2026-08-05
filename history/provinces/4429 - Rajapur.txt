@@ -1,7 +1,15 @@
 #4429 - Rajapur
 
-culture = Marathi
-religion = lingayat
+owner = BIJ
+controller = BIJ
+religion = hinduism
+culture = Konkan
+add_core = BIJ
+add_core = BAH
+add_core = VIJ
+add_core = MAR
+# mod-3429447292 port
+
 capital = "Rajapur"
 trade_goods = spices
 hre = no
@@ -31,4 +39,16 @@ discovered_by = chinese
 1818.6.3 = { remove_core = MAR }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BIJ
+	controller = BIJ
+	culture = Konkan
+	religion = hinduism
+	add_core = BIJ
+	add_core = BAH
+	add_core = VIJ
+	add_core = MAR
 }

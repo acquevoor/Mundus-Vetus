@@ -1,7 +1,15 @@
 #2055 - Gorakhpur
 
+owner = UJJ
+controller = UJJ
+religion = hinduism
 culture = Bhojpuri
-religion = sant_mat
+add_core = JNP
+add_core = DLH
+add_core = UJJ
+add_core = CER
+# mod-3429447292 port
+
 capital = "Gorakhpur"
 trade_goods = grain
 hre = no
@@ -67,4 +75,16 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = UJJ
+	controller = UJJ
+	culture = Bhojpuri
+	religion = hinduism
+	add_core = JNP
+	add_core = DLH
+	add_core = UJJ
+	add_core = CER
 }

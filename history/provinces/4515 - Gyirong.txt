@@ -1,7 +1,12 @@
 #4515 - Gyirong
 
-culture = Ngalop
+owner = PHA
+controller = PHA
+culture = tibetan
 religion = vajrayana
+add_core = PHA
+# mod-3429447292 port
+
 capital = "Gyirong"
 trade_goods = unknown
 hre = no
@@ -16,3 +21,12 @@ discovered_by = nomad_group
 native_size = 4
 native_ferocity = 2
 native_hostileness = 4
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = PHA
+	controller = PHA
+	culture = tibetan
+	religion = vajrayana
+	add_core = PHA
+}

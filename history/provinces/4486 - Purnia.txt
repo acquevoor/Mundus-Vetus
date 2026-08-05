@@ -1,7 +1,14 @@
 #4486 - Purnia
 
-culture = Malayali
+owner = TRT
+controller = TRT
 religion = hinduism
+culture = Maithili
+add_core = KMT
+add_core = MKP
+add_core = TRT
+# mod-3429447292 port
+
 capital = "Purnia"
 trade_goods = silk
 hre = no
@@ -60,4 +67,15 @@ discovered_by = chinese
 } # Given to GBR by Mughal Empire (was formerly british puppet)
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = TRT
+	controller = TRT
+	culture = Maithili
+	religion = hinduism
+	add_core = KMT
+	add_core = MKP
+	add_core = TRT
 }

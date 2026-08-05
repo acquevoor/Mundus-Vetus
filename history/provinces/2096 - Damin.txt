@@ -1,7 +1,12 @@
 #2096 - Damin
 
-culture = Sadan
+owner = NGP
+controller = NGP
 religion = hinduism
+culture = Santhal
+add_core = NGP
+# mod-3429447292 port
+
 capital = "Deogarh"
 trade_goods = ivory
 hre = no
@@ -29,4 +34,13 @@ add_local_autonomy = 50
 } # Given to GBR by Mir Qasim
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = NGP
+	controller = NGP
+	culture = Santhal
+	religion = hinduism
+	add_core = NGP
 }

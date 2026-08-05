@@ -2,8 +2,10 @@
 
 owner = LWA
 controller = LWA
-culture = Nepali
-religion = hinduism
+culture = Bhutia
+religion = vajrayana
+# mod-3429447292 port
+
 capital = "Phedap"
 trade_goods = wool
 hre = no
@@ -35,4 +37,12 @@ discovered_by = NPL
 	owner = NPL
 	controller = NPL
 	add_core = NPL
+}
+
+1444.11.11 = { # mod-3429447292 port
+	owner = LWA
+	controller = LWA
+	culture = Bhutia
+	religion = vajrayana
+	add_core = LWA
 }

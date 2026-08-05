@@ -1,7 +1,12 @@
 #2091 - Tripura
 
-culture = chin
-religion = adivasi
+owner = TPR
+controller = TPR
+religion = hinduism
+culture = Kokborok
+add_core = TPR
+# mod-3429447292 port
+
 capital = "Udaipur"
 trade_goods = tropical_wood
 hre = no
@@ -18,3 +23,12 @@ discovered_by = chinese
 
 1760.1.1 = { discovered_by = GBR }
 
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = TPR
+	controller = TPR
+	culture = Kokborok
+	religion = hinduism
+	add_core = TPR
+}

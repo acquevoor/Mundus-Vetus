@@ -1,7 +1,12 @@
 #2099 - Kandy
 
+owner = KND
+controller = KND
 culture = Sinhalese
 religion = buddhism
+add_core = KND
+# mod-3429447292 port
+
 capital = "Gampala"
 trade_goods = gems
 hre = no
@@ -24,4 +29,13 @@ add_province_triggered_modifier = theravada_kotte
 } # Treaty of Amiens
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KND
+	controller = KND
+	culture = Sinhalese
+	religion = buddhism
+	add_core = KND
 }

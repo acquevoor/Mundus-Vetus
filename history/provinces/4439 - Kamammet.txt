@@ -1,7 +1,14 @@
 #4439 - Khamammet
 
-culture = Andhran
+owner = TLG
+controller = TLG
 religion = hinduism
+culture = Telinga
+add_core = GOC
+add_core = TLG
+add_core = BAH
+# mod-3429447292 port
+
 capital = "Khamammet"
 trade_goods = dyes
 hre = no
@@ -38,3 +45,14 @@ discovered_by = chinese
 1724.1.1 = {
 } # Asif Jah declared himself Nizam-al-Mulk
 
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = TLG
+	controller = TLG
+	culture = Telinga
+	religion = hinduism
+	add_core = GOC
+	add_core = TLG
+	add_core = BAH
+}

@@ -1,7 +1,13 @@
 #4472 - Monghyr
 
-culture = Bhojpuri
-religion = mahayana
+owner = BNG
+controller = BNG
+religion = hinduism
+culture = Angika
+add_core = TRT
+add_core = BNG
+# mod-3429447292 port
+
 capital = "Monghyr"
 trade_goods = silk
 hre = no
@@ -73,4 +79,14 @@ discovered_by = chinese
 1795.1.1 = { unrest = 6 } # Tamar revolt, Munda revolt
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BNG
+	controller = BNG
+	culture = Angika
+	religion = hinduism
+	add_core = TRT
+	add_core = BNG
 }

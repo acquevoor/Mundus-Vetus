@@ -1,7 +1,12 @@
 #4408 - Salavata
 
+owner = CEY
+controller = CEY
 culture = Sinhalese
-religion = buddhism
+religion = animism
+add_core = CEY
+# mod-3429447292 port
+
 capital = "Salavata"
 trade_goods = spices	#Cinnamon
 hre = no
@@ -28,4 +33,13 @@ discovered_by = chinese
 } # Treaty of Amiens
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = CEY
+	controller = CEY
+	culture = Sinhalese
+	religion = animism
+	add_core = CEY
 }

@@ -1,7 +1,12 @@
 #4447 - Patna
 
-culture = Kataki
-religion = sant_mat
+owner = PTT
+controller = PTT
+religion = animism
+culture = Sambalpuri
+add_core = PTT
+# mod-3429447292 port
+
 capital = "Patna"
 trade_goods = cotton
 hre = no
@@ -24,4 +29,13 @@ discovered_by = chinese
 } # Restored to Nagpur
 1816.1.1 = {
 	remove_core = NAG
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = PTT
+	controller = PTT
+	culture = Sambalpuri
+	religion = animism
+	add_core = PTT
 }

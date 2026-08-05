@@ -1,7 +1,12 @@
 #2056 - Rewa Kantha
 
-culture = Gujarati
-religion = hinduism
+owner = CMP
+controller = CMP
+religion = animism
+culture = Bhil
+add_core = CMP
+# mod-3429447292 port
+
 capital = "Champaner"
 trade_goods = wool
 hre = no
@@ -36,4 +41,13 @@ discovered_by = chinese
 1803.1.1 = {
 	remove_core = MAR
 	capital = "Godhra"
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = CMP
+	controller = CMP
+	culture = Bhil
+	religion = animism
+	add_core = CMP
 }

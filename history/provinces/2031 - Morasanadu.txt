@@ -1,7 +1,13 @@
 #2031 - Morasanadu
 
+owner = VIJ
+controller = VIJ
+religion = hinduism
 culture = Aregannada
-religion = jain
+add_core = VIJ
+add_core = MYS
+# mod-3429447292 port
+
 capital = "Devarayanagara"
 trade_goods = grain
 hre = no
@@ -25,4 +31,14 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VIJ
+	controller = VIJ
+	culture = Aregannada
+	religion = hinduism
+	add_core = VIJ
+	add_core = MYS
 }

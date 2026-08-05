@@ -1,7 +1,12 @@
 #2047 - Tirhut
 
-culture = Bhojpuri
+owner = TRT
+controller = TRT
 religion = hinduism
+culture = Maithili
+add_core = TRT
+# mod-3429447292 port
+
 capital = "Sugauna"
 trade_goods = dyes
 hre = no
@@ -61,4 +66,13 @@ center_of_trade = 1
 } # Given to GBR by Mughal Empire (was formerly british puppet)
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = TRT
+	controller = TRT
+	culture = Maithili
+	religion = hinduism
+	add_core = TRT
 }

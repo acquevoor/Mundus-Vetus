@@ -1,7 +1,16 @@
 #1947 - Gingee
 
-culture = Centamil
-religion = ajivaka
+owner = VIJ
+controller = VIJ
+religion = hinduism
+culture = Tanjaitamil
+add_core = KRK
+add_core = GNG
+add_core = VIJ
+add_core = TNJ
+add_core = MAD
+# mod-3429447292 port
+
 capital = "Gingee"
 trade_goods = cloth
 hre = no
@@ -46,4 +55,17 @@ discovered_by = chinese
 1751.9.1 = { controller = GBR }	#Conquered by Clive
 1754.8.2 = { controller = KRK }
 1801.1.1 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VIJ
+	controller = VIJ
+	culture = Tanjaitamil
+	religion = hinduism
+	add_core = KRK
+	add_core = GNG
+	add_core = VIJ
+	add_core = TNJ
+	add_core = MAD
 }

@@ -1,7 +1,12 @@
 #2064 - Shekhawati
 
-culture = Mewari
+owner = DHU
+controller = DHU
 religion = hinduism
+culture = Bagdi
+add_core = DHU
+# mod-3429447292 port
+
 capital = "Sikar"
 trade_goods = copper #Khetri
 hre = no
@@ -32,4 +37,13 @@ discovered_by = chinese
 1707.5.12 = { discovered_by = GBR }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = DHU
+	controller = DHU
+	culture = Bagdi
+	religion = hinduism
+	add_core = DHU
 }

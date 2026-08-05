@@ -2,8 +2,11 @@
 
 owner = KHD
 controller = KHD
-culture = Marathi
 religion = hinduism
+culture = Khandesi
+add_core = MAR
+# mod-3429447292 port
+
 capital = "Thalner"
 trade_goods = cotton
 hre = no
@@ -62,4 +65,14 @@ discovered_by = chinese
 	owner = KHD
 	controller = KHD
 	add_core = KHD
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KHD
+	controller = KHD
+	culture = Khandesi
+	religion = hinduism
+	add_core = KHD
+	add_core = MAR
 }

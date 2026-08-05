@@ -1,7 +1,12 @@
 #4458 - Narbada
 
+owner = GDW
+controller = GDW
+religion = animism
 culture = Koitur
-religion = hinduism
+add_core = GDW
+# mod-3429447292 port
+
 capital = "Chauragar"
 trade_goods = tropical_wood
 hre = no
@@ -40,4 +45,13 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = GDW
+	controller = GDW
+	culture = Koitur
+	religion = animism
+	add_core = GDW
 }

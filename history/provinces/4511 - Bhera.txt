@@ -1,10 +1,12 @@
 #4511 - Bhera
 
-owner = KFI
-controller = KFI
+owner = SRH
+controller = SRH
+religion = hinduism
+culture = Majhi
+# mod-3429447292 port
+
 add_core = KFI
-culture = Doabi
-religion = vajrayana
 capital = "Bhera"
 trade_goods = salt
 hre = no
@@ -92,4 +94,15 @@ add_local_autonomy = 50 #Kokhars
 	owner = KFI
 	controller = KFI
 	add_core = KFI
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SRH
+	controller = SRH
+	culture = Majhi
+	religion = hinduism
+	add_core = DLH
+	add_core = PUN
+	add_core = SRH
 }

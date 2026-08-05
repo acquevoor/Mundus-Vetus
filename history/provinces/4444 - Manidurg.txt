@@ -1,7 +1,14 @@
 #4444 - Manidurg
 
-culture = Andhran
-religion = lingayat
+owner = BAH
+controller = BAH
+religion = hinduism
+culture = Telinga
+add_core = GOC
+add_core = TLG
+add_core = BAH
+# mod-3429447292 port
+
 capital = "Manidurg"
 trade_goods = tropical_wood
 hre = no
@@ -37,4 +44,15 @@ discovered_by = chinese
 } # Asif Jah declared himself Nizam-al-Mulk
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BAH
+	controller = BAH
+	culture = Telinga
+	religion = hinduism
+	add_core = GOC
+	add_core = TLG
+	add_core = BAH
 }

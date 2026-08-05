@@ -1,7 +1,14 @@
 #4477 - Satgaon
 
-culture = Rarhi
+owner = BNG
+controller = BNG
 religion = hinduism
+culture = Rarhi
+add_core = BNG
+add_core = MBL
+add_core = MKP
+# mod-3429447292 port
+
 capital = "Satgaon"
 trade_goods = spices
 hre = no
@@ -66,4 +73,15 @@ center_of_trade = 1
 1757.6.23 = { controller = GBR } # Battle of Plassey, a new Nawab is installed by the British
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BNG
+	controller = BNG
+	culture = Rarhi
+	religion = hinduism
+	add_core = BNG
+	add_core = MBL
+	add_core = MKP
 }

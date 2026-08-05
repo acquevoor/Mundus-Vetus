@@ -1,7 +1,13 @@
 #503 - Kutch
 
-culture = Saurashtrian
-religion = jain
+owner = KAT
+controller = KAT
+religion = hinduism
+culture = Kutchi
+add_core = KAT
+add_core = GUJ
+# mod-3429447292 port
+
 capital = "Lakhiyarvira"
 trade_goods = salt
 hre = no
@@ -32,4 +38,14 @@ discovered_by = east_african
 	remove_core = MUG
 }
 1819.1.1 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KAT
+	controller = KAT
+	culture = Kutchi
+	religion = hinduism
+	add_core = KAT
+	add_core = GUJ
 }

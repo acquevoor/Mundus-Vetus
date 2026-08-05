@@ -1,7 +1,12 @@
 #513 - Jaisalmer
 
-culture = Mewari
+owner = JSL
+controller = JSL
 religion = hinduism
+culture = Marwari
+add_core = JSL
+# mod-3429447292 port
+
 capital = "Jaisalmer"
 trade_goods = wool
 hre = no
@@ -31,3 +36,12 @@ discovered_by = chinese
 1690.1.1 = { discovered_by = ENG }
 1707.5.12 = { discovered_by = GBR }
 
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JSL
+	controller = JSL
+	culture = Marwari
+	religion = hinduism
+	add_core = JSL
+}

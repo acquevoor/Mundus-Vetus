@@ -1,7 +1,15 @@
 #2033 - Savanaur+Hubli+Keladi+Dharwar
 
-culture = Aregannada
-religion = lingayat
+owner = BIJ
+controller = BIJ
+religion = hinduism
+culture = Kalaburagi
+add_core = BIJ
+add_core = KLN
+add_core = VIJ
+add_core = BAH
+# mod-3429447292 port
+
 capital = "Dharwar"
 trade_goods = cotton
 hre = no
@@ -40,4 +48,16 @@ discovered_by = chinese
 1756.1.1 = {
 } # Marathas, aided by General Bussy defeat Nawab of Savanaur
 1818.6.3 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BIJ
+	controller = BIJ
+	culture = Kalaburagi
+	religion = hinduism
+	add_core = BIJ
+	add_core = KLN
+	add_core = VIJ
+	add_core = BAH
 }

@@ -1,7 +1,15 @@
 #1946 - (Southern) Desh
 
+owner = BIJ
+controller = BIJ
+religion = hinduism
 culture = Marathi
-religion = lingayat
+add_core = MAR
+add_core = AHM
+add_core = BAH
+add_core = BIJ
+# mod-3429447292 port
+
 capital = "Satara"
 trade_goods = naval_supplies
 hre = no
@@ -29,4 +37,16 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BIJ
+	controller = BIJ
+	culture = Marathi
+	religion = hinduism
+	add_core = MAR
+	add_core = AHM
+	add_core = BAH
+	add_core = BIJ
 }

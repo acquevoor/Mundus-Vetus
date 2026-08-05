@@ -1,7 +1,12 @@
 #532 - Raichur Doab
 
-culture = Aregannada
-religion = lingayat
+owner = BAH
+controller = BAH
+religion = hinduism
+culture = Rayadesam
+add_core = BAH
+# mod-3429447292 port
+
 capital = "Raichur"
 trade_goods = cloth
 base_tax = 5
@@ -29,3 +34,12 @@ discovered_by = chinese
 # Conquered by the Mughal emperor Aurangzeb
 1712.1.1 = { add_core = DEC }	#Viceroyalty of the Deccan
 # Asif Jah declared himself Nizam-al-Mulk
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BAH
+	controller = BAH
+	culture = Rayadesam
+	religion = hinduism
+	add_core = BAH
+}

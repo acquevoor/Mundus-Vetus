@@ -1,10 +1,12 @@
 #4470 - Soumelpur
 
-owner = KET
-controller = KET
+owner = NGP
+controller = NGP
+religion = animism
+culture = Munda
+# mod-3429447292 port
+
 add_core = KET
-culture = Sadan
-religion = mahayana
 capital = "Soumelpur"
 trade_goods = iron
 hre = no
@@ -49,4 +51,13 @@ discovered_by = chinese
 	owner = KET
 	controller = KET
 	add_core = KET
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = NGP
+	controller = NGP
+	culture = Munda
+	religion = animism
+	add_core = NGP
 }

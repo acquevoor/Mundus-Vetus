@@ -1,7 +1,12 @@
 #508 - Kashmir
 
+owner = KSH
+controller = KSH
 culture = Kashmiri
-religion = hinduism
+religion = sunni
+add_core = KSH
+# mod-3429447292 port
+
 capital = "Srinagar"
 trade_goods = paper
 hre = no
@@ -40,4 +45,13 @@ discovered_by = chinese
 } # Sikh annexation
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KSH
+	controller = KSH
+	culture = Kashmiri
+	religion = sunni
+	add_core = KSH
 }

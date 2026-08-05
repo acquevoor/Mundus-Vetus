@@ -1,7 +1,14 @@
 #2095 - Varanasi
 
-culture = Bhojpuri
-religion = buddhism
+owner = JNP
+controller = JNP
+religion = "hinduism"
+culture = Awadhi
+add_core = DLH
+add_core = CER
+add_core = JNP
+# mod-3429447292 port
+
 capital = "Varanasi"
 trade_goods = silk
 base_tax = 4
@@ -55,3 +62,14 @@ add_province_triggered_modifier = hindu_varanasi
 1690.1.1 = { discovered_by = ENG }
 1707.5.12 = { discovered_by = GBR }
 # Foundation of the Oudh dynasty
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JNP
+	controller = JNP
+	culture = Awadhi
+	religion = "hinduism"
+	add_core = DLH
+	add_core = CER
+	add_core = JNP
+}

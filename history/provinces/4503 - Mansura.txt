@@ -1,7 +1,12 @@
 #4503 - Mansura
 
+owner = SND
+controller = SND
+religion = sunni
 culture = Vicholi
-religion = hinduism
+add_core = SND
+# mod-3429447292 port
+
 capital = "Mansura"
 trade_goods = cloth
 add_brahmins_or_church_effect = yes
@@ -31,4 +36,13 @@ center_of_trade = 1
 1768.1.1 = { capital = "Hyderabad" }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SND
+	controller = SND
+	culture = Vicholi
+	religion = sunni
+	add_core = SND
 }

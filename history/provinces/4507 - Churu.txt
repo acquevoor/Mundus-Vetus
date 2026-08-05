@@ -1,7 +1,12 @@
 #512 - Jangladesh
 
-culture = Mewari
+owner = JAN
+controller = JAN
 religion = hinduism
+culture = Bagdi
+add_core = JAN
+# mod-3429447292 port
+
 capital = "Churu"
 trade_goods = livestock
 base_tax = 1 
@@ -23,3 +28,12 @@ discovered_by = chinese
 
 1690.1.1 = { discovered_by = ENG }
 1707.5.12 = { discovered_by = GBR }
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JAN
+	controller = JAN
+	culture = Bagdi
+	religion = hinduism
+	add_core = JAN
+}

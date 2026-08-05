@@ -1,7 +1,12 @@
 #4407 - Ruhunu
 
+owner = CEY
+controller = CEY
 culture = Sinhalese
 religion = buddhism
+add_core = CEY
+# mod-3429447292 port
+
 capital = "Devinuvara"
 trade_goods = gems
 hre = no
@@ -28,4 +33,13 @@ discovered_by = east_african
 } # Treaty of Amiens
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = CEY
+	controller = CEY
+	culture = Sinhalese
+	religion = buddhism
+	add_core = CEY
 }

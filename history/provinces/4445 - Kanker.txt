@@ -1,7 +1,12 @@
 #4445 - Kanker
 
-culture = Koitur
-religion = adivasi
+owner = KKR
+controller = KKR
+religion = hinduism
+culture = Muria
+add_core = KKR
+# mod-3429447292 port
+
 capital = "Kanker"
 trade_goods = tropical_wood
 hre = no
@@ -20,3 +25,12 @@ discovered_by = chinese
 
 1750.1.1 = {
 } # Marathas (Bhonsle)
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KKR
+	controller = KKR
+	culture = Muria
+	religion = hinduism
+	add_core = KKR
+}

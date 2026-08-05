@@ -1,7 +1,14 @@
 #4417 - Kanchipuram
 
-culture = Centamil
+owner = VIJ
+controller = VIJ
 religion = hinduism
+culture = Centamil
+add_core = VIJ
+add_core = KRK
+add_core = MAD
+# mod-3429447292 port
+
 capital = "Kanchipuram"
 trade_goods = cloth
 hre = no
@@ -50,4 +57,15 @@ discovered_by = chinese
 } # British control is restored
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VIJ
+	controller = VIJ
+	culture = Centamil
+	religion = hinduism
+	add_core = VIJ
+	add_core = KRK
+	add_core = MAD
 }

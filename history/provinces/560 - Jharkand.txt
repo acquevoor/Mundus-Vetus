@@ -1,7 +1,12 @@
 #560 - Palamau
 
-culture = Sadan
-religion = adivasi
+owner = CER
+controller = CER
+religion = animism
+culture = Santhal
+add_core = CER
+# mod-3429447292 port
+
 capital = "Palamau"
 trade_goods = iron
 hre = no
@@ -31,3 +36,12 @@ discovered_by = chinese
 	}
 }
 1818.1.1 = { revolt = { } }
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = CER
+	controller = CER
+	culture = Santhal
+	religion = animism
+	add_core = CER
+}

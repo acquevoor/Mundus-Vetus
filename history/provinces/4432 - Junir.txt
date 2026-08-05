@@ -1,7 +1,14 @@
 #544 - Ahmednagar
 
-culture = Marathi
+owner = AHM
+controller = AHM
 religion = hinduism
+culture = Marathi
+add_core = AHM
+add_core = MAR
+add_core = BAH
+# mod-3429447292 port
+
 capital = "Junir"
 trade_goods = cotton
 hre = no
@@ -42,4 +49,15 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = AHM
+	controller = AHM
+	culture = Marathi
+	religion = hinduism
+	add_core = AHM
+	add_core = MAR
+	add_core = BAH
 }

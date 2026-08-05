@@ -1,7 +1,14 @@
 #4494 - Khairabad
 
+owner = JNP
+controller = JNP
+religion = hinduism
 culture = Awadhi
-religion = sant_mat
+add_core = JNP
+add_core = ODH
+add_core = DLH
+# mod-3429447292 port
+
 capital = "Khairabad"
 trade_goods = cloth #Khairabadi
 hre = no
@@ -66,4 +73,15 @@ discovered_by = chinese
 } # Foundation of the Oudh dynasty
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JNP
+	controller = JNP
+	culture = Awadhi
+	religion = hinduism
+	add_core = JNP
+	add_core = ODH
+	add_core = DLH
 }

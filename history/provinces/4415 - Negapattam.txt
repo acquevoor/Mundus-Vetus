@@ -1,7 +1,14 @@
 #4415 - Negapatam 
 
-culture = Centamil
-religion = al_batiniyya
+owner = VIJ
+controller = VIJ
+religion = hinduism
+culture = Tanjaitamil
+add_core = VIJ
+add_core = MAD
+add_core = TNJ
+# mod-3429447292 port
+
 capital = "Negapatam"
 trade_goods = cloth
 hre = no
@@ -38,4 +45,14 @@ add_local_autonomy = 25
 		investment = company_depot
 		investor = GBR
 	}
+}
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VIJ
+	controller = VIJ
+	culture = Tanjaitamil
+	religion = hinduism
+	add_core = VIJ
+	add_core = MAD
+	add_core = TNJ
 }

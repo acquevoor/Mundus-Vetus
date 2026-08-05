@@ -1,10 +1,12 @@
 #2398 - Thaungdut
 
-owner = THA
-controller = THA
-add_core = THA
+owner = KAL
+controller = MLB
 culture = chin
 religion = animism
+# mod-3429447292 port
+
+add_core = THA
 capital = "Thaungdut"
 trade_goods = grain
 hre = no
@@ -51,4 +53,13 @@ discovered_by = indian
 	owner = THA
 	controller = THA
 	add_core = THA
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KAL
+	controller = MLB
+	culture = chin
+	religion = animism
+	add_core = KAL
 }

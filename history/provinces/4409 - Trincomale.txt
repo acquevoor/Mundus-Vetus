@@ -1,7 +1,12 @@
 #4409 - Trincomale
 
-culture = Sinhalese
+owner = KND
+controller = KND
+culture = Batticaloa
 religion = buddhism
+add_core = KND
+# mod-3429447292 port
+
 capital = "Trincomale"
 trade_goods = spices #Cinnamon
 hre = no
@@ -28,4 +33,13 @@ center_of_trade = 1
 } # Treaty of Amiens
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KND
+	controller = KND
+	culture = Batticaloa
+	religion = buddhism
+	add_core = KND
 }

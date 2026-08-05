@@ -1,7 +1,15 @@
 #4487 - Saran
 
-culture = Bhojpuri
-religion = mahayana
+owner = JNP
+controller = UJJ
+religion = "hinduism"
+culture = Vajjika
+add_core = JNP
+add_core = TRT
+add_core = BNG
+add_core = CER
+# mod-3429447292 port
+
 capital = "Saran"
 trade_goods = cotton
 hre = no
@@ -66,4 +74,16 @@ discovered_by = chinese
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JNP
+	controller = UJJ
+	culture = Vajjika
+	religion = "hinduism"
+	add_core = JNP
+	add_core = TRT
+	add_core = BNG
+	add_core = CER
 }

@@ -1,7 +1,14 @@
 #548 - Illichpur
 
-culture = Marathi
+owner = BRR
+controller = BRR
 religion = hinduism
+culture = Varhadi
+add_core = BRR
+add_core = MAR
+add_core = BAH
+# mod-3429447292 port
+
 capital = "Illichpur"
 trade_goods = copper
 hre = no
@@ -66,4 +73,15 @@ discovered_by = ottoman
 }
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = BRR
+	controller = BRR
+	culture = Varhadi
+	religion = hinduism
+	add_core = BRR
+	add_core = MAR
+	add_core = BAH
 }

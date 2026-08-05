@@ -1,7 +1,14 @@
 #2076 - Sialkot
 
-culture = Doabi
-religion = sant_mat
+owner = SRH
+controller = SRH
+religion = hinduism
+culture = Majhi
+add_core = DLH
+add_core = PUN
+add_core = SRH
+# mod-3429447292 port
+
 capital = "Sialkot"
 trade_goods = paper
 hre = no
@@ -61,4 +68,15 @@ discovered_by = chinese
 } # Held by the Peshawas
 1760.1.1 = { controller = AFG }
 1762.1.1 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SRH
+	controller = SRH
+	culture = Majhi
+	religion = hinduism
+	add_core = DLH
+	add_core = PUN
+	add_core = SRH
 }

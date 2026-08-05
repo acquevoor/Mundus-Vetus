@@ -1,7 +1,13 @@
 #541 - Vijayanagar
 
-culture = Aregannada
-religion = jain
+owner = VIJ
+controller = VIJ
+religion = hinduism
+culture = Kalaburagi
+add_core = VIJ
+add_core = KLN
+# mod-3429447292 port
+
 capital = "Vijayanagar"
 trade_goods = grain
 hre = no
@@ -39,4 +45,14 @@ center_of_trade = 1
 }	#Ceded districts
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = VIJ
+	controller = VIJ
+	culture = Kalaburagi
+	religion = hinduism
+	add_core = VIJ
+	add_core = KLN
 }

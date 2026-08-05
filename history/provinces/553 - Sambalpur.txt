@@ -1,7 +1,12 @@
 #553 - Sambalpur
 
-culture = Kataki
+owner = SBP
+controller = SBP
 religion = hinduism
+culture = Sambalpuri
+add_core = SBP
+# mod-3429447292 port
+
 capital = "Sambalpur"
 trade_goods = cloth
 hre = no
@@ -29,4 +34,13 @@ center_of_trade = 1
 } # Restored to Nagpur
 1816.1.1 = {
 	remove_core = NAG
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = SBP
+	controller = SBP
+	culture = Sambalpuri
+	religion = hinduism
+	add_core = SBP
 }

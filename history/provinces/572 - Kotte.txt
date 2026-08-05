@@ -1,7 +1,12 @@
 #572 - Kotte
 
+owner = CEY
+controller = CEY
 culture = Sinhalese
 religion = buddhism
+add_core = CEY
+# mod-3429447292 port
+
 capital = "Kotte"
 trade_goods = spices	#Cinnamon
 hre = no
@@ -63,4 +68,13 @@ center_of_trade = 1
 } # Treaty of Amiens
 
 1444.11.11 = {
+}
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = CEY
+	controller = CEY
+	culture = Sinhalese
+	religion = buddhism
+	add_core = CEY
 }

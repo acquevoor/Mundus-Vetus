@@ -1,7 +1,12 @@
 #4456 - Jhalavad
 
-culture = Saurashtrian
+owner = JLV
+controller = JLV
 religion = hinduism
+culture = Saurashtrian
+add_core = JLV
+# mod-3429447292 port
+
 capital = "Halwad"
 trade_goods = cotton
 hre = no
@@ -29,4 +34,12 @@ discovered_by = east_african
 } # Vassal of Gaikwads
 1742.1.1 = {
 	capital = "Dhrangadhra"
+}
+
+1444.11.11 = { # mod-3429447292 port
+	owner = JLV
+	controller = JLV
+	culture = Saurashtrian
+	religion = hinduism
+	add_core = JLV
 }

@@ -1,7 +1,12 @@
 #2056 - Rewa Kantha
 
+owner = IDR
+controller = IDR
+religion = hinduism
 culture = Gujarati
-religion = jain
+add_core = IDR
+# mod-3429447292 port
+
 capital = "Idar"
 trade_goods = cloth
 hre = no
@@ -42,4 +47,12 @@ discovered_by = chinese
 	remove_core = MUG
 }
 1813.1.1 = {
+}
+
+1444.11.11 = { # mod-3429447292 port
+	owner = IDR
+	controller = IDR
+	culture = Gujarati
+	religion = hinduism
+	add_core = IDR
 }

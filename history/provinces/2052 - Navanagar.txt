@@ -1,7 +1,13 @@
 #2052 - Navanagar
 
+owner = KAT
+controller = KAT
+religion = hinduism
 culture = Saurashtrian
-religion = jain
+add_core = KAT
+add_core = NVR
+# mod-3429447292 port
+
 capital = "Nagnes"
 trade_goods = gems
 hre = no
@@ -29,3 +35,13 @@ discovered_by = east_african
 1725.1.1 = {
 	remove_core = MUG
 } # Vassal of Gaikwads
+
+
+1444.11.11 = { # mod-3429447292 port
+	owner = KAT
+	controller = KAT
+	culture = Saurashtrian
+	religion = hinduism
+	add_core = KAT
+	add_core = NVR
+}
