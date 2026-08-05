@@ -1,8 +1,5 @@
 #2031 - Morasanadu
 
-owner = HOY
-controller = HOY
-add_core = HOY
 culture = kannada
 religion = jain
 capital = "Devarayanagara"
@@ -12,8 +9,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = VIJ
-add_core = MYS
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
@@ -22,19 +17,12 @@ discovered_by = chinese
 
 1498.1.1 = { discovered_by = POR }
 1638.1.1 = {
-	owner = BIJ
-	controller = BIJ
 	remove_core = VIJ
 }
 1685.1.1 = { controller = MUG } # Conquered by the Mughal emperor Aurangzeb
 1686.1.1 = {
-	owner = MYS	#Beaten by the Mughals and sold to Mysore
-	controller = MYS
 	capital = "Bangalore"
 }
 
 1444.11.11 = {
-	owner = HOY
-	controller = HOY
-	add_core = HOY
 }

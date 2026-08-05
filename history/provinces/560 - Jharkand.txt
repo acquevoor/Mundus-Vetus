@@ -1,7 +1,5 @@
 #560 - Palamau
 
-owner = NGP
-controller = NGP
 culture = jharkhandi
 religion = adivasi
 capital = "Palamau"
@@ -11,7 +9,6 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
-add_core = NGP
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim 
@@ -21,20 +18,11 @@ discovered_by = chinese
 1627.1.1 = { discovered_by = POR }
 
 1674.1.1 = {
-	owner = MUG
-	controller = MUG
-	add_core = MUG
 }
 1707.3.15 = {
-	owner = BNG
-	controller = BNG
-	add_core = BNG
 	remove_core = MUG
 }
 1760.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 } # Given to GBR by Mir Qasim
 1817.1.1 = {
 	revolt = {

@@ -1,7 +1,5 @@
 #4415 - Negapatam 
 
-owner = TNJ
-controller = TNJ
 culture = tamil
 religion = al_batiniyya
 capital = "Negapatam"
@@ -14,7 +12,6 @@ is_city = yes
 add_vaisyas_or_burghers_effect = yes
 # add_core = VIJ
 # add_core = MAD
-add_core = TNJ
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim
@@ -28,10 +25,6 @@ add_local_autonomy = 25
 1550.1.1 = { controller = VIJ revolt = { } }
 1565.7.1 = { owner = TNJ controller = TNJ } # The Vijayanagar empire collapses
 1662.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
-	add_core = NED 
 	add_to_trade_company = NED
 	add_trade_company_investment = {
 		investment = company_depot
@@ -39,9 +32,6 @@ add_local_autonomy = 25
 	}
 }
 1784.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 	remove_core = NED
 	add_to_trade_company = GBR
 	add_trade_company_investment = {

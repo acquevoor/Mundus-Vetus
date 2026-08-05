@@ -1,8 +1,5 @@
 #1948 - Bidar
 
-owner = KLY
-controller = KLY
-add_core = KLY
 culture = kannada
 religion = lingayat
 capital = "Bidar"
@@ -12,7 +9,6 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = BAH
 fort_15th = yes #Bidar Fort
 discovered_by = indian
 discovered_by = nomad_group
@@ -29,19 +25,12 @@ center_of_trade = 2
 1619.1.1 = { owner = BIJ } # captured by Bijapur
 1685.1.1 = { controller = MUG }
 1686.1.1 = {
-	owner = MUG
-	add_core = MUG
 	remove_core = BAH
 }
 1712.1.1 = { add_core = DEC }	#Viceroyalty of the Deccan
 1724.1.1 = {
-	owner = DEC
-	controller = DEC
 	remove_core = MUG
 } # Asif Jah declared himself Nizam-al-Mulk
 
 1444.11.11 = {
-	owner = KLY
-	controller = KLY
-	add_core = KLY
 }

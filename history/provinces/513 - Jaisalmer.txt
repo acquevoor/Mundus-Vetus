@@ -1,7 +1,5 @@
 #513 - Jaisalmer
 
-owner = JSL
-controller = JSL
 culture = rajput
 religion = hinduism
 capital = "Jaisalmer"
@@ -11,7 +9,6 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = JSL
 
 
 
@@ -23,13 +20,8 @@ discovered_by = chinese
 
 
 1544.1.1 = {
-	owner = BNG
-	controller = BNG
-	add_core = BNG
 } # Sur expansion
 1545.1.1 = {
-	owner = JSL
-	controller = JSL
 	remove_core = BNG
 } # Independence regained after death of Sher Shah
 

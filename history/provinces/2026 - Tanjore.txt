@@ -1,7 +1,5 @@
 #2026 - Tanjore 
 
-owner = TNJ
-controller = TNJ
 culture = tamil
 religion = al_batiniyya
 capital = "Thanjavur"
@@ -14,7 +12,6 @@ is_city = yes
 add_brahmins_or_church_effect = yes
 # add_core = VIJ
 # add_core = MAD
-add_core = TNJ
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim
@@ -30,20 +27,11 @@ center_of_trade = 2
 1550.1.1 = { controller = VIJ revolt = { } }
 1565.7.1 = { owner = TNJ controller = TNJ } # The Vijayanagar empire collapses
 1662.1.1 = {
-	controller = BIJ
-	owner = BIJ
-	add_core = BIJ
 }
 1678.1.1 = {
-	owner = MAR
-	controller = MAR
-	add_core = MAR
 } #Venkaji assumes independence
 1694.1.1 = { controller = MUG }
 1707.1.1 = { controller = MAR }
 1801.1.1 = {
-	controller = GBR
-	owner = GBR
-	add_core = GBR
 	capital = Tanjore
 }

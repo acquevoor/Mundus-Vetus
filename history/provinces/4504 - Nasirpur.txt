@@ -1,8 +1,5 @@
 #4504 - Nasirpur
 
-owner = SRA
-controller = SRA
-add_core = SRA
 culture = sindhi
 religion = hinduism
 capital = "Nasirpur"
@@ -12,7 +9,6 @@ base_tax = 3
 base_production = 4
 base_manpower = 1
 is_city = yes
-add_core = SND
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim 
@@ -22,26 +18,14 @@ discovered_by = chinese
 
 1498.1.1 = { discovered_by = POR }
 1544.1.1 = {
-	owner = BNG
-	controller = BNG
 } # Sur Expansionism
 1545.1.1 = {
-	owner = SND
-	controller = SND
 } # Sher Shah dies
 1591.1.1 = {
-	owner = MUG
-	controller = MUG
-	add_core = MUG
 } # Integrated into Mughal Empire
 1739.1.1 = {
-	owner = SND 
-	controller = SND
 	remove_core = MUG
 }
 
 1444.11.11 = {
-	owner = SRA
-	controller = SRA
-	add_core = SRA
 }

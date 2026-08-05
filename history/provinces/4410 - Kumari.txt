@@ -1,7 +1,5 @@
 #4410 - Kumari
 
-owner = VND
-controller = VND
 culture = malayalam
 religion = ecclesia_assyrica
 capital = "Kumari"
@@ -11,7 +9,6 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = VND
 discovered_by = indian
 discovered_by = nomad_group
 discovered_by = muslim

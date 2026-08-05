@@ -1,8 +1,5 @@
 #2064 - Shekhawati
 
-owner = BAT
-controller = BAT
-add_core = BAT
 culture = rajput
 religion = hinduism
 capital = "Sikar"
@@ -13,7 +10,6 @@ base_production = 2
 base_manpower = 1
 is_city = yes
 add_rajputs_or_marathas_or_nobles_effect = yes
-add_core = DHU
 discovered_by = nomad_group
 discovered_by = indian
 discovered_by = muslim 
@@ -22,20 +18,12 @@ discovered_by = chinese
 
 
 1530.1.1 = {
-	owner = MUG
-	controller = MUG
 } # Mughal Conquest
 1540.1.1 = {
-	owner = DHU
-	controller = DHU
 } # Independent again after Mughals lose Delhi
 1544.1.1 = {
-	owner = BNG
-	controller = BNG
 } # Sur expansion
 1545.5.22 = {
-	owner = DHU
-	controller = DHU
 } # Independent again after death of Shere Shah Sur
 
 
@@ -44,7 +32,4 @@ discovered_by = chinese
 1707.5.12 = { discovered_by = GBR }
 
 1444.11.11 = {
-	owner = BAT
-	controller = BAT
-	add_core = BAT
 }

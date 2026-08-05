@@ -1,8 +1,5 @@
 #4479 - Goraghat
 
-owner = GAU
-controller = GAU
-add_core = GAU
 culture = bengali
 religion = hinduism
 capital = "Goraghat"
@@ -12,7 +9,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-add_core = BNG
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
@@ -23,16 +19,12 @@ discovered_by = chinese
 1539.1.1 = { controller = BNG } # Surs again in control
 1570.1.1 = { religion = sunni }
 1576.7.12 = {
-	owner = MUG
-	controller = MUG
 	unrest = 8
-	add_core = MUG
 } #Mughal takeover, but the land remains in the hand of Afghan and Hindu landowners with interests vested against the Mughal dynasty and a deep hatred for the Mughal state
 1587.1.1 = {
 	unrest = 0
 } # Integrated into Mughal Empire
 1622.10.1 = {
-	controller = REB
 	revolt = {
 		type = pretender_rebels
 		size = 0
@@ -49,12 +41,10 @@ discovered_by = chinese
 	}
 } #Defeated, retreats into Bengal
 1624.1.1 = {
-	controller = MUG
 	revolt = { }
 } #Khurram is defeated and is chased away by Mughal forces and rebelious Zamindars. Takes refuge in Ahmednagar and eventually surrenders on terms dictated by Nur Jahan
 1627.1.1 = { discovered_by = POR }
 1657.9.14 = {
-	controller = REB
 	revolt = {
 		type = pretender_rebels
 		size = 0
@@ -63,22 +53,13 @@ discovered_by = chinese
 	}
 } # Shah Jahan falls ill, his sons starts civil war
 1658.12.28 = {
-	controller = MUG
 	revolt = { }
 } # Muhammed Shuja defeated by Aurangzeb
 1707.3.15 = {
-	owner = BNG
-	controller = BNG
 	remove_core = MUG
 }
 1765.1.1 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 } # Given to GBR by Mughal Empire (was formerly british puppet)
 
 1444.11.11 = {
-	owner = GAU
-	controller = GAU
-	add_core = GAU
 }

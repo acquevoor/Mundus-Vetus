@@ -1,8 +1,5 @@
 #2054 - Ahmadabad
 
-owner = VAG
-controller = VAG
-add_core = VAG
 culture = gujarati
 religion = hinduism
 capital = "Ahmadabad"
@@ -12,7 +9,6 @@ base_tax = 5
 base_production = 5
 base_manpower = 1
 is_city = yes
-add_core = GUJ
 discovered_by = east_african
 discovered_by = indian
 discovered_by = muslim 
@@ -22,29 +18,15 @@ discovered_by = chinese
 
 1498.1.1 = { discovered_by = POR }
 1573.6.1 = {
-	owner = MUG
-	controller = MUG
-	add_core = MUG
 } # Conquered by Akbar
 1725.1.1 = {
-	owner = GUJ
-	controller = GUJ
 	remove_core = MUG	
 } #Mughal governor
 1757.1.1 = {
-	owner = BDA
-	controller = BDA
-	add_core = BDA
 } # Conquered by the Marathas
 1818.6.3 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 	remove_core = BDA
 }
 
 1444.11.11 = {
-	owner = VAG
-	controller = VAG
-	add_core = VAG
 }

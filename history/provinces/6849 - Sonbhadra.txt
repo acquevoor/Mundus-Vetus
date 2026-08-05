@@ -17,10 +17,7 @@ discovered_by = ottoman
 discovered_by = chinese
 discovered_by = chinese
 discovered_by = chinese
-owner = KET
-controller = KET
 religion = mahayana
-add_core = KET
 
 1526.4.21 = {
 

@@ -1,7 +1,5 @@
 #507 - Lahore
 
-owner = SRH
-controller = SRH
 culture = panjabi
 religion = sant_mat
 capital = "Lahore"
@@ -14,7 +12,6 @@ is_city = yes
 # add_core = MUL
 # add_core = DLH
 # add_core = PUN
-add_core = SRH
 fort_15th = yes #Lahore Fort
 #Data Durbar Complex
 discovered_by = indian
@@ -26,33 +23,22 @@ extra_cost = 16
 center_of_trade = 2
 
 1451.4.20 = {
-	controller = DLH
-	owner = DLH
 } #Bahlul Lodi takes power in Delhi
 1499.1.1 = { religion = sikhism }
 1522.1.1 = {
 	revolt = { size = 1 type = pretender_rebels leader = "Daulat Khan Lodi" }
-	controller = REB
 } #Daulat Kahn Lodi revolt
 1525.1.1 = {
 	controller = TIM owner = TIM add_core = TIM
 	revolt = { }
 } #Defects to Babur
 1526.4.21 = {
-	owner = MUG
-	controller = MUG
-	add_core = MUG
 	remove_core = DLH
 	remove_core = TIM
 } #Battle of Panipat
 1540.1.1 = {
-	owner = BNG
-	controller = BNG
-	add_core = BNG
 } #Conquered by Sher Shah Suri
 1553.1.1 = {
-	owner = SRH
-	controller = SRH
 	remove_core = BNG
 } #Death of Islam Shah Sur, Suri empire split
 1554.7.1 = { controller = MUG } #Humayun invades
@@ -66,17 +52,11 @@ center_of_trade = 2
 1715.1.1 = { revolt = { } }
 1720.1.1 = { revolt = { type = sikhism_rebels size = 3 name = "Sikh Rebels" } } #Sikhs
 1752.1.1 = {
-	owner = AFG
-	controller = AFG
 	remove_core = MUG
 	revolt = { }
 }
 1758.1.1 = {
-	controller = MAR
-	add_core = GWA
 } # Held by the Peshawas
 1760.1.1 = { controller = AFG }
 1767.1.1 = {
-	owner = PUN
-	controller = PUN
 }

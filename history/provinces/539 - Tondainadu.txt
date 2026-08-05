@@ -1,8 +1,5 @@
 #539 - Pulicat
 
-owner = KRK
-controller = KRK
-add_core = KRK
 culture = tamil
 religion = hinduism
 capital = "Pulicat"
@@ -12,7 +9,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-add_core = VIJ
 add_local_autonomy = 50
 discovered_by = indian
 discovered_by = nomad_group
@@ -31,9 +27,6 @@ center_of_trade = 2
 1489.1.1 = { controller = VIJ }
 1498.1.1 = { discovered_by = POR }
 1616.1.1 = {
-	owner = NED
-	controller = NED
-	add_core = NED
 	remove_core = VIJ
 	add_to_trade_company = NED
 	add_trade_company_investment = {
@@ -46,9 +39,6 @@ center_of_trade = 2
 	}
 } # Dutch east india company's capital
 1639.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
 	remove_core = NED
 	capital = "Madras"
 	add_to_trade_company = ENG
@@ -62,9 +52,6 @@ center_of_trade = 2
 	}
 } # Ceded by Vijayanagara & Company Capital
 1707.5.12 = {
-	owner = GBR
-	controller = GBR
-	add_core = GBR
 	remove_core = ENG
 	add_to_trade_company = GBR
 	add_trade_company_investment = {
@@ -93,15 +80,10 @@ center_of_trade = 2
 		type = nationalist_rebels
 		size = 3
 	}
-	controller = REB
 } # The Vellore Mutiny
 1806.7.11 = {
 	revolt = {}
-	controller = GBR
 } # British control is restored
 
 1444.11.11 = {
-	owner = KRK
-	controller = KRK
-	add_core = KRK
 }
