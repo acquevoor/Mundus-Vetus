@@ -2,7 +2,7 @@
 
 owner = TRT
 controller = TRT
-religion = hinduism
+religion = vajrayana
 culture = Vajjika
 add_core = TRT
 # mod-3429447292 port

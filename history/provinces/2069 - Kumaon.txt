@@ -3,7 +3,7 @@
 owner = KMN
 controller = KMN
 culture = Kumaoni
-religion = hinduism
+religion = vajrayana
 # mod-3429447292 port
 
 capital = "Champawat"

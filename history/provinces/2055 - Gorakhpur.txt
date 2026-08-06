@@ -2,7 +2,7 @@
 
 owner = UJJ
 controller = UJJ
-religion = hinduism
+religion = vajrayana
 culture = Bhojpuri
 add_core = JNP
 add_core = DLH

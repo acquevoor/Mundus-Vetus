@@ -1,7 +1,7 @@
 #昌德尔纳戈尔Chandernagar
 
 culture = Rarhi
-religion = hinduism
+religion = vajrayana
 trade_goods = silk
 hre = no
 base_tax = 3

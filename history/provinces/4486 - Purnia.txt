@@ -2,7 +2,7 @@
 
 owner = TRT
 controller = TRT
-religion = hinduism
+religion = vajrayana
 culture = Maithili
 add_core = KMT
 add_core = MKP

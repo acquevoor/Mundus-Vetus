@@ -2,7 +2,7 @@
 
 owner = MBL
 controller = MBL
-religion = hinduism
+religion = vajrayana
 culture = Birbhumi
 add_core = MKP
 # mod-3429447292 port

@@ -17,7 +17,7 @@ discovered_by = ottoman
 discovered_by = chinese
 discovered_by = chinese
 discovered_by = chinese
-religion = mahayana
+religion = vajrayana
 
 1526.4.21 = {
 

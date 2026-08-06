@@ -4,6 +4,7 @@ owner = JNP
 controller = UJJ
 religion = "hinduism"
 culture = Vajjika
+religion = vajrayana
 add_core = JNP
 add_core = TRT
 add_core = BNG

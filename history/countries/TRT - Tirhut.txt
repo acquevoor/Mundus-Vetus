@@ -3,7 +3,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = Maithili
-religion = hinduism
+religion = vajrayana
 technology_group = indian
 capital = 2047
 # mod-3429447292 (India) initial-block port

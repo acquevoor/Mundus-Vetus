@@ -2,7 +2,7 @@
 
 owner = BNG
 controller = BNG
-religion = hinduism
+religion = vajrayana
 culture = Varendri
 add_core = BNG
 add_core = MKP

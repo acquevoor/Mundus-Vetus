@@ -2,7 +2,7 @@
 
 owner = BNG
 controller = BNG
-religion = hinduism
+religion = vajrayana
 culture = Chittagongian
 add_core = MKP
 # mod-3429447292 port

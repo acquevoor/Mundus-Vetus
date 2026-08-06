@@ -2,7 +2,7 @@
 
 owner = UJJ
 controller = UJJ
-religion = hinduism
+religion = vajrayana
 culture = Magahi
 add_core = BNG
 add_core = CER

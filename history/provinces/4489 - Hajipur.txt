@@ -2,7 +2,7 @@
 
 owner = JNP
 controller = UJJ
-religion = hinduism
+religion = vajrayana
 culture = Maithili
 add_core = JNP
 add_core = TRT

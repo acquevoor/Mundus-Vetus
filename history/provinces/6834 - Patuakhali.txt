@@ -1,7 +1,7 @@
 #博杜阿卡利Patuakhali
 
 culture = Rarhi
-religion = hinduism
+religion = vajrayana
 trade_goods = grain
 hre = no
 base_tax = 1 

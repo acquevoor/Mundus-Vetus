@@ -2,7 +2,7 @@
 government = monarchy
 add_government_reform = indian_sultanate_reform
 primary_culture = Kashmiri
-religion = shiite
+religion = vajrayana
 technology_group = indian
 capital = 508
 religious_school = ismaili_school
