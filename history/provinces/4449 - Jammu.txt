@@ -48,6 +48,6 @@ discovered_by = chinese
 	owner = KSH
 	controller = KSH
 	culture = Dogra
-	religion = hinduism
+	religion = vajrayana
 	add_core = KSH
 }

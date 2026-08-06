@@ -41,6 +41,6 @@ discovered_by = chinese
 	owner = KMN
 	controller = KMN
 	culture = Kumaoni
-	religion = hinduism
+	religion = vajrayana
 	add_core = KMN
 }

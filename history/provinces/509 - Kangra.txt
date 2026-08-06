@@ -38,6 +38,6 @@ discovered_by = chinese
 	owner = KGR
 	controller = KGR
 	culture = Dogra
-	religion = hinduism
+	religion = vajrayana
 	add_core = KGR
 }

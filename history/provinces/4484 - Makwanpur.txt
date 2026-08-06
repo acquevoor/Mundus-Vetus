@@ -44,7 +44,7 @@ discovered_by = chinese
 	owner = MKP
 	controller = MKP
 	culture = Nepali
-	religion = hinduism
+	religion = vajrayana
 	add_core = MKP
 	add_core = TRT
 }

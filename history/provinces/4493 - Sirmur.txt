@@ -39,6 +39,6 @@ discovered_by = chinese
 	owner = SRM
 	controller = SRM
 	culture = Garhwali
-	religion = hinduism
+	religion = vajrayana
 	add_core = SRM
 }

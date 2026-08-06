@@ -32,6 +32,6 @@ discovered_by = chinese
 	owner = JML
 	controller = JML
 	culture = Nepali
-	religion = hinduism
+	religion = vajrayana
 	add_core = JML
 }

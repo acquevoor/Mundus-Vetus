@@ -55,6 +55,6 @@ discovered_by = chinese
 	owner = TPR
 	controller = TPR
 	culture = Chittagongian
-	religion = hinduism
+	religion = vajrayana
 	add_core = TPR
 }

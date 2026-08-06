@@ -71,6 +71,6 @@ discovered_by = chinese
 	owner = TRT
 	controller = TRT
 	culture = Vajjika
-	religion = hinduism
+	religion = vajrayana
 	add_core = TRT
 }

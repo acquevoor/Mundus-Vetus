@@ -41,6 +41,6 @@ discovered_by = chinese
 	owner = GHR
 	controller = GHR
 	culture = Kumaoni
-	religion = hinduism
+	religion = vajrayana
 	add_core = GHR
 }

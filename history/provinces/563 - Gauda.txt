@@ -93,7 +93,7 @@ center_of_trade = 2
 	owner = BNG
 	controller = BNG
 	culture = Varendri
-	religion = hinduism
+	religion = vajrayana
 	add_core = BNG
 	add_core = MKP
 }

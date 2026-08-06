@@ -65,7 +65,7 @@ discovered_by = chinese
 	owner = BNG
 	controller = BNG
 	culture = Rarhi
-	religion = hinduism
+	religion = vajrayana
 	add_core = BNG
 	add_core = MKP
 }

@@ -73,6 +73,6 @@ center_of_trade = 1
 	owner = TRT
 	controller = TRT
 	culture = Maithili
-	religion = hinduism
+	religion = vajrayana
 	add_core = TRT
 }

@@ -40,6 +40,6 @@ center_of_trade = 1
 	owner = KTU
 	controller = KTU
 	culture = Nepali
-	religion = hinduism
+	religion = vajrayana
 	add_core = KTU
 }

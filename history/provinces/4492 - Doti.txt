@@ -33,6 +33,6 @@ discovered_by = chinese
 	owner = DTI
 	controller = DTI
 	culture = Kumaoni
-	religion = hinduism
+	religion = vajrayana
 	add_core = DTI
 }

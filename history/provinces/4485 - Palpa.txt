@@ -33,6 +33,6 @@ discovered_by = NPL
 	owner = GRK
 	controller = GRK
 	culture = Nepali
-	religion = hinduism
+	religion = vajrayana
 	add_core = GRK
 }
