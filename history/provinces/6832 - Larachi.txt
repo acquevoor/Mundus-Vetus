@@ -1,7 +1,7 @@
 #卡拉奇Larachi
 
 culture = Vicholi
-religion = sunni
+religion = vajrayana
 trade_goods = cloth
 hre = no
 base_tax = 1

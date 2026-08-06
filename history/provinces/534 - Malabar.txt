@@ -3,7 +3,7 @@
 owner = MAB
 controller = MAB
 culture = Malayali
-religion = sunni
+religion = vajrayana
 # mod-3429447292 port
 
 capital = "Calicut"
@@ -50,6 +50,6 @@ center_of_trade = 2
 	owner = MAB
 	controller = MAB
 	culture = Malayali
-	religion = sunni
+	religion = vajrayana
 	add_core = MAB
 }

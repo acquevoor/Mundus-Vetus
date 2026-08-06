@@ -2,7 +2,7 @@
 
 owner = MUL
 controller = MUL
-religion = sunni
+religion = vajrayana
 culture = Saraiki
 add_core = PUN
 # mod-3429447292 port
@@ -66,7 +66,7 @@ discovered_by = chinese
 	owner = MUL
 	controller = MUL
 	culture = Saraiki
-	religion = sunni
+	religion = vajrayana
 	add_core = MUL
 	add_core = PUN
 }

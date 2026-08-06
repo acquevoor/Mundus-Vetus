@@ -2,7 +2,7 @@
 
 owner = MUL
 controller = MUL
-religion = sunni
+religion = vajrayana
 culture = Saraiki
 add_core = MUL
 add_core = JSL
@@ -53,7 +53,7 @@ discovered_by = chinese
 	owner = MUL
 	controller = MUL
 	culture = Saraiki
-	religion = sunni
+	religion = vajrayana
 	add_core = MUL
 	add_core = JSL
 	add_core = PUN

@@ -52,6 +52,6 @@ discovered_by = chinese
 	owner = KSH
 	controller = KSH
 	culture = Kashmiri
-	religion = sunni
+	religion = vajrayana
 	add_core = KSH
 }

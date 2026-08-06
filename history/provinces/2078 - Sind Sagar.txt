@@ -2,7 +2,7 @@
 
 owner = MUL
 controller = MUL
-religion = sunni
+religion = vajrayana
 culture = Hindko
 # mod-3429447292 port
 
@@ -85,7 +85,7 @@ discovered_by = chinese
 	owner = MUL
 	controller = MUL
 	culture = Hindko
-	religion = sunni
+	religion = vajrayana
 	add_core = MUL
 	add_core = PUN
 }

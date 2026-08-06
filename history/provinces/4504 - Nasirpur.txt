@@ -2,7 +2,7 @@
 
 owner = SND
 controller = SND
-religion = sunni
+religion = vajrayana
 culture = Lari
 add_core = SND
 # mod-3429447292 port
@@ -40,6 +40,6 @@ discovered_by = chinese
 	owner = SND
 	controller = SND
 	culture = Lari
-	religion = sunni
+	religion = vajrayana
 	add_core = SND
 }

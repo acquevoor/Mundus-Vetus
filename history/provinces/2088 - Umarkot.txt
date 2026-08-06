@@ -2,7 +2,7 @@
 
 owner = SND
 controller = SND
-religion = sunni
+religion = vajrayana
 culture = Dhatki
 add_core = SND
 # mod-3429447292 port
@@ -41,6 +41,6 @@ discovered_by = chinese
 	owner = SND
 	controller = SND
 	culture = Dhatki
-	religion = sunni
+	religion = vajrayana
 	add_core = SND
 }
