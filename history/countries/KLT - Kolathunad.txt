@@ -26,9 +26,9 @@ capital = 4413
 		ADM = 2
 		MIL = 3
 	}
-	religion = sunni
+	religion = vajrayana
 	government = monarchy
-	add_government_reform = indian_sultanate_reform
+	add_government_reform = feudalism_reform
 }
 
 1607.1.1 = {

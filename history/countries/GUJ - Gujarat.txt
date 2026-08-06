@@ -1,11 +1,10 @@
 
 government = monarchy
-add_government_reform = indian_sultanate_reform
+add_government_reform = feudalism_reform
 primary_culture = Gujarati
-religion = sunni
+religion = vajrayana
 technology_group = indian
 capital = 2054
-religious_school = shafii_school
 # mod-3429447292 (India) initial-block port
 
 change_jains_or_burghers_land_share_effect = {

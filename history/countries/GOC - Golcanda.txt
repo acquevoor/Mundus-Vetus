@@ -1,7 +1,7 @@
 government = monarchy
-add_government_reform = indian_sultanate_reform
+add_government_reform = feudalism_reform
 technology_group = indian
-religion = shiite
+religion = vajrayana
 primary_culture = Deccani
 capital = 542
 # mod-3429447292 (India) initial-block port

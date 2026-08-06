@@ -1,8 +1,8 @@
 government = monarchy
-add_government_reform = indian_sultanate_reform
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = indian
-religion = sunni
+religion = vajrayana
 primary_culture = Vengi
 capital = 4420
 # mod-3429447292 (India) initial-block port
@@ -17,8 +17,7 @@ capital = 4420
 		DIP = 4
 		MIL = 5
 	}
-	religion = sunni
-	religious_school = hanafi_school
+	religion = vajrayana
 }
 
 1710.1.1 = {
