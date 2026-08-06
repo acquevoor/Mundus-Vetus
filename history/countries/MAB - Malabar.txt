@@ -7,7 +7,6 @@ primary_culture = Malayali
 capital = 534
 # mod-3429447292 (India) initial-block port
 
-religious_school = vaidika_nigama
 
 1415.1.1 = {
 	monarch = {

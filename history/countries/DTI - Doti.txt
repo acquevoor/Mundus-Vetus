@@ -6,7 +6,6 @@ religion = hinduism
 capital = 4492
 # mod-3429447292 (India) initial-block port
 
-religious_school = vaidika_smarta
 
 # Malla Raikas of Doti
 

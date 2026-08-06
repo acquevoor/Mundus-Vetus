@@ -67,11 +67,4 @@ clear_religious_scholar_modifiers_effect = {
 	remove_country_modifier = zahiri_school_modifier
 	remove_country_modifier = jain_digambara_modifier
 	remove_country_modifier = jain_svetambara_modifier
-	remove_country_modifier = vaidika_nigama_modifier
-	remove_country_modifier = vaidika_agama_modifier
-	remove_country_modifier = vaidika_shrauta_modifier
-	remove_country_modifier = vaidika_tantra_modifier
-	remove_country_modifier = vaidika_siddha_modifier
-	remove_country_modifier = vaidika_bhakti_modifier
-	remove_country_modifier = vaidika_smarta_modifier
 }

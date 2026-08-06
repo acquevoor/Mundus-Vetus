@@ -6,7 +6,6 @@ religion = hinduism
 capital = 4493
 # mod-3429447292 (India) initial-block port
 
-religious_school = vaidika_nigama
 
 # Dynasty founded by Subans Prakash in 1095
 

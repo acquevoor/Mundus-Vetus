@@ -7,7 +7,6 @@ capital = 2074
 # mod-3429447292 (India) initial-block port
 
 add_accepted_culture = Kashmiri
-religious_school = vaidika_smarta
 fixed_capital = 2074 # Cannot move capital away from this province & no power cost to move to it
 
 1430.1.1 = {	#Realm divided between 2 monarchs at this date.

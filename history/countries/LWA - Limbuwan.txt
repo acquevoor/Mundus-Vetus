@@ -6,7 +6,6 @@ religion = vajrayana
 capital = 4483
 # mod-3429447292 (India) initial-block port
 
-religious_school = vaidika_smarta
 
 # Ing dynasty of Morang
 1444.1.1 = {

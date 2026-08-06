@@ -6,7 +6,6 @@ religion = hinduism
 capital = 4491
 # mod-3429447292 (India) initial-block port
 
-religious_school = vaidika_nigama
 
 # Chauhan dynasty of Tulsipur
 1444.1.1 = {
