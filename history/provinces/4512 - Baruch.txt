@@ -2,7 +2,7 @@
 
 owner = GUJ
 controller = GUJ
-religion = hinduism
+religion = buddhism
 culture = Gujarati
 add_core = GUJ
 # mod-3429447292 port
@@ -67,6 +67,6 @@ discovered_by = east_african
 	owner = GUJ
 	controller = GUJ
 	culture = Gujarati
-	religion = hinduism
+	religion = buddhism
 	add_core = GUJ
 }

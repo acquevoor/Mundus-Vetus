@@ -3,7 +3,7 @@
 government = monarchy
 add_government_reform = feudalism_reform
 technology_group = indian
-religion = vajrayana
+religion = chan
 primary_culture = Deccani
 capital = 548
 # mod-3429447292 (India) initial-block port

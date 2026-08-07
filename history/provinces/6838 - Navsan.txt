@@ -1,7 +1,7 @@
 # ç‘™è�¨é‡ŒNavsan
 
 culture = Gujarati
-religion = hinduism
+religion = buddhism
 capital = "Navsan"
 trade_goods = silk
 hre = no

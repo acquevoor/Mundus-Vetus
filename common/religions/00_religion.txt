@@ -2989,7 +2989,7 @@ dharmic = {
 		uses_karma = yes
 	}
 	vajrayana = {
-		color = { 150 10 10 }
+		color = { 75 25 25 }
 		icon = 25
 		allowed_conversion = {
 			mahayana
@@ -4677,7 +4677,7 @@ pagan = {
 	flag_emblem_index_range = { 83 96 }
 
 	animism = {
-		color = { 75 25 25 }
+		color = { 150 10 10 }
 		icon = 11
 		country = {
 			tolerance_own = 1

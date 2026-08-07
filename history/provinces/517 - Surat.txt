@@ -2,7 +2,7 @@
 
 owner = GUJ
 controller = GUJ
-religion = hinduism
+religion = buddhism
 culture = Gujarati
 add_core = GUJ
 # mod-3429447292 port
@@ -73,6 +73,6 @@ center_of_trade = 2
 	owner = GUJ
 	controller = GUJ
 	culture = Gujarati
-	religion = hinduism
+	religion = buddhism
 	add_core = GUJ
 }

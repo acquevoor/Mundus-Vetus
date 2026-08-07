@@ -2,7 +2,7 @@
 
 owner = IDR
 controller = IDR
-religion = hinduism
+religion = buddhism
 culture = Gujarati
 add_core = IDR
 # mod-3429447292 port
@@ -53,6 +53,6 @@ discovered_by = chinese
 	owner = IDR
 	controller = IDR
 	culture = Gujarati
-	religion = hinduism
+	religion = buddhism
 	add_core = IDR
 }
