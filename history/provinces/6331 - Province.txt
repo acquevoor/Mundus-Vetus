@@ -24,3 +24,12 @@ discovered_by = indian
 	remove_core = UTS
 }
 1721.1.1 = { discovered_by = SPA }##
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = LDK
+	controller = LDK
+	add_core = LDK
+	culture = Ngalop
+	religion = vajrayana
+}

@@ -56,3 +56,13 @@ center_of_trade = 1
 	add_core = VIJ
 	add_core = KLN
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KRK
+	controller = KRK
+	add_core = KRK
+	culture = Kalaburagi
+	religion = hinduism
+	is_city = yes
+}

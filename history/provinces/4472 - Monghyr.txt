@@ -90,3 +90,13 @@ discovered_by = chinese
 	add_core = TRT
 	add_core = BNG
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = UJJ
+	controller = UJJ
+	add_core = UJJ
+	culture = Angika
+	religion = vajrayana
+	is_city = yes
+}

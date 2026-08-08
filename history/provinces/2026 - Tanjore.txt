@@ -53,3 +53,13 @@ center_of_trade = 2
 	add_core = MAD
 	add_core = TNJ
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = TNJ
+	controller = TNJ
+	add_core = TNJ
+	culture = Tanjaitamil
+	religion = hinduism
+	is_city = yes
+}

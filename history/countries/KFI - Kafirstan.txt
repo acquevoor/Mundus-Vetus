@@ -15,3 +15,8 @@ capital = 2226 # Kafirstan
 		female = yes
 	}
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 578
+}

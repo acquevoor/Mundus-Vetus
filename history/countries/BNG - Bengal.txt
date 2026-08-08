@@ -884,3 +884,8 @@ change_brahmins_or_church_land_share_effect = {
 		MIL = 0
 	}
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 561
+}

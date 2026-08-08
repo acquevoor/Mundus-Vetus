@@ -19,3 +19,13 @@ discovered_by = MCH
 discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = ASK
+	controller = ASK
+	add_core = ASK
+	culture = japanese
+	religion = shinto
+	is_city = yes
+}

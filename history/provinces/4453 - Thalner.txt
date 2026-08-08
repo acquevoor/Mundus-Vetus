@@ -76,3 +76,23 @@ discovered_by = chinese
 	add_core = KHD
 	add_core = MAR
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KAM
+	controller = KAM
+	add_core = KAM
+	culture = Khandesi
+	religion = vajrayana
+	is_city = yes
+}
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KAM
+	controller = KAM
+	add_core = KAM
+	culture = Khandesi
+	religion = vajrayana
+	is_city = yes
+}

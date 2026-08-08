@@ -16,3 +16,12 @@ discovered_by = ottoman
 
 1490.1.1 = {   remove_core = BAH } # The Breakup of the Bahmani sultanate
 1498.1.1 = { discovered_by = POR } 
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = BIJ
+	controller = BIJ
+	add_core = BIJ
+	culture = Aregannada
+	religion = lingayat
+}

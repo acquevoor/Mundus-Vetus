@@ -43,3 +43,13 @@ discovered_by = chinese
 	religion = animism
 	add_core = CEY
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KND
+	controller = KND
+	add_core = KND
+	culture = Sinhalese
+	religion = animism
+	is_city = yes
+}

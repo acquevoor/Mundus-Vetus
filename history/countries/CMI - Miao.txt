@@ -5,3 +5,8 @@ religion = nuo
 technology_group = chinese
 capital = 2174	# Umung
 
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 4824
+}

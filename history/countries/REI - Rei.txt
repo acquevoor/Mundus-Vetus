@@ -16,3 +16,8 @@ capital = 428 # Rei
 		female = yes
 	}
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 2213
+}

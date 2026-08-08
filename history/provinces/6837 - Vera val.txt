@@ -23,3 +23,12 @@ discovered_by = east_african
 	remove_core = MUG
 } # Vassal of Gaikwads
 
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = JGD
+	controller = JGD
+	add_core = JGD
+	culture = Saurashtrian
+	religion = hinduism
+}

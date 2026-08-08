@@ -363,3 +363,8 @@ capital = 5013
 		mil = 2
 	}
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 4470
+}

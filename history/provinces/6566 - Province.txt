@@ -14,3 +14,12 @@ discovered_by = chinese
 discovered_by = chinese
 discovered_by = indian
 discovered_by = nomad_group
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = MMA
+	controller = MMA
+	add_core = MMA
+	culture = shan
+	religion = buddhism
+}

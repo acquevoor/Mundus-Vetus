@@ -64,3 +64,13 @@ add_vaisyas_or_burghers_effect = yes
 	add_core = VIJ
 	add_core = TNJ
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = TNJ
+	controller = TNJ
+	add_core = TNJ
+	culture = Kovai
+	religion = hinduism
+	is_city = yes
+}

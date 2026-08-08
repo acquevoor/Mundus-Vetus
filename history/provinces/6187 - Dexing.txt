@@ -14,3 +14,23 @@ discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
 1721.1.1 = { discovered_by = SPA }##
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = SYG
+	controller = SYG
+	add_core = SYG
+	culture = Ngalop
+	religion = animism
+	is_city = yes
+}
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = SYG
+	controller = SYG
+	add_core = SYG
+	culture = Ngalop
+	religion = animism
+	is_city = yes
+}

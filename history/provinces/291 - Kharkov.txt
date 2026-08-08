@@ -42,3 +42,13 @@ discovered_by = nomad_group
 	controller = MNC
 	add_core = MNC
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = MNC
+	controller = MNC
+	add_core = MNC
+	culture = ruthenian
+	religion = orthodox
+	is_city = yes
+}

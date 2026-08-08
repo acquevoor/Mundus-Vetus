@@ -44,3 +44,13 @@ add_local_autonomy = 50
 	religion = hinduism
 	add_core = NGP
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = UJJ
+	controller = UJJ
+	add_core = UJJ
+	culture = Santhal
+	religion = hinduism
+	is_city = yes
+}

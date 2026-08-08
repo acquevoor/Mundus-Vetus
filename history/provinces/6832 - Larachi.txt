@@ -21,3 +21,12 @@ discovered_by = chinese
 
 	remove_core = MUG
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = SND
+	controller = SND
+	add_core = SND
+	culture = Vicholi
+	religion = vajrayana
+}

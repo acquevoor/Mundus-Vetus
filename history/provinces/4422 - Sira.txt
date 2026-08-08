@@ -32,3 +32,12 @@ discovered_by = chinese
 	add_core = VIJ
 	add_core = MYS
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = MYS
+	controller = MYS
+	add_core = MYS
+	culture = Aregannada
+	religion = hinduism
+}

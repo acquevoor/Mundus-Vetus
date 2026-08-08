@@ -88,3 +88,13 @@ discovered_by = chinese
 	add_core = BNG
 	add_core = CER
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = UJJ
+	controller = UJJ
+	add_core = UJJ
+	culture = Vajjika
+	religion = hinduism
+	is_city = yes
+}

@@ -31,3 +31,12 @@ discovered_by = chinese
     remove_core = MAR
 } # Treaty of Bassein
 
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = GUJ
+	controller = GUJ
+	add_core = GUJ
+	culture = Gujarati
+	religion = buddhism
+}

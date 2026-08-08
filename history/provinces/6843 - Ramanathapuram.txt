@@ -36,3 +36,12 @@ add_local_autonomy = 25
     add_trade_company_investment = { investment = company_depot investor = GBR } 
     add_trade_company_investment = { investment = brokers_exchange investor = GBR } 
 } # British
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = JFN
+	controller = JFN
+	add_core = JFN
+	culture = Centamil
+	religion = hinduism
+}

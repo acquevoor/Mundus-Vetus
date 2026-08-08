@@ -20,3 +20,12 @@ discovered_by = NPL
 #remove
 1690.1.1 = { discovered_by = ENG }
 1707.5.12 = { discovered_by = GBR }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = SKK
+	controller = SKK
+	add_core = SKK
+	culture = Nepali
+	religion = vajrayana
+}

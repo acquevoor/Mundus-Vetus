@@ -78,3 +78,13 @@ center_of_trade = 1
 	religion = buddhism
 	add_core = CEY
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KND
+	controller = KND
+	add_core = KND
+	culture = Sinhalese
+	religion = buddhism
+	is_city = yes
+}

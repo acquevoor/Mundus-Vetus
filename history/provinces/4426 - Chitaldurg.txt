@@ -48,3 +48,13 @@ discovered_by = chinese
 	add_core = VIJ
 	add_core = KLN
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KLN
+	controller = KLN
+	add_core = KLN
+	culture = Aregannada
+	religion = hinduism
+	is_city = yes
+}

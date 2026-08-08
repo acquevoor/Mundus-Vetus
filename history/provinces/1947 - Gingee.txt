@@ -69,3 +69,13 @@ discovered_by = chinese
 	add_core = TNJ
 	add_core = MAD
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = GNG
+	controller = GNG
+	add_core = GNG
+	culture = Tanjaitamil
+	religion = hinduism
+	is_city = yes
+}

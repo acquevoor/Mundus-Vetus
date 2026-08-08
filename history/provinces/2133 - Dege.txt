@@ -32,3 +32,13 @@ center_of_trade = 1
 	controller = MNN
 	add_core = MNN
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = SYG
+	controller = SYG
+	add_core = SYG
+	culture = Ngalop
+	religion = vajrayana
+	is_city = yes
+}

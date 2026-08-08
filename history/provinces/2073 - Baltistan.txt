@@ -66,3 +66,13 @@ discovered_by = chinese
 	religion = shiite
 	add_core = BLT
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KFI
+	controller = KFI
+	add_core = KFI
+	culture = Balti
+	religion = shiite
+	is_city = yes
+}

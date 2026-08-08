@@ -15,3 +15,13 @@ discovered_by = indian
 discovered_by = nomad_group
 1682.1.1 = { discovered_by = SPA } # Ferdinand Verbiest
 # Qinghai conquered by Qing
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = SYG
+	controller = SYG
+	add_core = SYG
+	culture = Ngalop
+	religion = vajrayana
+	is_city = yes
+}

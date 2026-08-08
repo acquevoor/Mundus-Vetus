@@ -97,3 +97,13 @@ discovered_by = chinese
 	add_core = BNG
 	add_core = MKP
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KAM
+	controller = KAM
+	add_core = KAM
+	culture = Angika
+	religion = vajrayana
+	is_city = yes
+}

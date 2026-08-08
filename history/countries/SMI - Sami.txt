@@ -5,3 +5,8 @@ technology_group = eastern
 religion = finnic
 primary_culture = sapmi
 capital = 18
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 315
+}

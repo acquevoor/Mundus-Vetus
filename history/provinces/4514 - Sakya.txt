@@ -30,3 +30,13 @@ native_hostileness = 4
 	religion = vajrayana
 	add_core = PHA
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KSD
+	controller = KSD
+	add_core = KSD
+	culture = tibetan
+	religion = vajrayana
+	is_city = yes
+}

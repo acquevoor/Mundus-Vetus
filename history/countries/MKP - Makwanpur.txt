@@ -72,3 +72,8 @@ capital = 554
 }
 
 # Annexed by the Shah dynasty
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 4484
+}

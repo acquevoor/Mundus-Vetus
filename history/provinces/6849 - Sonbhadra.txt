@@ -81,3 +81,12 @@ religion = vajrayana
 	remove_core = ODH
 }
 
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = UJJ
+	controller = UJJ
+	add_core = UJJ
+	culture = Bhojpuri
+	religion = vajrayana
+}

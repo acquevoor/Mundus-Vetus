@@ -52,3 +52,12 @@ discovered_by = chinese
 	#Barisal
 	remove_core = MUG
 } # Given to GBR by Mir Qasim
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = BNG
+	controller = BNG
+	add_core = BNG
+	culture = Rarhi
+	religion = vajrayana
+}

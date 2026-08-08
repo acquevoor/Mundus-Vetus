@@ -23,3 +23,12 @@ discovered_by = chinese
 
     remove_core = MUG
 } # Nawab of Arcot / Carnatic
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = YOR
+	controller = YOR
+	add_core = YOR
+	culture = Andhran
+	religion = hinduism
+}

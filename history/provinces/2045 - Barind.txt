@@ -82,3 +82,13 @@ discovered_by = chinese
 	add_core = KMT
 	add_core = MKP
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = SKK
+	controller = SKK
+	add_core = SKK
+	culture = Rangpuri
+	religion = hinduism
+	is_city = yes
+}

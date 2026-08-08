@@ -22,3 +22,12 @@ discovered_by = chinese
 discovered_by = chinese
 discovered_by = chinese }
 1498.1.1 = { discovered_by = POR }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = MAB
+	controller = MAB
+	add_core = MAB
+	culture = Malayali
+	religion = hinduism
+}

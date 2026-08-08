@@ -54,3 +54,23 @@ discovered_by = chinese
 	religion = hinduism
 	add_core = PTT
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KSD
+	controller = KSD
+	add_core = KSD
+	culture = Sambalpuri
+	religion = vajrayana
+	is_city = yes
+}
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KSD
+	controller = KSD
+	add_core = KSD
+	culture = Sambalpuri
+	religion = vajrayana
+	is_city = yes
+}

@@ -37,3 +37,23 @@ discovered_by = nomad_group
 	controller = TKS
 	add_core = TKS
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KAM
+	controller = KAM
+	add_core = KAM
+	culture = kipchak
+	religion = vajrayana
+	is_city = yes
+}
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KAM
+	controller = KAM
+	add_core = KAM
+	culture = kipchak
+	religion = vajrayana
+	is_city = yes
+}

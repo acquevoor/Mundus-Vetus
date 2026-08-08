@@ -81,3 +81,8 @@ capital = 4035	# Makua
 		mil = 3
 	}
 } 
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 4038
+}

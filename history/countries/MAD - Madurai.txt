@@ -325,3 +325,8 @@ fixed_capital = 536 # Cannot move capital away from this province & no power cos
 }
 
 #Annexed by the Carnatic in April 1736
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 536
+}

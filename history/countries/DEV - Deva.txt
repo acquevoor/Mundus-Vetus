@@ -15,3 +15,8 @@ capital = 564 # Deva
 		female = yes
 	}
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	capital = 2402
+}

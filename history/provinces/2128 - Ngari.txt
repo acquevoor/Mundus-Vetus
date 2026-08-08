@@ -33,3 +33,13 @@ native_hostileness = 4
 	religion = vajrayana
 	add_core = GUG
 }
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = KAM
+	controller = KAM
+	add_core = KAM
+	culture = Ladakspa
+	religion = vajrayana
+	is_city = yes
+}

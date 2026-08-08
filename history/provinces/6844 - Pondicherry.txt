@@ -33,3 +33,12 @@ center_of_trade = 2
     add_trade_company_investment = { investment = settlements investor = FRA } 
 }
 # Returned to France
+
+# MV-sync Sikkim1444_11_11
+1444.11.11 = {
+	owner = GNG
+	controller = GNG
+	add_core = GNG
+	culture = Centamil
+	religion = hinduism
+}
